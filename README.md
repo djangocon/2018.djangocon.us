@@ -12,6 +12,6 @@ You’ll love visiting Spokane! If you’re outdoorsy, Spokane has lots of natur
 
 Can’t wait for the CFP? Start working on your proposal now! Our CFP will be up in Spring 2017, but that’s no reason not to get to work on the first draft of your first (or third, or thirteenth) DjangoCon talk. 
 
-Sponsors! We can’t put on DjangoCon without you. Go ahead and drop us a line so we can talk to you about how we can make it easy for you to sponsor us. 
+Sponsors! We can’t put on DjangoCon without you. Go ahead and [drop us a line](mailto:sponsors@djangocon.us) so we can talk to you about how we can make it easy for you to sponsor us. 
 
 Follow us on [Twitter](https://twitter.com/djangocon) or like us on [Facebook](https://www.facebook.com/djangoconus) for the latest updates.

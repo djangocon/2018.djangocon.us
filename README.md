@@ -1,2 +1,7 @@
 # 2017.djangocon.us
-The DjangoCon US 2017 conference website
+
+## Coming Soon!
+
+Save the date: August 13 - 18, 2017. 
+
+Follow us on [Twitter](https://twitter.com/djangocon) for the latest updates.

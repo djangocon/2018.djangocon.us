@@ -14,4 +14,6 @@ Can’t wait for the CFP? Start working on your proposal now! Our CFP will be up
 
 Sponsors! We can’t put on DjangoCon without you. Go ahead and [drop us a line](mailto:sponsors@djangocon.us) so we can talk to you about how we can make it easy for you to sponsor us. 
 
+We're committed to providing a safe and friendly environment for everyone to learn, meet, and enjoy the conference. All organizers, attendees, speakers and sponsors must follow the [Code of Conduct](coc.md).
+
 Follow us on [Twitter](https://twitter.com/djangocon) or like us on [Facebook](https://www.facebook.com/djangoconus) for the latest updates.

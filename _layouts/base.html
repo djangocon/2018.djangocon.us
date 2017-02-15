@@ -1,0 +1,105 @@
+<!doctype html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="description" content="{{ page.title }} - {{ site.name }}" />
+    <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
+    <!-- Google fonts https://www.google.com/fonts
+    ================================================== -->
+
+    <!-- This uses Kasey's typekit account for the moment. kasey@kellycreativetech.com -->
+    <script src="https://use.typekit.net/bkt8tlt.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <link rel="stylesheet" href="static/css/styles.css">
+
+    <!-- favicon
+    ================================================== -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!-- Open Graph: https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/
+    Twitter: https://dev.twitter.com/docs/cards/types/summary-card
+    ============================== -->
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:url" content="{{ site.url }}"/>
+    <meta property="og:description" content="{{ page.description }}"/>
+    <meta property="og:image" content="{{ page.imageurl }}"/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{ site.twitter }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:image" content="{{ page.imageurl }}">
+
+  </head>
+  <body>
+
+    <div class="off-canvas-wrapper">
+      <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+
+        <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right">
+         <ul class="vertical menu">
+            {% include nav.html %}
+          </ul>
+        </div>
+
+        <div class="off-canvas-content" data-off-canvas-content>
+
+          <div class="title-bar">
+            <div class="title-bar-left">
+              <span class="title-bar-title mas"><a href="{{ site.url }}">{{ site.brand }}</a></span>
+            </div>
+            <div class="title-bar-right mts">
+              <ul class="menu quiet show-for-medium">
+                {% include nav.html %}
+              </ul>
+              <button class="menu-icon quiet hide-for-medium" type="button" data-toggle="offCanvasRight"><i class="fa fa-bars" aria-hidden="true"></i> MENU</button>
+            </div>
+          </div>
+          <div class="content">
+            <div class="row column">
+
+              {{ content }}
+
+            </div>
+            <footer class="site-footer row column mtl" role="contentinfo">
+              <hr/>
+              <ul class="menu quiet copyright align-right">
+                <li><a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i>@{{ site.twitter }}</a></li>
+                <li><a href="https://github.com/{{ site.github }}/"><i class="fa fa-github"></i>@{{ site.github }}</a></li>
+              </ul>
+              <ul class="menu quiet">
+                {% include nav.html %}
+              </ul>
+            </footer>
+          </div><!-- end .content -->
+
+        </div><!-- end .off-canvas-content -->
+      </div><!-- end .off-canvas-wrapper-inner -->
+    </div><!-- end .off-canvas-wrapper -->
+
+
+
+    <!-- Loading JavaScripts
+    ================================================== -->
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.js"><\/script>')</script>
+    <script src="bower_components/what-input/what-input.js"></script>
+    <script src="bower_components/foundation-sites/dist/foundation.js"></script>
+    <script src="js/app.js"></script>
+
+    <!-- Google Analytics CHANGE THIS TO YOUR UA CODE-->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-8418273-8', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+  </body>
+</html>

@@ -5,9 +5,12 @@ include:
 
 # Build settings
 markdown: kramdown
-theme: minima
+
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+sass:
+    style: compressed

@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 permalink: /coc/
-layout: default
+layout: base
 ---
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the Code of Conduct committee at DjangoCon US by emailing <a href="mailto:coc@djangocon.us">coc@djangocon.us</a> or by reaching out to one of the conference organizers on site.

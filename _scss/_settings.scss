@@ -55,7 +55,7 @@ $orange: #D66315;
 // 1. Global
 // ---------
 
-$global-font-size: 100%;
+$global-font-size: 120%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
@@ -76,8 +76,8 @@ $body-font-family: 	"program", sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
-$global-weight-normal: normal;
-$global-weight-bold: bold;
+$global-weight-normal: 400;
+$global-weight-bold: 500;
 $global-radius: 0;
 $global-text-direction: ltr;
 $global-flexbox: false;
@@ -597,9 +597,9 @@ $thumbnail-radius: $global-radius;
 // 35. Title Bar
 // -------------
 
-$titlebar-background: rgba($green, 0.7);
+$titlebar-background: rgba($green, 0.8);
 $titlebar-color: $white;
-$titlebar-padding: 0.5rem;
+$titlebar-padding: 0;
 $titlebar-text-font-weight: bold;
 $titlebar-icon-color: $white;
 $titlebar-icon-color-hover: $medium-gray;

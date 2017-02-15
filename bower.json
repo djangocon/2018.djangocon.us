@@ -1,8 +1,8 @@
 {
-  "name": "foundation-sites-template",
+  "name": "DjangoCon",
   "version": "1.0.0",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "Lincoln Loop <mtrythall@lincolnloop.com>"
   ],
   "description": "Basic template for a new Foundation for Sites project.",
   "main": "index.html",
@@ -10,7 +10,8 @@
   "homepage": "http://foundation.zurb.com",
   "dependencies": {
     "foundation-sites": "~6.3.0",
-    "motion-ui": "~1.2.2"
+    "motion-ui": "~1.2.2",
+    "headroom.js": "https://unpkg.com/headroom.js/bower.zip"
   },
   "ignore": [
     "**/.*",

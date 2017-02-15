@@ -7,7 +7,7 @@ var sassPaths = [
 ];
 
 gulp.task('sass', function() {
-  return gulp.src('scss/styles.scss')
+  return gulp.src('_scss/styles.scss')
     .pipe($.sass({
       includePaths: sassPaths
     })
@@ -19,5 +19,5 @@ gulp.task('sass', function() {
 });
 
 gulp.task('default', ['sass'], function() {
-  gulp.watch(['scss/**/*.scss'], ['sass']);
+  gulp.watch(['_scss/**/*.scss'], ['sass']);
 });

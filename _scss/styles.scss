@@ -51,4 +51,7 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
-/* custom */
+/* DjangoCon customizations */
+
+@import 'layout/navbar';
+@import 'layout/home-hero';

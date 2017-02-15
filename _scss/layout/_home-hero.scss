@@ -1,0 +1,26 @@
+.header {
+  position: relative;
+  background: url(/static/img/top-trees.png);
+  background: url(/static/img/top-trees.svg), none;
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-color: $green;
+  background-size: 100% auto;
+  padding: 300px 0 40px;
+  text-align: center;
+
+  h1 {
+    color: $light-blue;
+  }
+  .subhead {
+    color: $beige;
+  }
+
+  .location {
+    border-left: 1px solid $beige;
+  }
+
+  @include breakpoint(xxlarge) {
+    padding: 400px 0 100px;
+  }
+}

@@ -1,0 +1,100 @@
+// headroom is the plugin used to pin the navbar to the top.
+// it adds classes with JS, and those classes are used here.
+// Documentation here: http://wicky.nillia.ms/headroom.js/
+
+.logo {
+  width: 300px;
+  margin: 10px 0 -60px 20px;
+
+    .background-field{
+      fill: $green;
+    }
+
+    .djangocon{
+      fill: $beige;
+    }
+
+    .location{
+      fill:$orange;
+    }
+}
+
+// title bar text overrides
+.menu  {
+  a {
+    color: $beige;
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.navbar-button {
+  background: $orange;
+  color: $beige;
+  text-align: center;
+
+  &:hover {
+    background: mix(black, $orange, 10%);
+    color: $beige;
+  }
+}
+// change appearance on scroll.
+.headroom {
+    will-change: transform;
+    transition: all 200ms ease;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+
+    a, svg, path, polygon, rect, g {
+      transition: all 400ms ease;
+    }
+}
+
+.headroom--pinned {
+    //transform: translateY(0%);
+}
+
+.headroom--unpinned {
+    //transform: translateY(-100%);
+}
+
+// change visual styles
+.headroom--top {
+  background-color: transparent;
+
+  .logo {
+    width: 400px;
+
+    .background-field{
+      fill:transparent;
+    }
+
+    .djangocon{
+      fill:$green;
+    }
+
+    .location{
+      fill:$orange;
+    }
+  }
+  .menu  {
+    a {
+      color: $green;
+
+      &:hover {
+        color: $orange;
+      }
+
+      &.navbar-button {
+        color: $beige;
+        &:hover {
+          color: $beige;
+        }
+      }
+    }
+  }
+}

@@ -65,13 +65,14 @@ $foundation-palette: (
   warning: #ffae00,
   alert: #cc4b37,
 );
+@include add-foundation-colors;
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #fefefe;
 $body-background: $beige;
-$body-font-color: $green;
+$body-font-color: $primary-color;
 $body-font-family: 	"program", sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
@@ -83,14 +84,15 @@ $global-text-direction: ltr;
 $global-flexbox: false;
 $print-transparent-backgrounds: true;
 
-@include add-foundation-colors;
+
 
 // 2. Breakpoints
 // --------------
 
 $breakpoints: (
   small: 0,
-  medium: 640px,
+  smedium: 524px,
+  medium: 890px,
   large: 1024px,
   xlarge: 1200px,
   xxlarge: 1440px,
@@ -122,10 +124,10 @@ $header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
 $header-styles: (
   small: (
-    'h1': ('font-size': 24),
-    'h2': ('font-size': 20),
-    'h3': ('font-size': 19),
-    'h4': ('font-size': 18),
+    'h1': ('font-size': 34),
+    'h2': ('font-size': 26),
+    'h3': ('font-size': 22),
+    'h4': ('font-size': 20),
     'h5': ('font-size': 17),
     'h6': ('font-size': 16),
   ),
@@ -328,9 +330,9 @@ $closebutton-color-hover: $black;
 
 $drilldown-transition: transform 0.15s linear;
 $drilldown-arrows: true;
-$drilldown-arrow-color: $primary-color;
+$drilldown-arrow-color: $secondary-color;
 $drilldown-arrow-size: 6px;
-$drilldown-background: $white;
+$drilldown-background: $primary-color;
 
 // 17. Dropdown
 // ------------
@@ -351,11 +353,11 @@ $dropdown-sizes: (
 // -----------------
 
 $dropdownmenu-arrows: true;
-$dropdownmenu-arrow-color: $anchor-color;
+$dropdownmenu-arrow-color: $beige;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-min-width: 200px;
-$dropdownmenu-background: $white;
-$dropdownmenu-border: 1px solid $medium-gray;
+$dropdownmenu-background: rgba($primary-color, 0.95);
+$dropdownmenu-border: 1px solid $dropdownmenu-background;
 
 // 19. Forms
 // ---------
@@ -420,7 +422,7 @@ $mediaobject-image-width-stacked: 100%;
 
 $menu-margin: 0;
 $menu-margin-nested: 1rem;
-$menu-item-padding: 0.7rem 1rem;
+$menu-item-padding: 0.7rem 0.7rem;
 $menu-item-color-active: $white;
 $menu-item-background-active: get-color(primary);
 $menu-icon-spacing: 0.25rem;
@@ -442,7 +444,7 @@ $meter-fill-bad: $alert-color;
 
 $offcanvas-size: 250px;
 $offcanvas-vertical-size: 250px;
-$offcanvas-background: $light-gray;
+$offcanvas-background: $primary-color;
 $offcanvas-shadow: 0 0 10px rgba($black, 0.7);
 $offcanvas-push-zindex: 1;
 $offcanvas-overlap-zindex: 10;
@@ -450,7 +452,7 @@ $offcanvas-reveal-zindex: 1;
 $offcanvas-transition-length: 0.5s;
 $offcanvas-transition-timing: ease;
 $offcanvas-fixed-reveal: true;
-$offcanvas-exit-background: rgba($white, 0.25);
+$offcanvas-exit-background: rgba($body-background, 0.7);
 $maincontent-class: 'off-canvas-content';
 
 // 25. Orbit
@@ -597,7 +599,7 @@ $thumbnail-radius: $global-radius;
 // 35. Title Bar
 // -------------
 
-$titlebar-background: rgba($green, 0.8);
+$titlebar-background: rgba($primary-color, 0.9);
 $titlebar-color: $white;
 $titlebar-padding: 0;
 $titlebar-text-font-weight: bold;

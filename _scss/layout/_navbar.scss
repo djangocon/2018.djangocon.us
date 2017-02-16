@@ -2,16 +2,53 @@
 // it adds classes with JS, and those classes are used here.
 // Documentation here: http://wicky.nillia.ms/headroom.js/
 
+// title bar text overrides
+.menu  {
+  a {
+    color: $body-background;
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.headroom--top .menu .menu,
+.menu .menu { // subnav menu, with the headroom class added so it doesn't change
+  text-align: left;
+  a {
+    color: $body-background;
+
+    &:hover {
+      color: $white;
+      background: $secondary-color;
+    }
+
+  }
+}
+
+
+.headroom--top .menu .navbar-button,
+.navbar-button {
+  background: $orange;
+  color: $body-background;
+  text-align: center;
+
+  &:hover {
+    background: mix(black, $orange, 10%);
+    color: $white;
+  }
+}
+
 .logo {
-  width: 300px;
-  margin: 10px 0 -60px 20px;
+  width: 160px;
+  margin: 10px 0 -20px 10px;
 
     .background-field{
       fill: $green;
     }
 
     .djangocon{
-      fill: $beige;
+      fill: $body-background;
     }
 
     .location{
@@ -19,26 +56,25 @@
     }
 }
 
-// title bar text overrides
-.menu  {
-  a {
-    color: $beige;
-    &:hover {
-      color: #fff;
-    }
+@include breakpoint(medium) {
+  .logo {
+    width: 200px;
+    margin: 10px 0 -60px 10px;
   }
 }
 
-.navbar-button {
-  background: $orange;
-  color: $beige;
-  text-align: center;
-
-  &:hover {
-    background: mix(black, $orange, 10%);
-    color: $beige;
+@include breakpoint(large) {
+  .logo {
+    width: 270px;
   }
 }
+
+@include breakpoint(xlarge) {
+  .logo {
+    width: 300px;
+  }
+}
+
 // change appearance on scroll.
 .headroom {
     will-change: transform;
@@ -54,12 +90,14 @@
     }
 }
 
-.headroom--pinned {
-    //transform: translateY(0%);
-}
+@include breakpoint(small only) { // hide header when scrolling down on mobile
+  .headroom--pinned {
+      transform: translateY(0%);
+  }
 
-.headroom--unpinned {
-    //transform: translateY(-100%);
+  .headroom--unpinned {
+      transform: translateY(-130%);
+  }
 }
 
 // change visual styles
@@ -67,7 +105,7 @@
   background-color: transparent;
 
   .logo {
-    width: 400px;
+    width: 160px;
 
     .background-field{
       fill:transparent;
@@ -81,20 +119,50 @@
       fill:$orange;
     }
   }
-  .menu  {
+  .menu {
     a {
       color: $green;
+    }
 
-      &:hover {
-        color: $orange;
-      }
+    .menu {
+      a {
+        color: $body-background;
 
-      &.navbar-button {
-        color: $beige;
         &:hover {
-          color: $beige;
+          color: $body-background;
+          background: $primary-color;
         }
       }
+    }
+
+    li:not(.has-button) {
+      &:hover {
+        > a, > a:hover {
+          color: $orange;
+        }
+      }
+
+      &.is-dropdown-submenu-parent > a::after { // override arrow color
+        border-color: $green transparent transparent;
+      }
+    }
+  }
+
+  @include breakpoint(medium) {
+      .logo {
+        width: 200px;
+      }
+  }
+
+  @include breakpoint(large) {
+    .logo {
+      width: 320px;
+      margin-left: 20px;
+    }
+  }
+  @include breakpoint(xlarge) {
+    .logo {
+      width: 400px;
     }
   }
 }

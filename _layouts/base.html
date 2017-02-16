@@ -43,7 +43,7 @@
     <div class="off-canvas-wrapper">
       <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
         <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right">
-         <ul class="vertical menu">
+            <ul class="vertical menu" data-drilldown>
             {% include nav.html %}
           </ul>
         </div>
@@ -57,21 +57,28 @@
                 </a>
             </div>
             <div class="title-bar-right">
-              <ul class="menu quiet show-for-medium">
+              <ul class="dropdown menu quiet show-for-medium" data-dropdown-menu>
                 {% include nav.html %}
               </ul>
-              <button class="menu-icon quiet hide-for-medium" type="button" data-toggle="offCanvasRight"><i class="fa fa-bars" aria-hidden="true"></i> MENU</button>
+              <button class="hamburger hamburger--spin hide-for-medium" type="button" data-toggle="offCanvasRight">
+                <span class="hamburger-box">
+                  <span class="hamburger-inner"></span>
+                </span>
+              </button>
+
             </div>
           </nav>
           <header class="header">
-            <h1>Six days of talks, sprints, and tutorials by the community for the community</h1>
-            <div class="subhead row column large-6 large-centered">
-              <div class="column small-3 text-right dates">
-                <h4><strong>August 13–18</strong><br>
+            <div class="row column large-8 large-centered">
+              <h1>Six days of talks, sprints, and tutorials by the community for the community</h1>
+            </div>
+            <div class="subhead row column medium-8 medium-centered">
+              <div class="column medium-4 dates">
+                <h4><strong>August 13–18</strong>
                   2017</h4>
               </div>
-              <div class="column small-9 text-left location">
-                <h4>Hotel RL by Red Lion Spokane at the Park<br>
+              <div class="column medium-8 location">
+                <h4>Hotel RL by Red Lion Spokane at the Park
                   <strong>Spokane, Washington</strong></h4>
               </div>
             </div>
@@ -89,9 +96,7 @@
                 <li><a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i>@{{ site.twitter }}</a></li>
                 <li><a href="https://github.com/{{ site.github }}/"><i class="fa fa-github"></i>@{{ site.github }}</a></li>
               </ul>
-              <ul class="menu quiet">
-                {% include nav.html %}
-              </ul>
+
             </footer>
           </div><!-- end .content -->
 

@@ -5,3 +5,7 @@ var headroom  = new Headroom(myElement);
 headroom.init({
   offset : 200,
 });
+
+
+// init Foundation
+$(document).foundation();

@@ -6,7 +6,7 @@
   background-repeat: no-repeat;
   background-color: $green;
   background-size: 100% auto;
-  padding: 300px 0 40px;
+  padding: 140px 0 40px;
   text-align: center;
 
   h1 {
@@ -14,10 +14,56 @@
   }
   .subhead {
     color: $beige;
+    text-align: center;
   }
 
   .location {
-    border-left: 1px solid $beige;
+    padding-top: 1em;
+
+    &:before {
+        content: "";
+        width: 100px;
+        display: block;
+        margin: 0 auto 1em;
+        border-top: 1px solid $beige;
+    }
+  }
+
+  @include breakpoint(medium) {
+    padding-top: 250px;
+    background-position: 0 -50px;
+
+    .subhead {
+      text-align: right;
+
+      strong {
+        display: block;
+      }
+    }
+
+    .location {
+      border-left: 1px solid $beige;
+      padding-top: 0;
+      text-align: left;
+
+      &:before {
+        content: none;
+      }
+    }
+  }
+
+  @include breakpoint(smedium) {
+    padding-top: 240px;
+    background-position: 0 -36px;
+  }
+
+  @include breakpoint(medium) {
+    padding-top: 240px;
+    background-position: 0 -80px;
+  }
+  @include breakpoint(large) {
+    padding-top: 300px;
+    background-position: 0 -100px;
   }
 
   @include breakpoint(xxlarge) {

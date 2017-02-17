@@ -1,0 +1,20 @@
+---
+title: home - 2017.djangocon.us
+permalink: /
+layout: base
+---
+
+<div class="home-title-wrap">
+{% include titlebar.html %}
+</div>
+
+{% include home-hero.html %}
+
+<div class="content">
+  <img class="bottom-trees" src="/static/img/bottom-trees.svg" onerror="this.src='/static/img/bottom-trees.png'">
+  <div class="row column">
+
+    {{ content }}
+
+  </div>
+</div><!-- end .content -->

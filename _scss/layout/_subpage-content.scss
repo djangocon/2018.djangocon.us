@@ -1,0 +1,7 @@
+.subpage-content {
+  padding-top: 100px;
+
+  @include breakpoint(medium) {
+      padding-top: 140px;
+  }
+}

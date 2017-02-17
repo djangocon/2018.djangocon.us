@@ -13,11 +13,11 @@
     <!-- This uses Kasey's typekit account for the moment. kasey@kellycreativetech.com -->
     <script src="https://use.typekit.net/bkt8tlt.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
-    <link rel="stylesheet" href="static/css/styles.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
 
     <!-- favicon
     ================================================== -->
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
 
     <!-- Open Graph: https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/
     Twitter: https://dev.twitter.com/docs/cards/types/summary-card
@@ -32,11 +32,6 @@
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
     <meta name="twitter:image" content="{{ page.imageurl }}">
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.js"><\/script>')</script>
-
-
   </head>
   <body>
 
@@ -49,57 +44,9 @@
         </div>
 
         <div class="off-canvas-content" data-off-canvas-content>
+          {{ content }}
 
-          <nav class="title-bar headroom">
-            <div class="title-bar-left">
-                <a href="{{ site.url }}">
-                  {% include logo.svg.html %}
-                </a>
-            </div>
-            <div class="title-bar-right">
-              <ul class="dropdown menu quiet show-for-medium" data-dropdown-menu>
-                {% include nav.html %}
-              </ul>
-              <button class="hamburger hamburger--spin hide-for-medium" type="button" data-toggle="offCanvasRight">
-                <span class="hamburger-box">
-                  <span class="hamburger-inner"></span>
-                </span>
-              </button>
-
-            </div>
-          </nav>
-          <header class="header">
-            <div class="row column large-8 large-centered">
-              <h1>Six days of talks, sprints, and tutorials by the community for the community</h1>
-            </div>
-            <div class="subhead row column medium-8 medium-centered">
-              <div class="column medium-4 dates">
-                <h4><strong>August 13–18</strong>
-                  2017</h4>
-              </div>
-              <div class="column medium-8 location">
-                <h4>Hotel RL by Red Lion Spokane at the Park
-                  <strong>Spokane, Washington</strong></h4>
-              </div>
-            </div>
-          </header>
-          <div class="content">
-            <img class="bottom-trees" src="/static/img/bottom-trees.svg" onerror="this.src='/static/img/bottom-trees.png'">
-            <div class="row column">
-
-              {{ content }}
-
-            </div>
-            <footer class="site-footer row column mtl" role="contentinfo">
-              <hr/>
-              <ul class="menu quiet copyright align-right">
-                <li><a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i>@{{ site.twitter }}</a></li>
-                <li><a href="https://github.com/{{ site.github }}/"><i class="fa fa-github"></i>@{{ site.github }}</a></li>
-              </ul>
-
-            </footer>
-          </div><!-- end .content -->
-
+          {% include footer.html %}
         </div><!-- end .off-canvas-content -->
       </div><!-- end .off-canvas-wrapper-inner -->
     </div><!-- end .off-canvas-wrapper -->
@@ -108,7 +55,8 @@
 
     <!-- Loading JavaScripts
     ================================================== -->
-
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.js"><\/script>')</script>
     <script src="/bower_components/what-input/dist/what-input.js"></script>
     <script src="/bower_components/foundation-sites/dist/js/foundation.js"></script>
     <script src="/bower_components/headroom.js/dist/headroom.min.js"></script>
@@ -120,7 +68,7 @@
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-8418273-8', 'auto');
+      ga('create', 'UA-XXXXXXXXXXX', 'auto');
       ga('send', 'pageview');
     </script> -->
 

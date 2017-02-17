@@ -4328,23 +4328,23 @@ a.thumbnail {
   .menu a:hover {
     color: #fff; }
 
-.headroom--top .menu .menu,
+.home-title-wrap .headroom--top .menu .menu,
 .menu .menu {
   text-align: left; }
-  .headroom--top .menu .menu a,
+  .home-title-wrap .headroom--top .menu .menu a,
   .menu .menu a {
     color: #F1DFC7; }
-    .headroom--top .menu .menu a:hover,
+    .home-title-wrap .headroom--top .menu .menu a:hover,
     .menu .menu a:hover {
       color: #fefefe;
       background: #D66315; }
 
-.headroom--top .menu .navbar-button,
+.home-title-wrap .headroom--top .menu .navbar-button,
 .navbar-button {
   background: #D66315;
   color: #F1DFC7;
   text-align: center; }
-  .headroom--top .menu .navbar-button:hover,
+  .home-title-wrap .headroom--top .menu .navbar-button:hover,
   .navbar-button:hover {
     background: #c15913;
     color: #fefefe; }
@@ -4391,36 +4391,36 @@ a.thumbnail {
     -ms-transform: translateY(-130%);
         transform: translateY(-130%); } }
 
-.headroom--top {
+.home-title-wrap .headroom--top {
   background-color: transparent; }
-  .headroom--top .logo {
+  .home-title-wrap .headroom--top .logo {
     width: 160px; }
-    .headroom--top .logo .background-field {
+    .home-title-wrap .headroom--top .logo .background-field {
       fill: transparent; }
-    .headroom--top .logo .djangocon {
+    .home-title-wrap .headroom--top .logo .djangocon {
       fill: #0C4B33; }
-    .headroom--top .logo .location {
+    .home-title-wrap .headroom--top .logo .location {
       fill: #D66315; }
-  .headroom--top .menu a {
+  .home-title-wrap .headroom--top .menu a {
     color: #0C4B33; }
-  .headroom--top .menu .menu a {
+  .home-title-wrap .headroom--top .menu .menu a {
     color: #F1DFC7; }
-    .headroom--top .menu .menu a:hover {
+    .home-title-wrap .headroom--top .menu .menu a:hover {
       color: #F1DFC7;
       background: #0C4B33; }
-  .headroom--top .menu li:not(.has-button):hover > a, .headroom--top .menu li:not(.has-button):hover > a:hover {
+  .home-title-wrap .headroom--top .menu li:not(.has-button):hover > a, .home-title-wrap .headroom--top .menu li:not(.has-button):hover > a:hover {
     color: #D66315; }
-  .headroom--top .menu li:not(.has-button).is-dropdown-submenu-parent > a::after {
+  .home-title-wrap .headroom--top .menu li:not(.has-button).is-dropdown-submenu-parent > a::after {
     border-color: #0C4B33 transparent transparent; }
   @media print, screen and (min-width: 55.625em) {
-    .headroom--top .logo {
+    .home-title-wrap .headroom--top .logo {
       width: 200px; } }
   @media print, screen and (min-width: 64em) {
-    .headroom--top .logo {
+    .home-title-wrap .headroom--top .logo {
       width: 320px;
       margin-left: 20px; } }
   @media screen and (min-width: 75em) {
-    .headroom--top .logo {
+    .home-title-wrap .headroom--top .logo {
       width: 400px; } }
 
 .header {
@@ -4477,12 +4477,42 @@ a.thumbnail {
       padding: 400px 0 100px; } }
 
 .bottom-trees {
-  margin-top: -1px; }
+  margin: -1px -1px 0;
+  min-width: 101%; }
 
-.headroom--top .hamburger-inner,
-.headroom--top .hamburger-inner:before,
-.headroom--top .hamburger-inner:after {
-  background-color: #0C4B33; }
+.subpage-content {
+  padding-top: 100px; }
+  @media print, screen and (min-width: 55.625em) {
+    .subpage-content {
+      padding-top: 140px; } }
+
+.footer {
+  background: #D66315; }
+  .footer p, .footer a {
+    color: #F1DFC7; }
+  .footer .social-icons {
+    list-style: none;
+    margin: 2em auto;
+    text-align: center; }
+    .footer .social-icons li {
+      display: inline-block;
+      margin: 0 1em; }
+    .footer .social-icons a {
+      display: block; }
+      .footer .social-icons a svg path {
+        fill: #F1DFC7; }
+      .footer .social-icons a:hover svg path {
+        fill: #0C4B33; }
+      .footer .social-icons a.facebook:hover svg path {
+        fill: #44649D; }
+      .footer .social-icons a.twitter:hover svg path {
+        fill: #1DB4EB; }
+      .footer .social-icons a.linkedin:hover svg path {
+        fill: #2b75b2; }
+      .footer .social-icons a.instagram:hover svg path {
+        fill: #356692; }
+      .footer .social-icons a.github:hover svg path {
+        fill: #4078c0; }
 
 /*!
  * Hamburgers
@@ -4560,3 +4590,11 @@ a.thumbnail {
     -ms-transform: rotate(-90deg);
         transform: rotate(-90deg);
     transition: bottom 0.1s ease-out, transform 0.3s 0.14s cubic-bezier(0.215, 0.61, 0.355, 1); }
+
+.hamburger {
+  padding: 16px 15px 10px; }
+
+.home-title-wrap .headroom--top .hamburger-inner,
+.home-title-wrap .headroom--top .hamburger-inner:before,
+.home-title-wrap .headroom--top .hamburger-inner:after {
+  background-color: #0C4B33; }

@@ -12,7 +12,7 @@
   }
 }
 
-.headroom--top .menu .menu,
+.home-title-wrap .headroom--top .menu .menu,
 .menu .menu { // subnav menu, with the headroom class added so it doesn't change
   text-align: left;
   a {
@@ -27,7 +27,7 @@
 }
 
 
-.headroom--top .menu .navbar-button,
+.home-title-wrap .headroom--top .menu .navbar-button,
 .navbar-button {
   background: $orange;
   color: $body-background;
@@ -101,7 +101,7 @@
 }
 
 // change visual styles
-.headroom--top {
+.home-title-wrap .headroom--top {
   background-color: transparent;
 
   .logo {

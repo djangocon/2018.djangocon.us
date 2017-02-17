@@ -1,7 +1,7 @@
 ---
 title: 2017.djangocon.us
 permalink: /
-layout: base
+layout: home
 ---
 
 ## Coming Soon - DjangoCon US is coming to the Pacific Northwest!

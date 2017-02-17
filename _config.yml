@@ -1,5 +1,7 @@
 title: DjangoCon US
 url: "https://2017.djangocon.us"
+author : DjangoCon US
+
 include:
   - _pages
 

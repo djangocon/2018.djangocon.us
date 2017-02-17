@@ -1,0 +1,52 @@
+.footer {
+  background: $secondary-color;
+  p, a {
+    color: $body-background;
+  }
+
+  .social-icons {
+    list-style: none;
+    margin: 2em auto;
+    text-align: center;
+
+    li {
+        display: inline-block;
+        margin: 0 1em;
+    }
+
+    a {
+      display: block;
+
+      svg {
+        path {
+          fill: $body-background;
+        }
+      }
+
+      &:hover svg path {
+        fill: $primary-color;
+      }
+
+      &.facebook:hover svg path {
+        fill: $color-facebook;
+      }
+
+      &.twitter:hover svg path {
+        fill: $color-twitter;
+      }
+
+      &.linkedin:hover svg path {
+        fill: $color-linkedin;
+      }
+
+      &.instagram:hover svg path {
+        fill: $color-instagram;
+      }
+
+      &.github:hover svg path {
+        fill: $color-github;
+      }
+    }
+  }
+
+}

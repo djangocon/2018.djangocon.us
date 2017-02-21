@@ -1,51 +1,70 @@
 .footer {
   background: $secondary-color;
+  padding-top: 1px;
   p, a {
     color: $body-background;
   }
 
-  .social-icons {
-    list-style: none;
-    margin: 2em auto;
-    text-align: center;
+  a, svg, path, polygon, rect, g {
+    transition: all 400ms ease;
+  }
 
-    li {
-        display: inline-block;
-        margin: 0 1em;
+}
+
+.footer-logo {
+  width: 240px;
+  display: block;
+  margin: -36px auto 2em;
+
+  .background-field{
+    fill: $green;
+  }
+
+  .djangocon{
+      fill: $body-background;
+  }
+
+  .location{
+    fill:$orange;
+  }
+
+  &:hover {
+    .background-field{
+      fill: $body-background;
     }
 
-    a {
-      display: block;
+    .djangocon {
+        fill: $green;
+    }
+  }
 
-      svg {
-        path {
-          fill: $body-background;
-        }
-      }
+  @include breakpoint(medium) {
+    margin-top: -52px;
+  }
+}
 
-      &:hover svg path {
-        fill: $primary-color;
-      }
+.footer-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: rem-calc(24);
 
-      &.facebook:hover svg path {
-        fill: $color-facebook;
-      }
+  a {
+    color: $body-background;
+    display: block;
+    padding: 0.25em 0.5em;
 
-      &.twitter:hover svg path {
-        fill: $color-twitter;
-      }
+    &:hover {
+      color: $white;
+    }
+  }
 
-      &.linkedin:hover svg path {
-        fill: $color-linkedin;
-      }
-
-      &.instagram:hover svg path {
-        fill: $color-instagram;
-      }
-
-      &.github:hover svg path {
-        fill: $color-github;
-      }
+  @include breakpoint(medium) {
+    text-align: center;
+    li {
+      display: inline-block;
+      vertical-align: baseline;
     }
   }
 

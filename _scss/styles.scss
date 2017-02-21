@@ -24,6 +24,7 @@
 @include foundation-badge;
 @include foundation-breadcrumbs;
 @include foundation-button-group;
+@include foundation-card;
 @include foundation-callout;
 @include foundation-close-button;
 @include foundation-drilldown-menu;
@@ -48,15 +49,27 @@
 @include foundation-tooltip;
 @include foundation-top-bar;
 
+
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
 /* DjangoCon customizations */
 
+@import 'themes';
+@import 'utilities';
+
 @import 'layout/navbar';
-@import 'layout/home-hero';
+@import 'layout/navbar';
 @import 'layout/home-content';
 @import 'layout/subpage-content';
 @import 'layout/footer';
 
+@import 'module/home-hero';
+@import 'module/photo-hero';
+@import 'module/home-news';
+@import 'module/home-sponsors';
 @import 'module/hamburger';
+@import 'module/date-cards';
+@import 'module/card-rows';
+
+@import 'module/social-icons';

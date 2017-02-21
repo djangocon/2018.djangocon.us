@@ -1,0 +1,31 @@
+.v-pad-bottom {
+    padding-bottom: 1em;
+
+    @include breakpoint(medium) {
+      padding-bottom: 2em;
+    }
+}
+.v-pad-top {
+    padding-top: 1em;
+
+    @include breakpoint(medium) {
+      padding-top: 2em;
+    }
+}
+
+.section-pad {
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    @include breakpoint(medium) {
+      padding-top: 4em;
+      padding-bottom: 4em;
+    }
+}
+
+.button.secondary {
+  color: $body-background;
+  &:hover {
+    color: $white;
+  }
+}

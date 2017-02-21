@@ -1,5 +1,38 @@
 <footer class="footer" role="contentinfo">
+
+  <a class="footer-logo" href="{{ site.url }}">
+    {% include logo.svg.html %}
+  </a>
+
   <div class="row column">
+
+    <div class="show-for-medium">
+      <ul class="footer-nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Buy Tickets</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">FAQ</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <ul class="footer-nav">
+        <li><a href="#">About</a></li>
+        <li><a href="#">Code of Conduct</a></li>
+        <li><a href="#">Financial Aid</a></li>
+        <li><a href="#">Why DjangoCon US?</a></li>
+        <li><a href="#">Organizers</a></li>
+      </ul>
+      <ul class="footer-nav">
+        <li><a href="#">Venue</a></li>
+        <li><a href="#">Accessibility</a></li>
+        <li><a href="#">Speaking</a></li>
+        <li><a href="#">Speaker Resources</a></li>
+      </ul>
+      <ul class="footer-nav">
+        <li><a href="#">Sponsors</a></li>
+        <li><a href="#">Become a Sponsor</a></li>
+      </ul>
+    </div>
+
 
 
 
@@ -34,6 +67,7 @@
       {% endcomment %}
 
     </ul>
+    <p class="legal text-center">&copy; {{ site.time | date: '%Y' }} DjangoCon US. </p>
   </div>
 
 </footer>

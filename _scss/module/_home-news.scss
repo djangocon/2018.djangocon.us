@@ -1,0 +1,20 @@
+.news {
+  text-align: center;
+
+  .news-title,
+  .news-title:last-child:not(:first-child) {
+    // overrides the column class to remove floats, but lets us keep using the sizing
+    float: none;
+    position: relative;
+    display:inline-block;
+    vertical-align: top;
+    margin: 0 -4px 0 0;
+    text-align: left;
+
+    .latest {
+      padding: 4px 10px;
+      display: block;
+    }
+  }
+
+}

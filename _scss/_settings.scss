@@ -45,12 +45,24 @@
 //  36. Tooltip
 //  37. Top Bar
 
-
 $green: #0C4B33; // django dark green
 $light-green: #20C989; // django light green
+$teal: #3b928f;
 $light-blue: #84D3D5;
 $beige:     #F1DFC7;
+$dark-beige: mix(black, $beige, 5%);
 $orange: #D66315;
+
+$djangocon-palette: (
+  green: $green,
+  light-green: $light-green,
+  teal: $teal,
+  light-blue: $light-blue,
+  orange: $orange,
+  dark-beige: $dark-beige,
+  white: #fff
+
+);
 
 $color-twitter: #1DB4EB;
 $color-facebook: #44649D;
@@ -66,15 +78,18 @@ $color-rss: #FD8A22;
 // 1. Global
 // ---------
 
-$global-font-size: 120%;
+$global-font-size: 130%;
 $global-width: rem-calc(1200);
-$global-lineheight: 1.5;
+$global-lineheight: 1.4;
 $foundation-palette: (
   primary: $green, // Django dark green
   secondary: $orange,
   success: #3adb76,
   warning: #ffae00,
   alert: #cc4b37,
+  teal: $teal,
+  light-green: $light-green,
+  light-blue: $light-blue,
 );
 @include add-foundation-colors;
 $light-gray: #e6e6e6;
@@ -131,7 +146,7 @@ $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-color: inherit;
-$header-lineheight: 1.4;
+$header-lineheight: 1.2;
 $header-margin-bottom: 0.5rem;
 $header-styles: (
   small: (
@@ -179,11 +194,11 @@ $list-nested-side-margin: 1.25rem;
 $defnlist-margin-bottom: 1rem;
 $defnlist-term-weight: $global-weight-bold;
 $defnlist-term-margin-bottom: 0.3rem;
-$blockquote-color: $dark-gray;
+$blockquote-color: $primary-color;
 $blockquote-padding: rem-calc(9 20 0 19);
 $blockquote-border: 1px solid $medium-gray;
 $cite-font-size: rem-calc(13);
-$cite-color: $dark-gray;
+$cite-color: $primary-color;
 $cite-pseudo-content: '\2014 \0020';
 $keystroke-font: $font-family-monospace;
 $keystroke-color: $black;

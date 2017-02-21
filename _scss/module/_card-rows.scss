@@ -1,0 +1,16 @@
+@include breakpoint(medium) {
+  .card-row {
+    display: flex;
+
+    > .column {
+      display: flex;
+    }
+  }
+}
+
+.card-icon {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 1em auto 0;
+}

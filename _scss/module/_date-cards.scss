@@ -1,7 +1,20 @@
 .date-card {
-  text-align: center;
-  font-weight: $global-weight-bold;
-  margin-right: 20px;
+  margin-bottom: 2rem;
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  p {
+    margin-bottom: 0;
+    line-height: 1.25;
+  }
+
+  .dates {
+    text-align: center;
+    font-weight: $global-weight-bold;
+    margin-right: 20px;
+  }
 
   .month {
     color: $white;
@@ -14,5 +27,9 @@
     color: $secondary-color;
     background-color: $white;
     font-size: rem-calc(40);
+  }
+
+  @include breakpoint(large) {
+    margin-bottom: 0;
   }
 }

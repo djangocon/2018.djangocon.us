@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-permalink: /coc/
+permalink: /about/coc/
 layout: default
 heading: Code of Conduct
 ---

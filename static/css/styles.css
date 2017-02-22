@@ -3729,9 +3729,9 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
     width: auto; }
 
 .tabs {
-  margin: 0;
-  border: 1px solid #e6e6e6;
-  background: #fefefe;
+  margin: 0 0 3em 0;
+  border: 1px solid transparent;
+  background: rgba(255, 255, 255, 0.3);
   list-style-type: none; }
   .tabs::before, .tabs::after {
     display: table;
@@ -3761,30 +3761,30 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
   .tabs-title > a {
     display: block;
     padding: 1.25rem 1.5rem;
-    font-size: 0.57692rem;
+    font-size: 0.96154rem;
     line-height: 1;
     color: #0C4B33; }
     .tabs-title > a:hover {
       background: #fefefe;
       color: #0a412c; }
     .tabs-title > a:focus, .tabs-title > a[aria-selected='true'] {
-      background: #e6e6e6;
+      background: #D66315;
       color: #0C4B33; }
 
 .tabs-content {
-  border: 1px solid #e6e6e6;
+  border: 1px solid transparent;
   border-top: 0;
-  background: #fefefe;
+  background: #F1DFC7;
   color: #0C4B33;
   transition: all 0.5s ease; }
 
 .tabs-content.vertical {
-  border: 1px solid #e6e6e6;
+  border: 1px solid transparent;
   border-left: 0; }
 
 .tabs-panel {
   display: none;
-  padding: 1rem; }
+  padding: 0; }
   .tabs-panel[aria-hidden="false"] {
     display: block; }
 
@@ -4861,7 +4861,12 @@ a.thumbnail {
   left: 0;
   right: 0;
   z-index: 10; }
-  .headroom a, .headroom svg, .headroom path, .headroom polygon, .headroom rect, .headroom g {
+  .headroom a,
+  .headroom svg,
+  .headroom path,
+  .headroom polygon,
+  .headroom rect,
+  .headroom g {
     transition: all 400ms ease; }
 
 @media screen and (max-width: 32.6875em) {
@@ -4970,7 +4975,12 @@ a.thumbnail {
   left: 0;
   right: 0;
   z-index: 10; }
-  .headroom a, .headroom svg, .headroom path, .headroom polygon, .headroom rect, .headroom g {
+  .headroom a,
+  .headroom svg,
+  .headroom path,
+  .headroom polygon,
+  .headroom rect,
+  .headroom g {
     transition: all 400ms ease; }
 
 @media screen and (max-width: 32.6875em) {
@@ -5050,9 +5060,15 @@ a.thumbnail {
 .footer {
   background: #D66315;
   padding-top: 1px; }
-  .footer p, .footer a {
+  .footer p,
+  .footer a {
     color: #F1DFC7; }
-  .footer a, .footer svg, .footer path, .footer polygon, .footer rect, .footer g {
+  .footer a,
+  .footer svg,
+  .footer path,
+  .footer polygon,
+  .footer rect,
+  .footer g {
     transition: all 400ms ease; }
 
 .footer-logo {
@@ -5111,20 +5127,20 @@ a.thumbnail {
     text-align: center; }
   .header .location {
     padding-top: 1em; }
-    .header .location:before {
-      content: "";
-      width: 100px;
-      display: block;
-      margin: 0 auto 1em;
-      border-top: 1px solid #F1DFC7; }
+  .header .location:before {
+    content: "";
+    width: 100px;
+    display: block;
+    margin: 0 auto 1em;
+    border-top: 1px solid #F1DFC7; }
   @media print, screen and (min-width: 55.625em) {
     .header {
       padding-top: 250px;
       background-position: 0 -50px; }
       .header .subhead {
         text-align: right; }
-        .header .subhead strong {
-          display: block; }
+      .header .subhead strong {
+        display: block; }
       .header .location {
         border-left: 1px solid #F1DFC7;
         padding-top: 0;
@@ -5320,19 +5336,20 @@ a.thumbnail {
   .social-icons li {
     display: inline-block;
     margin: 0 1em; }
-  .social-icons a {
-    display: block; }
-    .social-icons a svg path {
-      fill: #F1DFC7; }
-    .social-icons a:hover svg path {
-      fill: #0C4B33; }
-    .social-icons a.facebook:hover svg path {
-      fill: #44649D; }
-    .social-icons a.twitter:hover svg path {
-      fill: #1DB4EB; }
-    .social-icons a.linkedin:hover svg path {
-      fill: #2b75b2; }
-    .social-icons a.instagram:hover svg path {
-      fill: #356692; }
-    .social-icons a.github:hover svg path {
-      fill: #4078c0; }
+
+.social-icons a {
+  display: block; }
+  .social-icons a svg path {
+    fill: #F1DFC7; }
+  .social-icons a:hover svg path {
+    fill: #0C4B33; }
+  .social-icons a.facebook:hover svg path {
+    fill: #44649D; }
+  .social-icons a.twitter:hover svg path {
+    fill: #1DB4EB; }
+  .social-icons a.linkedin:hover svg path {
+    fill: #2b75b2; }
+  .social-icons a.instagram:hover svg path {
+    fill: #356692; }
+  .social-icons a.github:hover svg path {
+    fill: #4078c0; }

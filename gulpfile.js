@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var $    = require('gulp-load-plugins')();
+var sherpa = require('style-sherpa');
 
 var sassPaths = [
   'bower_components/foundation-sites/scss',
@@ -21,4 +22,12 @@ gulp.task('sass', function() {
 
 gulp.task('default', ['sass'], function() {
   gulp.watch(['_scss/**/*.scss'], ['sass']);
+});
+
+gulp.task('styleguide', function() {
+  sherpa('_styleguide/styleguide.md', {
+    output: 'styleguide/index.html',
+    template: '_styleguide/template.hbs'
+  });
+
 });

@@ -12,6 +12,7 @@
   h1 {
     color: $light-blue;
   }
+
   .subhead {
     color: $body-background;
     text-align: center;
@@ -19,14 +20,14 @@
 
   .location {
     padding-top: 1em;
+  }
 
-    &:before {
-        content: "";
-        width: 100px;
-        display: block;
-        margin: 0 auto 1em;
-        border-top: 1px solid $body-background;
-    }
+  .location:before {
+    content: "";
+    width: 100px;
+    display: block;
+    margin: 0 auto 1em;
+    border-top: 1px solid $body-background;
   }
 
   @include breakpoint(medium) {
@@ -35,10 +36,10 @@
 
     .subhead {
       text-align: right;
+    }
 
-      strong {
-        display: block;
-      }
+    .subhead strong {
+      display: block;
     }
 
     .location {
@@ -61,6 +62,7 @@
     padding-top: 240px;
     background-position: 0 -80px;
   }
+  
   @include breakpoint(large) {
     padding-top: 300px;
     background-position: 0 -100px;

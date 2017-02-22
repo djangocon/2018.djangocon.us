@@ -2,6 +2,7 @@
 title: Code of Conduct
 permalink: /coc/
 layout: default
+heading: Code of Conduct
 ---
 
 # Code of Conduct

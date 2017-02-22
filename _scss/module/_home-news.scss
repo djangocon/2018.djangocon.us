@@ -1,19 +1,18 @@
-.news-section {
-
-}
-
 .news {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-
-  .news-title{
-    display: flex;
-
     .latest {
       padding: 4px 10px;
       display: block;
     }
-  }
+}
 
+@include breakpoint(medium) {
+  .news {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    .news-title{
+      display: flex;
+    }
+  }
 }

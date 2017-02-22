@@ -5168,19 +5168,21 @@ a.thumbnail {
         background: transparent;
         padding-top: 0; } }
 
-.news {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-flow: row wrap;
-      flex-flow: row wrap;
-  -ms-flex-pack: center;
-      justify-content: center; }
-  .news .news-title {
+.news .latest {
+  padding: 4px 10px;
+  display: block; }
+
+@media print, screen and (min-width: 55.625em) {
+  .news {
     display: -ms-flexbox;
-    display: flex; }
-    .news .news-title .latest {
-      padding: 4px 10px;
-      display: block; }
+    display: flex;
+    -ms-flex-flow: row wrap;
+        flex-flow: row wrap;
+    -ms-flex-pack: center;
+        justify-content: center; }
+    .news .news-title {
+      display: -ms-flexbox;
+      display: flex; } }
 
 .sponsor-list {
   list-style: none;

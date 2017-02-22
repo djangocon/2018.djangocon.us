@@ -7,38 +7,36 @@
       display: inline-block;
       margin: 0 1em;
   }
+}
 
-  a {
-    display: block;
+.social-icons a {
+  display: block;
 
-    svg {
-      path {
-        fill: $body-background;
-      }
-    }
+  svg path {
+    fill: $body-background;
+  }
 
-    &:hover svg path {
-      fill: $primary-color;
-    }
+  &:hover svg path {
+    fill: $primary-color;
+  }
 
-    &.facebook:hover svg path {
-      fill: $color-facebook;
-    }
+  &.facebook:hover svg path {
+    fill: $color-facebook;
+  }
 
-    &.twitter:hover svg path {
-      fill: $color-twitter;
-    }
+  &.twitter:hover svg path {
+    fill: $color-twitter;
+  }
 
-    &.linkedin:hover svg path {
-      fill: $color-linkedin;
-    }
+  &.linkedin:hover svg path {
+    fill: $color-linkedin;
+  }
 
-    &.instagram:hover svg path {
-      fill: $color-instagram;
-    }
+  &.instagram:hover svg path {
+    fill: $color-instagram;
+  }
 
-    &.github:hover svg path {
-      fill: $color-github;
-    }
+  &.github:hover svg path {
+    fill: $color-github;
   }
 }

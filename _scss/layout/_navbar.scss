@@ -6,6 +6,7 @@
 .menu  {
   a {
     color: $body-background;
+
     &:hover {
       color: #fff;
     }
@@ -25,7 +26,6 @@
       color: $white;
       background: $secondary-color;
     }
-
   }
 }
 
@@ -51,17 +51,17 @@
   display: block;
   margin: 10px 0 -20px 10px;
 
-    .background-field{
-      fill: $green;
-    }
+  .background-field{
+    fill: $green;
+  }
 
-    .djangocon{
-      fill: $body-background;
-    }
+  .djangocon{
+    fill: $body-background;
+  }
 
-    .location{
-      fill:$orange;
-    }
+  .location{
+    fill:$orange;
+  }
 }
 
 @include breakpoint(medium) {
@@ -85,17 +85,22 @@
 
 // change appearance on scroll.
 .headroom {
-    will-change: transform;
-    transition: all 200ms ease;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 10;
+  will-change: transform;
+  transition: all 200ms ease;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
 
-    a, svg, path, polygon, rect, g {
-      transition: all 400ms ease;
-    }
+  a,
+  svg,
+  path,
+  polygon,
+  rect,
+  g {
+    transition: all 400ms ease;
+  }
 }
 
 @include breakpoint(small only) { // hide header when scrolling down on mobile
@@ -172,6 +177,7 @@
       width: 265px;
     }
   }
+  
   @include breakpoint(xlarge) {
     .logo {
       width: 400px;

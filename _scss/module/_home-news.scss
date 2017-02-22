@@ -1,8 +1,6 @@
-.news {
-    .latest {
-      padding: 4px 10px;
-      display: block;
-    }
+.news .latest {
+  padding: 4px 10px;
+  display: block;
 }
 
 @include breakpoint(medium) {

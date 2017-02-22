@@ -14,10 +14,10 @@
     border: none;
     padding: 0;
   }
+
   cite {
     font-size: rem-calc(20);
   }
-
 
   @include breakpoint(medium) {
     padding-top: 3em;
@@ -28,5 +28,4 @@
       padding-top: 0;
     }
   }
-
 }

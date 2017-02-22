@@ -4,15 +4,18 @@ author : DjangoCon US
 
 include:
   - _pages
+  - .surgeignore
 
 # Build settings
 markdown: kramdown
 
 gems:
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
+  - CNAME
 
 sass:
     style: compressed

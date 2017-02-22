@@ -11,8 +11,11 @@
     }
   }
 }
+// If you want to only have the transparent-at-top option on the homepage
+// instead of site-wide,  prepend every instance of .headroom--top with
+// .home-title-wrap in this file.
 
-.home-title-wrap .headroom--top .menu .menu,
+.headroom--top .menu .menu,
 .menu .menu { // subnav menu, with the headroom class added so it doesn't change
   text-align: left;
   a {
@@ -27,11 +30,15 @@
 }
 
 
-.home-title-wrap .headroom--top .menu .navbar-button,
+.headroom--top .menu .navbar-button,
 .navbar-button {
   background: $orange;
   color: $body-background;
   text-align: center;
+
+  small {
+    font-size: rem-calc(14);
+  }
 
   &:hover {
     background: mix(black, $orange, 10%);
@@ -59,7 +66,7 @@
 
 @include breakpoint(medium) {
   .logo {
-    width: 200px;
+    width: 140px;
     margin: 10px 0 -60px 10px;
   }
 }
@@ -102,7 +109,7 @@
 }
 
 // change visual styles
-.home-title-wrap .headroom--top {
+.headroom--top {
   background-color: transparent;
 
   .logo {
@@ -125,6 +132,15 @@
       color: $green;
     }
 
+    li.is-dropdown-submenu-parent > a::after { // override arrow color
+      border-color: $green transparent transparent;
+    }
+
+    li li.is-dropdown-submenu-parent > a::after { // override arrow color
+      border-color: $body-background transparent transparent;
+      opacity: 1;
+    }
+
     .menu {
       a {
         color: $body-background;
@@ -142,23 +158,18 @@
           color: $orange;
         }
       }
-
-      &.is-dropdown-submenu-parent > a::after { // override arrow color
-        border-color: $green transparent transparent;
-      }
     }
   }
 
   @include breakpoint(medium) {
       .logo {
-        width: 200px;
+        width: 140px;
       }
   }
 
   @include breakpoint(large) {
     .logo {
-      width: 320px;
-      margin-left: 20px;
+      width: 265px;
     }
   }
   @include breakpoint(xlarge) {
@@ -166,4 +177,10 @@
       width: 400px;
     }
   }
+}
+
+
+// tightening drop-down arrows on navigaiton parent elements
+.dropdown.menu > li.is-dropdown-submenu-parent > a {
+  padding-right: 1.1rem;
 }

@@ -47,10 +47,12 @@
 
 $green: #0C4B33; // django dark green
 $light-green: #20C989; // django light green
+$dark-green: mix(black, $green, 15%);
 $teal: #3b928f;
 $light-blue: #84D3D5;
 $beige:     #F1DFC7;
 $dark-beige: mix(black, $beige, 5%);
+$light-beige: mix(white, $beige, 50%);
 $orange: #D66315;
 
 $djangocon-palette: (
@@ -60,7 +62,7 @@ $djangocon-palette: (
   light-blue: $light-blue,
   orange: $orange,
   dark-beige: $dark-beige,
-  white: #fff
+  light-beige: $light-beige,
 
 );
 
@@ -151,15 +153,15 @@ $header-margin-bottom: 0.5rem;
 $header-styles: (
   small: (
     'h1': ('font-size': 34),
-    'h2': ('font-size': 26),
-    'h3': ('font-size': 22),
+    'h2': ('font-size': 34),
+    'h3': ('font-size': 24),
     'h4': ('font-size': 20),
     'h5': ('font-size': 17),
     'h6': ('font-size': 16),
   ),
   medium: (
     'h1': ('font-size': 48),
-    'h2': ('font-size': 40),
+    'h2': ('font-size': 44),
     'h3': ('font-size': 31),
     'h4': ('font-size': 25),
     'h5': ('font-size': 20),
@@ -356,7 +358,7 @@ $closebutton-color-hover: $black;
 
 $drilldown-transition: transform 0.15s linear;
 $drilldown-arrows: true;
-$drilldown-arrow-color: $secondary-color;
+$drilldown-arrow-color: $beige;
 $drilldown-arrow-size: 6px;
 $drilldown-background: $primary-color;
 
@@ -382,8 +384,8 @@ $dropdownmenu-arrows: true;
 $dropdownmenu-arrow-color: $beige;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-min-width: 200px;
-$dropdownmenu-background: rgba($primary-color, 0.95);
-$dropdownmenu-border: 1px solid $dropdownmenu-background;
+$dropdownmenu-background: linear-gradient(to bottom, rgba($green,0.85) 0%,rgba($dark-green,0.95) 100%);
+$dropdownmenu-border: none;
 
 // 19. Forms
 // ---------

@@ -5,8 +5,6 @@ layout: default
 heading: Code of Conduct
 ---
 
-# Code of Conduct
-
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the Code of Conduct committee at DjangoCon US by emailing <a href="mailto:coc@djangocon.us">coc@djangocon.us</a> or by reaching out to one of the conference organizers on site.
 
 If there is an emergency, please contact a DEFNA board member. If your physical safety or the physical safety of others is at risk, please dial 911.

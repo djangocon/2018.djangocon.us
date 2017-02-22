@@ -1,7 +1,6 @@
 .subpage-content {
-  padding-top: 100px;
-
-  @include breakpoint(medium) {
-      padding-top: 140px;
-  }
+  padding-bottom: 100px;
+  margin-top: -4%;
+  position: relative;
+  z-index: 2;
 }

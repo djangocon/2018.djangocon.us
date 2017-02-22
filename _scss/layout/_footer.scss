@@ -15,6 +15,8 @@
   width: 240px;
   display: block;
   margin: -36px auto 2em;
+  position: relative;
+  z-index: 2;
 
   .background-field{
     fill: $green;
@@ -39,7 +41,7 @@
   }
 
   @include breakpoint(medium) {
-    margin-top: -52px;
+    margin-top: -44px;
   }
 }
 

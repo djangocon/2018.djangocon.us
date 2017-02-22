@@ -2,10 +2,14 @@
   position: relative;
   background: url(/static/img/subpage-masthead.png);
   background: url(/static/img/subpage-masthead.svg), none;
-  background-position: top left;
+  background-position: bottom left;
   background-repeat: no-repeat;
   background-color: transparent;
   background-size: 100% auto;
-  padding: 140px 0 40px;
   text-align: center;
+  padding: 100px 0 17%;
+
+  @include breakpoint(medium) {
+    padding: 160px 0 18%;
+  }
 }

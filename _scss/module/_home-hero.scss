@@ -18,6 +18,10 @@
     text-align: center;
   }
 
+  .subheading {
+    @extend h4;
+  }
+
   .location {
     padding-top: 1em;
   }
@@ -62,7 +66,7 @@
     padding-top: 240px;
     background-position: 0 -80px;
   }
-  
+
   @include breakpoint(large) {
     padding-top: 300px;
     background-position: 0 -100px;

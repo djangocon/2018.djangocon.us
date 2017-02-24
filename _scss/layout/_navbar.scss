@@ -6,6 +6,7 @@
 .menu  {
   a {
     color: $body-background;
+    text-decoration: none;
 
     &:hover {
       color: #fff;
@@ -177,7 +178,7 @@
       width: 265px;
     }
   }
-  
+
   @include breakpoint(xlarge) {
     .logo {
       width: 400px;

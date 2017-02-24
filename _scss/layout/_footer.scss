@@ -1,6 +1,7 @@
 .footer {
   background: $secondary-color;
   padding-top: 1px;
+  padding-bottom: 2rem;
 
   p,
   a {
@@ -70,7 +71,7 @@
 
   @include breakpoint(medium) {
     text-align: center;
-    
+
     li {
       display: inline-block;
       vertical-align: baseline;

@@ -58,6 +58,7 @@ $orange: #D66315;
 $djangocon-palette: (
   green: $green,
   light-green: $light-green,
+  dark-green: $dark-green,
   teal: $teal,
   light-blue: $light-blue,
   orange: $orange,
@@ -607,7 +608,7 @@ $tab-background-active: $secondary-color;
 $tab-active-color: $primary-color;
 $tab-item-font-size: rem-calc(20);
 $tab-item-background-hover: $white;
-$tab-item-padding: 1.25rem 1.5rem;
+$tab-item-padding: 20px 10px;
 $tab-expand-max: 6;
 $tab-content-background: $body-background;
 $tab-content-border: transparent;

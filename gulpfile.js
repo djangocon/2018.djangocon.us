@@ -20,14 +20,15 @@ gulp.task('sass', function() {
     .pipe(gulp.dest('static/css'));
 });
 
-gulp.task('default', ['sass'], function() {
-  gulp.watch(['_scss/**/*.scss'], ['sass']);
-});
-
 gulp.task('styleguide', function() {
   sherpa('_styleguide/styleguide.md', {
     output: 'styleguide/index.html',
     template: '_styleguide/template.hbs'
   });
 
+});
+
+gulp.task('default', ['sass'], function() {
+  gulp.watch(['_scss/**/*.scss'], ['sass']);
+  gulp.watch(['_styleguide/**/*.*'], ['styleguide']);
 });

@@ -30,6 +30,9 @@
       max-width: 400px;
       margin: 1em auto;
     }
+    .tabs-title a{
+      text-decoration: none;
+    }
     /* This styles the color blocks used in the color documentation. */
     .colors {
       list-style: none;
@@ -94,13 +97,14 @@
           <div class="content subpage-content">
             <div class="row">
               <div class="column medium-3 large-2">
-                <ul class="tabs vertical" data-tabs id="content-tabs">
+                <ul class="tabs vertical" data-tabs data-deep-link="true" id="content-tabs">
                     <li class="tabs-title is-active"><a href="#introduction">Introduction</a></li>
                     <li class="tabs-title "><a href="#djangocon-branding-guidelines">DjangoCon branding guidelines</a></li>
                     <li class="tabs-title "><a href="#color-guide">Color guide</a></li>
                     <li class="tabs-title "><a href="#logo-files">Logo files</a></li>
                     <li class="tabs-title "><a href="#themed-page-sections">Themed page sections</a></li>
                     <li class="tabs-title "><a href="#card-themes">Card themes</a></li>
+                    <li class="tabs-title "><a href="#photo-hero-section">Photo hero section</a></li>
                 </ul>
 
               </div>
@@ -112,7 +116,7 @@ a list of the most important packages, with their respective documentation.</p>
 <ul>
 <li><a href="http://foundation.zurb.com/docs/">Foundation for Sites</a></li>
 <li><a href="https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/">Jekyll Static site generator, running on Github pages</a></li>
-<li><a href="https://github.com/gulpjs/gulp/blob/master/docs/API.md">Gulp</a> for compiling static files</li>
+<li><a href="https://github.com/gulpjs/gulp/blob/master/docs/API.md">Gulp for compiling static files</a></li>
 </ul>
 
                   </div>
@@ -365,6 +369,52 @@ in the SVG file itself.</p>
       </div>
     </div>
   </div></div>
+                  </div>
+                  <div class="tabs-panel " id="photo-hero-section">
+                    <h1>Photo hero section</h1><p>  This module will display a background image behind text on large displays and
+  an image above text on smaller displays. Tints can be applied to the
+  large-display background image with the class <code>.tint-[color]</code> on the main
+  <code>.photo hero</code> element. The text can be positioned at the left, right, or center
+  by changing the classes of its parent element. (See <code>_layouts/home_full.html</code>
+  for an example of how these settings can be applied and changed using Jekyll
+  metadata in the markdown files.)</p>
+<div class="ss-code"><pre><code class="html">  <span class="hljs-tag">&lt;<span class="hljs-title">section</span>
+    <span class="hljs-attribute">class</span>=<span class="hljs-value">"photo-hero tint-green"</span>
+    <span class="hljs-attribute">data-interchange</span>=<span class="hljs-value">"[/static/img/home-testimonial.jpg, medium]"</span>
+    &gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-title">img</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"hide-for-medium"</span> <span class="hljs-attribute">src</span>=<span class="hljs-value">"/static/img/home-testimonial-mobile.jpg"</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"row hero-content"</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"column medium-6"</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-title">blockquote</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">p</span>&gt;</span>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.<span class="hljs-tag">&lt;/<span class="hljs-title">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">cite</span>&gt;</span>Rory McHenry<span class="hljs-tag">&lt;<span class="hljs-title">br</span>&gt;</span>
+          Director, Application Development PonyCorp
+        <span class="hljs-tag">&lt;/<span class="hljs-title">cite</span>&gt;</span>
+      <span class="hljs-tag">&lt;/<span class="hljs-title">blockquote</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"#TODO"</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"button secondary"</span>&gt;</span>Join Rory. Buy your ticket<span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span>
+
+    <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span>
+  <span class="hljs-tag">&lt;/<span class="hljs-title">section</span>&gt;</span></code></pre></div>
+
+<div class="ss-code-live">  <section
+    class="photo-hero tint-green"
+    data-interchange="[/static/img/home-testimonial.jpg, medium]"
+    >
+    <img class="hide-for-medium" src="/static/img/home-testimonial-mobile.jpg">
+    <div class="row hero-content">
+      <div class="column medium-6">
+      <blockquote>
+        <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
+        <cite>Rory McHenry<br>
+          Director, Application Development PonyCorp
+        </cite>
+      </blockquote>
+      <a href="#TODO" class="button secondary">Join Rory. Buy your ticket</a>
+    </div>
+
+    </div>
+  </section></div>
                   </div>
 
               </div>

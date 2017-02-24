@@ -5,7 +5,7 @@ a list of the most important packages, with their respective documentation.
 
 * [Foundation for Sites](http://foundation.zurb.com/docs/)
 * [Jekyll Static site generator, running on Github pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
-* [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/API.md) for compiling static files
+* [Gulp for compiling static files](https://github.com/gulpjs/gulp/blob/master/docs/API.md)
 
 
 
@@ -229,4 +229,41 @@ in the SVG file itself.
       </div>
     </div>
   </div>
+  ```
+
+
+
+
+
+  # Photo hero section
+
+  This module will display a background image behind text on large displays and
+  an image above text on smaller displays. Tints can be applied to the
+  large-display background image with the class `.tint-[color]` on the main
+  `.photo hero` element. The text can be positioned at the left, right, or center
+  by changing the classes of its parent element. (See `_layouts/home_full.html`
+  for an example of how these settings can be applied and changed using Jekyll
+  metadata in the markdown files.)
+
+
+  ```html_example
+  <section
+    class="photo-hero tint-green"
+    data-interchange="[/static/img/home-testimonial.jpg, medium]"
+    >
+    <img class="hide-for-medium" src="/static/img/home-testimonial-mobile.jpg">
+    <div class="row hero-content">
+      <div class="column medium-6">
+      <blockquote>
+        <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
+        <cite>Rory McHenry<br>
+          Director, Application Development PonyCorp
+        </cite>
+      </blockquote>
+      <a href="#TODO" class="button secondary">Join Rory. Buy your ticket</a>
+    </div>
+
+    </div>
+  </section>
+
   ```

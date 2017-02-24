@@ -30,6 +30,9 @@
       max-width: 400px;
       margin: 1em auto;
     }
+    .tabs-title a{
+      text-decoration: none;
+    }
     /* This styles the color blocks used in the color documentation. */
     .colors {
       list-style: none;
@@ -94,7 +97,7 @@
           <div class="content subpage-content">
             <div class="row">
               <div class="column medium-3 large-2">
-                <ul class="tabs vertical" data-tabs id="content-tabs">
+                <ul class="tabs vertical" data-tabs data-deep-link="true" id="content-tabs">
                   {{#each pages}}
                     <li class="tabs-title {{#if @first}}is-active{{/if}}"><a href="#{{ anchor }}">{{ title }}</a></li>
                   {{/each}}

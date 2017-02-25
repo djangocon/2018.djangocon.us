@@ -36,9 +36,10 @@
   background: $orange;
   color: $body-background;
   text-align: center;
+  line-height: 1.1;
 
   small {
-    font-size: rem-calc(14);
+    font-size: rem-calc(16);
   }
 
   &:hover {
@@ -133,6 +134,7 @@
       fill:$orange;
     }
   }
+
   .menu {
     a {
       color: $green;
@@ -160,7 +162,8 @@
 
     li:not(.has-button) {
       &:hover {
-        > a, > a:hover {
+        > a,
+        > a:hover {
           color: $orange;
         }
       }

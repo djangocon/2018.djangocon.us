@@ -15,6 +15,7 @@
 .headroom--top .menu .menu,
 .menu .menu { // subnav menu, with the headroom class added so it doesn't change
   text-align: left;
+
   a {
     color: $white;
   }
@@ -30,6 +31,7 @@
   padding-top: .4rem;
   padding-bottom: .4rem;
   background: $orange;
+  //background: linear-gradient(0deg, darken($orange, 8%), $orange);
   color: $white;
   text-align: center;
   line-height: 1.1;
@@ -40,6 +42,7 @@
 
   &:hover {
     background: mix(black, $orange, 10%);
+    //background: linear-gradient(0deg, darken($orange, 12%), darken($orange, 8%));
   }
 }
 
@@ -165,9 +168,9 @@
   }
 
   @include breakpoint(medium) {
-      .logo {
-        width: 140px;
-      }
+    .logo {
+      width: 140px;
+    }
   }
 
   @include breakpoint(large) {
@@ -178,7 +181,7 @@
 
   @include breakpoint(xlarge) {
     .logo {
-      width: 400px;
+      width: 360px;
     }
   }
 }

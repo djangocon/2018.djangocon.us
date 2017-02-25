@@ -5,7 +5,7 @@
 
   p,
   a {
-    color: $body-background;
+    color: $white;
   }
 
   a,
@@ -60,13 +60,9 @@
   font-size: rem-calc(24);
 
   a {
-    color: $body-background;
+    color: $white;
     display: block;
     padding: 0.25em 0.5em;
-
-    &:hover {
-      color: $white;
-    }
   }
 
   @include breakpoint(medium) {

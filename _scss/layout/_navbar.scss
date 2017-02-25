@@ -3,16 +3,11 @@
 // Documentation here: http://wicky.nillia.ms/headroom.js/
 
 // title bar text overrides
-.menu  {
-  a {
-    color: $body-background;
-    text-decoration: none;
-
-    &:hover {
-      color: #fff;
-    }
-  }
+.menu  a {
+  color: $white;
+  text-decoration: none;
 }
+
 // If you want to only have the transparent-at-top option on the homepage
 // instead of site-wide,  prepend every instance of .headroom--top with
 // .home-title-wrap in this file.
@@ -21,20 +16,21 @@
 .menu .menu { // subnav menu, with the headroom class added so it doesn't change
   text-align: left;
   a {
-    color: $body-background;
+    color: $white;
+  }
 
-    &:hover {
-      color: $white;
-      background: $secondary-color;
-    }
+  a:hover {
+    background: $secondary-color;
   }
 }
 
 
 .headroom--top .menu .navbar-button,
 .navbar-button {
+  padding-top: .4rem;
+  padding-bottom: .4rem;
   background: $orange;
-  color: $body-background;
+  color: $white;
   text-align: center;
   line-height: 1.1;
 
@@ -44,7 +40,6 @@
 
   &:hover {
     background: mix(black, $orange, 10%);
-    color: $white;
   }
 }
 
@@ -123,15 +118,15 @@
     width: 160px;
 
     .background-field{
-      fill:transparent;
+      fill: transparent;
     }
 
     .djangocon{
-      fill:$green;
+      fill: $green;
     }
 
     .location{
-      fill:$orange;
+      fill: $orange;
     }
   }
 
@@ -151,12 +146,11 @@
 
     .menu {
       a {
-        color: $body-background;
+        color: $white;
+      }
 
-        &:hover {
-          color: $body-background;
-          background: $primary-color;
-        }
+      a:hover {
+        background: $primary-color;
       }
     }
 

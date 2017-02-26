@@ -4,7 +4,8 @@
   padding-bottom: 2rem;
 
   p,
-  a {
+  a,
+  small {
     color: $white;
   }
 
@@ -15,6 +16,10 @@
   rect,
   g {
     transition: all 400ms ease;
+  }
+
+  .legal {
+    display: block;
   }
 }
 

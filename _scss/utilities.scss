@@ -1,3 +1,10 @@
+/// Removes trailing space at the bottom of elements.
+@mixin bottomless {
+  & > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .v-pad-bottom {
     padding-bottom: 1em;
 

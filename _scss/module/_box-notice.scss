@@ -1,0 +1,9 @@
+// A highlighted box
+
+.box-notice {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: $light-beige;
+
+  @include bottomless;
+}

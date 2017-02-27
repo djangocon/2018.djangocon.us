@@ -15,13 +15,14 @@ DjangoCon US is dedicated to providing a fun harassment-free conference experien
 
 Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for DjangoCon US.
 
-<!--
+
+{% comment %}
 Contact a member of the Code of Conduct team:
 
 Stacey Haysler or Craig Bruce at: (415) 295-2728
 Lacey Williams Henschel at: (512) 677-7851
 Jeff Triplett at: (785) 813-1840.
--->
+{% endcomment %}
 
 Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
 
@@ -47,7 +48,11 @@ Not all of us will agree all the time, but disagreement is no excuse for poor be
 
 Harassment includes: offensive verbal comments related to gender, gender identity, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation, stalking, or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
 
+<section class="box-notice" markdown="1">
+
 **If you are being harassed**, notice that someone else is being harassed, or have any other concerns, please contact the Code of Conduct committee at DjangoCon US by emailing <coc@djangocon.us> or by reaching out to one of the conference organizers on site.
+
+</section>
 
 ## Choose Your Words
 
@@ -65,13 +70,13 @@ Conference staff will be happy to help participants contact venue security or lo
 
 If your physical safety or the physical safety of others is at risk, please dial 911.
 
-<!--
+{% comment %}
 Contact a member of the Code of Conduct team:
 
 Stacey Haysler or Craig Bruce at: (415) 295-2728
 Lacey Williams Henschel at: (512) 677-7851
 Jeff Triplett at: (785) 813-1840.
--->
+{% endcomment %}
 
 ## Photography
 

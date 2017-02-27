@@ -48,7 +48,7 @@ Not all of us will agree all the time, but disagreement is no excuse for poor be
 
 Harassment includes: offensive verbal comments related to gender, gender identity, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation, stalking, or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
 
-<section class="box-notice" markdown="1">
+<section class="callout" markdown="1">
 
 **If you are being harassed**, notice that someone else is being harassed, or have any other concerns, please contact the Code of Conduct committee at DjangoCon US by emailing <coc@djangocon.us> or by reaching out to one of the conference organizers on site.
 

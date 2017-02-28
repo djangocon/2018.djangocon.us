@@ -50,16 +50,22 @@
   width: 160px;
   display: block;
   margin: 10px 0 -20px 10px;
+  height: 53px; // for IE
 
-  .background-field{
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .background-field {
     fill: $green;
   }
 
-  .djangocon{
+  .djangocon {
     fill: $body-background;
   }
 
-  .location{
+  .location {
     fill:$orange;
   }
 }
@@ -68,18 +74,21 @@
   .logo {
     width: 140px;
     margin: 10px 0 -60px 10px;
+    height: 47px; // for IE
   }
 }
 
 @include breakpoint(large) {
   .logo {
     width: 270px;
+    height: 90px; // for IE
   }
 }
 
 @include breakpoint(xlarge) {
   .logo {
     width: 300px;
+    height: 100px; // for IE
   }
 }
 
@@ -119,6 +128,7 @@
 
   .logo {
     width: 160px;
+    height: 54px; // for IE
 
     .background-field{
       fill: transparent;
@@ -170,18 +180,21 @@
   @include breakpoint(medium) {
     .logo {
       width: 140px;
+      height: 47px; // for IE
     }
   }
 
   @include breakpoint(large) {
     .logo {
       width: 265px;
+      height: 188px; // for IE
     }
   }
 
   @include breakpoint(xlarge) {
     .logo {
       width: 360px;
+      height: 120px; // for IE
     }
   }
 }

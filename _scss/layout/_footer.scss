@@ -30,6 +30,11 @@
   position: relative;
   z-index: 2;
 
+  svg{
+    max-width: 100%;
+    height: auto;
+  }
+
   .background-field{
     fill: $green;
   }

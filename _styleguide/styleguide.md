@@ -10,7 +10,7 @@ a list of the most important packages, with their respective documentation.
 
 
 
-# DjangoCon branding guidelines
+# Branding Guidelines
 
 The DjangoCon.us brand uses the official Django brand as a base. A case could be
 made for a designer to change the colors and positioning of the date and location

@@ -7,36 +7,53 @@
       display: inline-block;
       margin: 0 1em;
   }
+
+  .organizers & {
+    margin: 1em 0;
+
+    li {
+      margin: 0 0.5em;
+    }
+  }
 }
 
 .social-icons a {
   display: block;
 
-  svg path {
+  svg {
     fill: $white;
+    width: 42px;
+    height: 42px;
   }
 
-  &:hover svg path {
+  .organizers & {
+    svg {
+      width: 36px;
+      height: 36px;
+    }
+  }
+
+  &:hover svg {
     fill: $primary-color;
   }
 
-  &.facebook:hover svg path {
+  &.facebook:hover svg {
     fill: $color-facebook;
   }
 
-  &.twitter:hover svg path {
+  &.twitter:hover svg {
     fill: $color-twitter;
   }
 
-  &.linkedin:hover svg path {
+  &.linkedin:hover svg {
     fill: $color-linkedin;
   }
 
-  &.instagram:hover svg path {
+  &.instagram:hover svg {
     fill: $color-instagram;
   }
 
-  &.github:hover svg path {
+  &.github:hover svg {
     fill: $color-github;
   }
 }

@@ -14,11 +14,12 @@ Intro paragraph. There can be no thought of finishing for ‘aiming for the star
 
 <div class="row organizers">
 
+{% for organizer in site.data.organizers.organizers %}
 <div class="column small-6 medium-4 large-3">
 <div class="profile">
 <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
 <div markdown="1">
-### Jane Doe
+### {{ organizer.name }}
 This is what Jane does.
 </div>
 <ul class="social-icons">
@@ -34,153 +35,6 @@ This is what Jane does.
 </ul>
 </div><!--/.profile -->
 </div><!--/.column -->
-
-<div class="column small-6 medium-4 large-3">
-<div class="profile">
-<img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
-<div markdown="1">
-### Jane Doe
-This is what Jane does.
-</div>
-<ul class="social-icons">
-<li><a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-<svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-</a>
-</li>
-<li>
-<a class="github" href="https://github.com/djangocon/" target="_blank">
-<svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-</a>
-</li>
-</ul>
-</div><!--/.profile -->
-</div><!--/.column -->
-
-<div class="column small-6 medium-4 large-3">
-<div class="profile">
-<img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
-<div markdown="1">
-### Jane Doe
-This is what Jane does.
-</div>
-<ul class="social-icons">
-<li><a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-<svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-</a>
-</li>
-<li>
-<a class="github" href="https://github.com/djangocon/" target="_blank">
-<svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-</a>
-</li>
-</ul>
-</div><!--/.profile -->
-</div><!--/.column -->
-
-<div class="column small-6 medium-4 large-3">
-<div class="profile">
-<img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
-<div markdown="1">
-### Jane Doe
-This is what Jane does.
-</div>
-<ul class="social-icons">
-<li><a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-<svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-</a>
-</li>
-<li>
-<a class="github" href="https://github.com/djangocon/" target="_blank">
-<svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-</a>
-</li>
-</ul>
-</div><!--/.profile -->
-</div><!--/.column -->
-
-<div class="column small-6 medium-4 large-3">
-<div class="profile">
-<img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
-<div markdown="1">
-### Jane Doe
-This is what Jane does.
-</div>
-<ul class="social-icons">
-<li><a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-<svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-</a>
-</li>
-<li>
-<a class="github" href="https://github.com/djangocon/" target="_blank">
-<svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-</a>
-</li>
-</ul>
-</div><!--/.profile -->
-</div><!--/.column -->
-
-<div class="column small-6 medium-4 large-3">
-<div class="profile">
-<img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
-<div markdown="1">
-### Jane Doe
-This is what Jane does.
-</div>
-<ul class="social-icons">
-<li><a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-<svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-</a>
-</li>
-<li>
-<a class="github" href="https://github.com/djangocon/" target="_blank">
-<svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-</a>
-</li>
-</ul>
-</div><!--/.profile -->
-</div><!--/.column -->
-
-<div class="column small-6 medium-4 large-3">
-<div class="profile">
-<img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
-<div markdown="1">
-### Jane Doe
-This is what Jane does.
-</div>
-<ul class="social-icons">
-<li><a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-<svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-</a>
-</li>
-<li>
-<a class="github" href="https://github.com/djangocon/" target="_blank">
-<svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-</a>
-</li>
-</ul>
-</div><!--/.profile -->
-</div><!--/.column -->
-
-<div class="column small-6 medium-4 large-3">
-<div class="profile">
-<img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
-<div markdown="1">
-### Jane Doe
-This is what Jane does.
-</div>
-<ul class="social-icons">
-<li><a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-<svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-</a>
-</li>
-<li>
-<a class="github" href="https://github.com/djangocon/" target="_blank">
-<svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-</a>
-</li>
-</ul>
-</div><!--/.profile -->
-</div><!--/.column -->
-
+{% endfor %}
 
 </div><!--/.row -->

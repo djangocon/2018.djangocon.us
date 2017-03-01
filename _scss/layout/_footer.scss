@@ -30,7 +30,7 @@
   position: relative;
   z-index: 2;
 
-  svg{
+  svg {
     max-width: 100%;
     height: auto;
   }
@@ -39,16 +39,16 @@
     fill: $green;
   }
 
-  .djangocon{
+  .djangocon {
     fill: $body-background;
   }
 
-  .location{
+  .location {
     fill:$orange;
   }
 
   &:hover {
-    .background-field{
+    .background-field {
       fill: $body-background;
     }
 

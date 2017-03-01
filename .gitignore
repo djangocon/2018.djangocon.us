@@ -5,5 +5,3 @@ Gemfile.lock
 
 bower_components/
 node_modules/
-
-static/css/styles.css

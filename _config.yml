@@ -8,14 +8,27 @@ include:
 
 # Build settings
 markdown: kramdown
-
+#theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  - octopress-autoprefixer
 
 exclude:
+  - .editorconfig
+  - .gitignore
+  - bower.json
+  - bower_components
+  - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
-  - CNAME
+  - gulpfile.js
+  - LICENSE
+  - node_modules
+  - package.json
+  - README.md
 
 sass:
     style: compressed

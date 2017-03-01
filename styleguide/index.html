@@ -21,9 +21,10 @@
     .ss-code code {
       display: block;
       padding: 1rem;
-      overflow-x: scroll;
+      overflow: auto;
       margin-bottom: 1.5rem;
       font-size: 0.7em;
+
     }
     .styleguide-logo {
       display: block;
@@ -93,6 +94,24 @@
     </style>
   </head>
   <body>
+
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="github-icon" viewBox="0 0 32.58 31.77">
+        <title>Github icon</title>
+          <path class="cls-1" d="M16.29,0a16.29,16.29,0,0,0-5.15,31.75c.81.15,1.11-.35,1.11-.79s0-1.41,0-2.77C7.7,29.18,6.74,26,6.74,26a4.31,4.31,0,0,0-1.81-2.38c-1.48-1,.11-1,.11-1a3.42,3.42,0,0,1,2.5,1.68,3.47,3.47,0,0,0,4.74,1.35,3.48,3.48,0,0,1,1-2.18C9.7,23.08,5.9,21.68,5.9,15.44a6.3,6.3,0,0,1,1.68-4.37,5.86,5.86,0,0,1,.16-4.31s1.37-.44,4.48,1.67a15.44,15.44,0,0,1,8.16,0c3.11-2.11,4.48-1.67,4.48-1.67A5.85,5.85,0,0,1,25,11.07a6.29,6.29,0,0,1,1.67,4.37c0,6.26-3.81,7.63-7.44,8a3.89,3.89,0,0,1,1.11,3c0,2.18,0,3.93,0,4.47s.29.94,1.12.78A16.29,16.29,0,0,0,16.29,0Z"/>
+      </symbol>
+      <symbol id="twitter-icon" viewBox="0 0 32.804 26.499">
+        <title>Twitter icon</title>
+        <path d="M32.804 3.055c-.887 1.28-1.971 2.462-3.35 3.447v.887c0 3.054-.689 6.107-2.167 8.964-1.379 2.856-3.645 5.221-6.601 7.191-2.955 1.97-6.402 2.955-10.343 2.955-3.842 0-7.29-.985-10.344-2.955.296 0 .887.099 1.675.099 3.152 0 5.911-.985 8.373-2.857-1.478 0-2.758-.492-3.94-1.379s-1.97-1.97-2.363-3.349c.196.098.689.098 1.28.098s1.182-.098 1.772-.196c-1.575-.296-2.856-1.084-3.841-2.364-.985-1.281-1.479-2.66-1.479-4.236v-.1c.887.493 1.872.788 2.956.887-1.971-1.379-2.956-3.25-2.956-5.614 0-1.183.296-2.266.887-3.35 3.646 4.433 8.274 6.797 13.89 6.994a5.95 5.95 0 0 1-.197-1.478c0-1.872.69-3.448 1.971-4.729S20.982 0 22.854 0c1.97 0 3.546.69 4.826 2.069 1.379-.296 2.857-.788 4.236-1.576-.493 1.576-1.478 2.758-2.955 3.743 1.38-.296 2.66-.689 3.843-1.181z"/>
+      </symbol>
+      <symbol id="facebook-icon" viewBox="0 0 42 42">
+          <title>Facebook</title>
+          <path d="M39.68,0H2.32A2.32,2.32,0,0,0,0,2.32V39.68A2.32,2.32,0,0,0,2.32,42H22.43V25.74H17V19.4h5.47V14.72c0-5.42,3.31-8.38,8.15-8.38a44.91,44.91,0,0,1,4.89.25v5.67H32.12c-2.63,0-3.14,1.25-3.14,3.09v4h6.28l-.82,6.34H29V42h10.7A2.32,2.32,0,0,0,42,39.68V2.32A2.32,2.32,0,0,0,39.68,0Z"/></svg>
+      </symbol>
+    </svg>
+
+
+
           <nav class="title-bar headroom">
             <div class="title-bar-left">
               <a class="logo" href="/">
@@ -121,6 +140,7 @@
                     <li class="tabs-title "><a href="#themed-page-sections">Themed page sections</a></li>
                     <li class="tabs-title "><a href="#card-themes">Card themes</a></li>
                     <li class="tabs-title "><a href="#photo-hero-section">Photo hero section</a></li>
+                    <li class="tabs-title "><a href="#profile-card">Profile card</a></li>
                 </ul>
 
               </div>
@@ -616,6 +636,182 @@ element.</p>
 
     </div>
   </section></div>
+                  </div>
+                  <div class="tabs-panel " id="profile-card">
+                    <h1>Profile card</h1><p>  This module is used for Organizers and Speakers.</p>
+<div class="ss-code"><pre><code class="html">  <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"row organizers"</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"column small-6 medium-4 large-3"</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"profile"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">img</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"thumbnail"</span> <span class="hljs-attribute">data-interchange</span>=<span class="hljs-value">"[https://placem.at/people?w=600&amp;h=600, small], [https://placem.at/people?w=400&amp;h=400, medium]"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">div</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">h4</span>&gt;</span>Jane Doe<span class="hljs-tag">&lt;/<span class="hljs-title">h4</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">p</span>&gt;</span>This is what Jane does.<span class="hljs-tag">&lt;/<span class="hljs-title">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">ul</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icons"</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://twitter.com/djangocon"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"github"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://github.com/djangocon/"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#github-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">ul</span>&gt;</span>
+      <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.profile --&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.column --&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"column small-6 medium-4 large-3"</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"profile"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">img</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"thumbnail"</span> <span class="hljs-attribute">data-interchange</span>=<span class="hljs-value">"[https://placem.at/people?w=600&amp;h=600, small], [https://placem.at/people?w=400&amp;h=400, medium]"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">div</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">h4</span>&gt;</span>Jane Doe<span class="hljs-tag">&lt;/<span class="hljs-title">h4</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">p</span>&gt;</span>This is what Jane does.<span class="hljs-tag">&lt;/<span class="hljs-title">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">ul</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icons"</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://twitter.com/djangocon"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"github"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://github.com/djangocon/"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#github-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">ul</span>&gt;</span>
+      <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.profile --&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.column --&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"column small-6 medium-4 large-3"</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"profile"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">img</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"thumbnail"</span> <span class="hljs-attribute">data-interchange</span>=<span class="hljs-value">"[https://placem.at/people?w=600&amp;h=600, small], [https://placem.at/people?w=400&amp;h=400, medium]"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">div</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">h4</span>&gt;</span>Jane Doe<span class="hljs-tag">&lt;/<span class="hljs-title">h4</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">p</span>&gt;</span>This is what Jane does.<span class="hljs-tag">&lt;/<span class="hljs-title">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">ul</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icons"</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://twitter.com/djangocon"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"github"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://github.com/djangocon/"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#github-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">ul</span>&gt;</span>
+      <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.profile --&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.column --&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"column small-6 medium-4 large-3"</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-title">div</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"profile"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">img</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"thumbnail"</span> <span class="hljs-attribute">data-interchange</span>=<span class="hljs-value">"[https://placem.at/people?w=600&amp;h=600, small], [https://placem.at/people?w=400&amp;h=400, medium]"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">div</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">h4</span>&gt;</span>Jane Doe<span class="hljs-tag">&lt;/<span class="hljs-title">h4</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">p</span>&gt;</span>This is what Jane does.<span class="hljs-tag">&lt;/<span class="hljs-title">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-title">ul</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icons"</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://twitter.com/djangocon"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#twitter-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+          <span class="hljs-tag">&lt;<span class="hljs-title">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-title">a</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"github"</span> <span class="hljs-attribute">href</span>=<span class="hljs-value">"https://github.com/djangocon/"</span> <span class="hljs-attribute">target</span>=<span class="hljs-value">"_blank"</span>&gt;</span>
+              <span class="hljs-tag">&lt;<span class="hljs-title">svg</span> <span class="hljs-attribute">class</span>=<span class="hljs-value">"social-icon"</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-title">use</span> <span class="hljs-attribute">xlink:href</span>=<span class="hljs-value">"#github-icon"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">use</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-title">svg</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-title">a</span>&gt;</span>
+          <span class="hljs-tag">&lt;/<span class="hljs-title">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-title">ul</span>&gt;</span>
+      <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.profile --&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.column --&gt;</span>    
+  <span class="hljs-tag">&lt;/<span class="hljs-title">div</span>&gt;</span><span class="hljs-comment">&lt;!--/.row --&gt;</span></code></pre></div>
+
+<div class="ss-code-live">  <div class="row organizers">
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->    
+  </div><!--/.row --></div>
                   </div>
 
               </div>

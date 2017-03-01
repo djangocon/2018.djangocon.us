@@ -1449,8 +1449,8 @@ figure {
 
 code {
   padding: 0.09615rem 0.24038rem 0.04808rem;
-  border: 1px solid #cacaca;
-  background-color: #e6e6e6;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.2);
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   font-weight: 400;
   color: #0a0a0a; }

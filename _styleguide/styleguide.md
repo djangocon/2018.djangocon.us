@@ -372,3 +372,100 @@ element.
   </section>
 
   ```
+
+
+
+
+
+  # Profile card
+
+  This module is used for Organizers and Speakers.
+
+  ```html_example
+  <div class="row organizers">
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->
+    <div class="column small-6 medium-4 large-3">
+      <div class="profile">
+        <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+        <div>
+          <h4>Jane Doe</h4>
+          <p>This is what Jane does.</p>
+        </div>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!--/.column -->    
+  </div><!--/.row -->
+  ```

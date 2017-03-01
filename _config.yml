@@ -31,6 +31,10 @@ exclude:
   - package.json
   - README.md
 
+collections:  # process the _data folder
+  components:
+    output: false
+
 # SEO Plugin settings
 
 twitter:

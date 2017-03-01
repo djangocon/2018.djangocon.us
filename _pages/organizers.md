@@ -32,7 +32,7 @@ Intro paragraph. There can be no thought of finishing for ‘aiming for the star
 {% endif %}
 {% if organizer.github != blank %}
 <li>
-<a class="github" href="https://github.com/organizer.github/" target="_blank">
+<a class="github" href="https://github.com/{{ organizer.github }}/" target="_blank">
 <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
 </a>
 </li>

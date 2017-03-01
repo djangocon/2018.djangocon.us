@@ -1,6 +1,9 @@
 title: DjangoCon US
 url: "https://2017.djangocon.us"
 author : DjangoCon US
+enforce_ssl: "2017.djangocon.us"
+relative_permalinks: false
+permalink: news/:title/  # permalink: date
 
 include:
   - _pages

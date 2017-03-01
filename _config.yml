@@ -1,5 +1,7 @@
 title: DjangoCon US
 url: "https://2017.djangocon.us"
+author : DjangoCon US
+
 include:
   - _pages
 
@@ -8,6 +10,24 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  - octopress-autoprefixer
+
 exclude:
+  - .editorconfig
+  - .gitignore
+  - bower.json
+  - bower_components
+  - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
+  - gulpfile.js
+  - LICENSE
+  - node_modules
+  - package.json
+  - README.md
+
+sass:
+    style: compressed

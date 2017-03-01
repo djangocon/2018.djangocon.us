@@ -30,3 +30,19 @@ exclude:
   - node_modules
   - package.json
   - README.md
+
+# SEO Plugin settings
+
+twitter:
+  username: djangocon
+
+# This is the default logo that people see with opengraph
+logo: /static/2017-logos/squares-and-social/djangocon-square.png
+
+# Frontmatter fallback settings
+# This is the default logo that people see on blog posts
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /static/2017-logos/squares-and-social/djangocon-square.png

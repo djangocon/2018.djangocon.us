@@ -23,6 +23,7 @@
   a:hover {
     background: $secondary-color;
   }
+
 }
 
 
@@ -141,6 +142,10 @@
     .location{
       fill: $orange;
     }
+  }
+
+  .top-bar-title {
+    color: $primary-color;
   }
 
   .menu {

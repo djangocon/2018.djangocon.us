@@ -137,8 +137,15 @@ theme for the year. For 2017, the color palette is as follows:
     <li><a href="/static/2017-logos/DjangoCon-2017-white.svg" download>white.svg</a></li>
   </ul>
 </div>
+<div class="logo-set column small-6 medium-4">
+  <img src="/static/2017-logos/squares-and-social/djangocon-square.png">
+  <ul class="download-links">
+  <li><a href="/static/2017-logos/squares-and-social/djangocon-square.png" download>djangocon-square.png</a></li>
+  <li><a href="/static/2017-logos/squares-and-social/djangocon-square.psd" download>djangocon-square.psd</a></li>
+  <li><a href="/static/2017-logos/squares-and-social/trees-background.jpg" download>trees-background.jpg</a></li>
+  </ul>
 </div>
-
+</div>
 
 
 
@@ -199,6 +206,7 @@ class name pattern here: `<div class="card card-theme-teal">`. SVG icons in thes
 tiles will inherit the color of the card theme if there is no `fill` specified
 in the SVG file itself.
 
+
 ```html_example
   <div class="row card-row">
     <div class="medium-4 column">
@@ -231,6 +239,61 @@ in the SVG file itself.
   </div>
   ```
 
+---
+## Right and Left options.
+
+In addition, cards have additional modifier classes for when the icon should be
+displayed to the left or right. This CSS pattern uses flexbox with a float-based
+fallback. To enable this option, add `.icon-right` or `.icon-left` to the `.card`
+element.
+
+  ```html_example
+  <section class="section-pad">
+    <div class="row card-row">
+      <div class="medium-6 column">
+        <div class="card card-theme-teal icon-right">
+          <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83 101"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>program</title><g id="Layer_2" data-name="Layer 2"><g id="callouts"><path class="cls-1" d="M78,101H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0H78a5,5,0,0,1,5,5V96A5,5,0,0,1,78,101ZM10,91H73V10H10Z"/><path class="cls-1" d="M62,28H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,46h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,64h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M62,82H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/></g></g></svg>
+          <div class="card-section">
+            <h3 id="program">Program</h3>
+            <p>The DjangoCon US program features both novice talks for people just starting their journey into the world of development, as well as advanced talks for experienced developers.</p>
+          </div>
+        </div>
+      </div>
+      <div class="medium-6 column">
+        <div class="card card-theme-light-green icon-right">
+          <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 97 85.09"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>job</title><g id="Layer_2" data-name="Layer 2"><g id="callouts"><path class="cls-1" d="M92,20.09H70.9a5,5,0,0,0,.1-1V5a5,5,0,0,0-5-5H31a5,5,0,0,0-5,5V19.09a5,5,0,0,0,.1,1H5a5,5,0,0,0-5,5v55a5,5,0,0,0,5,5H92a5,5,0,0,0,5-5v-55A5,5,0,0,0,92,20.09Zm-56-1V10H61v9.09a5,5,0,0,0,.1,1H35.9A5,5,0,0,0,36,19.09Zm51,56H10v-45H87Z"/></g></g></svg>
+          <div class="card-section">
+            <h3 id="job-search">Job Search</h3>
+            <p>We’ll have boards available so you can let people know if you’re recruiting new team members, or looking for a new position yourself!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-pad">
+    <div class="row card-row">
+      <div class="medium-6 column">
+        <div class="card card-theme-teal icon-left">
+          <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83 101"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>program</title><g id="Layer_2" data-name="Layer 2"><g id="callouts"><path class="cls-1" d="M78,101H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0H78a5,5,0,0,1,5,5V96A5,5,0,0,1,78,101ZM10,91H73V10H10Z"/><path class="cls-1" d="M62,28H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,46h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M61.5,64h-40a5,5,0,0,1,0-10h40a5,5,0,0,1,0,10Z"/><path class="cls-1" d="M62,82H22a5,5,0,0,1,0-10H62a5,5,0,0,1,0,10Z"/></g></g></svg>
+          <div class="card-section">
+            <h3 id="program">Program</h3>
+            <p>The DjangoCon US program features both novice talks for people just starting their journey into the world of development, as well as advanced talks for experienced developers.</p>
+          </div>
+        </div>
+      </div>
+      <div class="medium-6 column">
+        <div class="card card-theme-light-green icon-left">
+          <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 97 85.09"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>job</title><g id="Layer_2" data-name="Layer 2"><g id="callouts"><path class="cls-1" d="M92,20.09H70.9a5,5,0,0,0,.1-1V5a5,5,0,0,0-5-5H31a5,5,0,0,0-5,5V19.09a5,5,0,0,0,.1,1H5a5,5,0,0,0-5,5v55a5,5,0,0,0,5,5H92a5,5,0,0,0,5-5v-55A5,5,0,0,0,92,20.09Zm-56-1V10H61v9.09a5,5,0,0,0,.1,1H35.9A5,5,0,0,0,36,19.09Zm51,56H10v-45H87Z"/></g></g></svg>
+          <div class="card-section">
+            <h3 id="job-search">Job Search</h3>
+            <p>We’ll have boards available so you can let people know if you’re recruiting new team members, or looking for a new position yourself!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  ```
+
 
 
 
@@ -254,6 +317,48 @@ in the SVG file itself.
     <img class="hide-for-medium" src="/static/img/home-testimonial-mobile.jpg">
     <div class="row hero-content">
       <div class="column medium-6">
+      <blockquote>
+        <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
+        <cite>Rory McHenry<br>
+          Director, Application Development PonyCorp
+        </cite>
+      </blockquote>
+      <a href="#TODO" class="button secondary">Join Rory. Buy your ticket</a>
+    </div>
+
+    </div>
+  </section>
+
+<hr>
+
+  <section
+    class="photo-hero tint-orange"
+    data-interchange="[/static/img/about.jpg, medium]"
+    >
+    <img class="hide-for-medium" src="/static/img/about-mobile.jpg">
+    <div class="row hero-content">
+      <div class="column medium-8 medium-centered">
+      <blockquote>
+        <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
+        <cite>Rory McHenry<br>
+          Director, Application Development PonyCorp
+        </cite>
+      </blockquote>
+      <a href="#TODO" class="button">Join Rory. Buy your ticket</a>
+    </div>
+
+    </div>
+  </section>
+
+  <hr>
+
+  <section
+    class="photo-hero tint-teal"
+    data-interchange="[/static/img/about.jpg, medium]"
+    >
+    <img class="hide-for-medium" src="/static/img/about-mobile.jpg">
+    <div class="row hero-content">
+      <div class="column medium-6 medium-offset-6">
       <blockquote>
         <p>The talks at DjangoCon US have always been of high quality. That’s why we send our devs every year. The insights gained have helped us build better software at PonyCorp.</p>
         <cite>Rory McHenry<br>

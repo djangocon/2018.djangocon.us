@@ -7,6 +7,10 @@
     background: $body-background;
     padding-top: rem-calc(10);
 
+    .column {
+      @include bottomless;
+    }
+
   }
 
   blockquote{
@@ -20,8 +24,8 @@
   }
 
   @include breakpoint(medium) {
-    padding-top: 3em;
-    padding-bottom: 3em;
+    padding-top: 16vh;
+    padding-bottom: 16vh;
 
     .hero-content {
       background: transparent;

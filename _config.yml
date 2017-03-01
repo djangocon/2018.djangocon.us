@@ -27,5 +27,3 @@ exclude:
   - node_modules
   - package.json
   - README.md
-  - static/2017-logos
-  - static/2017-logos.zip

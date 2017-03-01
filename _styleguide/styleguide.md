@@ -304,7 +304,7 @@ element.
   an image above text on smaller displays. Tints can be applied to the
   large-display background image with the class `.tint-[color]` on the main
   `.photo hero` element. The text can be positioned at the left, right, or center
-  by changing the classes of its parent element. (See `_layouts/home_full.html`
+  by changing the classes of its parent element. (See `_layouts/home-full.html`
   for an example of how these settings can be applied and changed using Jekyll
   metadata in the markdown files.)
 

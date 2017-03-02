@@ -3,10 +3,8 @@ author: Anna Ossowski
 category: General Announcements
 date: 2016-04-12 00:00:00
 layout: post
-title: 'Announcing Our Call for Reviewers '
+title: "Announcing Our Call for Reviewers"
 ---
-
-# Announcing Our Call for Reviewers
 
 Do you love the Django community and want to know about an easy way to help
 out with DjangoCon US this year?

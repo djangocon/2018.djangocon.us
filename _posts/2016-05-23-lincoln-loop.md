@@ -3,10 +3,8 @@ author: Heather Luna
 category: Sponsor Updates
 date: 2016-05-23 00:00:00
 layout: post
-title: 'Lincoln Loop '
+title: "Lincoln Loop"
 ---
-
-# Lincoln Loop
 
 Lincoln Loop is a full-service software development agency specializing in
 Python and Django development, and is well known for their focus on

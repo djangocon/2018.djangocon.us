@@ -3,10 +3,8 @@ author: Jeff Triplett
 category: General Announcements
 date: 2016-03-18 00:00:00
 layout: post
-title: 'What a difference a year makes! '
+title: "What a difference a year makes!"
 ---
-
-# What a difference a year makes!
 
 Last year, our goal was to make DjangoCon US accessible and affordable to
 everyone. Thanks to the overwhelming volunteer, community, and sponsor

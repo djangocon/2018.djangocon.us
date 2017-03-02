@@ -3,10 +3,8 @@ author: Jeff Triplett
 category: General Announcements
 date: 2016-03-14 00:00:00
 layout: post
-title: 'DjangoCon US 2016 in Philly '
+title: "DjangoCon US 2016 in Philly"
 ---
-
-# DjangoCon US 2016 in Philly
 
 We are pleased to announce that the DjangoCon US 2016 conference will take
 place in Philadelphia, Pennsylvania from July 17-22, 2016 at The Wharton

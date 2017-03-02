@@ -3,10 +3,8 @@ author: Anna Ossowski
 category: General Announcements
 date: 2016-04-15 00:00:00
 layout: post
-title: 'Call For Proposals Is Closing Soon '
+title: "Call For Proposals Is Closing Soon"
 ---
-
-# Call For Proposals Is Closing Soon
 
 We want to hear about your experience with and around Django. However, talks:
 

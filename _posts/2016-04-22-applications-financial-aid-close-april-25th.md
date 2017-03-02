@@ -3,13 +3,8 @@ author: Sara Gore
 category: General Announcements
 date: 2016-04-22 00:00:00
 layout: post
-title: 'Applications for  Financial Aid Close April 25th! '
+title: "Applications for  Financial Aid Close April 25th!"
 ---
-
-# Applications for Financial Aid Close April 25th!
-
-Financial Aid applications close on April 25th!
-
 This is your friendly reminder that our [financial aid
 application](http://goo.gl/forms/XvYBg4d8o7) closes on April 25th. We'll let
 you know by May 6th if your application for aid has been accepted. Be sure to

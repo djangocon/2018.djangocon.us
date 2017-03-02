@@ -3,10 +3,8 @@ author: Anna Ossowski
 category: General Announcements
 date: 2016-03-24 00:00:00
 layout: post
-title: 'Registration is Open! '
+title: "Registration is Open!"
 ---
-
-# Registration is Open!
 
 Registration is open! You may book your tickets and reserve your hotel
 accommodations for DjangoCon US 2016 now!

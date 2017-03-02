@@ -3,10 +3,8 @@ author: Lacey Williams Henschel
 category: General Announcements
 date: 2016-05-16 00:00:00
 layout: post
-title: 'Notifications are on the way! '
+title: "Notifications are on the way!"
 ---
-
-# Notifications are on the way!
 
 You'll know about your talk or tutorial submission, and your financial aid
 applications, by the end of the week!

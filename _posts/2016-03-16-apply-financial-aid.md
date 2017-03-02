@@ -3,10 +3,8 @@ author: Sara Gore
 category: General Announcements
 date: 2016-03-16 00:00:00
 layout: post
-title: 'Apply for financial aid! '
+title: "Apply for financial aid!"
 ---
-
-# Apply for financial aid!
 
 As part of our commitment to diversity, we are thrilled to announce that we
 will be supporting individuals who need financial assistance to attend

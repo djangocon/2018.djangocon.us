@@ -3,10 +3,8 @@ author: Andrew Pinkham
 category: General Announcements
 date: 2016-03-16 00:00:00
 layout: post
-title: 'Call for Proposals is Open! '
+title: "Call for Proposals is Open!"
 ---
-
-# Call for Proposals is Open!
 
 The [Call for Proposals](https://2016.djangocon.us/speaking/) is now open, and
 closes on April 18, 2016.

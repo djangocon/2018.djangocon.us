@@ -3,10 +3,8 @@ author: Anna Ossowski
 category: General Announcements
 date: 2016-04-18 00:00:00
 layout: post
-title: 'Last Call For Proposals '
+title: "Last Call For Proposals"
 ---
-
-# Last Call For Proposals
 
 We are down to our last call for talk and tutorial submissions for DjangoCon
 US this year!

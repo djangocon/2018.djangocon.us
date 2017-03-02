@@ -1,0 +1,19 @@
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  .post-item {
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid $dark-beige;
+  }
+
+  .post-title a {
+    color: $secondary-color;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}

@@ -20,14 +20,20 @@ heading: Organizers
         Intro paragraph. There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.
       </p>
 
-      <div class="row organizers">
-
+      <div
+        class="row organizers"
+        data-equalizer data-equalize-on="medium">
       {% for organizer in site.data.organizers.organizers %}
-        <div class="column small-6 medium-4 large-3">
+        <div
+          class="column small-12 smedium-6 medium-4 large-3"
+          data-equalizer-watch>
           <div class="profile">
-            <img class="thumbnail" data-interchange="[https://placem.at/people?w=600&h=600, small], [https://placem.at/people?w=400&h=400, medium]">
+            <img
+              class="thumbnail"
+              src="https://placem.at/people?w=600&h=600"
+              alt="Photo of {{ organizer.name }}" />
             <div markdown="1">
-              <h3>{{ organizer.name }}</h3>
+              <h3 class="profile-name">{{ organizer.name }}</h3>
               {{ organizer.role }}
             </div>
             <ul class="social-icons">

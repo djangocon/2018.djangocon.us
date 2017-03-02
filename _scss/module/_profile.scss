@@ -1,5 +1,11 @@
 
 .profile {
+  margin: 0 auto;
+  max-width: 360px;
   text-align: center;
   padding: 20px;
+}
+
+.profile-name {
+  font-size: rem-calc(26);
 }

@@ -13,7 +13,7 @@ organizers:
     twitter: ""
 
   - name: "Brent Schneider"
-    role: "Onsite Liaison"
+    role: "Organizer"
     facebook: ""
     github: ""
     twitter: ""
@@ -75,8 +75,8 @@ organizers:
   - name: "Lacey Williams Henschel"
     role: "Conference Chair"
     facebook: ""
-    github: ""
-    twitter: ""
+    github: "williln"
+    twitter: "laceynwilliams"
 
   - name: "Landon Jurgens"
     role: "Organizer"
@@ -115,7 +115,7 @@ organizers:
     twitter: ""
 
   - name: "Tim Allen"
-    role: "Onsite Tutorial Wrangler"
+    role: "Program Committee"
     facebook: ""
     github: ""
     twitter: ""

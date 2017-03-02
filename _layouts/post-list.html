@@ -4,7 +4,7 @@ permalink: /news/
 ---
 
 {% for post in site.posts %}
-{% if post.category == 'General Announcements' or post.category == 'Sponsor Updates' %}
+  {% unless post.hidden %}
   <li>
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <h2>
@@ -13,5 +13,5 @@ permalink: /news/
         href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
     </h2>
   </li>
-{% endif %}
+  {% endunless %}
 {% endfor %}

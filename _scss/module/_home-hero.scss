@@ -16,23 +16,26 @@
   .subhead {
     color: $body-background;
     text-align: center;
+    max-width: 660px;
+  }
+
+  .subhead strong {
+    display: block;
   }
 
   .subheading {
     @extend h4;
   }
 
-  .location {
-    padding-top: 1em;
-  }
-
   .location:before {
     content: "";
     width: 100px;
     display: block;
-    margin: 0 auto 1em;
+    margin: 0 auto 0.5em;
     border-top: 1px solid $body-background;
   }
+
+
 
   @include breakpoint(medium) {
     padding-top: 35vw;
@@ -42,9 +45,7 @@
       text-align: right;
     }
 
-    .subhead strong {
-      display: block;
-    }
+
 
     .location {
       border-left: 1px solid $body-background;

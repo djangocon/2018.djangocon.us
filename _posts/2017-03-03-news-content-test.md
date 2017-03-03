@@ -6,7 +6,7 @@ layout: post
 title: "News Content Test"
 ---
 
-Paragraphs are separated by a blank line.
+The project uses [kramdown](https://kramdown.gettalong.org/) which has an excellent [one page reference](https://kramdown.gettalong.org/syntax.html) on its syntax. In general you should try to keep content simple so there's less of a chance for something to go wrong. That said, this post serves as a test for new post design.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:

@@ -16,3 +16,12 @@ h6 {
 p:last-child {
   margin-bottom: 0;
 }
+
+iframe,
+.highlighter-rouge {
+  margin-bottom: $global-margin;
+}
+
+.responsive-embed iframe {
+  margin-bottom: 0;
+}

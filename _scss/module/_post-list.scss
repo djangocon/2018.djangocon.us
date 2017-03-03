@@ -5,8 +5,8 @@
 }
 
 .post-item {
-  padding-bottom: 1rem;
-  margin-bottom: 1rem;
+  padding-bottom: $global-padding;
+  margin-bottom: $global-margin;
   border-bottom: 1px solid $dark-beige;
   @include bottomless;
 }

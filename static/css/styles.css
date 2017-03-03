@@ -4897,6 +4897,13 @@ h6 a {
 p:last-child {
   margin-bottom: 0; }
 
+iframe,
+.highlighter-rouge {
+  margin-bottom: 1rem; }
+
+.responsive-embed iframe {
+  margin-bottom: 0; }
+
 .button {
   text-decoration: none; }
   .button + .button {

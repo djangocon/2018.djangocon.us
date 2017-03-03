@@ -4,7 +4,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -13,7 +12,6 @@ organizers:
     role: "Diversity Chair"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -22,7 +20,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -31,7 +28,6 @@ organizers:
     role: "Program Committee"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -40,7 +36,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -49,7 +44,6 @@ organizers:
     role: "Sponsors Chair and Awesomeness at Everything"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -58,7 +52,6 @@ organizers:
     role: "DEFNA Treasurer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -67,7 +60,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -76,7 +68,6 @@ organizers:
     role: "Delegator and DEFNA President"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    facebook: ""
     github: "jefftriplett"
     twitter: "webology"
     website: "https://jefftriplett.com/"
@@ -85,7 +76,6 @@ organizers:
     role: "Program Committee"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -94,7 +84,6 @@ organizers:
     role: "Program Committee"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -103,7 +92,6 @@ organizers:
     role: ":zap: Talk/Orientation Chair"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -112,7 +100,6 @@ organizers:
     role: "Conference Chair"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -121,7 +108,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -130,7 +116,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -139,7 +124,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -148,7 +132,6 @@ organizers:
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -157,7 +140,6 @@ organizers:
     role: "Communication Chair"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -166,7 +148,6 @@ organizers:
     role: "DEFNA Corporate Secretary"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""
@@ -175,7 +156,6 @@ organizers:
     role: "Program Committee"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
-    facebook: ""
     github: ""
     twitter: ""
     website: ""

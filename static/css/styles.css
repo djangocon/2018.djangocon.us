@@ -2835,7 +2835,7 @@ select {
 .label {
   display: inline-block;
   padding: 0.33333rem 0.5rem;
-  border-radius: 0;
+  border-radius: 4px;
   font-size: 0.8rem;
   line-height: 1;
   white-space: nowrap;
@@ -2847,25 +2847,25 @@ select {
     color: #fefefe; }
   .label.secondary {
     background: #D66315;
-    color: #0a0a0a; }
+    color: #fefefe; }
   .label.success {
     background: #3adb76;
-    color: #0a0a0a; }
+    color: #fefefe; }
   .label.warning {
     background: #ffae00;
-    color: #0a0a0a; }
+    color: #fefefe; }
   .label.alert {
     background: #cc4b37;
     color: #fefefe; }
   .label.teal {
     background: #3b928f;
-    color: #0a0a0a; }
+    color: #fefefe; }
   .label.light-green {
     background: #20C989;
-    color: #0a0a0a; }
+    color: #fefefe; }
   .label.light-blue {
     background: #84D3D5;
-    color: #0a0a0a; }
+    color: #fefefe; }
 
 .media-object {
   display: block;

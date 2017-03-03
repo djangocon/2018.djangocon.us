@@ -16,8 +16,6 @@ Jekyll will compile sass out of the box, but we're using gulp so we can add auto
 and whatever else we might need later.
 
 ```bash
-$ bower install
-# installs dependencies listed in bower.json
 $ npm install .
 # installs dependencies listed in package.json, including gulp.
 ```

@@ -26,7 +26,10 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "foundation-sites": "^6.3.1",
     "gulp-autoprefixer": "^3.1.0",
-    "gulp-uglifycss": "^1.0.6"
+    "gulp-uglifycss": "^1.0.6",
+    "hamburgers": "^0.7.0",
+    "motion-ui": "^1.2.2"
   }
 }

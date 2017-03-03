@@ -4,9 +4,9 @@ var sherpa = require('style-sherpa');
 var uglifycss = require('gulp-uglifycss');
 
 var sassPaths = [
-  'bower_components/foundation-sites/scss',
-  'bower_components/motion-ui/src',
-  'bower_components/css-hamburgers/_sass/hamburgers'
+  'node_modules/foundation-sites/scss',
+  'node_modules/motion-ui/src',
+  'node_modules/hamburgers/_sass/hamburgers'
 ];
 
 gulp.task('sass', function() {

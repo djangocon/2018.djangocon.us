@@ -19,7 +19,7 @@ legend{box-sizing:border-box;display:table;max-width:100%;padding:0;color:inheri
 progress{display:inline-block;vertical-align:baseline}textarea{overflow:auto}details{display:block}
 summary{display:list-item}menu{display:block}canvas{display:inline-block}template{display:none}
 [hidden]{display:none}.foundation-mq{font-family:"small=0em&smedium=32.75em&medium=55.625em&large=64em&xlarge=75em&xxlarge=90em"}html{box-sizing:border-box;font-size:130%}
-*,*::before,*::after{box-sizing:inherit}body{margin:0;padding:0;background:#f1dfc7;font-family:"program",sans-serif;font-weight:400;line-height:1.4;color:#0c4b33;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+*,*::before,*::after{box-sizing:inherit}body{margin:0;padding:0;background:#f1dfc7;font-family:"program",Helvetica,Arial,sans-serif;font-weight:400;line-height:1.4;color:#0c4b33;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 img{display:inline-block;vertical-align:middle;max-width:100%;height:auto;-ms-interpolation-mode:bicubic}
 textarea{height:auto;min-height:50px;border-radius:0}select{box-sizing:border-box;width:100%;border-radius:0}
 .map_canvas img,.map_canvas embed,.map_canvas object,.mqa-display img,.mqa-display embed,.mqa-display object{max-width:none !important}
@@ -180,7 +180,7 @@ button{padding:0;-webkit-appearance:none;-moz-appearance:none;appearance:none;bo
 .column-block>:last-child{margin-bottom:0}}div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,.header .subheading,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0}
 p{margin-bottom:1rem;font-size:inherit;line-height:1.6;text-rendering:optimizeLegibility}
 em,i{font-style:italic;line-height:inherit}strong,b{font-weight:500;line-height:inherit}
-small{font-size:80%;line-height:inherit}h1,h2,h3,h4,.header .subheading,h5,h6{font-family:"program",sans-serif;font-style:normal;font-weight:400;color:inherit;text-rendering:optimizeLegibility}
+small{font-size:80%;line-height:inherit}h1,h2,h3,h4,.header .subheading,h5,h6{font-family:"program",Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;color:inherit;text-rendering:optimizeLegibility}
 h1 small,h2 small,h3 small,h4 small,.header .subheading small,h5 small,h6 small{line-height:0;color:#cacaca}
 h1{font-size:1.63462rem;line-height:1.2;margin-top:0;margin-bottom:1rem}h2{font-size:1.63462rem;line-height:1.2;margin-top:0;margin-bottom:1rem}
 h3{font-size:1.15385rem;line-height:1.2;margin-top:0;margin-bottom:1rem}h4,.header .subheading{font-size:.96154rem;line-height:1.2;margin-top:0;margin-bottom:1rem}
@@ -695,7 +695,7 @@ p:last-child{margin-bottom:0}iframe,.highlighter-rouge{margin-bottom:1rem}.respo
 .headroom--top .menu .navbar-button,.navbar-button{padding-top:.4rem;padding-bottom:.4rem;background:#d66315;color:#fefefe;text-align:center;line-height:1.1}
 .headroom--top .menu .navbar-button small,.navbar-button small{font-size:.76923rem}
 .headroom--top .menu .navbar-button:hover,.navbar-button:hover{background:#c15913}
-.logo{width:160px;display:block;margin:10px 0 -20px 10px;height:53px}.logo svg{max-width:100%;height:auto}
+.logo{width:160px;display:block;margin:10px 0 -20px 10px;height:53px}.logo svg{max-width:100%;height:100%}
 .logo .background-field{fill:#0c4b33}.logo .djangocon{fill:#f1dfc7}.logo .location{fill:#d66315}
 @media print,screen and (min-width:55.625em){.logo{width:140px;margin:10px 0 -60px 10px;height:47px}
 }@media print,screen and (min-width:64em){.logo{width:270px;height:90px}}@media screen and (min-width:75em){.logo{width:300px;height:100px}
@@ -718,7 +718,7 @@ p:last-child{margin-bottom:0}iframe,.highlighter-rouge{margin-bottom:1rem}.respo
 .headroom--top .menu .menu a:hover,.menu .menu a:hover{background:#d66315}.headroom--top .menu .navbar-button,.navbar-button{padding-top:.4rem;padding-bottom:.4rem;background:#d66315;color:#fefefe;text-align:center;line-height:1.1}
 .headroom--top .menu .navbar-button small,.navbar-button small{font-size:.76923rem}
 .headroom--top .menu .navbar-button:hover,.navbar-button:hover{background:#c15913}
-.logo{width:160px;display:block;margin:10px 0 -20px 10px;height:53px}.logo svg{max-width:100%;height:auto}
+.logo{width:160px;display:block;margin:10px 0 -20px 10px;height:53px}.logo svg{max-width:100%;height:100%}
 .logo .background-field{fill:#0c4b33}.logo .djangocon{fill:#f1dfc7}.logo .location{fill:#d66315}
 @media print,screen and (min-width:55.625em){.logo{width:140px;margin:10px 0 -60px 10px;height:47px}
 }@media print,screen and (min-width:64em){.logo{width:270px;height:90px}}@media screen and (min-width:75em){.logo{width:300px;height:100px}

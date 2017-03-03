@@ -156,6 +156,6 @@ organizers:
     role: "Program Committee"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    github: "https://github.com/flipperpa/"
-    twitter: "https://twitter.com/FlipperPA/"
+    github: "flipperpa"
+    twitter: "FlipperPA"
     website: "http://www.PyPhilly.org/"

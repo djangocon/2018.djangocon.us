@@ -1,7 +1,6 @@
 @include breakpoint(medium) {
   .card-row {
     display: flex;
-    flex-flow: row wrap;
     justify-content: center;
 
     > .column {

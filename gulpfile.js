@@ -1,6 +1,7 @@
 var gulp = require('gulp');
 var $    = require('gulp-load-plugins')();
 var sherpa = require('style-sherpa');
+var uglifycss = require('gulp-uglifycss');
 
 var sassPaths = [
   'bower_components/foundation-sites/scss',
@@ -15,7 +16,11 @@ gulp.task('sass', function() {
     })
       .on('error', $.sass.logError))
     .pipe($.autoprefixer({
-      browsers: ['last 2 versions', 'ie >= 9']
+      browsers: ['last 2 versions', 'ie >= 10']
+    }))
+    .pipe(uglifycss({
+      "maxLineLen": 80,
+      "uglyComments": true
     }))
     .pipe(gulp.dest('static/css'));
 });

@@ -2,18 +2,19 @@
   list-style: none;
   margin: 0;
   padding: 0;
+}
 
-  .post-item {
-    padding-bottom: 1em;
-    margin-bottom: 1em;
-    border-bottom: 1px solid $dark-beige;
-  }
+.post-item {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid $dark-beige;
+  @include bottomless;
+}
 
-  .post-title a {
-    color: $secondary-color;
+.post-title a {
+  color: $secondary-color;
 
-    &:hover {
-      color: $primary-color;
-    }
+  &:hover {
+    color: $primary-color;
   }
 }

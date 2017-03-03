@@ -1336,37 +1336,37 @@ h1 {
   font-size: 1.63462rem;
   line-height: 1.2;
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 1rem; }
 
 h2 {
   font-size: 1.63462rem;
   line-height: 1.2;
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 1rem; }
 
 h3 {
   font-size: 1.15385rem;
   line-height: 1.2;
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 1rem; }
 
 h4, .header .subheading {
   font-size: 0.96154rem;
   line-height: 1.2;
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 1rem; }
 
 h5 {
   font-size: 0.81731rem;
   line-height: 1.2;
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 1rem; }
 
 h6 {
   font-size: 0.76923rem;
   line-height: 1.2;
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 1rem; }
 
 @media print, screen and (min-width: 55.625em) {
   h1 {
@@ -4883,11 +4883,6 @@ a.thumbnail {
       padding-top: 4em;
       padding-bottom: 4em; } }
 
-.button.secondary {
-  color: #F1DFC7; }
-  .button.secondary:hover {
-    color: #fefefe; }
-
 h1 a,
 h2 a,
 h3 a,
@@ -4899,10 +4894,16 @@ h6 a {
 .lead {
   margin-bottom: 2.5rem; }
 
+p:last-child {
+  margin-bottom: 0; }
+
 .button {
   text-decoration: none; }
   .button + .button {
     margin-left: 0.5em; }
+
+.button.secondary, .button.secondary:hover {
+  color: #fefefe; }
 
 .menu a {
   color: #fefefe;
@@ -5522,14 +5523,18 @@ h6 a {
   list-style: none;
   margin: 0;
   padding: 0; }
-  .post-list .post-item {
-    padding-bottom: 1em;
-    margin-bottom: 1em;
-    border-bottom: 1px solid #e5d4bd; }
-  .post-list .post-title a {
-    color: #D66315; }
-    .post-list .post-title a:hover {
-      color: #0C4B33; }
+
+.post-item {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #e5d4bd; }
+  .post-item > *:last-child {
+    margin-bottom: 0; }
+
+.post-title a {
+  color: #D66315; }
+  .post-title a:hover {
+    color: #0C4B33; }
 
 .social-icons {
   list-style: none;

@@ -8,7 +8,6 @@ talkdate: Monday, 1:30pm - 2:20pm
 level: Intermediate or Advanced
 ---
 
-<div class="column medium-8" markdown="1">
 
 Websockets (WS) are used across the web in this modern age, and they work great. The downside of WS is that the server needs to perpetually keep a connection open to the client if the client is available. I will be explaining the inner workings of WS as well as the different current implementations for Django. I will explain the idea behind Django-Channels and how it can be used.
 {: .lead}
@@ -51,27 +50,3 @@ Currently Django-Channels can be used with Django 1.8+ as a stand alone app, wit
     * The idea behind channels
     * How to start using channels
     * Pros and Cons
-
-
-</div>
-<div class="column medium-4">
-
-  <div class="profile">
-    <img class="thumbnail" src="https://placem.at/people?w=600&h=600">
-    <h4>Jane Doe</h4>
-    <p>This is what Jane does.</p>
-
-    <ul class="social-icons">
-      <li>
-        <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-          <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-        </a>
-      </li>
-      <li>
-        <a class="github" href="https://github.com/djangocon/" target="_blank">
-          <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-        </a>
-      </li>
-    </ul>
-  </div><!--/.profile -->
-</div>

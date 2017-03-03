@@ -16,8 +16,27 @@ layout: base
 
 <div class="content subpage-content">
   <div class="row">
-
+    <div class="column medium-8" markdown="1">
     {{ content }}
-
-  </div>
+    </div>
+    <div class="column medium-4">
+      <div class="profile">
+        <img class="thumbnail" src="https://placem.at/people?w=600&h=600">
+        <h4>Jane Doe</h4>
+        <p>This is what Jane does.</p>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!-- end .column -->
+  </div><!-- end .row -->
 </div><!-- end .content -->

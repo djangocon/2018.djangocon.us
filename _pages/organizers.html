@@ -22,36 +22,38 @@ heading: Organizers
         class="row organizers"
         data-equalizer data-equalize-on="medium">
       {% for organizer in site.data.organizers.organizers %}
-        <div
-          class="column small-12 smedium-6 medium-4 large-3"
-          data-equalizer-watch>
-          <div class="profile">
-            <img
-              class="thumbnail"
-              src="https://placem.at/people?w=600&h=600"
-              alt="Photo of {{ organizer.name }}" />
-            <div markdown="1">
-              <h3 class="profile-name">{{ organizer.name }}</h3>
-              {{ organizer.role }}
-            </div>
-            <ul class="social-icons">
-              {% if organizer.twitter != blank %}
-              <li>
-                <a class="twitter" href="https://twitter.com/{{ organizer.twitter }}" target="_blank">
-                  <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
-                </a>
-              </li>
-              {% endif %}
-              {% if organizer.github != blank %}
-              <li>
-                <a class="github" href="https://github.com/{{ organizer.github }}/" target="_blank">
-                  <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
-                </a>
+        {% unless organizer.hidden %}
+          <div
+            class="column small-12 smedium-6 medium-4 large-3"
+            data-equalizer-watch>
+            <div class="profile">
+              <img
+                class="thumbnail"
+                src="{{ organizer.photo_url }}"
+                alt="Photo of {{ organizer.name }}" />
+              <div markdown="1">
+                <h3 class="profile-name">{{ organizer.name }}</h3>
+                {{ organizer.role }}
+              </div>
+              <ul class="social-icons">
+                {% if organizer.twitter != blank %}
+                <li>
+                  <a class="twitter" href="https://twitter.com/{{ organizer.twitter }}" target="_blank">
+                    <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+                  </a>
                 </li>
-              {% endif %}
-            </ul>
-            </div><!--/.profile -->
-        </div><!--/.column -->
+                {% endif %}
+                {% if organizer.github != blank %}
+                <li>
+                  <a class="github" href="https://github.com/{{ organizer.github }}/" target="_blank">
+                    <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+                  </a>
+                  </li>
+                {% endif %}
+              </ul>
+              </div><!--/.profile -->
+          </div><!--/.column -->
+        {% endunless %}
       {% endfor %}
 
       </div><!--/.row -->

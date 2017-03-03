@@ -2,6 +2,6 @@
 title: News
 permalink: /news/
 layout: post-list
-description:
+description: The latest DjangoCon US 2017 news.
 heading: News
 ---

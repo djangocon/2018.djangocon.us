@@ -14,11 +14,9 @@ permalink: /news/
         class="post-link"
         href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
     </h2>
-
     {% if forloop.first %}
-    {{ post.excerpt }}
+      {{ post.excerpt }}
     {% endif %}
-
   </li>
   {% endunless %}
 {% endfor %}

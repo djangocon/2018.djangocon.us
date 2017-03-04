@@ -66,7 +66,7 @@ organizers:
 
   - name: "Jeff Triplett"
     role: "Delegator and DEFNA President"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    photo_url: "/static/img/organizers/jeff.jpg"
     hidden: false
     github: "jefftriplett"
     twitter: "webology"
@@ -98,11 +98,11 @@ organizers:
 
   - name: "Lacey Williams Henschel"
     role: "Conference Chair"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    photo_url: "/static/img/organizers/lacey.jpg"
     hidden: false
-    github: ""
-    twitter: ""
-    website: ""
+    github: "williln"
+    twitter: "laceynwilliams"
+    website: "https://www.laceyhenschel.com/"
 
   - name: "Landon Jurgens"
     role: "Organizer"

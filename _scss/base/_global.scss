@@ -4,9 +4,15 @@ h3,
 h4,
 h5,
 h6 {
+  font-weight: $global-weight-bold;
+
   a {
     text-decoration: none;
   }
+}
+
+strong {
+  font-weight: $global-weight-bold;
 }
 
 .lead {

@@ -21,6 +21,10 @@
   display: flex;
   align-items: flex-start;
 
+  .card-title {
+    text-align: left;
+  }
+
   .card-icon {
     float: left; // no-flex fallback
     width: 240px;
@@ -43,4 +47,8 @@
   height: 100px;
   display: block;
   margin: 1em auto 0;
+}
+
+.card-title {
+  text-align: center;
 }

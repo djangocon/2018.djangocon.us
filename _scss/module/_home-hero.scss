@@ -14,19 +14,20 @@
   }
 
   .subhead {
-    color: $body-background;
-    text-align: center;
     max-width: 660px;
+    text-align: center;
+    color: $body-background;
   }
 
   .subhead strong {
     display: block;
-    font-weight: $global-weight-normal;
+    font-weight: $global-weight-bold;
   }
 
   .subheading {
     @extend h4;
     margin-bottom: 0;
+    font-weight: $global-weight-normal;
   }
 
   .location:before {

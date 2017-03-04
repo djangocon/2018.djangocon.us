@@ -9,3 +9,7 @@
   background-repeat:  no-repeat;
   background-size: 101% auto;
 }
+
+.home-content > &:last-child {
+  padding-bottom: 3rem;
+}

@@ -1,13 +1,21 @@
 ---
-layout: talk
-title: "Websockets&#58; Intro to Messaging"
+layout: event
 permalink: /schedule/presentation/demo/
-description: DjangoCon US is dedicated to providing a fun harassment-free conference experience for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, or religion.
-heading: Websockets&#58; Intro to Messaging
-talkdate: Monday, 1:30pm - 2:20pm
-level: Intermediate or Advanced
----
+description:
 
+category: talk
+date: 2016-07-17 09:00
+datefriendly: Monday, 1:30pm-2:20pm
+difficulty: Intermediate or Advanced
+room: Room 1
+title: "Websockets&#58; Intro to Messaging"
+heading: Websockets&#58; Intro to Messaging
+accepted: true
+
+presenters: James Bennett
+video_url: https://youtube.com/
+slides_url: https://slideshare.com/
+---
 
 Websockets (WS) are used across the web in this modern age, and they work great. The downside of WS is that the server needs to perpetually keep a connection open to the client if the client is available. I will be explaining the inner workings of WS as well as the different current implementations for Django. I will explain the idea behind Django-Channels and how it can be used.
 {: .lead}

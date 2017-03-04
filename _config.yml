@@ -21,7 +21,6 @@ gems:
 exclude:
   - .editorconfig
   - .gitignore
-  - bower.json
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock

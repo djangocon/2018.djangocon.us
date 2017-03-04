@@ -65,29 +65,27 @@
   }
 
   .location {
-    fill:$orange;
+    fill: $orange;
   }
 }
 
 @include breakpoint(medium) {
   .logo {
-    width: 140px;
     margin: 10px 0 -60px 10px;
-    height: 47px; // for IE
+    width: 140px;
+    height: auto;
   }
 }
 
 @include breakpoint(large) {
   .logo {
     width: 270px;
-    height: 90px; // for IE
   }
 }
 
 @include breakpoint(xlarge) {
   .logo {
     width: 300px;
-    height: 100px; // for IE
   }
 }
 
@@ -113,11 +111,11 @@
 
 @include breakpoint(small only) { // hide header when scrolling down on mobile
   .headroom--pinned {
-      transform: translateY(0%);
+    transform: translateY(0%);
   }
 
   .headroom--unpinned {
-      transform: translateY(-130%);
+    transform: translateY(-130%);
   }
 }
 
@@ -127,7 +125,7 @@
 
   .logo {
     width: 160px;
-    height: 54px; // for IE
+    height: auto;
 
     .background-field{
       fill: transparent;
@@ -183,21 +181,19 @@
   @include breakpoint(medium) {
     .logo {
       width: 140px;
-      height: 47px; // for IE
+      height: auto;
     }
   }
 
   @include breakpoint(large) {
     .logo {
       width: 265px;
-      height: 188px; // for IE
     }
   }
 
   @include breakpoint(xlarge) {
     .logo {
       width: 360px;
-      height: 120px; // for IE
     }
   }
 }

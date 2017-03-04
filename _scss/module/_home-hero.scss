@@ -14,6 +14,7 @@
   }
 
   .subhead {
+
     max-width: 660px;
     text-align: center;
     color: $body-background;
@@ -25,9 +26,13 @@
   }
 
   .subheading {
-    @extend h4;
-    margin-bottom: 0;
+    margin-bottom: $global-margin/2;
+    font-size: rem-calc(22);
     font-weight: $global-weight-normal;
+  }
+
+  .dates-year {
+    @include show-for(medium);
   }
 
   .location:before {
@@ -38,17 +43,16 @@
     border-top: 1px solid $body-background;
   }
 
-
-
   @include breakpoint(medium) {
     padding-top: 35vw;
-    background-position: 0 -50px;
 
     .subhead {
       text-align: right;
     }
 
-
+    .subheading {
+      margin-bottom: 0;
+    }
 
     .location {
       border-left: 1px solid $body-background;

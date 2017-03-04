@@ -76,8 +76,8 @@ organizers:
     role: "Program Committee"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: false
-    github: ""
-    twitter: ""
+    github: "deatonjm"
+    twitter: "__deatz__"
     website: ""
 
   - name: "Kenneth Love"
@@ -141,7 +141,7 @@ organizers:
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
     hidden: true
     github: ""
-    twitter: ""
+    twitter: "rebeccakindschi"
     website: ""
 
   - name: "Stacey Haysler"

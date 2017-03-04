@@ -139,7 +139,7 @@ organizers:
   - name: "Rebecca Kindschi"
     role: "Communication Chair"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
+    hidden: false
     github: ""
     twitter: "rebeccakindschi"
     website: ""

@@ -13,6 +13,11 @@
     color: $light-blue;
   }
 
+  .row:first-child {
+    // Specific to 2017. Adjust for different copy.
+    max-width: 50em;
+  }
+
   .subhead {
 
     max-width: 660px;

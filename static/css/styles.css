@@ -726,7 +726,7 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 }.footer-nav{list-style:none;margin:0;padding:0;font-weight:bold;font-size:1.15385rem}
 .footer-nav a{color:#fefefe;display:block;padding:.25em .5em}@media print,screen and (min-width:55.625em){.footer-nav{text-align:center}
 .footer-nav li{display:inline-block;vertical-align:baseline}}.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
-.header h1{color:#84d3d5}.header .subhead{max-width:660px;text-align:center;color:#f1dfc7}
+.header h1{color:#84d3d5}.header .row:first-child{max-width:50em}.header .subhead{max-width:660px;text-align:center;color:#f1dfc7}
 .header .subhead strong{display:block;font-weight:500}.header .subheading{margin-bottom:.5rem;font-size:1.05769rem;font-weight:400}
 @media screen and (max-width:55.5625em){.header .dates-year{display:none !important}
 }.header .location:before{content:"";width:100px;display:block;margin:0 auto .5em;border-top:1px solid #f1dfc7}

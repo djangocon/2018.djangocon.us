@@ -522,17 +522,17 @@ input:checked ~ .switch-paddle{background:#0c4b33}input:checked ~ .switch-paddle
 .switch.small input:checked ~ .switch-paddle::after{left:2rem}.switch.large{height:2.5rem}
 .switch.large .switch-paddle{width:5rem;height:2.5rem;font-size:.76923rem}.switch.large .switch-paddle::after{top:.25rem;left:.25rem;width:2rem;height:2rem}
 .switch.large input:checked ~ .switch-paddle::after{left:2.75rem}table{width:100%;margin-bottom:1rem;border-radius:0}
-table thead,table tbody,table tfoot{border:1px solid #f1f1f1;background-color:#fefefe}
-table caption{padding:.38462rem .48077rem .48077rem;font-weight:500}table thead{background:#f8f8f8;color:#0c4b33}
-table tfoot{background:#f1f1f1;color:#0c4b33}table thead tr,table tfoot tr{background:transparent}
+table thead,table tbody,table tfoot{border:1px solid #dfcaae;background-color:#e5d4bd}
+table caption{padding:.38462rem .48077rem .48077rem;font-weight:500}table thead{background:#e2cfb6;color:#0c4b33}
+table tfoot{background:#dfcaae;color:#0c4b33}table thead tr,table tfoot tr{background:transparent}
 table thead th,table thead td,table tfoot th,table tfoot td{padding:.38462rem .48077rem .48077rem;font-weight:500;text-align:left}
-table tbody th,table tbody td{padding:.38462rem .48077rem .48077rem}table tbody tr:nth-child(even){border-bottom:0;background-color:#f1f1f1}
-table.unstriped tbody{background-color:#fefefe}table.unstriped tbody tr{border-bottom:0;border-bottom:1px solid #f1f1f1;background-color:#fefefe}
+table tbody th,table tbody td{padding:.38462rem .48077rem .48077rem}table tbody tr:nth-child(even){border-bottom:0;background-color:#dfcaae}
+table.unstriped tbody{background-color:#e5d4bd}table.unstriped tbody tr{border-bottom:0;border-bottom:1px solid #dfcaae;background-color:#e5d4bd}
 @media screen and (max-width:63.9375em){table.stack thead{display:none}table.stack tfoot{display:none}
 table.stack tr,table.stack th,table.stack td{display:block}table.stack td{border-top:0}
-}table.scroll{display:block;width:100%;overflow-x:auto}table.hover thead tr:hover{background-color:#f3f3f3}
-table.hover tfoot tr:hover{background-color:#ececec}table.hover tbody tr:hover{background-color:#f9f9f9}
-table.hover:not(.unstriped) tr:nth-of-type(even):hover{background-color:#ececec}.table-scroll{overflow-x:auto}
+}table.scroll{display:block;width:100%;overflow-x:auto}table.hover thead tr:hover{background-color:#dfcaae}
+table.hover tfoot tr:hover{background-color:#dcc5a7}table.hover tbody tr:hover{background-color:#e2cfb6}
+table.hover:not(.unstriped) tr:nth-of-type(even):hover{background-color:#dbc3a3}.table-scroll{overflow-x:auto}
 .table-scroll table{width:auto}.tabs{margin:0 0 3em 0;border:1px solid transparent;background:rgba(255,255,255,0.3);list-style-type:none}
 .tabs::before,.tabs::after{display:table;content:' '}.tabs::after{clear:both}
 .tabs.vertical>li{display:block;float:none;width:auto}.tabs.simple>li>a{padding:0}

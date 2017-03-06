@@ -8,7 +8,11 @@ title: "Tickets Are Now on Sale!"
 
 Hello from your DjangoCon US organizers! :wave: Tickets for DjangoCon US 2017 in Spokane, WA, are now on sale. [Buy yours today](https://ti.to/defna/djangocon-us-2017)! 
 
-Dates: August 13 Tutorials | August 14-16 Talks | August 17-18 Sprints
+**Conference Schedule**: 
+
+- August 13: **Tutorials**
+- August 14-16: **Talks**
+- August 17-18: **Sprints**
 
 We have tiered pricing, so please read through and pick the best one for you. If you need assistance with travel, accommodation expenses, and/or a conference ticket then please [apply for financial aid](https://docs.google.com/forms/d/e/1FAIpQLSeAv0EiZlrNISofSaZNyf7INq86Ayka8ZV_aEWHr97ptUP26A/viewform?c=0&w=1) by April 10, 2017. 
 

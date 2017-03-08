@@ -14,6 +14,10 @@ h6 {
   font-weight: $global-weight-normal;
 }
 
+.lead.min {
+  margin-bottom: 1.5rem;
+}
+
 .demp {
   font-weight: $global-weight-normal;
 }
@@ -29,4 +33,25 @@ iframe,
 
 .responsive-embed iframe {
   margin-bottom: 0;
+}
+
+.thumbnail-map {
+  border-radius: 0;
+}
+
+.list-split {
+  li {
+    margin-bottom: $global-margin;
+    line-height: 1.2;
+  }
+
+  @include breakpoint(medium) {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+
+    li {
+      width: 45%;
+    }
+  }
 }

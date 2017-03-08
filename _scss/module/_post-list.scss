@@ -1,0 +1,24 @@
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-item {
+  padding-bottom: $global-padding;
+  margin-bottom: $global-margin;
+  border-bottom: 1px solid $dark-beige;
+  @include bottomless;
+}
+
+.post-title {
+  font-weight: $global-weight-normal;
+}
+
+.post-title a {
+  color: $secondary-color;
+
+  &:hover {
+    color: $primary-color;
+  }
+}

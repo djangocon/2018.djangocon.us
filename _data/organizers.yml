@@ -1,0 +1,161 @@
+organizers:
+
+  - name: "Alexis Fitzpatrick"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: false
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Anna Ossowski"
+    role: "Diversity Chair"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: false
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Brent Schneider"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Daniel Lindsley"
+    role: "Program Committee"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Elliott Stoll"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: 'Heather "Heats" Luna'
+    role: "Sponsors Chair and Awesomeness at Everything"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: false
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Craig Bruce"
+    role: "DEFNA Treasurer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Irene Nandutu"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Jeff Triplett"
+    role: "Delegator and DEFNA President"
+    photo_url: "/static/img/organizers/jeff.jpg"
+    hidden: false
+    github: "jefftriplett"
+    twitter: "webology"
+    website: "https://jefftriplett.com/"
+
+  - name: 'Jessica "Deatz" Deaton'
+    role: "Program Committee"
+    photo_url: "/static/img/organizers/deatz.jpg"
+    hidden: false
+    github: "deatonjm"
+    twitter: "__deatz__"
+    website: ""
+
+  - name: "Kenneth Love"
+    role: "Program Committee"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Kojo Idrissa"
+    role: ":zap: Talk/Orientation Chair"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: false
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Lacey Williams Henschel"
+    role: "Conference Chair"
+    photo_url: "/static/img/organizers/lacey.jpg"
+    hidden: false
+    github: "williln"
+    twitter: "laceynwilliams"
+    website: "https://www.laceyhenschel.com/"
+
+  - name: "Landon Jurgens"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Nicholle James"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Philip James"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Rebecca Conley"
+    role: "Organizer"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Rebecca Kindschi"
+    role: "Communication Chair"
+    photo_url: "/static/img/organizers/rebeccakindschi.jpg"
+    hidden: false
+    github: ""
+    twitter: "rebeccakindschi"
+    website: ""
+
+  - name: "Stacey Haysler"
+    role: "DEFNA Corporate Secretary"
+    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    hidden: true
+    github: ""
+    twitter: ""
+    website: ""
+
+  - name: "Timothy Allen"
+    role: "Program Committee"
+    photo_url: "/static/img/organizers/tim.jpg"
+    hidden: false
+    github: "flipperpa"
+    twitter: "FlipperPA"
+    website: "http://www.PyPhilly.org/"

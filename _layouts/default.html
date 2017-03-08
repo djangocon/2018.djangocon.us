@@ -1,0 +1,17 @@
+---
+title: 2017.djangocon.us
+layout: base
+---
+
+{% include titlebar.html %}
+<header class="subpage-header">
+  <h1>{% if page.heading %}{{ page.heading }}{% else %}{{ page.title }}{% endif %}</h1>
+</header>
+
+<div class="content subpage-content">
+  <div class="row column">
+
+    {{ content }}
+
+  </div>
+</div><!-- end .content -->

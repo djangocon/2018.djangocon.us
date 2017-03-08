@@ -1,0 +1,35 @@
+.photo-hero {
+  background-size: cover;
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    background: $body-background;
+    padding-top: rem-calc(10);
+
+    .column {
+      @include bottomless;
+    }
+
+  }
+
+  blockquote{
+    font-size: rem-calc(32);
+    border: none;
+    padding: 0;
+  }
+
+  cite {
+    font-size: rem-calc(20);
+  }
+
+  @include breakpoint(medium) {
+    padding-top: 16vh;
+    padding-bottom: 16vh;
+
+    .hero-content {
+      background: transparent;
+      padding-top: 0;
+    }
+  }
+}

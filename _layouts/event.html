@@ -1,0 +1,58 @@
+---
+title:
+layout: base
+---
+
+{% include titlebar.html %}
+<header class="subpage-header">
+  <h1>
+    {% if page.heading %}{{ page.heading }}{% else %}{{ page.title }}{% endif %}
+  </h1>
+  <p class="lead">
+    {{ page.datefriendly }},
+    {{ page.room }}
+    <br>
+    <small>
+      <span
+        class="label secondary"
+        aria-label="Audience level:">{{ page.difficulty }}</span>
+    </small>
+  </p>
+</header>
+
+<div class="content subpage-content">
+  <div class="row">
+    <div class="column medium-8" markdown="1">
+      {{ content }}
+    </div>
+    <div class="column medium-4">
+      <div class="profile">
+        <img class="thumbnail" src="https://placem.at/people?w=600&h=600">
+        <h4>Jane Doe</h4>
+        <p>This is what Jane does.</p>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+
+      {% comment %}
+      {% if page.video_url or page.slides_url %}
+      <section class="event-links">
+        <h4>Resources</h4>
+        <a href="{{ page.video_url }}" class="button">Video</a>
+        <a href="{{ page.slides_url }}" class="button">Slides</a>
+      </section>
+      {% endif %}
+      {% endcomment %}
+    </div><!-- end .column -->
+  </div><!-- end .row -->
+</div><!-- end .content -->

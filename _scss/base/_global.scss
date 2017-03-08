@@ -1,0 +1,32 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  a {
+    text-decoration: none;
+  }
+}
+
+.lead {
+  margin-bottom: 2.5rem;
+  font-weight: $global-weight-normal;
+}
+
+.demp {
+  font-weight: $global-weight-normal;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+iframe,
+.highlighter-rouge {
+  margin-bottom: $global-margin;
+}
+
+.responsive-embed iframe {
+  margin-bottom: 0;
+}

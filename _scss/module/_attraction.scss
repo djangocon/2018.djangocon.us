@@ -1,0 +1,24 @@
+.attraction-name {
+  margin-bottom: $global-margin / 2;
+}
+
+.attraction-location {
+  font-size: .8rem;
+}
+
+.attraction-location .label {
+  margin-right: 1rem;
+  font-size: .8em;
+  font-weight: $global-weight-bold;
+}
+
+.attraction-description {
+  max-width: 24em;
+  font-size: .9rem;
+}
+
+.attraction-list .column {
+  @include breakpoint(large) {
+    margin-bottom: 2.5rem;
+  }
+}

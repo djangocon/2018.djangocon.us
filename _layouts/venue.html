@@ -21,29 +21,29 @@ layout: base
     <p>More story telling about the adventure you are about to have. Nam imperdiet tempor porttitor. Aliquam et est iaculis, consectetur leo id, facilisis tellus. Vestibulum eu varius tortor. Duis non viverra dolor, eu fermentum velit. </p>
   </div>
   <div class="medium-5 column">
+    {% comment %}
     <iframe
       class="thumbnail thumbnail-block"
       width="600"
       height="380"
       frameborder="0"
       src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJv9e4a_QYnlQRqsCuHEMJZfY&key=AIzaSyC53fhhv-toSLa-iCzc0qt8zFmVNF1vfDw" allowfullscreen></iframe>
-    {% comment %}
+    {% endcomment %}
     <a
-      href="#"
+      href="https://www.google.com/maps?ll=47.664973,-117.41688&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=303+W+North+River+Dr+Spokane,+WA+99201"
       target="_blank">
       <img
-        class="thumbnail thumbnail-map"
+        class="thumbnail thumbnail-block"
         width="600" src="https://maps.googleapis.com/maps/api/staticmap?scale=false&zoom=17&size=600x480&maptype=roadmap&key=AIzaSyBpAAN1jo0K9AbR4znChM9VwXUZgPDd5zM&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xe65b00%7Clabel:1%7C47.66441,+-117.41611"
         alt="Google Map of Hotel RL by Red Lion Spokane at the Park">
     </a>
-    {% endcomment %}
   </div>
 </div>
 
 
 <section class="section-pad theme-dark-beige">
   <div class="row column">
-    <div class="medium-6 column">
+    <div class="medium-6 column hide-for-small-only">
       <img
         class="thumbnail thumbnail-block"
         src="/static/img/venue.jpg"
@@ -76,8 +76,46 @@ layout: base
 
   <section class="row large-up-2 attraction-list">
     <div class="column column-block">
-      <div class="media-object attraction">
+      <div class="media-object stack-for-small attraction">
+        <div class="media-object-section hide-for-small-only">
+          <a href="#" class="thumbnail thumbnail-block">
+            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
+          </a>
+        </div>
         <div class="media-object-section">
+          <h3 class="attraction-name">
+            <a href="#">Banana Stand</a>
+          </h3>
+          <p class="attraction-location">
+            <span class="label">.3mi away</span>
+            <a href="#">123 Banana Stand St.</a>
+          </p>
+          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
+        </div>
+      </div>
+    </div>
+    <div class="column column-block">
+      <div class="media-object stack-for-small attraction">
+        <div class="media-object-section hide-for-small-only">
+          <a href="#" class="thumbnail thumbnail-block">
+            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
+          </a>
+        </div>
+        <div class="media-object-section">
+          <h3 class="attraction-name">
+            <a href="#">Banana Stand</a>
+          </h3>
+          <p class="attraction-location">
+            <span class="label">.3mi away</span>
+            <a href="#">123 Banana Stand St.</a>
+          </p>
+          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
+        </div>
+      </div>
+    </div>
+    <div class="column column-block">
+      <div class="media-object stack-for-small attraction">
+        <div class="media-object-section hide-for-small-only">
           <a href="#" class="thumbnail thumbnail-block">
             <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
           </a>
@@ -96,45 +134,7 @@ layout: base
     </div>
     <div class="column column-block">
       <div class="media-object attraction">
-        <div class="media-object-section">
-          <a href="#" class="thumbnail thumbnail-block">
-            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
-          </a>
-        </div>
-        <div class="media-object-section">
-          <h3 class="attraction-name">
-            <a href="#">Banana Stand</a>
-          </h3>
-          <p class="attraction-location">
-            <span class="label">.3mi away</span>
-            <a href="#">123 Banana Stand St.</a>
-          </p>
-          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
-        </div>
-      </div>
-    </div>
-    <div class="column column-block">
-      <div class="media-object attraction">
-        <div class="media-object-section">
-          <a href="#" class="thumbnail thumbnail-block">
-            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
-          </a>
-        </div>
-        <div class="media-object-section">
-          <h3 class="attraction-name">
-            <a href="#">Banana Stand</a>
-          </h3>
-          <p class="attraction-location">
-            <span class="label">.3mi away</span>
-            <a href="#">123 Banana Stand St.</a>
-          </p>
-          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
-        </div>
-      </div>
-    </div>
-    <div class="column column-block">
-      <div class="media-object attraction">
-        <div class="media-object-section">
+        <div class="media-object-section hide-for-small-only">
           <a href="#" class="thumbnail thumbnail-block">
             <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
           </a>
@@ -163,7 +163,7 @@ layout: base
     </div>
     <div class="column medium-6">
       <div class="callout callout-dark">
-        <ul>
+        <ul class="bottomless">
           <li>Child care is offered free of charge (with pre-registration) Aug 13-18. <a href="#">Learn more about child care.</a></li>
           <li>A quiet room is provided on the second floor, Room 202, Aug 13-15. This room is not for socializing.</li>
           <li>Hotel RL does not provide gender-neutral restrooms. Please use the restroom for the gender with which you identify.</li>

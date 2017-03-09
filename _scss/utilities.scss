@@ -5,6 +5,10 @@
   }
 }
 
+.bottomless {
+  @include bottomless;
+}
+
 .v-pad-bottom {
     padding-bottom: 1rem;
 

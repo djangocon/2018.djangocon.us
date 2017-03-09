@@ -751,13 +751,12 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .card-theme-light-beige h1,.card-theme-light-beige h2,.card-theme-light-beige h3,.card-theme-light-beige h4,.card-theme-light-beige h5,.card-theme-light-beige h6,.card-theme-light-beige a{color:#f8efe3}
 .card-theme-light-beige a:hover{color:#dfd7cc}.card-theme-light-beige .theme-color{color:#f8efe3}
 .card-theme-light-beige .theme-bg{background-color:#f8efe3;color:#fff}.card-theme-light-beige path{fill:#f8efe3}
-.v-pad-bottom{padding-bottom:1rem}@media print,screen and (min-width:55.625em){.v-pad-bottom{padding-bottom:2rem}
+.bottomless>*:last-child{margin-bottom:0}.v-pad-bottom{padding-bottom:1rem}@media print,screen and (min-width:55.625em){.v-pad-bottom{padding-bottom:2rem}
 }.v-pad-top{padding-top:1rem}@media print,screen and (min-width:55.625em){.v-pad-top{padding-top:2rem}
 }.section-pad{padding-top:1rem;padding-bottom:1rem}@media print,screen and (min-width:55.625em){.section-pad{padding-top:4rem;padding-bottom:4rem}
 }h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none}li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}
-.lead.min{margin-bottom:1.5rem}.demp{font-weight:400}p:last-child{margin-bottom:0}
-iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bottom:0}
-.thumbnail-block{border-radius:0}@media print,screen and (min-width:55.625em){.list-split{display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-pack:justify;justify-content:space-between}
+.lead.min{margin-bottom:1.5rem}.demp{font-weight:400}iframe,.highlighter-rouge{margin-bottom:1rem}
+.responsive-embed iframe{margin-bottom:0}.thumbnail-block{border-radius:0}@media print,screen and (min-width:55.625em){.list-split{display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-pack:justify;justify-content:space-between}
 .list-split li{width:45%}}.callout-dark{background-color:#072a1c;color:#f1dfc7}.button{text-decoration:none}
 .button+.button{margin-left:.5em}.button.secondary,.button.secondary:hover{color:#fefefe}
 .event-page h1{margin-bottom:.5rem}.menu a{color:#fefefe;text-decoration:none}.headroom--top .menu .menu,.menu .menu{text-align:left}

@@ -3,8 +3,10 @@
 sponsors:
 
   - name: "Lincoln Loop"
-    logo: "https://storage.googleapis.com/ec-djangocon-2016/sponsor_files/lincolnloop-favicon195.png.300x300_q85_background-%23ffffff_upscale-True.jpg"
+    logo: "/static/img/sponsors/ll_logo_landscape_color.svg"
+    logo_orientation: landscape
     url: "https://lincolnloop.com/"
+    url_friendly: "lincolnloop.com"
     level: "Diamond"
     description: |
       Lincoln Loop is a full-service software development agency
@@ -17,7 +19,9 @@ sponsors:
 
   - name: "Revsys"
     logo: "https://storage.googleapis.com/ec-djangocon-2016/sponsor_files/revsys-logo.png.300x300_q85_background-%23ffffff_upscale-True.png"
+    logo_orientation: portrait
     url: "http://www.revsys.com/"
+    url_friendly: "revsys.com"
     devel: "Gold"
     description: |
       Revolution Systems primarily focuses on building and maintaining

@@ -793,8 +793,8 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .footer-logo:hover .djangocon{fill:#0c4b33}@media print,screen and (min-width:55.625em){.footer-logo{margin-top:-44px}
 }.footer-nav{list-style:none;margin:0;padding:0;font-weight:bold;font-size:1.15385rem}
 .footer-nav a{color:#fefefe;display:block;padding:.25em .5em}@media print,screen and (min-width:55.625em){.footer-nav{text-align:center}
-.footer-nav li{display:inline-block;vertical-align:baseline}}.attraction-name{margin-bottom:.5rem}
-.attraction-location{font-size:.8rem}.attraction-location .label{margin-right:1rem;font-size:.8em;font-weight:500}
+.footer-nav li{display:inline-block;vertical-align:baseline}}.sponsor-cta-box h2{margin-bottom:.5rem;font-size:1.34615rem}
+.attraction-name{margin-bottom:.5rem}.attraction-location{font-size:.8rem}.attraction-location .label{margin-right:1rem;font-size:.8em;font-weight:500}
 .attraction-description{max-width:24em;font-size:.9rem}@media print,screen and (min-width:64em){.attraction-list .column,.attraction-list .columns{margin-bottom:2.5rem}
 .attraction-list .column:nth-last-child(1),.attraction-list .columns:nth-last-child(1),.attraction-list .column:nth-last-child(2),.attraction-list .columns:nth-last-child(2){margin-bottom:0}
 }.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
@@ -838,7 +838,9 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .profile{margin:0 auto;max-width:360px;text-align:center;padding:20px}.profile-name{font-size:1.15385rem}
 .post-list{list-style:none;margin:0;padding:0}.post-item{padding-bottom:1rem;margin-bottom:1rem;border-bottom:1px solid #e5d4bd}
 .post-item>*:last-child{margin-bottom:0}.post-title{font-weight:400}.post-title a{color:#d66315}
-.post-title a:hover{color:#0c4b33}.social-icons{list-style:none;margin:2em auto;text-align:center}
+.post-title a:hover{color:#0c4b33}.sponsor{margin-bottom:2rem}.sponsor-name{font-size:1.73077rem;font-weight:400}
+.sponsor-url{font-size:.96154rem;font-weight:400}.sponsor-logo{margin-bottom:1rem}
+.sponsor-logo.portrait{max-height:200px}.sponsor-logo.landscape{max-width:300px}.social-icons{list-style:none;margin:2em auto;text-align:center}
 .social-icons li{display:inline-block;margin:0 1em}.profile .social-icons{margin:1em 0}
 .profile .social-icons li{margin:0 .5em}.social-icons a{display:block}.social-icons a svg{fill:#fefefe;width:42px;height:42px}
 .profile .social-icons a svg{width:32px;height:32px;fill:#d66315}.social-icons a:hover svg{fill:#0c4b33}

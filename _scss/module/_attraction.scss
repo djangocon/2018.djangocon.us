@@ -20,5 +20,11 @@
 .attraction-list .column {
   @include breakpoint(large) {
     margin-bottom: 2.5rem;
+
+    // 2-by-2 grid. Bottom 2 columns shouldn't have margin bottom
+    &:nth-last-child(1),
+    &:nth-last-child(2) {
+      margin-bottom: 0;
+    }
   }
 }

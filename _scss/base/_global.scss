@@ -9,6 +9,10 @@ h6 {
   }
 }
 
+li {
+  margin-bottom: .85rem;
+}
+
 .lead {
   margin-bottom: 2.5rem;
   font-weight: $global-weight-normal;
@@ -40,11 +44,6 @@ iframe,
 }
 
 .list-split {
-  li {
-    margin-bottom: $global-margin;
-    line-height: 1.2;
-  }
-
   @include breakpoint(medium) {
     display: flex;
     flex-flow: row wrap;
@@ -54,4 +53,8 @@ iframe,
       width: 45%;
     }
   }
+}
+
+.callout-dark {
+  @include callout-style(darken($dark-green, 5%));
 }

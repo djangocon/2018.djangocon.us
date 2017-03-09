@@ -64,7 +64,7 @@ heading: Sponsors
             </a>
           </div>
           <div class="column medium-8">
-            <h3 class="sponsor-name"><a href="{{ sponsor.url }}" target="_blank">{{ sponsor.name }}</a></h3>
+            <h3 class="sponsor-name"><a href="{{ sponsor.url }}" >{{ sponsor.name }}</a></h3>
             <p class="sponsor-description">{{ sponsor.description }}</p>
           </div>
         </div>
@@ -79,7 +79,7 @@ heading: Sponsors
       {% unless sponsor.hidden %}
         <div class="row sponsor">
           <div class="column medium-4 text-center">
-            <a href="{{ sponsor.url }}" target="_blank">
+            <a href="{{ sponsor.url }}" >
               <img
                 class="sponsor-logo {{ sponsor.logo_orientation }}"
                 src="{{ sponsor.logo }}"
@@ -87,7 +87,7 @@ heading: Sponsors
             </a>
           </div>
           <div class="column medium-8">
-            <h3 class="sponsor-name"><a href="{{ sponsor.url }}" target="_blank">{{ sponsor.name }}</a></h3>
+            <h3 class="sponsor-name"><a href="{{ sponsor.url }}" >{{ sponsor.name }}</a></h3>
             <p class="sponsor-description">{{ sponsor.description }}</p>
           </div>
         </div>

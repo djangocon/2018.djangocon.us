@@ -19,7 +19,7 @@ Get started contributing by reading our [Contributing](CONTRIBUTING.md) guidelin
 
 3. For changes that do not need to be tested locally, the change can be made and submitted in the browser, without cloning the repo locally. 
 
-4. Within your forked repo, click on the "Branch" tab and choose the "design" branch. During development, most updates are made to the branch being used for development (in this case, the ["design" branch](https://github.com/djangocon/2017.djangocon.us/tree/design)) and merged by an admin with the master branch when ready for production. 
+4. Within your forked repo, make sure the "Branch" tab is set to "develop" branch. During development, most updates are made to the branch being used for development (in this case, the ["develop" branch](https://github.com/djangocon/2017.djangocon.us/tree/develop)) and merged by an admin with the master branch when ready for production. 
 
 5. Once you are on the correct branch, navigate to the file you intend to change and click the pencil icon to open it. Make the change and click the "Commit changes" button. 
 
@@ -45,13 +45,13 @@ Change directory into the folder
 $ cd 2017.djangocon.us
 ```
 
-To work on the development branch (called "design"), change to that branch
+To work on the development branch (called "develop"), change to that branch
 
 ```bash
-$ git checkout design
+$ git checkout develop
 ```
 
-Verify that you are on the design branch   
+Verify that you are on the develop branch   
 
 ```bash
 $ git branch
@@ -92,12 +92,12 @@ $ gulp
 
 ### Pushing to GitHub and Submitting a Pull Request
 
-After you have made your changes, you will need to push the local files with the changes back to GitHub in order to submit a pull request. Assuming you are still on the "design" branch, you will be pushing your changes from the local "design" branch to the "design" branch of the forked repo at your GitHub account. 
+After you have made your changes, you will need to push the local files with the changes back to GitHub in order to submit a pull request. Assuming you are still on the "develop" branch, you will be pushing your changes from the local "develop" branch to the "develop" branch of the forked repo at your GitHub account. 
 
 ```bash
 $ git add .
 $ git commit -m "Your note" 
-$ git push origin design
+$ git push origin develop
 ```
 
 You will then resume the process at step 6 to submit a pull request. 

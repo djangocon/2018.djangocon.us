@@ -1,0 +1,40 @@
+---
+layout: base
+permalink: /sponsors/
+---
+
+{% include titlebar.html %}
+<header class="subpage-header">
+  <h1>{{ page.heading }}</h1>
+</header>
+
+<div class="content subpage-content">
+  <section class="section-pad">
+    <div class="row column">
+      <p class="lead">
+        Intro paragraph. There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.
+      </p>
+      <div
+        class="row small-up-1 smedium-up-2 medium-up-3 large-up-4 sponsors">
+      {% for sponsor in site.data.sponsors.sponsors %}
+        {% unless sponsor.hidden %}
+          <div
+            class="column column-block">
+            <div class="profile">
+              <img
+                class="thumbnail"
+                src="{{ sponsor.logo }}"
+                alt="Photo of {{ sponsor.name }}" />
+              <div class="profile-namecard">
+                <h3 class="profile-name">{{ sponsor.name }}</h3>
+                {{ sponsor.description }}
+              </div>
+              </div><!--/.profile -->
+          </div><!--/.column -->
+        {% endunless %}
+      {% endfor %}
+
+      </div><!--/.row -->
+    </div>
+  </section>
+</div><!-- end .content -->

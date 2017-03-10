@@ -10,26 +10,27 @@
 }
 
 .v-pad-bottom {
-    padding-bottom: 1rem;
+  padding-bottom: 1rem;
 
-    @include breakpoint(medium) {
-      padding-bottom: 2rem;
-    }
+  @include breakpoint(medium) {
+    padding-bottom: 2rem;
+  }
 }
-.v-pad-top {
-    padding-top: 1rem;
 
-    @include breakpoint(medium) {
-      padding-top: 2rem;
-    }
+.v-pad-top {
+  padding-top: 1rem;
+
+  @include breakpoint(medium) {
+    padding-top: 2rem;
+  }
 }
 
 .section-pad {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 
-    @include breakpoint(medium) {
-      padding-top: 4rem;
-      padding-bottom: 4rem;
-    }
+  @include breakpoint(medium) {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
 }

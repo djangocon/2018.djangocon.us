@@ -135,8 +135,8 @@ layout: base
       {% unless post.hidden %}
       <article class="news-title medium-4 column">
         <div class="card card-theme-orange">
-          {% if forloop.first %}<small class="label">Latest</small>{% endif %}
           <div class="card-section">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h3>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
             </h3>
@@ -148,12 +148,12 @@ layout: base
   </div>
 
   <div class="row v-pad-top">
-    <div class="medium-4 column medium-centered">
-      <a class="button secondary expanded" href="#">Read More News</a>
+    <div class="medium-4 column medium-centered text-center">
+      <a class="button secondary" href="/news/">Read More News</a>
     </div>
   </div>
 </section>
 
-{% include sponsors-footer.html %}
+{% include sponsor-footer.html %}
 
 </div><!-- end .content -->

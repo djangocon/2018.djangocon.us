@@ -840,7 +840,8 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .post-item>*:last-child{margin-bottom:0}.post-title{font-weight:400}.post-title a{color:#d66315}
 .post-title a:hover{color:#0c4b33}.sponsor{margin-bottom:2rem}.sponsor-name{font-size:1.73077rem;font-weight:400}
 .sponsor-url{font-size:.96154rem;font-weight:400}.sponsor-logo{margin-bottom:1rem}
-.sponsor-logo.portrait{max-height:200px}.sponsor-logo.landscape{max-width:300px}.social-icons{list-style:none;margin:2em auto;text-align:center}
+.sponsor-logo.portrait{max-height:200px}.sponsor-logo.landscape{max-width:300px}.sponsor-footer .sponsor-logo.portrait{max-height:80px}
+.sponsor-footer .sponsor-logo.landscape{max-width:180px}.social-icons{list-style:none;margin:2em auto;text-align:center}
 .social-icons li{display:inline-block;margin:0 1em}.profile .social-icons{margin:1em 0}
 .profile .social-icons li{margin:0 .5em}.social-icons a{display:block}.social-icons a svg{fill:#fefefe;width:42px;height:42px}
 .profile .social-icons a svg{width:32px;height:32px;fill:#d66315}.social-icons a:hover svg{fill:#0c4b33}

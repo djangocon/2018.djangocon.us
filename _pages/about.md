@@ -10,7 +10,7 @@ description: DjangoCon US is dedicated to providing a fun harassment-free confer
 heading: About DjangoCon US
 ---
 
-<h2 class="demp">DjangoCon US is a six-day international community conference for the community by the community about the Django web framework, held each year in North America.</h2>
+<h2 class="demp">DjangoCon US is a six-day international conference for the community by the community about the Django web framework, held each year in North America.</h2>
 
-DjangoCon has something for everyone, from the person who develops Django applications for a living to the person who just tinkers in their spare time. You'll discover details about a range of diverse applications that people from all over the world are building with Django, get a deeper understanding of concepts you’re already familiar with and discover new ways to use them, and have a lot of fun!
+DjangoCon US has something for everyone, from the person who develops Django applications for a living to the person who just tinkers in their spare time. You'll discover details about a range of diverse applications that people from all over the world are building with Django, get a deeper understanding of concepts you’re already familiar with and discover new ways to use them, and have a lot of fun!
 {: .lead}

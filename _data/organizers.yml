@@ -10,11 +10,11 @@ organizers:
 
   - name: "Anna Ossowski"
     role: "Diversity Chair"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    photo_url: "/static/img/organizers/anna.jpg"
     hidden: false
-    github: ""
-    twitter: ""
-    website: ""
+    github: "ossanna16"
+    twitter: "ossanna16"
+    website: "http://anna-oz.tumblr.com/"
 
   - name: "Brent Schneider"
     role: "Organizer"

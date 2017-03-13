@@ -18,11 +18,11 @@ organizers:
 
   - name: "Brent Schneider"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
-    website: ""
+    photo_url: "/static/img/organizers/brentschneider.jpg"
+    hidden: false
+    github: "brentschneider"
+    twitter: "webmedic"
+    website: "https://brentschneider.github.io"
 
   - name: "Daniel Lindsley"
     role: "Program Committee"

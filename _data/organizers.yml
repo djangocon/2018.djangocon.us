@@ -50,10 +50,10 @@ organizers:
 
   - name: "Craig Bruce"
     role: "DEFNA Treasurer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
+    photo_url: "/static/img/organizers/craig.png"
+    hidden: false
+    github: "craigbruce"
+    twitter: "craigbruce"
     website: ""
 
   - name: "Irene Nandutu"

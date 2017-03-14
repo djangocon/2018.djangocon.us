@@ -104,10 +104,6 @@ You will then resume the process at step 6 to submit a pull request.
 
 If you plan to continue working locally and submitting pull requests, you may want to add an upstream remote locally that points to DjangoCon U.S., in order to fetch changes. 
 
-## License
-
-[MIT License](LICENSE)
-
 ## Contributors
 
 Thanks goes to these wonderful people:
@@ -119,3 +115,7 @@ Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project uses the [all-contributors-cli](https://www.npmjs.com/package/all-contributors-cli). Contributions of any kind welcome!
+
+## License
+
+[MIT License](LICENSE)

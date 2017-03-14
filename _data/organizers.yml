@@ -58,10 +58,10 @@ organizers:
 
   - name: "Irene Nandutu"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
+    photo_url: "/static/img/organizers/irene.jpg"
+    hidden: false
+    github: "Nandutu"
+    twitter: "irenenanduttu"
     website: ""
 
   - name: "Jeff Triplett"

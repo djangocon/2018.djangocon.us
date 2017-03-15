@@ -15,6 +15,10 @@
     "start": "gulp",
     "build": "gulp sass"
   },
+  "scripts": {
+    "add": "all-contributors add",
+    "generate": "all-contributors generate"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/zurb/foundation-sites-template.git"

@@ -104,6 +104,23 @@ You will then resume the process at step 6 to submit a pull request.
 
 If you plan to continue working locally and submitting pull requests, you may want to add an upstream remote locally that points to DjangoCon U.S., in order to fetch changes. 
 
+### Adding Contributors
+
+If you have gone through the previous installation steps, the all-contributors-cli package should already be installed locally by npm. The developer dependency and scripts can be found in package.json and the init config and JSON entries in the .all-contributorsrc file.
+
+To add a contributor by GitHub username (this will add a JSON entry to .all-contributorsrc and add the contributor to the README list), run the following command, hitting enter twice to avoid choosing any contribution type
+
+```bash
+$ npm run add -- <username>
+hit enter twice
+```
+
+To generate a README list from the .all-contributorsrc file
+
+```bash
+$ npm run generate
+```
+
 ## Contributors
 
 Thanks goes to these wonderful people:

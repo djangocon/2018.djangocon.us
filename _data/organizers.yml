@@ -24,6 +24,14 @@ organizers:
     twitter: "webmedic"
     website: "https://brentschneider.github.io"
 
+  - name: "Craig Bruce"
+    role: "DEFNA Treasurer"
+    photo_url: "/static/img/organizers/craig.png"
+    hidden: false
+    github: "craigbruce"
+    twitter: "craigbruce"
+    website: ""
+
   - name: "Daniel Lindsley"
     role: "Program Committee"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"
@@ -46,14 +54,6 @@ organizers:
     hidden: false
     github: ""
     twitter: ""
-    website: ""
-
-  - name: "Craig Bruce"
-    role: "DEFNA Treasurer"
-    photo_url: "/static/img/organizers/craig.png"
-    hidden: false
-    github: "craigbruce"
-    twitter: "craigbruce"
     website: ""
 
   - name: "Irene Nandutu"
@@ -79,6 +79,14 @@ organizers:
     github: "deatonjm"
     twitter: "__deatz__"
     website: ""
+
+  - name: 'Katherine "Kati" Michel'
+    role: "Website Chair"
+    photo_url: "/static/img/organizers/kati.jpg"
+    hidden: false
+    github: "KatherineMichel"
+    twitter: "KatiMichel"
+    website: "http://katherinemichel.github.io/"
 
   - name: "Kenneth Love"
     role: "Program Committee"

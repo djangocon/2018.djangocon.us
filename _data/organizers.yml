@@ -18,10 +18,18 @@ organizers:
 
   - name: "Brent Schneider"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
+    photo_url: "/static/img/organizers/brentschneider.jpg"
+    hidden: false
+    github: "brentschneider"
+    twitter: "webmedic"
+    website: "https://brentschneider.github.io"
+
+  - name: "Craig Bruce"
+    role: "DEFNA Treasurer"
+    photo_url: "/static/img/organizers/craig.png"
+    hidden: false
+    github: "craigbruce"
+    twitter: "craigbruce"
     website: ""
 
   - name: "Daniel Lindsley"
@@ -48,20 +56,12 @@ organizers:
     twitter: ""
     website: ""
 
-  - name: "Craig Bruce"
-    role: "DEFNA Treasurer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
-    website: ""
-
   - name: "Irene Nandutu"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
+    photo_url: "/static/img/organizers/irene.jpg"
+    hidden: false
+    github: "Nandutu"
+    twitter: "irenenanduttu"
     website: ""
 
   - name: "Jeff Triplett"
@@ -79,6 +79,14 @@ organizers:
     github: "deatonjm"
     twitter: "__deatz__"
     website: ""
+
+  - name: 'Katherine "Kati" Michel'
+    role: "Website Chair"
+    photo_url: "/static/img/organizers/kati.jpg"
+    hidden: false
+    github: "KatherineMichel"
+    twitter: "KatiMichel"
+    website: "http://katherinemichel.github.io/"
 
   - name: "Kenneth Love"
     role: "Program Committee"

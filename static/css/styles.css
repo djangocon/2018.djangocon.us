@@ -793,10 +793,12 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .attraction-location{font-size:.8rem}.attraction-location .label{margin-right:1rem;font-size:.8em;font-weight:500}
 .attraction-description{max-width:24em;font-size:.9rem}@media print,screen and (min-width:64em){.attraction-list .column,.attraction-list .columns{margin-bottom:2.5rem}
 .attraction-list .column:nth-last-child(1),.attraction-list .columns:nth-last-child(1),.attraction-list .column:nth-last-child(2),.attraction-list .columns:nth-last-child(2){margin-bottom:0}
-}.event-links{display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;margin-bottom:3rem}
-.event-links-heading{margin-right:1em;color:#0c4b33}.event-link-icon{height:34px}
-.event-link-icon path{fill:#fefefe}.event-link{display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;padding:.75em 1.75em}
-.event-link-icon{margin-right:.5em}.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
+}.event-links-heading{margin-right:1em;width:100%;font-size:1.34615rem;color:#0c4b33}
+@media print,screen and (min-width:55.625em){.event-links-heading{width:auto}}.event-link-icon{height:36px}
+.event-link-icon path{fill:#fefefe}.event-link{display:-ms-inline-flexbox;display:inline-flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;padding:.75em 1.75em;width:48%}
+.event-link-icon{margin-right:.5em}.event-links{display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap;margin-bottom:3rem}
+@media screen and (min-width:32.75em){.event-links{-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}
+.event-links .event-links-heading,.event-links .event-link{width:auto}}.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
 .header h1{color:#84d3d5}.header .row:first-child{max-width:50em}.header .subhead{max-width:660px;text-align:center;color:#f1dfc7}
 .header .subhead strong{display:block;font-weight:500}.header .subheading{margin-bottom:.5rem;font-size:1.05769rem;font-weight:400}
 @media screen and (max-width:55.5625em){.header .dates-year{display:none !important}

@@ -797,7 +797,7 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .attraction-location{font-size:.8rem}.attraction-location .label{margin-right:1rem;font-size:.8em;font-weight:500}
 .attraction-description{max-width:24em;font-size:.9rem}@media print,screen and (min-width:64em){.attraction-list .column,.attraction-list .columns{margin-bottom:2.5rem}
 .attraction-list .column:nth-last-child(1),.attraction-list .columns:nth-last-child(1),.attraction-list .column:nth-last-child(2),.attraction-list .columns:nth-last-child(2){margin-bottom:0}
-}.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
+}.event-links{display:-ms-flexbox;display:flex}.event-link-icon{width:40px}.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
 .header h1{color:#84d3d5}.header .row:first-child{max-width:50em}.header .subhead{max-width:660px;text-align:center;color:#f1dfc7}
 .header .subhead strong{display:block;font-weight:500}.header .subheading{margin-bottom:.5rem;font-size:1.05769rem;font-weight:400}
 @media screen and (max-width:55.5625em){.header .dates-year{display:none !important}

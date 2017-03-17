@@ -798,7 +798,9 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .event-link-icon path{fill:#fefefe}.event-link{display:-ms-inline-flexbox;display:inline-flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;padding:.75em 1.75em;width:48%}
 .event-link-icon{margin-right:.5em}.event-links{display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap;margin-bottom:3rem}
 @media screen and (min-width:32.75em){.event-links{-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}
-.event-links .event-links-heading,.event-links .event-link{width:auto}}.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
+.event-links .event-links-heading,.event-links .event-link{width:auto}}.faq-item{margin-bottom:3rem}
+.faq-item-question{font-size:1.44231rem}@media print,screen and (min-width:55.625em){.faq-item-question{font-size:1.82692rem}
+}.header{position:relative;background:url(/static/img/top-trees.png);background:url(/static/img/top-trees.svg),none;background-position:top left;background-repeat:no-repeat;background-color:#0c4b33;background-size:100% auto;padding:140px 0 40px;text-align:center}
 .header h1{color:#84d3d5}.header .row:first-child{max-width:50em}.header .subhead{max-width:660px;text-align:center;color:#f1dfc7}
 .header .subhead strong{display:block;font-weight:500}.header .subheading{margin-bottom:.5rem;font-size:1.05769rem;font-weight:400}
 @media screen and (max-width:55.5625em){.header .dates-year{display:none !important}

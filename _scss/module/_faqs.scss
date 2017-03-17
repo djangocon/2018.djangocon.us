@@ -1,0 +1,11 @@
+.faq-item {
+  margin-bottom: $global-margin * 3;
+}
+
+.faq-item-question {
+  font-size: rem-calc(30);
+
+  @include breakpoint(medium) {
+    font-size: rem-calc(38);
+  }
+}

@@ -1,15 +1,10 @@
-.news .latest {
-  padding: 4px 10px;
-  display: block;
-}
-
-@include breakpoint(medium) {
-  .news {
+.news {
+  @include breakpoint(medium) {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
 
-    .news-title{
+    .news-title {
       display: flex;
     }
   }

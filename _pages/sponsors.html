@@ -28,8 +28,8 @@ description: DjangoCon US is only possible through the support of various organi
   </div>
 
   {% for level in site.data.sponsors.levels %}
-    {% unless level.hidden %}
-      <div class="section-pad {{ level.css_theme_class }}">
+    {% if level.sponsors %}
+      <div class="section-pad {% cycle 'theme-light-beige', 'theme-dark-beige', 'theme-medium-beige' %}">
         <h2 class="text-center v-pad-bottom">{{ level.name }}</h2>
         {% for sponsor in level.sponsors %}
           {% unless sponsor.hidden %}
@@ -50,6 +50,6 @@ description: DjangoCon US is only possible through the support of various organi
           {% endunless %}
         {% endfor %}
       </div>
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 </div>

@@ -25,7 +25,6 @@ rules:
     - 2
   extends-before-mixins: 2
   extends-before-declarations: 2
-  placeholder-in-extend: 2
   mixin-name-format:
     - 2
     -

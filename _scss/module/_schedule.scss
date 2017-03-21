@@ -1,85 +1,71 @@
+%has-bg {
+  background: $light-beige;
+
+  .location {
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    font-size: 0.8em;
+  }
+}
+
 .schedule {
   margin: 0;
-  padding-left: 0;
   padding-right: 0;
+  padding-left: 0;
   list-style: none;
+
+  .day {
+    font-weight: $global-weight-normal;
+  }
+
+  .day,
+  .lead {
+    text-align: center;
+  }
 }
+
 .time {
   display: block;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
+  font-size: rem-calc(24px);
+  text-align: center;
 
   .muted:before {
     content: " – ";
   }
 }
 
-%has-bg {
-  background: $light-beige;
-  padding: 30px 10px 20px;
-
-  .location {
-    position: absolute;
-    top: 0;
-    right: 10px;
-    font-size: 0.7em;
-  }
-}
-
 .events {
-  //@extend .row;
-  list-style: none;
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 .event {
   @include clearfix;
   @include bottomless;
+
   position: relative;
   margin: 0 0 1em;
   padding: 0;
   width: 100%;
+  text-align: center;
 
   a {
     text-decoration: none;
+  }
 
-    &:hover {
-      color: $secondary-color;
-    }
+  a:hover .event-title {
+    color: $secondary-color;
+  }
+
+  a:hover .event-byline {
+    color: $body-font-color;
   }
 
   .label {
-    margin: 0.5em auto 0 0;
-  }
-
-  &.loc-main {
-    @extend %has-bg;
-    border-top: 4px solid $secondary-color;
-
-    .location {
-      background: $light-beige;
-      color: $secondary-color;
-    }
-  }
-
-  &.loc-class {
-    @extend %has-bg;
-    border-top: 4px solid $teal;
-
-    .location,
-    a:hover{
-      color: $teal;
-    }
-  }
-
-  &.loc-class-2 {
-    @extend %has-bg;
-    border-top: 4px solid $light-green;
-
-    .location,
-    a:hover{
-      color: $light-green;
-    }
+    margin: 0.5em auto 0;
   }
 
   .event-content {
@@ -91,39 +77,67 @@
 
   .event-byline {
     margin-top: auto;
-    padding-top: 1em;
+    padding-top: $global-margin * 2;
   }
 
   .avatar {
-    vertical-align: middle;
+    margin: 0 .5em 0 0;
     max-width: 60px;
     border-radius: 50%;
-    margin: 0 10px 0 0;
+    vertical-align: middle;
   }
 }
 
 .event-title {
-  @extend h4;
   margin-bottom: 0;
+  font-size: rem-calc(24px);
+}
+
+// Handle variations
+.event.loc-main {
+  @extend %has-bg;
+  border-top: 8px solid $secondary-color;
+}
+
+.event.loc-main .location {
+  background: $light-beige;
+  color: $secondary-color;
+}
+
+.event.loc-alt {
+  @extend %has-bg;
+  border-top: 8px solid $teal;
+
+  .location,
+  a:hover {
+    color: $teal;
+  }
+}
+
+.event.loc-alt-2 {
+  @extend %has-bg;
+  border-top: 8px solid $light-green;
+
+  .location,
+  a:hover {
+    color: $light-green;
+  }
+}
+
+.event.loc-main,
+.event.loc-alt,
+.event.loc-alt-2 {
+  padding: ($global-margin * 1.75) $global-margin $global-margin;
 }
 
 @include breakpoint(medium) {
-  .schedule {
-    .lead {
-      text-align: center;
-    }
-  }
   .hour-row {
-    margin: -10px -10px 10px -10px; // bleed color on hover
-    padding: 10px;
-
-    &:hover {
-      background-color: $dark-beige;
-    }
+    padding: $global-margin 0;
   }
 
-  .day {
-    text-align: center;
+  // Give time a bit more room
+  .hour-row .column:first-child {
+    padding-left: 0;
   }
 
   .events {
@@ -133,9 +147,9 @@
   .event {
     display: flex;
     flex-direction: column;
+    margin: 0 $global-margin / 2;
+    text-align: left;
     flex-grow: 1;
-    margin: 0 5px;
-    padding: 34px 10px 20px;
 
     &:first-child {
       margin-left: 0;
@@ -146,17 +160,21 @@
     }
   }
 
+  .event .label {
+    margin-left: 0;
+  }
+
   .time {
-    margin-top: 34px;
+    margin-bottom: 0;
     text-align: right;
 
     .muted {
       display: block;
       opacity: 0.6;
+    }
 
-      &:before {
-        content: "";
-      }
+    .muted:before {
+      content: "";
     }
   }
 }

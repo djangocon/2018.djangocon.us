@@ -8,7 +8,6 @@ levels:
         logo_orientation: landscape
         url: "https://lincolnloop.com/"
         url_friendly: "lincolnloop.com"
-        level: "Diamond"
         description: |
           Lincoln Loop is a full-service software development agency
           specializing in Python and Django development for web and
@@ -28,7 +27,6 @@ levels:
       logo_orientation: portrait
       url: "http://www.revsys.com/"
       url_friendly: "revsys.com"
-      devel: "Gold"
       description: |
         Revolution Systems primarily focuses on building and maintaining
         customized web applications, offering world-class consulting and

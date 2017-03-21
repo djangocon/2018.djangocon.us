@@ -1,35 +1,23 @@
 <div class="sponsor-footer section-pad theme-light-beige">
   <h3 class="v-pad-bottom text-center">Our Sponsors</h3>
 
-  <h4 class="lead min text-center swatch-color-teal">Diamond</h4>
-  <div class="row sponsor-list">
-    {% for sponsor in site.data.sponsors.sponsors %}
-      {% unless sponsor.hidden %}
-        <div class="sponsor-block text-center">
-          <a href="{{ sponsor.url }}">
-            <img
-              class="sponsor-logo {{ sponsor.logo_orientation }}"
-              src="{{ sponsor.logo }}"
-              alt="{{ sponsor.name }} Logo" />
-          </a>
-        </div>
-      {% endunless %}
-    {% endfor %}
-  </div>
-
-  <h4 class="lead min text-center swatch-color-teal">Gold</h4>
-  <div class="row sponsor-list">
-    {% for sponsor in site.data.sponsors.sponsors %}
-      {% unless sponsor.hidden %}
-        <div class="sponsor-block text-center">
-          <a href="{{ sponsor.url }}">
-            <img
-              class="sponsor-logo {{ sponsor.logo_orientation }}"
-              src="{{ sponsor.logo }}"
-              alt="{{ sponsor.name }} Logo" />
-          </a>
-        </div>
-      {% endunless %}
-    {% endfor %}
-  </div>
+  {% for level in site.data.sponsors.levels %}
+    {% if level.sponsors %}
+      <h4 class="lead min text-center swatch-color-teal">{{ level.name }}</h4>
+      <div class="row sponsor-list">
+        {% for sponsor in level.sponsors %}
+          {% unless sponsor.hidden %}
+            <div class="sponsor-block text-center">
+              <a href="{{ sponsor.url }}">
+                <img
+                  class="sponsor-logo {{ sponsor.logo_orientation }}"
+                  src="{{ sponsor.logo }}"
+                  alt="{{ sponsor.name }} Logo" />
+              </a>
+            </div>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>

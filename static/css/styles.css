@@ -5887,14 +5887,9 @@ iframe,
   font-size: .9rem;
   line-height: 1.35; }
 
-.post-list {
-  list-style: none;
-  margin: 0;
-  padding: 0; }
-
 .post-item {
-  padding-bottom: 1rem;
   margin-bottom: 1rem;
+  padding-bottom: 1rem;
   border-bottom: 1px solid #e5d4bd; }
   .post-item > *:last-child {
     margin-bottom: 0; }

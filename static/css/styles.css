@@ -850,16 +850,17 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 .event{position:relative;margin:0 0 1em;padding:0;width:100%;text-align:center}.event::before,.event::after{display:table;content:' '}
 .event::after{clear:both}.event>*:last-child{margin-bottom:0}.event a{text-decoration:none}
 .event a:hover .event-title{color:#d66315}.event a:hover .event-byline{color:#0c4b33}
-.event .label{margin:.5em auto 0}.event .event-content{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-positive:1;flex-grow:1}
+.event .event-content{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-positive:1;flex-grow:1}
 .event .event-content>*:last-child{margin-bottom:0}.event .event-byline{margin-top:auto;padding-top:2rem}
+.event .label{-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}
 .event .avatar{margin:0 .5em 0 0;max-width:60px;border-radius:50%;vertical-align:middle}
-.event-title{margin-bottom:0;font-size:1.15385rem}.event.loc-main{border-top:8px solid #d66315}
+.event-title{margin-bottom:.5rem;font-size:1.15385rem}.event.loc-main{border-top:8px solid #d66315}
 .event.loc-main .location{background:#f8efe3;color:#d66315}.event.loc-alt{border-top:8px solid #3b928f}
 .event.loc-alt .location,.event.loc-alt a:hover{color:#3b928f}.event.loc-alt-2{border-top:8px solid #20c989}
 .event.loc-alt-2 .location,.event.loc-alt-2 a:hover{color:#20c989}.event.loc-main,.event.loc-alt,.event.loc-alt-2{padding:1.75rem 1rem 1rem}
 @media print,screen and (min-width:55.625em){.hour-row{padding:1rem 0}.hour-row .column:first-child,.hour-row .columns:first-child{padding-left:0}
 .events{display:-ms-flexbox;display:flex}.event{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;margin:0 .5rem;text-align:left;-ms-flex-positive:1;flex-grow:1}
-.event:first-child{margin-left:0}.event:last-child{margin-right:0}.event .label{margin-left:0}
+.event:first-child{margin-left:0}.event:last-child{margin-right:0}.event .label{display:inline-block;-ms-flex-item-align:start;align-self:flex-start;margin-left:0}
 .time{margin-bottom:0;text-align:right}.time .muted{display:block;opacity:.6}.time .muted:before{content:""}
 }.sponsor{margin-bottom:2rem}.sponsor-name{font-size:1.73077rem;font-weight:400}.sponsor-url{font-size:.96154rem;font-weight:400}
 .sponsor-logo{margin-bottom:1rem}.sponsor-logo.portrait{max-height:200px}.sponsor-logo.landscape{max-width:300px}

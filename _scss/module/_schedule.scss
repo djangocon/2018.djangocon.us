@@ -64,10 +64,6 @@
     color: $body-font-color;
   }
 
-  .label {
-    margin: 0.5em auto 0;
-  }
-
   .event-content {
     @include bottomless;
     display: flex;
@@ -80,6 +76,10 @@
     padding-top: $global-margin * 2;
   }
 
+  .label {
+    align-self: center;
+  }
+
   .avatar {
     margin: 0 .5em 0 0;
     max-width: 60px;
@@ -89,7 +89,7 @@
 }
 
 .event-title {
-  margin-bottom: 0;
+  margin-bottom: .5rem;
   font-size: rem-calc(24px);
 }
 
@@ -161,6 +161,8 @@
   }
 
   .event .label {
+    display: inline-block;
+    align-self: flex-start;
     margin-left: 0;
   }
 

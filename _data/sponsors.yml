@@ -2,7 +2,6 @@
 
 levels:
   - name: Diamond Sponsors
-    css_theme_class: theme-light-beige
     sponsors:
       - name: "Lincoln Loop"
         logo: "/static/img/sponsors/ll_logo_landscape_color.svg"
@@ -20,12 +19,9 @@ levels:
           application development with JavaScript.
 
   - name: Platinum Sponsors
-    css_theme_class: theme-beige
-    hidden: true
     sponsors:
 
   - name: Gold Sponsors
-    css_theme_class: theme-dark-beige
     sponsors:
     - name: "Revsys"
       logo: "https://storage.googleapis.com/ec-djangocon-2016/sponsor_files/revsys-logo.png.300x300_q85_background-%23ffffff_upscale-True.png"
@@ -43,11 +39,7 @@ levels:
         be the world leader in Django support and training!)
 
   - name: Silver Sponsors
-    css_theme_class: theme-beige
-    hidden: true
     sponsors:
 
   - name: Bronze Sponsors
-    css_theme_class: theme-beige
-    hidden: true
     sponsors:

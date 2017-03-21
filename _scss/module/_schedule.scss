@@ -1,0 +1,162 @@
+.schedule {
+  margin: 0;
+  padding-left: 0;
+  padding-right: 0;
+  list-style: none;
+}
+.time {
+  display: block;
+  margin-bottom: 1em;
+
+  .muted:before {
+    content: " – ";
+  }
+}
+
+%has-bg {
+  background: $light-beige;
+  padding: 30px 10px 20px;
+
+  .location {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    font-size: 0.7em;
+  }
+}
+
+.events {
+  //@extend .row;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.event {
+  @include clearfix;
+  @include bottomless;
+  position: relative;
+  margin: 0 0 1em;
+  padding: 0;
+  width: 100%;
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      color: $secondary-color;
+    }
+  }
+
+  .label {
+    margin: 0.5em auto 0 0;
+  }
+
+  &.loc-main {
+    @extend %has-bg;
+    border-top: 4px solid $secondary-color;
+
+    .location {
+      background: $light-beige;
+      color: $secondary-color;
+    }
+  }
+
+  &.loc-class {
+    @extend %has-bg;
+    border-top: 4px solid $teal;
+
+    .location,
+    a:hover{
+      color: $teal;
+    }
+  }
+
+  &.loc-class-2 {
+    @extend %has-bg;
+    border-top: 4px solid $light-green;
+
+    .location,
+    a:hover{
+      color: $light-green;
+    }
+  }
+
+  .event-content {
+    @include bottomless;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  .event-byline {
+    margin-top: auto;
+    padding-top: 1em;
+  }
+
+  .avatar {
+    vertical-align: middle;
+    max-width: 60px;
+    border-radius: 50%;
+    margin: 0 10px 0 0;
+  }
+}
+
+.event-title {
+  @extend h4;
+  margin-bottom: 0;
+}
+
+@include breakpoint(medium) {
+  .schedule {
+    .lead {
+      text-align: center;
+    }
+  }
+  .hour-row {
+    margin: -10px -10px 10px -10px; // bleed color on hover
+    padding: 10px;
+
+    &:hover {
+      background-color: $dark-beige;
+    }
+  }
+
+  .day {
+    text-align: center;
+  }
+
+  .events {
+    display: flex;
+  }
+
+  .event {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    margin: 0 5px;
+    padding: 34px 10px 20px;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  .time {
+    margin-top: 34px;
+    text-align: right;
+
+    .muted {
+      display: block;
+      opacity: 0.6;
+
+      &:before {
+        content: "";
+      }
+    }
+  }
+}

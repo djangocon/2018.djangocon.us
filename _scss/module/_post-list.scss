@@ -1,12 +1,6 @@
-.post-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 .post-item {
-  padding-bottom: $global-padding;
   margin-bottom: $global-margin;
+  padding-bottom: $global-padding;
   border-bottom: 1px solid $dark-beige;
   @include bottomless;
 }

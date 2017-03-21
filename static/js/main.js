@@ -1,6 +1,6 @@
-var myElement = document.querySelector("nav");
+var headroomElem = document.querySelector(".headroom");
 // construct an instance of Headroom, passing the element
-var headroom  = new Headroom(myElement);
+var headroom  = new Headroom(headroomElem);
 // initialise
 headroom.init({
   offset : 200,

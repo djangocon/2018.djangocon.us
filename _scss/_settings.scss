@@ -171,7 +171,7 @@ $header-styles: (
 );
 $header-text-rendering: optimizeLegibility;
 $small-font-size: 80%;
-$header-small-font-color: $medium-gray;
+$header-small-font-color: mix($beige, $primary-color, 40%);
 $paragraph-lineheight: 1.6;
 $paragraph-margin-bottom: 1rem;
 $paragraph-text-rendering: optimizeLegibility;
@@ -435,8 +435,8 @@ $label-background: $primary-color;
 $label-color: $white;
 $label-color-alt: $white;
 $label-palette: $foundation-palette;
-$label-font-size: 0.8rem;
-$label-padding: 0.33333rem 0.5rem;
+$label-font-size: 0.65rem;
+$label-padding: 0.3333em 0.5em;
 $label-radius: 4px;
 
 // 21. Media Object

@@ -125,10 +125,35 @@ layout: base
   </div>
 </section>
 
-{% comment %}
-<div class="row column">
-  {{ content }}
-</div>
-{% endcomment %}
+<section class="news-section section-pad">
+  <div class="row column v-pad-bottom">
+    <h2 class="text-center">Latest News</h2>
+  </div>
+
+  <div class="news row">
+    {% for post in site.posts %}
+      {% unless post.hidden %}
+      <article class="news-title medium-4 column">
+        <div class="card card-theme-orange">
+          <div class="card-section">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h3>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+            </h3>
+          </div>
+        </div>
+      </article>
+      {% endunless %}
+    {% endfor %}
+  </div>
+
+  <div class="row v-pad-top">
+    <div class="medium-4 column medium-centered text-center">
+      <a class="button secondary" href="/news/">Read More News</a>
+    </div>
+  </div>
+</section>
+
+{% include sponsor-footer.html %}
 
 </div><!-- end .content -->

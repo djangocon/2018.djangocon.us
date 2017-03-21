@@ -4,20 +4,18 @@ permalink: /news/
 ---
 
 
-<ul class="post-list">
 {% for post in site.posts %}
-  {% unless post.hidden %}
-  <li class="post-item">
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <h2 class="post-title">
-      <a
-        class="post-link"
-        href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-    </h2>
-    {% if forloop.first %}
-      {{ post.excerpt }}
-    {% endif %}
-  </li>
-  {% endunless %}
+{% unless post.hidden %}
+<article class="post-item">
+  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <h2 class="post-title">
+    <a
+      class="post-link"
+      href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+  </h2>
+  {% if forloop.first %}
+    {{ post.excerpt }}
+  {% endif %}
+</article>
+{% endunless %}
 {% endfor %}
-</ul>

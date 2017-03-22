@@ -27,7 +27,7 @@ Your organization can help increase diversity at DjangoCon US by contributing to
 
 1. Do I need to be a speaker, first time attendee, or a member of an underrepresented group to receive aid?
 
-    We try to allocate financial aid to a diverse set of attendees based on need. Our review process is holistic and takes into account many different factors, most importantly being the impact we think attending DjangoCon US will have on the applicant. We want to encourage everyone who needs aid to apply for it. Do not rule yourself out before you have even applied!</P>
+    We try to allocate financial aid to a diverse set of attendees based on need. Our review process is holistic and takes into account many different factors, most importantly being the impact we think attending DjangoCon US will have on the applicant. We want to encourage everyone who needs aid to apply for it. Do not rule yourself out before you have even applied!
 
 2. When will I receive my aid?
 
@@ -43,7 +43,7 @@ Your organization can help increase diversity at DjangoCon US by contributing to
 
     If you are traveling into the United States, we strongly encourage you to to wait to purchase airfare or book a hotel room until after your visa has been accepted.
 
-    You can request a visa letter by <a href="mailto:hello@djangocon.us">emailing us.
+    You can request a visa letter by <a href="mailto:hello@djangocon.us">emailing us</a>.
 
     If you are denied entry to the US with a valid visa, we will pay your non-refundable costs (up to the amount of your financial aid).
 

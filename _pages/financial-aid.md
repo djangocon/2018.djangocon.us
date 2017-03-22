@@ -52,6 +52,7 @@ Your organization can help increase diversity at DjangoCon US by contributing to
     If you are denied entry to the US with a valid visa, we will pay your non-refundable costs (up to the amount of your financial aid). For other emergencies or additional costs, we will review the recipient’s need on a case by case basis.
 
 6. How To Donate
-    <a href="/sponsors/become-a-sponsor/">Become a Sponsor!</a> You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our <a href="sponsors@djangocon.us">sponsorship chair</a> directly to find out how you can sponsor us.
+
+    <a href="/sponsors/information/">Become a Sponsor!</a> You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our <a href="sponsors@djangocon.us">sponsorship chair</a> directly to find out how you can sponsor us.
 
     Donate directly! When you purchase your ticket, you can either purchase an extra ticket for an attendee who couldn’t otherwise afford it, or you can add a dollar amount of your choosing.

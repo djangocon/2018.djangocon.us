@@ -26,7 +26,7 @@ Django and the Python community at large pride themselves on their commitment to
 
 ### Other Sponsorship Opportunities
 
-The following a la carte offerings are available to increase visibility onsite.
+The following a la carte offerings are available to increase visibility on site.
 
 |                                                                                    | Bronze<br> $1,125  | Silver<br> $2,250  | Gold<br> $4,500                                         | Platinum<br> $9,000 | Diamond<br> $18,000 |
 | ---------------------------------------------------------------------------------- | :----------------: | :----------------: | :-----------------------------------------------------: | :-----------------: | :-----------------: |

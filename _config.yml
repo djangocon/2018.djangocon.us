@@ -52,3 +52,6 @@ defaults:
       path: ""
     values:
       image: /static/2017-logos/squares-and-social/djangocon-square.png
+
+# Our DjangoCon US links
+sponsorship_prospectus: "https://drive.google.com/file/d/0B7Im-0Y6WeGXTE5uOVVjYXdtMWc/view"

@@ -22,12 +22,14 @@ exclude:
   - .editorconfig
   - .gitignore
   - CONTRIBUTING.md
+  - deploy_surge.sh
   - Gemfile
   - Gemfile.lock
   - gulpfile.js
   - LICENSE
   - node_modules
   - package.json
+  - Rakefile
   - README.md
 
 collections:  # process the _data folder

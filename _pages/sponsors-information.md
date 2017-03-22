@@ -66,6 +66,12 @@ Interested in another sponsorship opportunity? Get in touch and we’ll do our b
 - Video
 - Video transcription
 
+## Interested in Sponsoring?
+
+<strong><a href="mailto:sponsors@djangocon.us">Send us an email!</a></strong> We're here to help make the process of becoming a sponsor as easy as we can!
+
 {% comment %}
 #### Booth info
 {% endcomment %}
+
+

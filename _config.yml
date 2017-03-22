@@ -21,6 +21,7 @@ gems:
 exclude:
   - .editorconfig
   - .gitignore
+  - bower_components
   - CONTRIBUTING.md
   - deploy_surge.sh
   - Gemfile

@@ -28,7 +28,24 @@ Django and the Python community at large pride themselves on their commitment to
 
 The following a la carte offerings are available to increase visibility onsite.
 
-**[[TODO: Embed pricing chart]]**
+|                                                                                    | Bronze             | Silver             | Gold                                                    | Platinum           | Diamond            |
+| ---------------------------------------------------------------------------------- | :----------------: | :----------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
+| Free Sponsor Registrations                                                         |         1          |         2          |                            4                            |         8          |         8          |
+| Diversity<br> (Can be added to any tier)                                           |                    |                    |                                                         |                    |                    |
+| Profile in conference app<br> (Logo & text description)                            | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark: | :white_check_mark: |
+| Tote bag insert<br> (Provided by Sponsor)                                          | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark: | :white_check_mark: |
+| Logo in video rotation                                                             | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark: | :white_check_mark: |
+| Name in press release and mailings                                                 | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark: | :white_check_mark: |
+| Sponsor link on website                                                            |    Bronze link     |    Silver link     |                        Gold link                        |   Platinum link    |     Preeminent     |
+| Social Media<br> Twitter & Facebook posts                                          |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark: | :white_check_mark: |
+| Booth Space                                                                        |                    |                    |                      Maximum of 12                      | :white_check_mark: |     Preeminent     |
+| Logo featured in post conference videos                                            |                    |                    |                                                         | :white_check_mark: | :white_check_mark: |
+| Logo on a banner carousel in conference app                                        |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark: | :white_check_mark: |
+| Banner Stands for Keynote and Speaking Rooms<br> (Max of two; provided by sponsor) |                    |                    | Keynote Room<br> - Speaking Room<br> (Space permitting) | :white_check_mark: |     Preeminent     |
+| Logo on conference app menu                                                        |                    |                    |                                                         | :white_check_mark: | :white_check_mark: |
+| Logo featured in post conference videos                                            |                    |                    |                                                         | :white_check_mark: | :white_check_mark: |
+| Logo on tote bags                                                                  |                    |                    |                                                         |                    | :white_check_mark: |
+| 1 push notification to attendees during conference                                 |                    |                    |                                                         |                    | :white_check_mark: |
 
 #### Lanyard $3,000 (Limit 1)
 

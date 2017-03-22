@@ -14,7 +14,7 @@ As part of our commitment to diversity, we are thrilled to announce that we will
 
 In addition, this year, speakers will be provided with free conference tickets to encourage wider participation from the Django community.
 
-You can apply for financial aid by filling out <a href ="https://goo.gl/forms/Uu3gr1ltLbSR7SxM2">the application</a>. You’ll need to provide your name, the amount you’re requesting, and some information about why you’re requesting funding.  Applications need to be submitted by April 10th in order to be considered.
+You can apply for financial aid by filling out <a href ="{{ site.financial_aid_application }}">the application</a>. You’ll need to provide your name, the amount you’re requesting, and some information about why you’re requesting funding.  Applications need to be submitted by April 10th in order to be considered.
 
 More details about our financial aid process can be found on our Financial Aid F.A.Q.
 

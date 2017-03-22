@@ -20,7 +20,7 @@ More details about our financial aid process can be found on our Financial Aid F
 
 ## Diversity Sponsorships
 
-Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our <a href="https://2017.djangocon.us/sponsors/prospectus/">sponsorship prospectus</a> for more information.
+Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our <a href="{{ site.sponsorship_prospectus }}">sponsorship prospectus</a> for more information.
 
 ## Frequently Asked Questions
 
@@ -53,6 +53,6 @@ Your organization can help increase diversity at DjangoCon US by contributing to
 
 6. How To Donate
 
-    <a href="/sponsors/information/">Become a Sponsor!</a> You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our <a href="sponsors@djangocon.us">sponsorship chair</a> directly to find out how you can sponsor us.
+    <a href="/sponsors/information/">Become a Sponsor!</a> You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our <a href="mailto:sponsors@djangocon.us">sponsorship chair</a> directly to find out how you can sponsor us.
 
     Donate directly! When you purchase your ticket, you can either purchase an extra ticket for an attendee who couldn’t otherwise afford it, or you can add a dollar amount of your choosing.

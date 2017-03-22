@@ -75,11 +75,18 @@ and whatever else we might need later.
 $ npm install .
 # installs dependencies listed in package.json, including gulp.
 ```
+
 ### Run jekyll
 
 ```bash
 $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
+```
+
+### Run html-proofer to find broken links and accessibility issues
+
+```bash
+$ bundle exec rake test
 ```
 
 ### Run gulp

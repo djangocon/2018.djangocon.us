@@ -11,7 +11,6 @@ organizers:
   - name: "Anna Ossowski"
     role: "Diversity Chair"
     photo_url: "/static/img/organizers/anna.jpg"
-    hidden: false
     github: "ossanna16"
     twitter: "ossanna16"
     website: "http://anna-oz.tumblr.com/"
@@ -19,15 +18,13 @@ organizers:
   - name: "Brent Schneider"
     role: "Organizer"
     photo_url: "/static/img/organizers/brentschneider.jpg"
-    hidden: false
     github: "brentschneider"
     twitter: "webmedic"
     website: "https://brentschneider.github.io"
 
   - name: "Craig Bruce"
     role: "DEFNA Treasurer"
-    photo_url: "/static/img/organizers/craig.png"
-    hidden: false
+    photo_url: "/static/img/organizers/craig.jpg"
     github: "craigbruce"
     twitter: "craigbruce"
     website: ""
@@ -50,16 +47,14 @@ organizers:
 
   - name: 'Heather "Heats" Luna'
     role: "Sponsors Chair and Awesomeness at Everything"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: false
+    photo_url: "/static/img/organizers/heats.jpg"
     github: ""
-    twitter: ""
+    twitter: "h34th3r329"
     website: ""
 
   - name: "Irene Nandutu"
     role: "Organizer"
     photo_url: "/static/img/organizers/irene.jpg"
-    hidden: false
     github: "Nandutu"
     twitter: "irenenanduttu"
     website: ""
@@ -67,7 +62,6 @@ organizers:
   - name: "Jeff Triplett"
     role: "Delegator and DEFNA President"
     photo_url: "/static/img/organizers/jeff.jpg"
-    hidden: false
     github: "jefftriplett"
     twitter: "webology"
     website: "https://jefftriplett.com/"
@@ -75,7 +69,6 @@ organizers:
   - name: 'Jessica "Deatz" Deaton'
     role: "Program Committee"
     photo_url: "/static/img/organizers/deatz.jpg"
-    hidden: false
     github: "deatonjm"
     twitter: "__deatz__"
     website: ""
@@ -83,7 +76,6 @@ organizers:
   - name: 'Katherine "Kati" Michel'
     role: "Website Chair"
     photo_url: "/static/img/organizers/kati.jpg"
-    hidden: false
     github: "KatherineMichel"
     twitter: "KatiMichel"
     website: "http://katherinemichel.github.io/"
@@ -98,16 +90,14 @@ organizers:
 
   - name: "Kojo Idrissa"
     role: ":zap: Talk/Orientation Chair"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: false
+    photo_url: "/static/img/organizers/kojo.jpg"
     github: ""
-    twitter: ""
+    twitter: "Transition"
     website: ""
 
   - name: "Lacey Williams Henschel"
     role: "Conference Chair"
     photo_url: "/static/img/organizers/lacey.jpg"
-    hidden: false
     github: "williln"
     twitter: "laceynwilliams"
     website: "https://www.laceyhenschel.com/"
@@ -147,23 +137,20 @@ organizers:
   - name: "Rebecca Kindschi"
     role: "Communication Chair"
     photo_url: "/static/img/organizers/rebeccakindschi.jpg"
-    hidden: false
     github: ""
     twitter: "rebeccakindschi"
     website: ""
 
   - name: "Stacey Haysler"
     role: "DEFNA Corporate Secretary"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
+    photo_url: "/static/img/organizers/stacey.jpg"
     github: ""
-    twitter: ""
+    twitter: "shaysler"
     website: ""
 
   - name: "Timothy Allen"
     role: "Program Committee"
     photo_url: "/static/img/organizers/tim.jpg"
-    hidden: false
     github: "flipperpa"
     twitter: "FlipperPA"
     website: "http://www.PyPhilly.org/"

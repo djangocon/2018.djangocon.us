@@ -27,7 +27,7 @@ Get started contributing by reading our [Contributing](CONTRIBUTING.md) guidelin
 
 ### Example: Updating Organizer Info
 
-Follow the above instructions to 5. Click on the _data folder, then organizers.yml file. Click on the pencil icon to open the file. Make your changes, making sure that your information is placed within quotation marks. Complete step 6. 
+Follow the above instructions to 5. Click on the _data folder, then organizers.yml file. Click on the pencil icon to open the file. Make your changes, making sure that your information is placed within quotation marks. To add a photo: navigate to the static/img/organizers folder. Click "Upload files". Drag or choose your photo file into the window. Click "Commit changes". Your photo should now be in the folder. Ideally, the photo should be 600 x 600. In the organizers.yml file, make sure the path to your photo has the proper name and file ending (.jpg, .png, etc.). If you need assistance, please ask! Complete step 6. 
 
 ## Contributing via Local Development
 

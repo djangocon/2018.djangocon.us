@@ -1,14 +1,14 @@
 ---
+layout: default
 title: Speaking at DjangoCon US
 permalink: /speaking/
-layout: default
 description: Information about submitting a proposal to speak at DjangoCon US
-heading: Speaking at DjangoCon US 
+heading: Speaking at DjangoCon US
 ---
 
 Our [Call for Proposals (CFP)](https://www.papercall.io/djangocon-us-2017) is now open! Submit your talk or tutorial proposal, and encourage your friends and colleagues to do the same.
 
-Need help with your proposal? We’ve got mentors and helpful tips on our [Speaker Resources](/speaking/speaker-resources/) page! 
+Need help with your proposal? We’ve got mentors and helpful tips on our [Speaker Resources](/speaking/speaker-resources/) page!
 
 ## Why speak at DjangoCon US?
 
@@ -29,13 +29,10 @@ Need help with your proposal? We’ve got mentors and helpful tips on our [Speak
     </div>
 </div>
 
-## Selection process 
+## Selection process
 
 We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will all be reviewing anonymized submissions and collectively deciding which ones to accept. We will notify those who have been accepted by **May 15, 2017**. We’ll publish the list of selected talks as soon as we can after the deadline.
 
 ## Lightning Talks ⚡️
 
 Not up for a full on talk/tutorial? Looking to give your first talk at a conference? Lightning talks are talks under 5 minutes with or without slides on almost any topic you want! Even if you’re nervous or shy, remember: it’s a MAXIMUM of 5 minutes. Sign-ups will happen **at the conference** and more details will be available there.
-
-
-

@@ -8,11 +8,12 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 
+# gem "octopress-autoprefixer"
+# gem "sass"
+# gem "uglifier"
 gem "jekyll"
 gem "mini_magick"
-gem "octopress-autoprefixer"
-gem "sass"
-gem "uglifier"
+gem 'html-proofer'
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -21,6 +22,11 @@ group :jekyll_plugins do
     gem "jekyll-seo-tag"
     gem "jekyll-sitemap"
     gem 'jekyll-feed'
+end
+
+group :test do
+  gem 'rake'
+  gem 'html-proofer'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

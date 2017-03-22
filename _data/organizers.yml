@@ -110,6 +110,13 @@ organizers:
     twitter: ""
     website: ""
 
+  - name: "Monique Murphy"
+    role: "DjangoCon Helper"
+    photo_url: "/static/img/organizers/monique.png"
+    github: ""
+    twitter: "mvioletmurphy"
+    website: ""
+
   - name: "Nicholle James"
     role: "Organizer"
     photo_url: "https://placem.at/people?w=600&h=600&random=yes"

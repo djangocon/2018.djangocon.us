@@ -148,6 +148,13 @@ organizers:
     twitter: "rebeccakindschi"
     website: ""
 
+  - name: "Sara Gore"
+    role: "Financial Aid Chair"
+    photo_url: "/static/img/organizers/sara.jpg"
+    github: "saradgore"
+    twitter: "saradgore"
+    website: ""
+
   - name: "Stacey Haysler"
     role: "DEFNA Corporate Secretary"
     photo_url: "/static/img/organizers/stacey.jpg"

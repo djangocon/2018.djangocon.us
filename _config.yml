@@ -4,6 +4,10 @@ author : DjangoCon US
 enforce_ssl: "2017.djangocon.us"
 relative_permalinks: false
 permalink: news/:title/  # permalink: date
+contact_us_email: "hello@djangocon.us"
+sponsors_email: "sponsors@djangocon.us"
+coc_email: "coc@djangocon.us"
+visa_email: "visas@djangocon.us"
 
 include:
   - _pages

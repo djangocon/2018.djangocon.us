@@ -40,4 +40,4 @@ If you have a question or need help, please leave a comment on the issue you hav
 
 ## Code of Conduct
 
-As a contributor, you can help us keep the Django community open and inclusive. Please read and follow our [Code of Conduct](https://www.djangoproject.com/conduct/), and report unacceptable behavior to coc@djangocon.us.
+As a contributor, you can help us keep the Django community open and inclusive. Please read and follow our [Code of Conduct](https://www.djangoproject.com/conduct/), and report unacceptable behavior to <a href="mailto:{{site.coc_email}}">coc@djangocon.us</a>.

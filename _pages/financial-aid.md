@@ -10,7 +10,7 @@ heading: Financial Aid
 
 As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US.
 
-[Django Events Foundation North America (DEFNA)](http://www.defna.org/) , [The Django Software Foundation](https://www.djangoproject.com/foundation/), the [Python Software Foundation](https://www.python.org/psf/)have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.
+[Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.
 
 In addition, this year, speakers will be provided with free conference tickets to encourage wider participation from the Django community.
 
@@ -20,10 +20,9 @@ More details about our financial aid process can be found on our Financial Aid F
 
 ## Diversity Sponsorships
 
-Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship prospectus]({{ site.sponsorship_prospectus }})for more information.
+Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship prospectus]({{ site.sponsorship_prospectus }}) for more information.
 
 ## Frequently Asked Questions
-
 
 ### Do I need to be a speaker, first time attendee, or a member of an underrepresented group to receive aid?
 
@@ -39,7 +38,7 @@ Financial aid is paid to the recipient in the form of a check for US account hol
 
 We require receipts for the items that the financial aid was spent on.
 
-### Is there anything I should know if I am an traveling into the U.S. from another country?
+### Is there anything I should know if I am traveling into the U.S. from another country?
 
 If you are traveling into the United States, we strongly encourage you to to wait to purchase airfare or book a hotel room until after your visa has been accepted.
 
@@ -52,6 +51,7 @@ If you are denied entry to the US with a valid visa, we will pay your non-refund
 If you are denied entry to the US with a valid visa, we will pay your non-refundable costs (up to the amount of your financial aid). For other emergencies or additional costs, we will review the recipient’s need on a case by case basis.
 
 ### How To Donate
+
 [Become a Sponsor!](/sponsors/information/) You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our [sponsorship chair](mailto:sponsors@djangocon.us) directly to find out how you can sponsor us.
 
 Donate directly! When you purchase your ticket, you can either purchase an extra ticket for an attendee who couldn’t otherwise afford it, or you can add a dollar amount of your choosing.

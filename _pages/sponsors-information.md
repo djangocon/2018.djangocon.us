@@ -18,6 +18,8 @@ Sponsoring DjangoCon US can help you:
 
 Because the conference is organized by [DEFNA](https://www.defna.org/), a non-profit 501(c)(3) organization, your sponsorship is tax-deductible!
 
+<a href="mailto:sponsors@djangocon.us" class="button secondary">Want to know more about sponsorship? Contact us today.</a>
+
 ## Sponsorship Levels
 
 ### Diversity Sponsorships
@@ -69,3 +71,9 @@ Interested in another sponsorship opportunity? Get in touch and we’ll do our b
 {% comment %}
 #### Booth info
 {% endcomment %}
+
+## Prospectus
+
+For more information, <a target="_blank" href="https://drive.google.com/file/d/0B7Im-0Y6WeGXTE5uOVVjYXdtMWc/view">you can view a detailed prospectus here</a>.
+
+<a href="mailto:sponsors@djangocon.us" class="button secondary">Want to know more about sponsorship? Contact us today.</a>

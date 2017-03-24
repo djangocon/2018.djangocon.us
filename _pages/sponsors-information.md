@@ -74,6 +74,6 @@ Interested in another sponsorship opportunity? Get in touch and we’ll do our b
 
 ## Prospectus
 
-For more information, <a target="_blank" href="https://drive.google.com/file/d/0B7Im-0Y6WeGXTE5uOVVjYXdtMWc/view">you can view a detailed prospectus here</a>.
+For more information, <a href="{{ site.sponsorship_prospectus }}">you can view a detailed prospectus here</a>.
 
 <a href="mailto:sponsors@djangocon.us" class="button secondary">Want to know more about sponsorship? Contact us today.</a>

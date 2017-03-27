@@ -4,7 +4,6 @@ category: General
 date: 2017-03-27 08:15:00
 layout: post
 title: "Announcing Our Call for Reviewers"
-hidden: true
 ---
 
 Do you love the Django community and want a great way to help out with DjangoCon US this year?

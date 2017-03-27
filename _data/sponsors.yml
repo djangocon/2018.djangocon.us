@@ -22,7 +22,7 @@ levels:
 
   - name: Gold Sponsors
     sponsors:
-    - name: "Revsys"
+    - name: "Revolution Systems"
       logo: "/static/img/sponsors/revsys.png"
       logo_orientation: portrait
       url: "http://www.revsys.com/"

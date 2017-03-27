@@ -17,6 +17,6 @@ You can apply for financial aid by filling out [the application](https://goo.gl/
 The DjangoCon US 2017 planning committee will review financial aid applications and notify those who have been accepted by May 24, 2017. Because our budget is limited, preference will be given to potential speakers and tutorial leaders, especially first-time speakers, and members of underrepresented groups.
 
 ## Diversity Sponsorships
-Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please contact our [Sponsorship Chair](mailto:sponsors@djangocon.us) for more information.
+Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please contact our <a href="mailto:{{site.sponsors_email}}">Sponsorship Chair</a> for more information.
 
 Alternatively when purchasing your ticket, you can either purchase an extra ticket for an attendee who couldn’t otherwise afford it, or you can add a dollar amount of your choosing.

@@ -42,7 +42,7 @@ We require receipts for the items that the financial aid was spent on.
 
 If you are traveling into the United States, we strongly encourage you to to wait to purchase airfare or book a hotel room until after your visa has been accepted.
 
-You can request a visa letter by [emailing us](mailto:hello@djangocon.us).
+You can request a visa letter by <a href="mailto:{{site.visa_email}}">emailing us</a>.
 
 If you are denied entry to the US with a valid visa, we will pay your non-refundable costs (up to the amount of your financial aid).
 
@@ -52,7 +52,6 @@ If you are denied entry to the US with a valid visa, we will pay your non-refund
 
 ### How To Donate
 
-[Become a Sponsor!](/sponsors/information/) You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our [sponsorship chair](mailto:sponsors@djangocon.us) directly to find out how you can sponsor us.
+[Become a Sponsor!](/sponsors/information/) You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our <a href="mailto:{{site.sponsors_email}}">sponsorship chair</a> directly to find out how you can sponsor us.
 
 Donate directly! When you purchase your ticket, you can either purchase an extra ticket for an attendee who couldn’t otherwise afford it, or you can add a dollar amount of your choosing.
-

@@ -51,7 +51,7 @@ Harassment includes: offensive verbal comments related to gender, gender identit
 
 <section class="callout" markdown="1">
 
-**If you are being harassed**, notice that someone else is being harassed, or have any other concerns, please contact the Code of Conduct committee at DjangoCon US by emailing <coc@djangocon.us> or by reaching out to one of the conference organizers on site.
+**If you are being harassed**, notice that someone else is being harassed, or have any other concerns, please contact the Code of Conduct committee at DjangoCon US by emailing <a href="mailto:{{site.coc_email}}">{{site.coc_email}}</a> or by reaching out to one of the conference organizers on site.
 
 </section>
 

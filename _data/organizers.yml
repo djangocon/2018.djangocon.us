@@ -1,5 +1,12 @@
 organizers:
 
+  - name: "Adrienne Lowe"
+    role: "Coordinator, Session Chairs and Runners"
+    photo_url: "/static/img/organizers/adrienne.jpg"
+    github: "adriennefriend"
+    twitter: "adriennefriend"
+    website: "http://www.codingwithknives.com"
+
   - name: "Alexis Fitzpatrick"
     role: "Organizer"
     photo_url: "/static/img/organizers/alexis.jpg"

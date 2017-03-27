@@ -127,7 +127,7 @@ $breakpoints: (
   xxlarge: 1440px,
 );
 $print-breakpoint: large;
-$breakpoint-classes: (small medium large);
+$breakpoint-classes: (small smedium medium large);
 
 // 3. The Grid
 // -----------
@@ -171,7 +171,7 @@ $header-styles: (
 );
 $header-text-rendering: optimizeLegibility;
 $small-font-size: 80%;
-$header-small-font-color: $medium-gray;
+$header-small-font-color: mix($beige, $primary-color, 40%);
 $paragraph-lineheight: 1.6;
 $paragraph-margin-bottom: 1rem;
 $paragraph-text-rendering: optimizeLegibility;
@@ -188,7 +188,7 @@ $anchor-text-decoration-hover: none;
 $hr-width: $global-width;
 $hr-border: 1px solid $medium-gray;
 $hr-margin: rem-calc(20) auto;
-$list-lineheight: $paragraph-lineheight;
+$list-lineheight: 1.25;
 $list-margin-bottom: $paragraph-margin-bottom;
 $list-style-type: disc;
 $list-style-position: outside;
@@ -435,8 +435,8 @@ $label-background: $primary-color;
 $label-color: $white;
 $label-color-alt: $white;
 $label-palette: $foundation-palette;
-$label-font-size: 0.8rem;
-$label-padding: 0.33333rem 0.5rem;
+$label-font-size: 0.65rem;
+$label-padding: 0.3333em 0.5em;
 $label-radius: 4px;
 
 // 21. Media Object

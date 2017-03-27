@@ -1,13 +1,15 @@
-{% comment %}
 <li>
   <a href="/about/">About</a>
   <ul class="menu vertical">
     <li><a href="/about/coc/">Code of Conduct</a></li>
-    <li><a href="/financial-aid/">Financial Aid</a></li>
-    <li><a href="/why-djangocon-us/">Why DjangoCon US?</a></li>
+    <li><a href="/about/financial-aid/">Financial Aid</a></li>
+    {% comment %}
+    <li><a href="/about/why-djangocon-us/">Why DjangoCon US?</a></li>
+    {% endcomment %}
     <li><a href="/about/organizers/">Organizers</a></li>
   </ul>
 </li>
+{% comment %}
 <li>
   <a href="/schedule/">Schedule</a>
   <ul class="menu vertical">
@@ -20,10 +22,20 @@
     <li><a href="/sprints/">Sprints</a></li>
   </ul>
 </li>
-<li><a href="/venue/">Venue</a></li>
-<li><a href="#">Speaking</a></li>
-<li><a href="/sponsors/">Sponsors</a></li>
 {% endcomment %}
+<li><a href="/venue/">Venue</a></li>
+<li>
+  <a href="/speaking/">Speaking</a>
+  <ul class="menu vertical">
+    <li><a href="/speaking/speaker-resources/">Speaker Resources</a></li>
+  </ul>
+</li>
+<li>
+  <a href="/sponsors/">Sponsors</a>
+  <ul class="menu vertical">
+    <li><a href="/sponsors/information/">Become a Sponsor</a></li>
+  </ul>
+</li>
 <li><a href="/news/">News</a></li>
 <li class="has-button">
   <a class="navbar-button" href="https://ti.to/defna/djangocon-us-2017">

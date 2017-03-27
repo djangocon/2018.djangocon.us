@@ -12,23 +12,26 @@
   }
 
   .dates {
-    text-align: center;
-    font-weight: $global-weight-bold;
     margin-right: 20px;
+    font-weight: $global-weight-bold;
+    text-align: center;
   }
 
   .month {
+    display: block;
     padding: .2em;
     background-color: $secondary-color;
     color: $white;
+    font-size: 1rem;
   }
 
   .days {
+    display: block;
     padding-top: .5rem;
     padding-bottom: .5rem;
-    color: $secondary-color;
     background-color: $white;
     font-size: rem-calc(40);
+    color: $secondary-color;
   }
 
   @include breakpoint(large) {

@@ -1,0 +1,25 @@
+.sponsor {
+  margin-bottom: $global-margin * 2;
+}
+
+.sponsor-name {
+  font-size: rem-calc(36);
+  font-weight: $global-weight-normal;
+}
+
+.sponsor-url {
+  font-size: rem-calc(20);
+  font-weight: $global-weight-normal;
+}
+
+.sponsor-logo {
+  margin-bottom: $global-margin;
+}
+
+.sponsor-logo.portrait {
+  max-height: 200px;
+}
+
+.sponsor-logo.landscape {
+  max-width: 300px;
+}

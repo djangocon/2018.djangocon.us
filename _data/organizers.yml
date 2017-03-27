@@ -1,8 +1,15 @@
 organizers:
 
+  - name: "Adrienne Lowe"
+    role: "Coordinator, Session Chairs and Runners"
+    photo_url: "/static/img/organizers/adrienne.jpg"
+    github: "adriennefriend"
+    twitter: "adriennefriend"
+    website: "http://www.codingwithknives.com"
+
   - name: "Alexis Fitzpatrick"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
+    photo_url: "/static/img/organizers/alexis.jpg"
     hidden: false
     github: ""
     twitter: ""
@@ -10,18 +17,23 @@ organizers:
 
   - name: "Anna Ossowski"
     role: "Diversity Chair"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: false
-    github: ""
-    twitter: ""
-    website: ""
+    photo_url: "/static/img/organizers/anna.jpg"
+    github: "ossanna16"
+    twitter: "ossanna16"
+    website: "http://anna-oz.tumblr.com/"
 
   - name: "Brent Schneider"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
+    photo_url: "/static/img/organizers/brentschneider.jpg"
+    github: "brentschneider"
+    twitter: "webmedic"
+    website: "https://brentschneider.github.io"
+
+  - name: "Craig Bruce"
+    role: "DEFNA Treasurer"
+    photo_url: "/static/img/organizers/craig.jpg"
+    github: "craigbruce"
+    twitter: "craigbruce"
     website: ""
 
   - name: "Daniel Lindsley"
@@ -42,32 +54,21 @@ organizers:
 
   - name: 'Heather "Heats" Luna'
     role: "Sponsors Chair and Awesomeness at Everything"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: false
+    photo_url: "/static/img/organizers/heats.jpg"
     github: ""
-    twitter: ""
-    website: ""
-
-  - name: "Craig Bruce"
-    role: "DEFNA Treasurer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
+    twitter: "h34th3r329"
     website: ""
 
   - name: "Irene Nandutu"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
+    photo_url: "/static/img/organizers/irene.jpg"
+    github: "Nandutu"
+    twitter: "irenenanduttu"
     website: ""
 
   - name: "Jeff Triplett"
     role: "Delegator and DEFNA President"
     photo_url: "/static/img/organizers/jeff.jpg"
-    hidden: false
     github: "jefftriplett"
     twitter: "webology"
     website: "https://jefftriplett.com/"
@@ -75,10 +76,16 @@ organizers:
   - name: 'Jessica "Deatz" Deaton'
     role: "Program Committee"
     photo_url: "/static/img/organizers/deatz.jpg"
-    hidden: false
     github: "deatonjm"
     twitter: "__deatz__"
     website: ""
+
+  - name: 'Katherine "Kati" Michel'
+    role: "Website Chair"
+    photo_url: "/static/img/organizers/kati.jpg"
+    github: "KatherineMichel"
+    twitter: "KatiMichel"
+    website: "http://katherinemichel.github.io/"
 
   - name: "Kenneth Love"
     role: "Program Committee"
@@ -90,16 +97,14 @@ organizers:
 
   - name: "Kojo Idrissa"
     role: ":zap: Talk/Orientation Chair"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: false
-    github: ""
-    twitter: ""
+    photo_url: "/static/img/organizers/kojo.jpg"
+    github: "kojoidrissa"
+    twitter: "Transition"
     website: ""
 
   - name: "Lacey Williams Henschel"
     role: "Conference Chair"
     photo_url: "/static/img/organizers/lacey.jpg"
-    hidden: false
     github: "williln"
     twitter: "laceynwilliams"
     website: "https://www.laceyhenschel.com/"
@@ -110,6 +115,13 @@ organizers:
     hidden: true
     github: ""
     twitter: ""
+    website: ""
+
+  - name: "Monique Murphy"
+    role: "DjangoCon Helper"
+    photo_url: "/static/img/organizers/monique.png"
+    github: ""
+    twitter: "mvioletmurphy"
     website: ""
 
   - name: "Nicholle James"
@@ -139,23 +151,27 @@ organizers:
   - name: "Rebecca Kindschi"
     role: "Communication Chair"
     photo_url: "/static/img/organizers/rebeccakindschi.jpg"
-    hidden: false
     github: ""
     twitter: "rebeccakindschi"
     website: ""
 
+  - name: "Sara Gore"
+    role: "Financial Aid Chair"
+    photo_url: "/static/img/organizers/sara.jpg"
+    github: "saradgore"
+    twitter: "saradgore"
+    website: ""
+
   - name: "Stacey Haysler"
     role: "DEFNA Corporate Secretary"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
+    photo_url: "/static/img/organizers/stacey.jpg"
     github: ""
-    twitter: ""
+    twitter: "shaysler"
     website: ""
 
   - name: "Timothy Allen"
     role: "Program Committee"
     photo_url: "/static/img/organizers/tim.jpg"
-    hidden: false
     github: "flipperpa"
     twitter: "FlipperPA"
     website: "http://www.PyPhilly.org/"

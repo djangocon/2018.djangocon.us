@@ -1,3 +1,6 @@
+---
+sitemap: false
+---
 # Introduction
 
 The DjangoCon website was built using several Open Source technologies. Below is
@@ -18,7 +21,7 @@ from year-to-year. However, the goal with this logo is to highlight the casual,
 friendly, professional atmosphere of the conference and can be used for subsequent
 years with minimal alterations.
 
-The typeface used for the secondary elements ("2017 Spokane") is  
+The typeface used for the secondary elements ("2017 Spokane") is
 [Program OT, found on Typekit](https://typekit.com/fonts/program). If you decide
 to keep with this style in the future you will need this font, which is also used
 throughout the 2017 website.
@@ -466,6 +469,6 @@ element.
           </li>
         </ul>
       </div><!--/.profile -->
-    </div><!--/.column -->    
+    </div><!--/.column -->
   </div><!--/.row -->
   ```

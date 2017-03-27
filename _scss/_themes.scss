@@ -32,11 +32,9 @@
       @if not index(($light-beige, $dark-beige), $color) {
         color: $white;
 
-        a {
+        a,
+        a:hover {
           color: $white;
-          &:hover {
-            color: $white;
-          }
         }
       }
 
@@ -54,25 +52,23 @@
           & blockquote,
           & blockquote p,
           & cite {
-              color: $white;
+            color: $white;
           }
 
-          a {
+          a,
+          a:hover {
             color: $white;
-            &:hover {
-              color: $white;
-            }
           }
         }
 
         &:after {
-          content: "";
           position: absolute;
           top: 0;
           right: 0;
           bottom: 0;
           left: 0;
           background-color: $color;
+          content: "";
           opacity: 0.8;
         }
       }
@@ -102,10 +98,16 @@
       }
 
       .card-theme-#{$name} {
-        border: 0 none;
+        border: none;
         border-top: 8px solid $color;
 
-        h1, h2, h3, h4, h5, h6, a {
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        a {
           color: $color;
         }
 

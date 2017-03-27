@@ -4,6 +4,7 @@
   "description": "Basic template for a new Foundation for Sites project.",
   "main": "gulpfile.js",
   "devDependencies": {
+    "all-contributors-cli": "^4.0.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-load-plugins": "^1.1.0",
@@ -13,6 +14,10 @@
   "scripts": {
     "start": "gulp",
     "build": "gulp sass"
+  },
+  "scripts": {
+    "add": "all-contributors add",
+    "generate": "all-contributors generate"
   },
   "repository": {
     "type": "git",

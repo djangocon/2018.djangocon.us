@@ -181,19 +181,21 @@
   @include breakpoint(medium) {
     .logo {
       width: 140px;
-      height: auto;
+      //height: 46px;
     }
   }
 
   @include breakpoint(large) {
     .logo {
       width: 265px;
+      //height: 88px;
     }
   }
 
   @include breakpoint(xlarge) {
     .logo {
       width: 360px;
+      //height: 118px;
     }
   }
 }

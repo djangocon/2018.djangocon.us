@@ -6,12 +6,28 @@ layout: base
 {% include titlebar.html %}
 </div>
 
-{% include home-hero.html %}
+<header class="header">
+  <div class="row column medium-9 medium-centered large-12 large-centered">
+    <h1>Six days of talks, sprints, and tutorials by the community for the community.</h1>
+  </div>
+  <div class="subhead row column medium-8 medium-centered">
+    <div class="column medium-3 dates">
+      <h2 class="subheading">
+        <strong>August 13–18</strong>
+        <span class="dates-year">2017</span>
+      </h2>
+    </div>
+    <div class="column medium-9 location">
+      <h2 class="subheading">Hotel RL by Red Lion Spokane at the Park
+        <strong>Spokane, Washington</strong></h2>
+    </div>
+  </div>
+</header>
 
 <div class="home-content">
 
 <section class="section-pad">
-  <div class="row column xlarge-9 column">
+  <div class="row column xlarge-9">
     <p class="lead column large-9 large-centered text-center">Join us for a source of inspiration, education and networking opportunities. Our team is making sure that participating in DjangoCon US is easy for you!</p>
 
     <div class="date-card medium-4 column">
@@ -79,7 +95,7 @@ layout: base
         </svg>
         <div class="card-section">
           <h3 class="card-title">Sponsors!</h3>
-          <p>We can't put on DjangoCon US without you. Go ahead and <strong><a href="mailto:sponsors@djangocon.us">drop us a line</a></strong> so we can talk to you about how we can make it easy for you to sponsor us.</p>
+          <p>We can't put on DjangoCon US without you. Go ahead and <strong><a href="mailto:{{site.sponsors_email}}">drop us a line</a></strong> so we can talk to you about how we can make it easy for you to sponsor us.</p>
         </div>
       </div>
     </div>
@@ -109,10 +125,35 @@ layout: base
   </div>
 </section>
 
-{% comment %}
-<div class="row column">
-  {{ content }}
-</div>
-{% endcomment %}
+<section class="news-section section-pad">
+  <div class="row column v-pad-bottom">
+    <h2 class="text-center">Latest News</h2>
+  </div>
+
+  <div class="news row">
+    {% for post in site.posts %}
+      {% unless post.hidden %}
+      <article class="news-title medium-4 column">
+        <div class="card card-theme-orange">
+          <div class="card-section">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h3>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+            </h3>
+          </div>
+        </div>
+      </article>
+      {% endunless %}
+    {% endfor %}
+  </div>
+
+  <div class="row v-pad-top">
+    <div class="medium-4 column medium-centered text-center">
+      <a class="button secondary" href="/news/">Read More News</a>
+    </div>
+  </div>
+</section>
+
+{% include sponsor-footer.html %}
 
 </div><!-- end .content -->

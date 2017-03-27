@@ -9,17 +9,21 @@ h6 {
   }
 }
 
+li {
+  margin-bottom: .85rem;
+}
+
 .lead {
   margin-bottom: 2.5rem;
   font-weight: $global-weight-normal;
 }
 
-.demp {
-  font-weight: $global-weight-normal;
+.lead.min {
+  margin-bottom: 1.5rem;
 }
 
-p:last-child {
-  margin-bottom: 0;
+.demp {
+  font-weight: $global-weight-normal;
 }
 
 iframe,
@@ -29,4 +33,24 @@ iframe,
 
 .responsive-embed iframe {
   margin-bottom: 0;
+}
+
+.thumbnail-block {
+  border-radius: 0;
+}
+
+.list-split {
+  @include breakpoint(medium) {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+
+    li {
+      width: 45%;
+    }
+  }
+}
+
+.callout-dark {
+  @include callout-style(darken($dark-green, 5%));
 }

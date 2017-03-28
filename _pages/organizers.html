@@ -47,6 +47,13 @@ heading: Organizers
                   </a>
                   </li>
                 {% endif %}
+                {% if organizer.website != blank %}
+                <li>
+                  <a class="web" href="{{ organizer.website }}" target="_blank">
+                    <svg class="social-icon"><use xlink:href="#web-icon"></use></svg>
+                  </a>
+                </li>
+                {% endif %}
               </ul>
               </div><!--/.profile -->
           </div><!--/.column -->

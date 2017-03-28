@@ -870,9 +870,9 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 .sponsor-block{padding:0 1rem 1rem;width:100%}@media screen and (min-width:32.75em){.sponsor-block{width:33.33%}
 }@media print,screen and (min-width:55.625em){.sponsor-block{width:25%}}@media print,screen and (min-width:64em){.sponsor-block{width:20%}
 }.sponsor-list .sponsor-logo.portrait{max-height:70px}.sponsor-list .sponsor-logo.landscape{max-width:160px}
-.social-icons{list-style:none;margin:2em auto;text-align:center}.social-icons li{display:inline-block;margin:0 1em}
+.social-icons{margin:2em auto;text-align:center;list-style:none}.social-icons li{display:inline-block;margin:0 1em}
 .profile .social-icons{margin:1em 0}.profile .social-icons li{margin:0 .5em}.social-icons a{display:block}
-.social-icons a svg{fill:#fefefe;width:42px;height:42px}.profile .social-icons a svg{width:32px;height:32px;fill:#d66315}
+.social-icons a svg{width:42px;height:42px;fill:#fefefe}.profile .social-icons a svg{width:32px;height:32px;fill:#d66315}
 .social-icons a:hover svg{fill:#0c4b33}.social-icons a.facebook:hover svg{fill:#44649d}
 .social-icons a.twitter:hover svg{fill:#1db4eb}.social-icons a.linkedin:hover svg{fill:#2b75b2}
 .social-icons a.instagram:hover svg{fill:#356692}.social-icons a.github:hover svg{fill:#4078c0}

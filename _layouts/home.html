@@ -132,7 +132,7 @@ layout: base
 
   <div class="news row">
     {% for post in site.posts %}
-      {% unless post.hidden %}
+      {% unless post.hidden or post.category == 'talk' or post.category == 'tutorial' %}
       <article class="news-title medium-4 column">
         <div class="card card-theme-orange">
           <div class="card-section">

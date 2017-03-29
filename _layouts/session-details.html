@@ -9,12 +9,14 @@ layout: base
     {% if page.heading %}{{ page.heading }}{% else %}{{ page.title }}{% endif %}
   </h1>
   <p class="lead">
-    {{ page.date }},
+    {{ page.date | date: "%A %l:%M%P" }},
     {{ page.room }}
-    <br>
-    <span
-      class="label"
-      aria-label="Audience level:">{{ page.difficulty }}</span>
+    {% if page.difficulty %}
+      <br>
+      <span
+        class="label"
+        aria-label="Audience level:">{{ page.difficulty }}</span>
+    {% endif %}
   </p>
 </header>
 
@@ -44,7 +46,7 @@ layout: base
           </a>
       </section>
       {% endif %}
-      <h2>About This {{ page.category }}</h2>
+      <h2>About This {{ page.category | capitalize }}</h2>
       {{ content }}
     </div>
     <div class="column medium-4">

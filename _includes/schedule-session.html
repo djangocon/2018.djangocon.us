@@ -2,8 +2,10 @@
   class="event
   {% if post.room == "Classroom (F-50)" %}loc-alt
   {% elsif post.room == "Classroom (F-55)" %}loc-alt-2
+  {% elsif post.room == "Room 1" %}loc-alt-3
   {% else %}loc-main
   {% endif %}
+
   ">
   {% unless post.room == 'filler' %}
     <a href="{{ post.permalink }}" class="event-content">

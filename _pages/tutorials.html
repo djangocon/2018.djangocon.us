@@ -1,0 +1,24 @@
+---
+layout: default
+title: Tutorials
+permalink: /tutorials/
+---
+
+<!-- tutorials -->
+<section class="section-pad schedule">
+  <div class="row column">
+    <h2 class="day">Tutorials: Sunday, August 13</h2>
+    <p class="lead">
+      Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
+    </p>
+    <ul class="schedule">
+      {% for post in site.categories.tutorial reversed %}
+        {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
+        {% if day == 'Sunday' %}
+          {% include schedule-tutorials-day.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+<!-- tutorials -->

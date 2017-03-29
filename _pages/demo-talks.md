@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Talks
-permalink: /talks/
+title: Talks Demo
+permalink: /talks/demo/
 description: Information about DjangoCon US 2017 Talks
 heading: Talks
 ---

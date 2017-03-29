@@ -1,0 +1,21 @@
+<li>
+  <article class="row hour-row">
+    <div class="column medium-1">
+      <time class="time">{{ post.date | date: "%I:%M%p" | downcase }}
+      {% comment %}
+        <span class="muted">9am</span>
+      {% endcomment %}
+      </time>
+    </div>
+    <div class="column medium-11">
+      <ul class="events">
+        <li class="event">
+          <span class="event-content">
+            <h3 class="event-title">{{ post.title }}</h3>
+            {{ post.content }}
+          </span>
+        </li>
+      </ul>
+    </div>
+  </article>
+</li>

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Become a Sponsor
+heading: Become a Sponsor
 permalink: /sponsors/information/
 description: Become a Sponsor
-heading: Become a Sponsor
 ---
 
 ## What Is DjangoCon US?
@@ -41,7 +41,6 @@ The following a la carte offerings are available to increase visibility on site.
 | Sponsor link on website                                                            |    Bronze link     |    Silver link     |                        Gold link                        |    Platinum link    |     Preeminent      |
 | Social Media<br> Twitter & Facebook posts                                          |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
 | Booth Space                                                                        |                    |                    |                      Maximum of 12                      | :white_check_mark:  |     Preeminent      |
-| Logo featured in post conference videos                                            |                    |                    |                                                         | :white_check_mark:  | :white_check_mark:  |
 | Logo on a banner carousel in conference app                                        |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
 | Banner Stands for Keynote and Speaking Rooms<br> (Max of two; provided by sponsor) |                    |                    | Keynote Room<br> - Speaking Room<br> (Space permitting) | :white_check_mark:  |     Preeminent      |
 | Logo on conference app menu                                                        |                    |                    |                                                         | :white_check_mark:  | :white_check_mark:  |

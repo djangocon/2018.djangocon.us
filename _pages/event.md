@@ -2,7 +2,6 @@
 layout: event
 permalink: /schedule/presentation/demo/
 description:
-
 category: talk
 date: 2016-07-17 09:00
 datefriendly: Monday, 1:30pm-2:20pm

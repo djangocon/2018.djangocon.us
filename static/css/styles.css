@@ -842,8 +842,8 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 .profile{margin:0 auto;padding:20px;max-width:360px;text-align:center}.profile-name{font-size:1.15385rem}
 .profile p{font-size:.9rem;line-height:1.35}.post-item{margin-bottom:1rem;padding-bottom:1rem;border-bottom:1px solid #e5d4bd}
 .post-item>*:last-child{margin-bottom:0}.post-title{font-weight:400}.post-title a{color:#d66315}
-.post-title a:hover{color:#0c4b33}.event.loc-main,.event.loc-alt,.event.loc-alt-2{background:#f8efe3}
-.event.loc-main .location,.event.loc-alt .location,.event.loc-alt-2 .location{position:absolute;top:4px;right:10px;font-size:.8em}
+.post-title a:hover{color:#0c4b33}.event.loc-main,.event.loc-alt,.event.loc-alt-2,.event.loc-alt-3{background:#f8efe3}
+.event.loc-main .location,.event.loc-alt .location,.event.loc-alt-2 .location,.event.loc-alt-3 .location{position:absolute;top:4px;right:10px;font-size:.8em}
 .schedule{margin:0;padding-right:0;padding-left:0;list-style:none}.schedule .day{font-weight:400}
 .schedule .day,.schedule .lead{text-align:center}.time{display:block;margin-bottom:1rem;font-size:1.15385rem;text-align:center}
 .time .muted:before{content:" – "}.events{margin:0;padding:0;list-style:none}
@@ -857,7 +857,8 @@ iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bot
 .event-title{margin-bottom:.5rem;font-size:1.15385rem}.event.loc-main{border-top:8px solid #d66315}
 .event.loc-main .location{background:#f8efe3;color:#d66315}.event.loc-alt{border-top:8px solid #3b928f}
 .event.loc-alt .location,.event.loc-alt a:hover{color:#3b928f}.event.loc-alt-2{border-top:8px solid #20c989}
-.event.loc-alt-2 .location,.event.loc-alt-2 a:hover{color:#20c989}.event.loc-main,.event.loc-alt,.event.loc-alt-2{padding:1.75rem 1rem 1rem}
+.event.loc-alt-2 .location,.event.loc-alt-2 a:hover{color:#20c989}.event.loc-alt-3{border-top:8px solid #0c4b33}
+.event.loc-alt-3 .location,.event.loc-alt-3 a:hover{color:#0c4b33}.event.loc-main,.event.loc-alt,.event.loc-alt-2,.event.loc-alt-3{padding:1.75rem 1rem 1rem}
 @media print,screen and (min-width:55.625em){.hour-row{padding:1rem 0}.hour-row .column:first-child,.hour-row .columns:first-child{padding-left:0}
 .events{display:-ms-flexbox;display:flex}.event{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;margin:0 .5rem;text-align:left;-ms-flex-positive:1;flex-grow:1}
 .event:first-child{margin-left:0}.event:last-child{margin-right:0}.event .label{display:inline-block;-ms-flex-item-align:start;align-self:flex-start;margin-left:0}

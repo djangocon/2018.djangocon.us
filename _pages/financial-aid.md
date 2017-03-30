@@ -1,9 +1,12 @@
 ---
-title: Financial Aid
-permalink: /about/financial-aid/
 layout: default
-description: As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US
+title: Financial Aid
 heading: Financial Aid
+permalink: /financial-aid/
+redirect_from:
+  - /about/financial-aid/
+description: |
+    As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US
 ---
 
 ## Apply for Financial Aid!

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Speaking at DjangoCon US
+heading: Speaking at DjangoCon US
 permalink: /speaking/
 description: Information about submitting a proposal to speak at DjangoCon US
-heading: Speaking at DjangoCon US
 ---
 
 Our [Call for Proposals (CFP)](https://www.papercall.io/djangocon-us-2017) is now open! Submit your talk or tutorial proposal by April 10 ([AoE](https://time.is/compare/1200am_11_Apr_2017_in_Anywhere_on_Earth)), and encourage your friends and colleagues to do the same.

@@ -1,9 +1,12 @@
 ---
 title: Code of Conduct
-permalink: /about/coc/
-layout: default
-description: DjangoCon US is dedicated to providing a fun harassment-free conference experience for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, or religion.
 heading: Code of Conduct
+permalink: /coc/
+layout: default
+description: |
+    DjangoCon US is dedicated to providing a fun harassment-free conference experience for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, or religion.
+redirect_from:
+  - /about/coc/
 ---
 
 ## TL;DR

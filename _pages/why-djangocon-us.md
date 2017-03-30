@@ -1,18 +1,21 @@
 ---
-title: Why DjangoCon US?
-permalink: /about/why-djangocon-us/
 layout: default
-description: Why you should attend DjangoCon US and encourage your employees to attend
-heading: Why DjangoCon US? 
+title: Why DjangoCon US?
+heading: Why DjangoCon US?
+permalink: /why-djangocon-us/
+redirect_from:
+  - /about/why-djangocon-us/
+description: |
+    Why you should attend DjangoCon US and encourage your employees to attend
 ---
 
 Attending DjangoCon US benefits your organization as well as your employees!
 
-- Tutorials provide hands-on training 
+- Tutorials provide hands-on training
 - Talks cover a wide variety of Django topics
 - Attendees can network with maintainers of popular libraries
 - The Django community is welcoming to newcomers and old hands alike
-- Being exposed to new technologies and ideas can reinvigorate an employee’s passion for development 
+- Being exposed to new technologies and ideas can reinvigorate an employee’s passion for development
 - Employees can share what they learned when they return to the office
 
 <section

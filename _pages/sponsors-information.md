@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Become a Sponsor
+heading: Become a Sponsor
 permalink: /sponsors/information/
 description: Become a Sponsor
-heading: Become a Sponsor
 ---
 
 ## What Is DjangoCon US?

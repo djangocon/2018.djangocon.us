@@ -94,4 +94,4 @@ Crowd shots are permitted, but when only the faces of a few people are visible, 
 
 This Code of Conduct was forked from the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers. which is under a Creative Commons Zero license.
 
-Conference Code of Conduct by [2017.djangocon.us/about/coc/](https://2017.djangocon.us/about/coc/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+Conference Code of Conduct by [2017.djangocon.us/coc/](https://2017.djangocon.us/coc/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).

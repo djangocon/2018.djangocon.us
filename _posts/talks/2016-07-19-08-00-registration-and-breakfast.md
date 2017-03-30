@@ -4,6 +4,7 @@ category: talk
 permalink:
 accepted: true
 published: true
+sitemap: false
 
 title: Registration and Breakfast
 summary:

@@ -1,0 +1,29 @@
+<li
+  class="event
+  {% if post.room == "Classroom (F-50)" %}loc-alt
+  {% elsif post.room == "Classroom (F-55)" %}loc-alt-2
+  {% elsif post.room == "Room 1" %}loc-alt-3
+  {% else %}loc-main
+  {% endif %}
+
+  ">
+  {% unless post.room == 'filler' %}
+    <a href="{{ post.permalink }}" class="event-content">
+      {% if post.title %}
+        <h3 class="event-title">{{ post.title }}</h3>
+      {% endif %}
+      {% if post.difficulty %}
+        <span class="label" aria-label="Audience level:">{{ post.difficulty }}</span>
+      {% endif %}
+      {% if post.room %}
+        <p class="location">{{ post.room }}</p>
+      {% endif %}
+      {% if post.presenters %}
+        <p class="event-byline">
+          <img class="avatar" src="https://placem.at/people?w=140&h=140" alt="{{ post.presenters }}">
+          {{ post.presenters }}
+        </p>
+      {% endif %}
+    </a>
+  {% endunless %}
+</li>

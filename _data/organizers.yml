@@ -1,11 +1,20 @@
+# organizer data
+
 organizers:
+
+  - name: "Adrienne Lowe"
+    role: "Coordinator, Session Chairs and Runners"
+    photo_url: "/static/img/organizers/adrienne.jpg"
+    github: "adriennefriend"
+    twitter: "adriennefriend"
+    website: "http://www.codingwithknives.com"
 
   - name: "Alexis Fitzpatrick"
     role: "Organizer"
     photo_url: "/static/img/organizers/alexis.jpg"
     hidden: false
-    github: ""
-    twitter: ""
+    github: "amfitz"
+    twitter: "alexismfitz"
     website: ""
 
   - name: "Anna Ossowski"
@@ -91,7 +100,7 @@ organizers:
   - name: "Kojo Idrissa"
     role: ":zap: Talk/Orientation Chair"
     photo_url: "/static/img/organizers/kojo.jpg"
-    github: ""
+    github: "kojoidrissa"
     twitter: "Transition"
     website: ""
 
@@ -146,6 +155,13 @@ organizers:
     photo_url: "/static/img/organizers/rebeccakindschi.jpg"
     github: ""
     twitter: "rebeccakindschi"
+    website: ""
+
+  - name: "Sara Gore"
+    role: "Financial Aid Chair"
+    photo_url: "/static/img/organizers/sara.jpg"
+    github: "saradgore"
+    twitter: "saradgore"
     website: ""
 
   - name: "Stacey Haysler"

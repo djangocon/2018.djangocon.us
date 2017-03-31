@@ -22,8 +22,8 @@ levels:
 
   - name: Gold Sponsors
     sponsors:
-    - name: "Revsys"
-      logo: "https://storage.googleapis.com/ec-djangocon-2016/sponsor_files/revsys-logo.png.300x300_q85_background-%23ffffff_upscale-True.png"
+    - name: "Revolution Systems"
+      logo: "/static/img/sponsors/revsys.png"
       logo_orientation: portrait
       url: "http://www.revsys.com/"
       url_friendly: "revsys.com"

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Become a Sponsor
+heading: Become a Sponsor
 permalink: /sponsors/information/
 description: Become a Sponsor
-heading: Become a Sponsor
 ---
 
 ## What Is DjangoCon US?
@@ -17,6 +17,8 @@ Sponsoring DjangoCon US can help you:
 - Give back to the Django community and ensure its future happiness, health, and productivity
 
 Because the conference is organized by [DEFNA](https://www.defna.org/), a non-profit 501(c)(3) organization, your sponsorship is tax-deductible!
+
+<a href="mailto:{{site.sponsors_email}}" class="button secondary">Want to know more about sponsorship? Contact us today.</a>
 
 ## Sponsorship Levels
 
@@ -39,7 +41,6 @@ The following a la carte offerings are available to increase visibility on site.
 | Sponsor link on website                                                            |    Bronze link     |    Silver link     |                        Gold link                        |    Platinum link    |     Preeminent      |
 | Social Media<br> Twitter & Facebook posts                                          |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
 | Booth Space                                                                        |                    |                    |                      Maximum of 12                      | :white_check_mark:  |     Preeminent      |
-| Logo featured in post conference videos                                            |                    |                    |                                                         | :white_check_mark:  | :white_check_mark:  |
 | Logo on a banner carousel in conference app                                        |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
 | Banner Stands for Keynote and Speaking Rooms<br> (Max of two; provided by sponsor) |                    |                    | Keynote Room<br> - Speaking Room<br> (Space permitting) | :white_check_mark:  |     Preeminent      |
 | Logo on conference app menu                                                        |                    |                    |                                                         | :white_check_mark:  | :white_check_mark:  |
@@ -73,5 +74,4 @@ Interested in another sponsorship opportunity? Get in touch and we’ll do our b
 {% comment %}
 #### Booth info
 {% endcomment %}
-
 

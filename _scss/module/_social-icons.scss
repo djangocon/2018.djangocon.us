@@ -1,11 +1,11 @@
 .social-icons {
-  list-style: none;
   margin: 2em auto;
   text-align: center;
+  list-style: none;
 
   li {
-      display: inline-block;
-      margin: 0 1em;
+    display: inline-block;
+    margin: 0 1em;
   }
 
   .profile & {
@@ -21,9 +21,9 @@
   display: block;
 
   svg {
-    fill: $white;
     width: 42px;
     height: 42px;
+    fill: $white;
   }
 
   .profile & {

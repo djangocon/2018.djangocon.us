@@ -146,11 +146,6 @@
     padding: $global-margin 0;
   }
 
-  // Give time a bit more room
-  .hour-row .column:first-child {
-    padding-left: 0;
-  }
-
   .events {
     display: flex;
   }

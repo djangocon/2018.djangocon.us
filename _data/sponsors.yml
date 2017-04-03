@@ -37,7 +37,7 @@ levels:
         be the world leader in Django support and training!)
         
     - name: "Guidebook"
-      logo: "static/img/sponsors/Guidebook640.png"
+      logo: "/static/img/sponsors/Guidebook640.png"
       logo_orientation: landscape
       url: "https://guidebook.com/"
       url_friendly: "guidebook.com"

@@ -54,3 +54,16 @@ iframe,
 .callout-dark {
   @include callout-style(darken($dark-green, 5%));
 }
+
+// Ensure we have space for anchors and the header does not cover them.
+:target:before {
+  display:block;
+  margin: -70px 0 0; /* negative fixed header height */
+  height: 70px; /* fixed header height*/
+  content: "";
+
+  @include breakpoint(medium) {
+    margin-top: -110px;
+    height: 110px;
+  }
+}

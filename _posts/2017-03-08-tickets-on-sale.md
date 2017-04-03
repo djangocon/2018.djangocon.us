@@ -43,7 +43,7 @@ DjangoCon US has the following tiered refund policy:
 - Refunds requested between August 7 and August 12, 2017, incur a 50% cancellation fee.
 - Tickets may be transferred to someone else at no charge by August 12, 2017, for tutorials and August 13 for the conference.
 
-For all dates the cutoff is on or before 5:00 PM EDT per the time stamp on DEFNA’s servers.
+For all dates the cutoff is on or before 5:00 PM PDT per the time stamp on DEFNA’s servers.
 
 DjangoCon US has sold out the past two years, so [buy your ticket soon](https://ti.to/defna/djangocon-us-2017)!
 

@@ -1,4 +1,4 @@
-.sponsor-footer {
+.partner-footer {
   h3 {
     @extend h2;
     margin-bottom: $global-margin * 2;
@@ -10,7 +10,7 @@
     text-transform: uppercase;
   }
 
-  .sponsor-list {
+  .partner-list {
     position: relative;
     margin-bottom: $global-margin * 2;
 
@@ -26,13 +26,13 @@
   }
 }
 
-.sponsor-list {
+.partner-list {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
 }
 
-.sponsor-block {
+.partner-block {
   padding: 0 $global-margin $global-margin;
   width: 100%;
 
@@ -49,12 +49,12 @@
   }
 }
 
-.sponsor-list {
-  .sponsor-logo.portrait {
+.partner-list {
+  .partner-logo.portrait {
     max-height: 70px;
   }
 
-  .sponsor-logo.landscape {
+  .partner-logo.landscape {
     max-width: 160px;
   }
 }
@@ -62,7 +62,7 @@
 
 /*
 // LEGACY
-.sponsor-list {
+.partner-list {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -74,7 +74,7 @@
     margin: 0.5em;
   }
 
-  .sponsor {
+  .partner {
     display: block;
     opacity: 0.7;
     transition: all 300ms ease;

@@ -13,6 +13,14 @@ description: |
 
 As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US.
 
+<div class="row column">
+    <div class="medium-5 medium-centered column">
+        <div class="button-group expanded">
+            <a class="button secondary" href="{{ site.financial_aid_application }}">Apply for Financial Aid</a>
+        </div>
+    </div>
+</div>
+
 [Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.
 
 In addition, this year, speakers will be provided with free conference tickets to encourage wider participation from the Django community.

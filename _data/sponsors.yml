@@ -35,17 +35,17 @@ levels:
         their core expertise lies in Python, Django, PostgreSQL, systems
         admin services and devops. (All this and they still find time to
         be the world leader in Django support and training!)
-        
+
     - name: "Guidebook"
       logo: "/static/img/sponsors/Guidebook640.png"
       logo_orientation: landscape
       url: "https://guidebook.com/"
       url_friendly: "guidebook.com"
       description: |
-        Guidebook is a simple yet powerful mobile application builder 
-        that lets you create an app in four easy steps — no technical 
-        skills required. Just choose from a gallery of mobile app 
-        templates, select your features, and fill it with content. 
+        Guidebook is a simple yet powerful mobile application builder
+        that lets you create an app in four easy steps — no technical
+        skills required. Just choose from a gallery of mobile app
+        templates, select your features, and fill it with content.
         Then publish in minutes to Google Play and the Apple App Store.
 
   - name: Silver Sponsors
@@ -53,3 +53,48 @@ levels:
 
   - name: Bronze Sponsors
     sponsors:
+
+  - name: Diversity Sponsors
+    sponsors:
+
+    - name: "DEFNA"
+      logo: "/static/img/sponsors/defna.png"
+      logo_orientation: portrait
+      url: "http://www.revsys.com/"
+      url_friendly: "revsys.com"
+      description: |
+        Django Events Foundation North America (DEFNA) is a non-profit
+        based in California USA. It was formed in 2015 at the request
+        of the Django Software Foundation (DSF) to run DjangoCon US.
+        The DSF have licensed DEFNA to run DjangoCon US for 2015, 2016
+        and 2017. Beyond DjangoCon US we also plan to be involved with
+        other events in North America that cover the education and
+        outreach of Django.
+
+    - name: "Django Software Foundation"
+      logo: "/static/img/sponsors/django-logo-positive.svg"
+      logo_orientation: portrait
+      url: "https://www.djangoproject.com/foundation/"
+      url_friendly: "djangoproject.com"
+      description: |
+        Development of Django is supported by an independent foundation
+        established as a 501(c)(3) non-profit. Like most open-source
+        foundations, the goal of the Django Software Foundation is to
+        promote, support, and advance its open-source project: in our
+        case, the Django Web framework.
+
+    - name: "Python Software Foundation"
+      logo: "/static/img/sponsors/psf-logo.svg"
+      logo_orientation: portrait
+      url: "https://www.python.org/psf/"
+      url_friendly: "python.org"
+      description: |
+        The Python Software Foundation (PSF) is a 501(c)(3) non-profit
+        corporation that holds the intellectual property rights behind
+        the Python programming language. We manage the open source
+        licensing for Python version 2.1 and later and own and protect
+        the trademarks associated with Python. We also run the North
+        American PyCon conference annually, support other Python
+        conferences around the world, and fund Python related
+        development with our grants program and by funding special
+        projects.

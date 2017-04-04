@@ -1,0 +1,23 @@
+# places around spokane data
+
+places:
+
+  - name: "Banana Stand 1"
+    hidden: true
+    photo_url: "https://placem.at/places?w=200&h=200&random=yes"
+    location: "123 Banana Stand St."
+    distance: ".3mi away"
+    website: ""
+    description: |
+        This is the banana stand. It's within walking distance of the
+        hotel and has delicious bananas at an affordable price.
+
+  - name: "Banana Stand 2"
+    hidden: true
+    photo_url: "https://placem.at/places?w=200&h=200&random=yes"
+    location: "123 Banana Stand St."
+    distance: ".3mi away"
+    website: ""
+    description: |
+        This is the banana stand. It's within walking distance of the
+        hotel and has delicious bananas at an affordable price.

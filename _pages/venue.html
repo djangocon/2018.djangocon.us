@@ -88,87 +88,42 @@ description: |
   </div>
 
   {% comment %}
-  <!--
-  TODO: Update these...
-  -->
-  <section class="row large-up-2 attraction-list">
-    <div class="column column-block">
-      <div class="media-object stack-for-small attraction">
-        <div class="media-object-section hide-for-small-only">
-          <a href="#" class="thumbnail thumbnail-block">
-            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
-          </a>
+  Beginning of Places Around Spokane...
+
+  To update the information in this section, please see:
+
+    `_data/places.yml`
+
+  {% endcomment %}
+  {% if site.data.places.places %}
+    <section class="row large-up-2 attraction-list">
+      {% for place in site.data.places.places %}
+        {% unless place.hidden %}
+        <div class="column column-block">
+          <div class="media-object stack-for-small attraction">
+            <div class="media-object-section hide-for-small-only">
+              <a href="{{ place.website }}" class="thumbnail thumbnail-block">
+                <img src="{{ place.photo_url }}" alt="">
+              </a>
+            </div>
+            <div class="media-object-section">
+              <h3 class="attraction-name">
+                <a href="{{ place.website }}">{{ place.name }}</a>
+              </h3>
+              <p class="attraction-location">
+                <span class="label">{{ place.distance }}</span>
+                <a href="{{ place.website }}">{{ place.location }}</a>
+              </p>
+              <p class="attraction-description">{{ place.description }}</p>
+            </div>
+          </div>
         </div>
-        <div class="media-object-section">
-          <h3 class="attraction-name">
-            <a href="#">Banana Stand</a>
-          </h3>
-          <p class="attraction-location">
-            <span class="label">.3mi away</span>
-            <a href="#">123 Banana Stand St.</a>
-          </p>
-          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
-        </div>
-      </div>
-    </div>
-    <div class="column column-block">
-      <div class="media-object stack-for-small attraction">
-        <div class="media-object-section hide-for-small-only">
-          <a href="#" class="thumbnail thumbnail-block">
-            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
-          </a>
-        </div>
-        <div class="media-object-section">
-          <h3 class="attraction-name">
-            <a href="#">Banana Stand</a>
-          </h3>
-          <p class="attraction-location">
-            <span class="label">.3mi away</span>
-            <a href="#">123 Banana Stand St.</a>
-          </p>
-          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
-        </div>
-      </div>
-    </div>
-    <div class="column column-block">
-      <div class="media-object stack-for-small attraction">
-        <div class="media-object-section hide-for-small-only">
-          <a href="#" class="thumbnail thumbnail-block">
-            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
-          </a>
-        </div>
-        <div class="media-object-section">
-          <h3 class="attraction-name">
-            <a href="#">Banana Stand</a>
-          </h3>
-          <p class="attraction-location">
-            <span class="label">.3mi away</span>
-            <a href="#">123 Banana Stand St.</a>
-          </p>
-          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
-        </div>
-      </div>
-    </div>
-    <div class="column column-block">
-      <div class="media-object attraction">
-        <div class="media-object-section hide-for-small-only">
-          <a href="#" class="thumbnail thumbnail-block">
-            <img src="https://placem.at/places?w=200&h=200&random=yes" alt="">
-          </a>
-        </div>
-        <div class="media-object-section">
-          <h3 class="attraction-name">
-            <a href="#">Banana Stand</a>
-          </h3>
-          <p class="attraction-location">
-            <span class="label">.3mi away</span>
-            <a href="#">123 Banana Stand St.</a>
-          </p>
-          <p class="attraction-description">This is the banana stand. It's within walking distance of the hotel and has delicious bananas at an affordable price.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+        {% endunless %}
+      {% endfor %}
+    </section>
+  {% endif %}
+  {% comment %}
+  End of Places Around Spokane...
   {% endcomment %}
 </div>
 

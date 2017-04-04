@@ -1,3 +1,5 @@
+# organizer data
+
 organizers:
 
   - name: "Adrienne Lowe"
@@ -11,8 +13,8 @@ organizers:
     role: "Organizer"
     photo_url: "/static/img/organizers/alexis.jpg"
     hidden: false
-    github: ""
-    twitter: ""
+    github: "amfitz"
+    twitter: "alexismfitz"
     website: ""
 
   - name: "Anna Ossowski"

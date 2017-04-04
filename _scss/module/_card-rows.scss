@@ -9,6 +9,10 @@
   }
 }
 
+.card {
+  width: 100%;
+}
+
 .card.icon-right {
   .card-icon {
     float: right;
@@ -27,9 +31,9 @@
 
   .card-icon {
     float: left; // no-flex fallback
-    width: 240px;
-    margin: 0 0 0 1em;
     align-self: center;
+    margin: 0 0 0 1em;
+    width: 240px;
   }
 }
 
@@ -43,10 +47,10 @@
 }
 
 .card-icon {
-  width: 100px;
-  height: 100px;
   display: block;
   margin: 1em auto 0;
+  width: 100px;
+  height: 100px;
 }
 
 .card-title {

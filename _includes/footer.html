@@ -4,9 +4,9 @@
     {% include logo.svg.html %}
   </a>
 
-  {% comment %}
   <div class="row column">
 
+    {% comment %}
     <div class="show-for-medium">
       <ul class="footer-nav">
         <li><a href="#">Home</a></li>
@@ -34,7 +34,6 @@
       </ul>
     </div>
     {% endcomment %}
-
 
     <ul class="social-icons">
       <li>
@@ -69,6 +68,10 @@
       </strong>
     </p>
 
-    <small class="legal text-center">&copy; {{ site.time | date: '%Y' }} DjangoCon US. Design by <a href="https://lincolnloop.com/">Lincoln Loop</a>.</small>
+    <small class="legal text-center">
+      &copy; {{ site.time | date: '%Y' }} DjangoCon US
+      &middot; Design by <a href="https://lincolnloop.com/">Lincoln Loop</a>
+      &middot; Presented by <a href="https://www.defna.org/">DEFNA</a>
+    </small>
   </div>
 </footer>

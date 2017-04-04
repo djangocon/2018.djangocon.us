@@ -9,12 +9,14 @@ layout: base
     {% if page.heading %}{{ page.heading }}{% else %}{{ page.title }}{% endif %}
   </h1>
   <p class="lead">
-    {{ page.datefriendly }},
+    {{ page.date | date: "%A %l:%M%P" }},
     {{ page.room }}
-    <br>
-    <span
-      class="label"
-      aria-label="Audience level:">{{ page.difficulty }}</span>
+    {% if page.difficulty %}
+      <br>
+      <span
+        class="label"
+        aria-label="Audience level:">{{ page.difficulty }}</span>
+    {% endif %}
   </p>
 </header>
 
@@ -44,32 +46,43 @@ layout: base
           </a>
       </section>
       {% endif %}
-
-
-      <h2>About This {{ page.category }}</h2>
+      <h2>About This {{ page.category | capitalize }}</h2>
       {{ content }}
     </div>
     <div class="column medium-4">
       <div class="profile">
-        <img class="thumbnail" src="https://placem.at/people?w=600&h=600">
-        <h4>Jane Doe</h4>
-        <p>This is what Jane does. Fusce id consequat velit. Donec nec purus vel augue dignissim scelerisque. Nam id nibh semper, scelerisque dui ut, accumsan diam. Praesent vehicula arcu sapien, non molestie tellus imperdiet et. Fusce odio justo, malesuada at eros ut, rhoncus lacinia nulla.</p>
+        {% if page.photo_url != blank %}
+        <img
+          class="thumbnail"
+          src="{{ page.photo_url }}"
+          alt="Photo of {{ page.presenters }}" />
+        {% endif %}
+        <h4>{{ page.presenters }}</h4>
+        {% if page.bio != blank %}
+          <p>{{ page.bio }}</p>
+        {% endif %}
         <ul class="social-icons">
+          {% if page.twitter != blank %}
           <li>
-            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+            <a class="twitter" href="https://twitter.com/{{ page.twitter }}" target="_blank">
               <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
             </a>
           </li>
+          {% endif %}
+          {% if page.github != blank %}
           <li>
-            <a class="github" href="https://github.com/djangocon/" target="_blank">
+            <a class="github" href="https://github.com/{{ page.github }}/" target="_blank">
               <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
             </a>
-          </li>
+            </li>
+          {% endif %}
+          {% if page.website != blank %}
           <li>
-            <a class="github" href="https://website.com" target="_blank">
+            <a class="web" href="{{ page.website }}" target="_blank">
               <svg class="social-icon"><use xlink:href="#web-icon"></use></svg>
             </a>
           </li>
+          {% endif %}
         </ul>
       </div><!--/.profile -->
     </div><!-- end .column -->

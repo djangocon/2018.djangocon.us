@@ -124,20 +124,26 @@
   }
 }
 
+.event.loc-alt-3 {
+  @extend %has-bg;
+  border-top: 8px solid $green;
+
+  .location,
+  a:hover {
+    color: $green;
+  }
+}
+
 .event.loc-main,
 .event.loc-alt,
-.event.loc-alt-2 {
+.event.loc-alt-2,
+.event.loc-alt-3 {
   padding: ($global-margin * 1.75) $global-margin $global-margin;
 }
 
 @include breakpoint(medium) {
   .hour-row {
     padding: $global-margin 0;
-  }
-
-  // Give time a bit more room
-  .hour-row .column:first-child {
-    padding-left: 0;
   }
 
   .events {

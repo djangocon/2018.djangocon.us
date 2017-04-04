@@ -16,4 +16,4 @@ We’d like you to consider submitting a tutorial proposal for the following rea
  4. You’ll be contributing to the Django community
  5. It will look very fancy on your resume  :star: :scroll:
 
-If you have any more questions about speaking at DjangoCon US, please check out our [Speaker Resources page](/../../speaking/speaker-resources/).
+If you have any more questions about speaking at DjangoCon US, please check out our [Speaker Resources page](/speaking/speaker-resources/).

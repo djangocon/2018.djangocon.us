@@ -3,7 +3,7 @@ author: Rebecca Kindschi
 category: General
 date: 2017-04-10 00:00:01
 layout: post
-image: static/img/blog/financial_aid.png
+image: /static/img/blog/financial_aid.png
 title: "Applications for Financial Aid Close Today"
 ---
 

@@ -3,7 +3,7 @@ author: Rebecca Kindschi
 category: General
 date: 2017-04-10 00:00:00
 layout: post
-image: static/img/blog/proposal_today.png
+image: /static/img/blog/proposal_today.png
 title: "Last Call for CFP"
 ---
 

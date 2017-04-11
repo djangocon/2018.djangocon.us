@@ -6,13 +6,13 @@ permalink: /speaking/
 description: Information about submitting a proposal to speak at DjangoCon US
 ---
 
-Our [Call for Proposals (CFP)](https://www.papercall.io/djangocon-us-2017) is now open! Submit your talk or tutorial proposal by April 10 ([AoE](https://time.is/compare/0000_11_Apr_2017_in_Anywhere_on_Earth)), and encourage your friends and colleagues to do the same.
+<!--Our [Call for Proposals (CFP)](https://www.papercall.io/djangocon-us-2017) is now open! Submit your talk or tutorial proposal by April 10 ([AoE](https://time.is/compare/0000_11_Apr_2017_in_Anywhere_on_Earth)), and encourage your friends and colleagues to do the same.-->
 
-Need help with your proposal? We’ve got mentors and helpful tips on our [Speaker Resources](/speaking/speaker-resources/) page!
+Need help with your talk?<!--Need help with your proposal?--> We’ve got mentors and helpful tips on our [Speaker Resources](/speaking/speaker-resources/) page!
 
 ## Why speak at DjangoCon US?
 
-- Presenters receive a free ticket to DjangoCon US! (Travel costs are not included, but speakers are encouraged to [apply for financial aid](/financial-aid/).
+- Presenters receive a free ticket to DjangoCon US! (Travel costs are not included<!--, but speakers are encouraged to [apply for financial aid](/financial-aid/-->).
 - Professionally produced video of your talk published to our YouTube channel. (You may opt out of this.)
 - Professional photographer on hand to photograph your talk. (Also optional.)
 - Expose the Django community to new tools, practices, or ideas.
@@ -20,14 +20,14 @@ Need help with your proposal? We’ve got mentors and helpful tips on our [Speak
 - Share your discoveries with a large audience.
 - Give back to the Django community!
 
-<div class="row column v-pad-top">
+<!--<div class="row column v-pad-top">
     <div class="medium-5 medium-centered column">
         <div class="button-group expanded">
             <a class="button secondary" href="https://www.papercall.io/djangocon-us-2017">Submit a Talk</a>
             <a class="button secondary" href="/financial-aid/">Apply for Financial Aid</a>
         </div>
     </div>
-</div>
+</div>-->
 
 ## Selection process
 

@@ -21,19 +21,21 @@ Here are some examples of what has been accepted over the last couple of years:
 
 Length: ~3 - 3.5 hours
 
-We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level, just be sure to indicate clearly what you expect your students to already know or have experience with <!--in your proposal-->.
+We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level, just be sure to indicate clearly what you expect your students to already know or have experience with{% comment %}in your proposal{% endcomment %}.
 
-<!--Still unsure if you should submit? -->Not only will we cover your DjangoCon US ticket, but tutorials are compensated.
+{% comment %}Still unsure if you should submit? {% endcomment %}Not only will we cover your DjangoCon US ticket, but tutorials are compensated.
 
-<!--div class="row">
+{% comment %}
+<div class="row">
     <div class="column">
         <a class="button secondary" href="https://www.papercall.io/djangocon-us-2017">Apply today!</a>
     </div>
-</div>-->
+</div>
+{% endcomment %}
 
-## Need some help with your <!--proposal or -->talk?
+## Need some help with your {% comment %}proposal or {% endcomment %}talk?
 
-Presenters, regardless of experience, sometimes want a little help. If you’d like any help in <!--proposing, -->preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
+Presenters, regardless of experience, sometimes want a little help. If you’d like any help in {% comment %}proposing, {% endcomment %}preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
 
 * [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, DjangoCon US and Django Girls Atlanta organizer, Your Django Story leader.
 * [Aisha Bello](mailto:aishabello2050@gmail.com), DjangoGirls Lagos organizer, a Python community enthusiastic with a lot of passion for women tech education in Africa.

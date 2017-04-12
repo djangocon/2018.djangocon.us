@@ -14,7 +14,7 @@ Need help with your talk?{% comment %}Need help with your proposal?{% endcomment
 
 ## Why speak at DjangoCon US?
 
-- Presenters receive a free ticket to DjangoCon US! (Travel costs are not included){% comment %}, but speakers are encouraged to [apply for financial aid](/financial-aid/){% endcomment %}.
+- Presenters receive a free ticket to DjangoCon US! (Travel costs are not included{% comment %}, but speakers are encouraged to [apply for financial aid](/financial-aid/){% endcomment %}.)
 - Professionally produced video of your talk published to our YouTube channel. (You may opt out of this.)
 - Professional photographer on hand to photograph your talk. (Also optional.)
 - Expose the Django community to new tools, practices, or ideas.

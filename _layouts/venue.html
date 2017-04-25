@@ -1,0 +1,135 @@
+---
+title:
+layout: base
+---
+
+{% include titlebar.html %}
+<header class="subpage-header">
+  <h1>{{ page.heading }}</h1>
+  <p class="lead min">
+    <a href="https://www.google.com/maps?ll=47.664973,-117.41688&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=303+W+North+River+Dr+Spokane,+WA+99201">
+      Hotel RL by Red Lion Spokane at the Park <br />
+      <small>303 W North River Dr, Spokane, WA 99201</small>
+    </a>
+  </p>
+</header>
+
+<div class="row column v-pad-bottom">
+  <div class="medium-7 column">
+    <h2>Welcome to Spokane!</h2>
+    <p class="lead min">This year's venue is the Hotel RL by Red Lion Spokane at the Park! Located just 20 minutes from Spokane International Airport and quick hop to Spokane's bustling downtown, the Hotel RL provides the perfect setting.</p>
+    <p>More story telling about the adventure you are about to have. Nam imperdiet tempor porttitor. Aliquam et est iaculis, consectetur leo id, facilisis tellus. Vestibulum eu varius tortor. Duis non viverra dolor, eu fermentum velit. </p>
+  </div>
+  <div class="medium-5 column">
+    {% comment %}
+    <iframe
+      class="thumbnail thumbnail-block"
+      width="600"
+      height="380"
+      frameborder="0"
+      src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJv9e4a_QYnlQRqsCuHEMJZfY&key=AIzaSyC53fhhv-toSLa-iCzc0qt8zFmVNF1vfDw" allowfullscreen></iframe>
+    {% endcomment %}
+
+    <a
+      class="hide-for-smedium-only"
+      href="https://www.google.com/maps?ll=47.664973,-117.41688&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=303+W+North+River+Dr+Spokane,+WA+99201"
+      target="_blank">
+      <img
+        class="thumbnail thumbnail-block"
+        width="600" src="https://maps.googleapis.com/maps/api/staticmap?scale=false&zoom=17&size=600x380&maptype=roadmap&key=AIzaSyBpAAN1jo0K9AbR4znChM9VwXUZgPDd5zM&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xe65b00%7Clabel:1%7C47.66441,+-117.41611"
+        alt="Google Map of Hotel RL by Red Lion Spokane at the Park">
+    </a>
+    <p class="medium-text-center">
+      <a
+        class="button secondary"
+        href="https://www.google.com/maps?ll=47.664973,-117.41688&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=303+W+North+River+Dr+Spokane,+WA+99201" target="_blank">View Larger Map</a>
+    </p>
+  </div>
+</div>
+
+
+<section class="section-pad theme-dark-beige">
+  <div class="row column">
+    <div class="medium-6 column hide-for-small-only">
+      <img
+        class="thumbnail thumbnail-block"
+        src="/static/img/venue.jpg"
+        alt="Hotel RL by Red Lion Spokane at the Park" />
+    </div>
+    <div class="medium-6 column">
+      <h2>Staying at Hotel RL</h2>
+      <p class="lead min">Our group rate of <strong>$129/night</strong> expires on June 15, so don't wait to book your room!</p>
+
+      <ul class="list-split">
+        <li>Great coffee onsite via <a href="https://www.redlion.com/park-spokane/dining/victrola-coffee-roasters">Victrola Coffee Roasters</a></li>
+        <li><a href="https://www.redlion.com/park-spokane/dining">The Restaurant</a> features local craft beer and PNW cuisine</li>
+        <li>Free roundtrip airport shuttle</li>
+        <li>Free Wi-Fi</li>
+        <li>Room for hallway hacking</li>
+        <li>Short trip to downtown</li>
+      </ul>
+      <p>
+        <a href="https://www.redlion.com/park-spokane" class="button secondary">Book a Room</a>
+      </p>
+    </div>
+  </div>
+</section>
+
+<div class="section-pad theme-light-beige">
+  <div class="row column v-pad-bottom">
+    <h2 class="text-center">Around Spokane</h2>
+    <p class="lead column large-10 large-centered text-center">Public transportation is available via the <a href="https://www.spokanetransit.com/">Spokane Transit Authority</a>, and passes can be purchased for as little as $7.50. Popular ride sharing services are also available. While you're cruising around town, be sure to check out our favorite spots:</p>
+  </div>
+
+  <section class="row large-up-2 attraction-list">
+
+  {% for places in site.data.places.places %}
+
+      <div class="column column-block">
+      <div class="media-object stack-for-small attraction">
+        <div class="media-object-section hide-for-small-only">
+          <a href="{{ places.website }}" target="_blank">
+            <img
+                class="thumbnail"
+                src="{{ places.photo_url }}"
+                alt="Photo of {{ places.name }}" />
+          </a>
+        </div>
+        <div class="media-object-section">
+          <h3 class="attraction-name">
+            <a href="{{ places.website }}" target="_blank">{{ places.name }}</a>
+          </h3>
+          <p class="attraction-description">
+            <strong>Website:</strong> <a href="{{ places.website }}" target="_blank"> {{ places.name }}</a><br>
+            <strong>Distance:</strong>  <span class="label">{{ places.distance }} </span><br>
+            <strong>Address:</strong> <a href="{{ places.map }}" target="_blank">{{ places.location }}</a>
+          <br>
+          <i>{{ places.description }}</i></p>
+        </div>
+      </div>
+    </div>
+
+  {% endfor %}
+  </section>
+
+</div>
+
+<div class="section-pad theme-dark-green">
+  <div class="row">
+    <div class="column medium-5">
+      <h2>An Accessible Experience</h2>
+      <p class="lead min">We've worked with the staff at Hotel RL to accommodate the diverse needs of our attendees.</p>
+      <p>Are we missing something? <strong><a href="mailto:hello@djangocon.us">Let us know</a></strong></p>
+    </div>
+    <div class="column medium-6">
+      <div class="callout callout-dark">
+        <ul class="bottomless">
+          <li>Child care is offered free of charge (with pre-registration) Aug 13-18. <a href="#">Learn more about child care.</a></li>
+          <li>A quiet room is provided on the second floor, Room 202, Aug 13-15. This room is not for socializing.</li>
+          <li>Hotel RL does not provide gender-neutral restrooms. Please use the restroom for the gender with which you identify.</li>
+          <li>New to the conference? <a href="#">Attend a recovery meeting</a>.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

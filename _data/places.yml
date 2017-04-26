@@ -52,15 +52,15 @@ places:
     description: |
         Cozy, brick-walled coffee & gift shop with cafe fare, local roasts & loose teas sold in bulk.
 
-  - name: "Brooklyn Deli"
-    hidden: false
-    photo_url: "/static/img/places/placeholder.jpg"
-    location: "1001 W 1st Ave"
-    distance: "1.1mi away"
-    map: "https://goo.gl/maps/6g8KMfp8HRx"
-    website: "https://brooklyndelispokane.com/"
-    description: |
-        Award winning food in a friendly dining and drinking atmosphere. Twelve beers on tap and a thorough selection of wines and liquors.
+  # - name: "Brooklyn Deli"
+  #   hidden: false
+  #   photo_url: "/static/img/places/placeholder.jpg"
+  #   location: "1001 W 1st Ave"
+  #   distance: "1.1mi away"
+  #   map: "https://goo.gl/maps/6g8KMfp8HRx"
+  #   website: "https://brooklyndelispokane.com/"
+  #   description: |
+  #       Award winning food in a friendly dining and drinking atmosphere. Twelve beers on tap and a thorough selection of wines and liquors.
 
   - name: "Method Juice Cafe Downtown"
     hidden: false
@@ -130,7 +130,7 @@ places:
     map: "https://goo.gl/maps/iaGjnZtGBZ32"
     website: "http://www.italiankitchenspokane.com/"
     description: |
-        Familiar Italian dishes served in a classic wood-heavy setting, plus many Italian & regional wines. 
+        Familiar Italian dishes served in a classic wood-heavy setting, plus many Italian & regional wines.
 
   - name: "Garageland"
     hidden: false
@@ -140,4 +140,4 @@ places:
     map: "https://goo.gl/maps/93ayfXfHTiN2"
     website: "https://www.facebook.com/garagelandspokane/"
     description: |
-        Familiar Italian dishes served in a classic wood-heavy setting, plus many Italian & regional wines. 
+        Familiar Italian dishes served in a classic wood-heavy setting, plus many Italian & regional wines.

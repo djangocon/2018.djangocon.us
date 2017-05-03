@@ -73,6 +73,23 @@ levels:
   - name: Bronze Sponsors
     sponsors:
 
+      - name: "Imaginary Landscape"
+        logo: "/static/img/sponsors/ImaginaryLogo.png"
+        logo_orientation: landscape
+        url: "https://www.imagescape.com/"
+        url_friendly: "www.imagescape.com"
+        description: |
+          Imaginary Landscape is a Chicago-based custom web development 
+          firm that has been focused on Python programming since 1999 
+          and the Django web framework since 2006. We assist clients of 
+          all sizes and industries with application development, 
+          system administration and hosting, user interface and design, 
+          and information architecture. Our team of highly experienced 
+          software developers take pride in the quality of our work, 
+          and it is what our reputation is built on for over 20 years.
+
+
+
   - name: Diversity Sponsors
     sponsors:
 

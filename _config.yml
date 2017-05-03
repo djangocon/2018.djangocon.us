@@ -60,11 +60,6 @@ defaults:
       path: ""
     values:
       image: /static/2017-logos/squares-and-social/djangocon-square.png
-  # - scope:
-  #     path: ""
-  #     type: scheule
-  #   values:
-  #     layout: session-details
 
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/0B7Im-0Y6WeGXTE5uOVVjYXdtMWc/view"

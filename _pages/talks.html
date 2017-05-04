@@ -15,7 +15,7 @@ sitemap: false
       Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
     </p>
     <ul class="schedule">
-      {% for post in site.categories.talk reversed %}
+      {% for post in site.schedule %}
         {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
         {% if day == 'Monday' %}
           {% include schedule-talks-day.html %}
@@ -36,7 +36,7 @@ sitemap: false
     </p>
     {% endcomment %}
     <ul class="schedule">
-      {% for post in site.categories.talk reversed %}
+      {% for post in site.schedule %}
         {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
         {% if day == 'Tuesday' %}
           {% include schedule-talks-day.html %}
@@ -57,7 +57,7 @@ sitemap: false
     </p>
     {% endcomment %}
     <ul class="schedule">
-      {% for post in site.categories.talk reversed %}
+      {% for post in site.schedule %}
         {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
         {% if day == 'Wednesday' %}
           {% include schedule-talks-day.html %}

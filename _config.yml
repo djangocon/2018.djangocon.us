@@ -41,6 +41,9 @@ exclude:
 collections:  # process the _data folder
   components:
     output: false
+  schedule:
+    output: true
+    permalink: /:collection/:name/
 
 # SEO Plugin settings
 

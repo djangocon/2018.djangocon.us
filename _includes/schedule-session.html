@@ -19,10 +19,12 @@
         <p class="location">{{ post.room }}</p>
       {% endif %}
       {% if post.presenters %}
+        {% for presenter in post.presenters %}
         <p class="event-byline">
-          <img class="avatar" src="https://placem.at/people?w=140&h=140" alt="{{ post.presenters }}">
-          {{ post.presenters }}
+          <img class="avatar" src="https://placem.at/people?w=140&h=140" alt="{{ presenter.name }}">
+          {{ presenter.name }}
         </p>
+        {% endfor %}
       {% endif %}
     </a>
   {% endunless %}

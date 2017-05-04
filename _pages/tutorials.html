@@ -15,7 +15,7 @@ sitemap: false
       Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
     </p>
     <ul class="schedule">
-      {% for post in site.categories.tutorial reversed %}
+      {% for post in site.schedule %}
         {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
         {% if day == 'Sunday' %}
           {% include schedule-tutorials-day.html %}

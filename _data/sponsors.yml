@@ -67,6 +67,22 @@ levels:
          programmers learn programming with Python easily and
          effectively.
 
+    - name: "Caktus Group"
+      logo: "/static/img/sponsors/caktus-logo-640x240.png"
+      logo_orientation: landscape
+      url: "https://www.caktusgroup.com/"
+      url_friendly: "www.caktusgroup.com"
+      description: |
+        Caktus builds web and SMS apps with Django for businesses and 
+        social good.  We’re known for developing sharp apps the right 
+        way, delivering over 100 solutions and impacting more than 70 
+        million people.  In addition to building apps with the highest
+        code quality, we provide discovery workshops, team augmentation,
+        and best practices consulting. We’re proud to be part of the 
+        AWS Partner Network as Consulting Partners.
+
+
+
   - name: Silver Sponsors
     sponsors:
 

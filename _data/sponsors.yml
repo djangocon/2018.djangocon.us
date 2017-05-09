@@ -104,6 +104,46 @@ levels:
           software developers take pride in the quality of our work, 
           and it is what our reputation is built on for over 20 years.
 
+      - name: "Fusionbox"
+        logo: "/static/img/sponsors/fusionboxlogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.fusionbox.com/"
+        url_friendly: "www.fusionbox.com"
+        description: |
+          Fusionbox is a custom software development agency specializing
+          in Python/Django, ETL, and application security.  They've 
+          helped companies big and small develop software since 2002.  
+
+      - name: "PostgreSQL Experts, Inc."
+        logo: "/static/img/sponsors/pgxlogo.png"
+        logo_orientation: "portrait"
+        url: "https://pgexperts.com/"
+        url_friendly: "www.pgexperts.com"
+        description: |
+          PostgreSQL Experts, Inc., a team of dedicated open source 
+          technology experts, can help you develop new applications, 
+          accelerate existing applications, refactor infrastructure, 
+          and solve database problems. Our consultants are known by 
+          their many contributions to PostgreSQL, Django, and other 
+          OSS projects, including a PostgreSQL Core Team member, 
+          PostgreSQL committers and contributors, and contributors to 
+          database-backed applications in Django, Perl, PHP, Python 
+          and Java.
+
+      - name: "Mozilla"
+        logo: "/static/img/sponsors/mozillalogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.mozilla.org"
+        url_friendly: "www.mozilla.org"
+        description: |
+         At Mozilla, we’re a global community of technologists, thinkers
+         and builders working together so people worldwide can be 
+         informed contributors and creators of the Web. Our mission is 
+         to ensure the Internet is a global public resource, open and 
+         accessible to all, where individuals can shape their own 
+         experience and are empowered, safe and independent.
+
+
 
 
   - name: Diversity Sponsors

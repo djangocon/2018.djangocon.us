@@ -132,7 +132,7 @@ levels:
 
       - name: "Mozilla"
         logo: "/static/img/sponsors/mozillalogo.png"
-        logo_orientation: ""
+        logo_orientation: "landscape"
         url: "https://www.mozilla.org"
         url_friendly: "www.mozilla.org"
         description: |

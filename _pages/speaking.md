@@ -35,7 +35,7 @@ Need help with your talk?{% comment %}Need help with your proposal?{% endcomment
 
 ## Selection process
 
-We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will all be reviewing anonymized submissions and collectively deciding which ones to accept. We will notify those who have been accepted by **May 15, 2017**. We’ll publish the list of selected talks as soon as we can after the deadline.
+We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will all be reviewing anonymized submissions and collectively deciding which ones to accept. **Submissions for DjangoCon US 2017 are closed as of April 11, 2017 07:00 CDT.** We will notify those who have been accepted by **May 15, 2017**. We’ll publish the list of selected talks as soon as we can after the deadline.
 
 ## Lightning Talks ⚡️
 

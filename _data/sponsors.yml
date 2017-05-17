@@ -172,8 +172,8 @@ levels:
     - name: "DEFNA"
       logo: "/static/img/sponsors/defna.png"
       logo_orientation: portrait
-      url: "http://www.revsys.com/"
-      url_friendly: "revsys.com"
+      url: "https://www.defna.org/"
+      url_friendly: "www.defna.org"
       description: |
         Django Events Foundation North America (DEFNA) is a non-profit
         based in California USA. It was formed in 2015 at the request

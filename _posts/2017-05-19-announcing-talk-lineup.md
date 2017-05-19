@@ -7,9 +7,9 @@ image: /static/img/blog/talk-lineup.png
 title: "Announcing Our Talk Lineup!"
 ---
 
-Congratulations to the speakers of the 41 talks below. The Django community and beyond submitted a record number of incredible talk proposals, and selecting these talks was extremely difficult. We were only able to accept 16% of the submissions we received, and appreciate the effort everyone put into their submissions; thank you! Another huge thank-you to our reviewers, without whom this list would still be weeks in the making.
+The Django community and beyond submitted a record number of incredible talk proposals, and selecting these talks was extremely difficult. We were only able to accept 16% of the submissions we received, and appreciate the effort everyone put into their submissions; thank you! Another huge thank-you to our reviewers, without whom this list would still be weeks in the making.
 
-We’ll also announce the tutorial schedule in just a few days, and the conference schedule (with keynotes!) will be available very soon. Here is our talk lineup (sorted by last name)!
+We’ll also announce the tutorial schedule in just a few days, and the conference schedule will be available very soon. Congratulations to the speakers of the 41 talks below!
 
  * Saved You a Click (Or Three): Supercharging the Django Admin with Actions and Views (Liam Andrew)
  * Django vs Flask (David “DB” Baumgold)

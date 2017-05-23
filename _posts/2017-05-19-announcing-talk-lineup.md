@@ -25,7 +25,7 @@ We’ll also announce the tutorial schedule in just a few days, and the conferen
  * Python & Spreadsheets: 2017 Edition (Kojo Idrissa)
  * Type UWSGI; Press Enter; What Happens? (Philip James)
  * Serverless Django (Rich Jones)
- * Live long and refactor 🖖🏽 (Sana Javed)
+ * Live long and refactor :vulcan_salute: (Sana Javed)
  * Preventing Headaches with Linters and Automated Checks (Flávio Junior)
  * Autopsy of a Slow Train Wreck: the Life and Death of a Django Startup (Russell Keith-Magee)
  * The Beauty of ViewSets in Django Rest Framework (Buddy Lindsey, Jr.)

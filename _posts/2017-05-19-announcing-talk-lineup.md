@@ -51,4 +51,4 @@ We’ll also announce the tutorial schedule in just a few days, and the conferen
  * The 10 Commandments of Community Organizing (Jennifer Wadella)
  * Exhausted Octopus Learns a Thing!! (Laura R. Webb)
  * The Denormalized Query Engine Design Pattern (Simon Willison)
- * Tasks: You Gotta Know How to Run 'Em, You Gotta Know How to Save ’Em (Filipe Ximenes)
+ * Tasks: You Gotta Know How to Run 'Em, You Gotta Know How to Safe ’Em (Filipe Ximenes)

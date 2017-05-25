@@ -35,7 +35,7 @@ We’ll also announce the tutorial schedule in just a few days, and the conferen
  * The Power :zap: and Responsibility :sweat: of Unicode Adoption :sparkles: (Katie McLaughlin)
  * Practical Unit Testing in Django (Wayne Merry)
  * Using Django, Docker, and Scikit-Learn to Bootstrap Your Machine Learning Project (Lorena Mesa)
- * Introduction to Code Collaboration and Review (Katherine “Kati” Michel)
+ * Get a Jumpstart on Collaboration and Code Review in GitHub (Katherine “Kati” Michel)
  * Why Can't Everyone Just Do What I Want Them To? Leadership, Management, and Working with People Who Don't Think like You (Briana Morgan)
  * Flourishing FLOSS: Making Your Project Successful (Anna Ossowski)
  * Functional Programming in an Imperative World. Maybe (Derik Pell)

@@ -28,11 +28,11 @@ This tutorial will teach you when, why, and (most importantly) how to use React 
 
 Presented by [Muranga James](https://twitter.com/murangajames) \| Sunday, August 13, 1:30 PM - 5:00 PM \| Level: Intermediate
 
-In this tutorial, I talk about GraphQL, what it is and why you should consider it as a way of building APIs for you application. This will then be followed by a hands-on walkthrough of how you can build a GraphQL API in Django using Graphene.
+In this tutorial, I talk about GraphQL, what it is and why you should consider it as a way of building APIs for your application. This will then be followed by a hands-on walkthrough of how you can build a GraphQL API in Django using Graphene.
 
 ## Build and Launch a Website on Wagtail, in Three Hours!
 
-Presented by: [Tom Dyson](https://twitter.com/tomd) \| Sunday, August 13, 1:30 PM - 5:00 PM \| Level: Beginner
+Presented by [Tom Dyson](https://twitter.com/tomd) \| Sunday, August 13, 1:30 PM - 5:00 PM \| Level: Beginner
 
 We’ll start from scratch and end with a customised, content-managed website, live on the web.
 
@@ -40,7 +40,7 @@ We’ll start from scratch and end with a customised, content-managed website, l
 
 Presented by [Ken Whitesell](https://twitter.com/KenWhitesell) \| Sunday, August 13, 1:30 PM - 5:00 PM \| Level: Intermediate
 
-This tutorial provides a guided introduction to Channels, the code needed to be written to use it, and the infrastructure considerations involved in making channels work for you. By the end of the tutorial you will have participated in creating a fully-interactive web site.
+This tutorial provides a guided introduction to Channels, the code needed to be written to use it, and the infrastructure considerations involved in making Channels work for you. By the end of the tutorial you will have participated in creating a fully-interactive web site.
 
 
 ***

@@ -24,6 +24,12 @@ Presented by [Jack McCloy](https://twitter.com/jackmccloy) and [Geoffrey Sechter
 
 This tutorial will teach you when, why, and (most importantly) how to use React in your Django projects. You’ll walk away with a solid understanding of React, a working knowledge of several other tools in the React ecosystem, and a tutorial project that you can use/reference in the future.
 
+## Catching Tweets with Django+REST
+
+Presented by [Katia Lira](https://twitter.com/lakatialira) \| Sunday, August 13, 9:00 AM - 12:30 PM \| Level: Beginner
+
+Users on Twitter generate lots of data that could be used for a million different purposes. Django and REST are amazing tools that handle large amounts of content. That’s a match made in heaven. Imagine what a developer could accomplish by combining these technologies. The sky is the limit.
+
 ## Build a GraphQL API Using Django
 
 Presented by [Muranga James](https://twitter.com/murangajames) \| Sunday, August 13, 1:30 PM - 5:00 PM \| Level: Intermediate
@@ -41,7 +47,6 @@ We’ll start from scratch and end with a customised, content-managed website, l
 Presented by [Ken Whitesell](https://twitter.com/KenWhitesell) \| Sunday, August 13, 1:30 PM - 5:00 PM \| Level: Intermediate
 
 This tutorial provides a guided introduction to Channels, the code needed to be written to use it, and the infrastructure considerations involved in making Channels work for you. By the end of the tutorial you will have participated in creating a fully-interactive web site.
-
 
 ***
 

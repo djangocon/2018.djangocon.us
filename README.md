@@ -51,9 +51,11 @@ Verify that you are on the master branch
 $ git branch
 ```
 
-Follow the instructions below to run the website on a local server. GitHub recommends using [Bundler](http://bundler.io/) to install and run Jekyll. [Ruby](https://www.ruby-lang.org) is a pre-requisite. One of the project dependencies (nokogiri) requires Ruby version >= 2.1.0. See the [Jekyll Quick-start Guide](https://jekyllrb.com/docs/quickstart/) for more info.
+Follow the instructions below to run the website on a local server. GitHub recommends using [Bundler](http://bundler.io/) to install and run Jekyll. [Ruby](https://www.ruby-lang.org) is a pre-requisite. One of the project dependencies (nokogiri) requires a Ruby version >= 2.1.0. See the [Jekyll Quick-start Guide](https://jekyllrb.com/docs/quickstart/) for more info.  
 
-### Install Jekyll (you might need to use 'sudo gem install jekyll bundler')
+### Install Jekyll
+
+You might need to use ```$ sudo gem install jekyll bundler```
 
 ```bash
 $ gem install jekyll bundler

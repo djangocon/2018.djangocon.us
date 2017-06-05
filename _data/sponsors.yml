@@ -104,6 +104,19 @@ levels:
           yourself. The last thing we want you to worry about is your 
           event software.
 
+      - name: "Rover.com"
+        logo: "/static/img/sponsors/roverlogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.rover.com/"
+        url_friendly: "www.rover.com"
+        description: |
+          Rover.com is the nation’s largest online marketplace of
+          5-star pet sitters and dog walkers. Through Rover’s
+          straight-forward website and app, anyone can easily find,
+          message, and book a pet care provider who’ll treat their dog 
+          like family.
+
+
 
 
   - name: Bronze Sponsors

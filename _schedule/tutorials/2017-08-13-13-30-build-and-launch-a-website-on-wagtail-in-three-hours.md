@@ -3,9 +3,9 @@ abstract: We'll start from scratch and end with a customised, content-managed we
   live on the web.
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2017-08-13 13:30
 layout: session-details
-permalink: /tutorial/build-and-launch-a-website-on-wagtail-in-three-hours/
+permalink: /tutorials/build-and-launch-a-website-on-wagtail-in-three-hours/
 presenters:
 - bio: I'm the technical director at Torchbox, a UK web agency. I also run the Wagtail
     CMS project. I wrote the theme tune to [Charlie and Lola](https://en.wikipedia.org/wiki/Charlie_and_Lola).
@@ -16,7 +16,7 @@ presenters:
   twitter: tomd
   website: https://torchbox.com
 published: true
-room: ''
+room: Classroom (F-50)
 sitemap: true
 slides_url: ''
 summary: ''

@@ -4,9 +4,9 @@ abstract: In this tutorial , I talk about GraphQL, what it is and why you should
   a hands on walk through of how you can build a GraphQL api in Django using graphene.
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2017-08-13 13:30
 layout: session-details
-permalink: /tutorial/build-a-graphql-api-using-django/
+permalink: /tutorials/build-a-graphql-api-using-django/
 presenters:
 - bio: "I love python, really enjoy working in Django. \r\nI am a Senior Developer\
     \ at Thoughtworks  and have spent a few years helping clients build awesome web\
@@ -18,7 +18,7 @@ presenters:
   twitter: murangajames
   website: ''
 published: true
-room: ''
+room: Classroom (F-45)
 sitemap: true
 slides_url: ''
 summary: ''
@@ -27,7 +27,7 @@ track: ''
 video_url: ''
 ---
 
-This tutorial will introduce GraphQL to the participants, and walk them through rebuilding the poll app as a GraphQL api. 
+This tutorial will introduce GraphQL to the participants, and walk them through rebuilding the poll app as a GraphQL api.
 
 ### What is  GraphQL ? (10 Minutes)
 
@@ -41,11 +41,11 @@ This tutorial will introduce GraphQL to the participants, and walk them through 
 ### GraphQL concepts (Schemas, Fields, Queries, Mutations) (10 Minutes)
 
 	- Go over some of the theory behind the GraphQL concepts
-		
+
 		- Schemas
-		- Fields 
-		- Queries 
-		- Mutations 
+		- Fields
+		- Queries
+		- Mutations
 
 ### Graphene  (the goto python GraphQL framework) (5 Minutes)
 	- Overview of the graphene framework
@@ -59,7 +59,7 @@ This tutorial will introduce GraphQL to the participants, and walk them through 
 ### Building your schema (10 Minutes)
 
 	- Add a simple schema to the project and view it using the Graphiql tool
- 
+
 ### Adding queries to your GraphQL api (10 Minutes)
 
 	- Add the relevant queries to the schema for our sample application
@@ -78,6 +78,6 @@ This tutorial will introduce GraphQL to the participants, and walk them through 
 	- Go over some patterns to make it easier to write these kinds of tests
 
 ### Handling authorization in your GraphQL api (10 Minutes)
-	- Securing data based on the logged in user 
-	
+	- Securing data based on the logged in user
+
 ### Questions

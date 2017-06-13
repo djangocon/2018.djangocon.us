@@ -5,9 +5,9 @@ abstract: This tutorial provides a guided introduction to Channels, the code nee
   creating a fully-interactive web site.
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2017-08-13 13:30
 layout: session-details
-permalink: /tutorial/don-t-touch-that-dial-an-introduction-to-channels/
+permalink: /tutorials/don-t-touch-that-dial-an-introduction-to-channels/
 presenters:
 - bio: "Ken Whitesell is a software developer with more than 35 years experience scattered\
     \ among just about any platform you care to name. He has been working with Django\
@@ -23,7 +23,7 @@ presenters:
   twitter: KenWhitesell
   website: ''
 published: true
-room: ''
+room: Classroom (F-55)
 sitemap: true
 slides_url: ''
 summary: ''
@@ -62,7 +62,7 @@ Session Outline
 1. Background processing
 1. Asynchronous communications
 1. The completed site
-    
+
 Attendees will not be required to provide their own installations. However, each attendee should have a system capable of accessing a host on the internet through SSH in order to participate in the exercises. Each attendee will be given access to a pre-configured virtual machine containing all the code and other materials used during the session.
 A reasonable degree of knowledge of common web technologies (HTML, CSS, JavaScript) will be assumed. The pages, templates, scripts, and resources will be provided - the attendees will not be creating them on their own. However, it may be difficult for an attendee to follow the discussion and examples if they don't have any familiarity with those items.
 Attendees should also be reasonably comfortable with using a command-line interface and most of the common commands (e.g. ls, cp, mv, cd, diff, grep, vi or nano). Knowledge of git is helpful but not required. Again, the specific commands being used will be provided cookbook- style, but knowledge of what those commands are doing will enhance the experience and enable the attendee to explore the subject material beyond what will be presented.

@@ -5,9 +5,9 @@ abstract: Everyone knows testing is important, but it's frequently neglected bec
   to write, and which can be safely skipped.
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2017-08-13 09:00
 layout: session-details
-permalink: /tutorial/testing-your-django-project/
+permalink: /tutorials/testing-your-django-project/
 presenters:
 - bio: I am a developer at New York-based fintech company Bond Street, and have worked
     with Django since 2009. In my spare time, I like skiing and hiking.
@@ -18,7 +18,7 @@ presenters:
   twitter: ''
   website: http://katrinaeg.com
 published: true
-room: ''
+room: Classroom (F-55)
 sitemap: true
 slides_url: ''
 summary: ''
@@ -40,7 +40,7 @@ Each section contains multiple topics (see below for a complete outline), and ea
 
 Each example will be presented in two parts. First, the instructor will demonstrate how to write that type of test case. Immediately afterwards, attendees will work through a similar exercise on their own. The exercises are designed to be fast and straightforward, to help attendees gain "muscle memory" for writing tests.
 
-These rapid-fire exercises will be interspersed with more in-depth discussions on when to use a particular technique. 
+These rapid-fire exercises will be interspersed with more in-depth discussions on when to use a particular technique.
 
 Intro (15m)
 

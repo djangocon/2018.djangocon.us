@@ -5,9 +5,9 @@ abstract: This tutorial will teach you when, why, and (most importantly) how to 
   project that you can use/reference in the future.
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2017-08-13 09:00
 layout: session-details
-permalink: /tutorial/how-to-react-the-right-way-django-react/
+permalink: /tutorials/how-to-react-the-right-way-django-react/
 presenters:
 - bio: "# Jack McCloy\r\n[Jack](https://twitter.com/jackmccloy) is a NYC based software\
     \ developer who likes building stuff using Django and React. He's currently an\
@@ -26,7 +26,7 @@ presenters:
   twitter: gsechter
   website: https://github.com/lightstrike/
 published: true
-room: ''
+room: Classroom (F-50)
 sitemap: true
 slides_url: ''
 summary: ''

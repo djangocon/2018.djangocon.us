@@ -12,7 +12,7 @@ presenters:
 track:
 difficulty:
 
-date: 2016-07-17 8:00:00 -0500
+date: 2017-08-13 8:00:00 -0500
 room: full
 ---
 In the MBA Lounge & Cafe

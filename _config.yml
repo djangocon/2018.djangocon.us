@@ -38,6 +38,9 @@ exclude:
   - Rakefile
   - README.md
 
+# We need `future` to allow our schedule to work :/
+future: true
+
 collections:  # process the _data folder
   components:
     output: false

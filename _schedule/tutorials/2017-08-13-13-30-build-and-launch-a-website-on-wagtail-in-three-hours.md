@@ -16,7 +16,7 @@ presenters:
   twitter: tomd
   website: https://torchbox.com
 published: true
-room: Classroom (F-50)
+room: Track 2
 sitemap: true
 slides_url: ''
 summary: ''

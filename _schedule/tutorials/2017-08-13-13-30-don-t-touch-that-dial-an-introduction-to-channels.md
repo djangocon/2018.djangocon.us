@@ -23,7 +23,7 @@ presenters:
   twitter: KenWhitesell
   website: ''
 published: true
-room: Classroom (F-55)
+room: Track 3
 sitemap: true
 slides_url: ''
 summary: ''

@@ -18,7 +18,7 @@ presenters:
   twitter: murangajames
   website: ''
 published: true
-room: Classroom (F-45)
+room: Track 1
 sitemap: true
 slides_url: ''
 summary: ''

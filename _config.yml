@@ -67,3 +67,5 @@ defaults:
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/0B7Im-0Y6WeGXTE5uOVVjYXdtMWc/view"
 financial_aid_application: "https://goo.gl/forms/Uu3gr1ltLbSR7SxM2"
+
+github: [metadata]

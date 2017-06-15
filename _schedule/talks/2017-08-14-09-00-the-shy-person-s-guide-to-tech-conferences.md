@@ -23,7 +23,8 @@ presenters:
   twitter: je92rivas
   website: https://hello.jerivas.com
 published: true
-room: 'Audobon'
+#room: 'Audobon'
+room: full
 sitemap: true
 slides_url: ''
 summary: ''

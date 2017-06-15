@@ -3,7 +3,7 @@ abstract: A Django developer's musings on moving outside the REST API box. What 
   GraphQL? Is it as awesome as people are saying? Can it really be used in production?
 accepted: true
 category: talk
-date: 2017-08-14 09:00
+date: 2017-08-16 11:30
 layout: session-details
 permalink: /talk/graphql-in-the-wild/
 presenters:

@@ -3,7 +3,7 @@ abstract: 'How to make a difference for underrepresented populations in tech by 
   available, imperfect, and vulnerable. '
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 17:30
 layout: session-details
 permalink: /talk/maybe-not-the-programmers-they-deserved-but-the-programmers-they-needed/
 presenters:
@@ -28,7 +28,7 @@ presenters:
   twitter: __deatz__
   website: ''
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -69,9 +69,9 @@ Our Story
 ###3.  The Dream Team (AKA: Help!)
 * The Pair Programmers:  Gaining perspective and tripling productivity, Megan and Jessica start figuring out what to teach and begin making the tutorial come to life
 * The Project Manager: Added for some very necessary skills - making things looking professional, doing a code freeze, checking our spelling, and making sure the presentation is consistent
-* The Coaching Team: With a common goal and united front, an all female team of software developers, engineers and IT managers unite to form a coaching group! 
+* The Coaching Team: With a common goal and united front, an all female team of software developers, engineers and IT managers unite to form a coaching group!
 
-###4.  Go Live 
+###4.  Go Live
 * Hot Fixes: The girls begin the tutorial and questions come rolling in. Confusion abounds. They don't know what a Start button is! Nothing shows them their opinion matters like change, so we began live editing the tutorial! Being vulnerable, admitting imperfection, and not taking it personally evolved the tutorial in real time to fit our audience. It also gave the girls a sense of inclusion that was priceless; even though they weren't writing the code to make the edits, their voice was heard and their suggestions were implemented in real time - a powerful way to build confidence!
 * Unexpected Popularity: The girls were engaged! Among raised and waving hands and the din of voices, we kept our cool and took each issue one step at a time. Frankly, we were all a little in shock.
 * Better than we imagined: We might have expected too little of ourselves, but when all was said and done - the girls felt successful, they were all engaged, and their parents were inspired to learn for themselves or keep their girls involved with code going forward!
@@ -85,7 +85,7 @@ Our Story
 * Sharing is caring: We did it and so can you! Expanding the number of contributors as well as the project scope will only make things better! So, we will share our code, share out tutorial, share our experiences, and share our enthusiasm with anyone who wants to make a change!
 
 The Takeaways
----------------------- 
+----------------------
 * You have a lot of power, in the you code help create, in the people you mentor
 * Don’t wait for someone else, endowed with imaginary super coding/people skills, to help create the change you want -do what needs to be done
 * Don’t try to be a panacea, focus on a single thing and do it well

@@ -7,7 +7,7 @@ abstract: 'New parents have challenges. Programmers have challenges. Programmers
   that have worked for me (and failed experiments!).'
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15 17:00
 layout: session-details
 permalink: /talk/programming-post-progeny-a-new-parent-s-perspective/
 presenters:
@@ -23,7 +23,7 @@ presenters:
   twitter: jacindashelly
   website: ''
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -32,7 +32,7 @@ track: ''
 video_url: ''
 ---
 
-When my daughter appeared on the scene in October 2017, my life was turned upside down. 
+When my daughter appeared on the scene in October 2017, my life was turned upside down.
 
 As I was returning to work, I found that previous strategies for managing my time weren't up to snuff and I needed to create new ones if I was to be effective at my craft. No longer did I have 15 minutes to "get in the zone" - I needed to get things done in any time available.  I learned to carve milestones out of minutes (sometimes) and will share what did (and didn't) work for me.
 

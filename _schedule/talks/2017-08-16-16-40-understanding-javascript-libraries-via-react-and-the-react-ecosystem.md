@@ -5,7 +5,7 @@ abstract: Trying to keep up with the JavaScript ecosystem can be overwhelming. N
   learning React and helps demystify the JS ecosystem.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-16 16:40
 layout: session-details
 permalink: /talk/understanding-javascript-libraries-via-react-and-the-react-ecosystem/
 presenters:
@@ -22,7 +22,7 @@ presenters:
   twitter: andrewsforge
   website: http://jambonsw.com
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

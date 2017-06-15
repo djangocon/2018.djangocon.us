@@ -5,7 +5,7 @@ abstract: Abusive behavior can make open source contributing feel impossible & e
   managing & gracefully removing this toxic behavior.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15 17:30
 layout: session-details
 permalink: /talk/the-monster-on-the-project/
 presenters:
@@ -21,7 +21,7 @@ presenters:
   twitter: WhataTiberius
   website: https://www.unroutable.me
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

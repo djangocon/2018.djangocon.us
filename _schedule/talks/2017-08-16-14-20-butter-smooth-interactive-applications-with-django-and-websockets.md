@@ -5,7 +5,7 @@ abstract: The focus of this talk is around the topic of asynchrony in Django app
   the same result with a stock Django installation.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-16 14:20
 layout: session-details
 permalink: /talk/butter-smooth-interactive-applications-with-django-and-websockets/
 presenters:
@@ -25,7 +25,7 @@ presenters:
   twitter: gane5h
   website: http://www.silota.com
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -34,13 +34,13 @@ track: ''
 video_url: ''
 ---
 
-Web applications have changed significantly over the years – from simple static pages, to sprinkling interactiveness with JQuery/AJAX, to full dynamic single page apps. Through each evolution, we’re adding more complexity, more data and more asynchronous behavior to our applications. 
+Web applications have changed significantly over the years – from simple static pages, to sprinkling interactiveness with JQuery/AJAX, to full dynamic single page apps. Through each evolution, we’re adding more complexity, more data and more asynchronous behavior to our applications.
 
 In this new world, where does the synchronous nature of Django's request-response cycle fit in?
 
 My talk will focus on the topics around asynchronous Django applications. I'll be sharing some lessons we learnt while building and scaling an interactive web application within the confines of Django and django-channels.
 
-This topic is interesting because there's been a lot of interest with meteor-like frameworks that have synchronized state between the frontend and backend. My intention is to show the audience that you can accomplish the same end-result with Django, without the need to learn and deploy a brand new framework. 
+This topic is interesting because there's been a lot of interest with meteor-like frameworks that have synchronized state between the frontend and backend. My intention is to show the audience that you can accomplish the same end-result with Django, without the need to learn and deploy a brand new framework.
 
 An outline I have in mind:
 

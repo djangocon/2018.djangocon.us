@@ -5,7 +5,7 @@ abstract: 'How long is it acceptable to keep users waiting for a response? The i
   tasks, what they can do and what are the good practices.'
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-16 16:40
 layout: session-details
 permalink: /talk/tasks-you-gotta-know-how-to-run-em-you-gotta-know-how-to-safe-em/
 presenters:
@@ -24,7 +24,7 @@ presenters:
   twitter: xima
   website: https://www.vinta.com.br/blog/author/filipeximenes/
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

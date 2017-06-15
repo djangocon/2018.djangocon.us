@@ -5,7 +5,7 @@ abstract: Are you interested in collaboration and code review, but want to avoid
   your collaboration and code review skills.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 17:00
 layout: session-details
 permalink: /talk/get-a-jumpstart-on-collaboration-and-code-review-in-github/
 presenters:
@@ -21,7 +21,7 @@ presenters:
   twitter: KatiMichel
   website: http://katherinemichel.github.io/
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

@@ -5,7 +5,7 @@ abstract: "English, Python, C+, Spanish \u2013 all languages, right? Wrong? Mayb
   \ true natural language learning methods to become better developers."
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-07-16 12-20
 layout: session-details
 permalink: /talk/becoming-a-polyglot-lessons-from-natural-language-learning/
 presenters:
@@ -27,7 +27,7 @@ presenters:
   twitter: ''
   website: ''
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -40,5 +40,5 @@ As a trained linguist and former university language instructor, people often as
 
 This talk first addresses key points of divergence between learning a natural language and a programming language. Perhaps most importantly, natural languages are meant for communicating with people and programming languages are meant for giving a computer directions.
 
-However, many areas of overlap exist in learning and perfecting these skills; these shared aspects of learning are the primary focus of this talk. 
+However, many areas of overlap exist in learning and perfecting these skills; these shared aspects of learning are the primary focus of this talk.
 (* And, yes, that's the same 'natural language' as in 'natural language processing.')

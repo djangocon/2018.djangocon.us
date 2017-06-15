@@ -4,7 +4,7 @@ abstract: "Successful mentoring doesn\u2019t just happen, it\u2019s planned. Let
   \ mentorship."
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-16 15:10
 layout: session-details
 permalink: /talk/overcoming-the-challenges-of-mentoring/
 presenters:
@@ -24,7 +24,7 @@ presenters:
   twitter: KimCrayton1
   website: http://www.KimCrayton.com/
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -33,13 +33,13 @@ track: ''
 video_url: ''
 ---
 
-​There is an ongoing mantra within the developer community: that there are far more jobs available then programmers to fill them. Which should be an indication as to the wonderful potential for both business and those learning to code. Yet what often follows such statements are not words of joy but rather a list of frustrations related to the difficulty in finding and retaining enough skilled developers to fill these positions. 
-The challenge is not in the number of newbies entering the field but the number who leave because they are not able to bridge the divide between bootcamps, online tutorials, books, videos, etc. to an employable developer who is able to contribute to the team. 
-Kim has years of experience working with learners of various ages in helping them develop the skills they needed to be successful at whatever their chosen goal. She understands that for businesses to be successful, they must develop more effective and efficient ways of recruiting and retaining developers in order to meet organizational benchmarks. 
+​There is an ongoing mantra within the developer community: that there are far more jobs available then programmers to fill them. Which should be an indication as to the wonderful potential for both business and those learning to code. Yet what often follows such statements are not words of joy but rather a list of frustrations related to the difficulty in finding and retaining enough skilled developers to fill these positions.
+The challenge is not in the number of newbies entering the field but the number who leave because they are not able to bridge the divide between bootcamps, online tutorials, books, videos, etc. to an employable developer who is able to contribute to the team.
+Kim has years of experience working with learners of various ages in helping them develop the skills they needed to be successful at whatever their chosen goal. She understands that for businesses to be successful, they must develop more effective and efficient ways of recruiting and retaining developers in order to meet organizational benchmarks.
 The developer community is a overwhelmingly generous one and a well designed mentoring or apprenticeship program could be one answer that business leaders and newbies are looking for.
 
-- The business costs associated with corporate hiring managers inability to recruit and retain skilled workers to fill current and future entry-level positions are increasing (Queen, 2014). 
-- 89 percent of organizational leaders stated that they are having difficulties filling open positions, which is causing them to either turn down orders, miss key deliverable deadlines or hire individuals from outside of the United States (Aho, 2015). 
+- The business costs associated with corporate hiring managers inability to recruit and retain skilled workers to fill current and future entry-level positions are increasing (Queen, 2014).
+- 89 percent of organizational leaders stated that they are having difficulties filling open positions, which is causing them to either turn down orders, miss key deliverable deadlines or hire individuals from outside of the United States (Aho, 2015).
 
 Aho, K. (2015). The robotics industry: creating jobs, closing the skills gap. Techniques, (7), 22. Retrieved from https://www.acteonline.org/techniques/#.VpMcQq6rR0s
 

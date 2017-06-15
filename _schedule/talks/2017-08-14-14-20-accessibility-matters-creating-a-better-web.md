@@ -5,7 +5,7 @@ abstract: A hands-on look at web accessibility where we go through examples of g
   "gotchas" and the tools to check for them.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 14:20
 layout: session-details
 permalink: /talk/accessibility-matters-creating-a-better-web/
 presenters:
@@ -20,7 +20,7 @@ presenters:
   twitter: lmdragun
   website: ''
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

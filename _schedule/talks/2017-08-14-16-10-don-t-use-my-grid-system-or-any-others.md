@@ -5,7 +5,7 @@ abstract: "I developed a popular Sass grid system, and I'm about to release vers
   \ to use which techniques \u2013\_from old floats to new flexbox and CSS Grid."
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 16:10
 layout: session-details
 permalink: /talk/don-t-use-my-grid-system-or-any-others/
 presenters:
@@ -22,7 +22,7 @@ presenters:
   twitter: mirisuzanne
   website: http://oddbird.net
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

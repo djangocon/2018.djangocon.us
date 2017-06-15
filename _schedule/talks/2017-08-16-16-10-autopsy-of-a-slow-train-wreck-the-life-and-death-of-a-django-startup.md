@@ -5,7 +5,7 @@ abstract: "The dream of the modern startup is well known - with just a laptop an
   \ failure. What went right? And what can you learn from their mistakes?"
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-16 16:10
 layout: session-details
 permalink: /talk/autopsy-of-a-slow-train-wreck-the-life-and-death-of-a-django-startup/
 presenters:
@@ -22,7 +22,7 @@ presenters:
   twitter: freakboy3742
   website: http://pybee.org
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

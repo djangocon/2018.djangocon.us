@@ -5,7 +5,7 @@ abstract: "This talk draws from education research, principles of mindfulness, a
   \ that's not always perfect, not always optimal, but always yours.  \n"
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 12:20
 layout: session-details
 permalink: /talk/exhausted-octopus-learns-a-thing/
 presenters:
@@ -22,7 +22,7 @@ presenters:
   twitter: LRW3bb
   website: http://www.LRWebb.com
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

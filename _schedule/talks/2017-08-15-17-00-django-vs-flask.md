@@ -5,7 +5,7 @@ abstract: Django is the undisputed king of web development in Python, but Flask 
   in Python? Learn about Flask, and how it compares to Django!
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15 17:00
 layout: session-details
 permalink: /talk/django-vs-flask/
 presenters:
@@ -21,7 +21,7 @@ presenters:
   twitter: singingwolfboy
   website: https://www.davidbaumgold.com/
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

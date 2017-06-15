@@ -5,7 +5,7 @@ abstract: Django is undoubtedly the first tool most of us reach for when buildin
   this fast, flexible, and powerful combination.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 17:30
 layout: session-details
 permalink: /talk/write-an-api-for-almost-anything-or-the-amazing-power-and-flexibility-of-django-rest-framework/
 presenters:
@@ -20,7 +20,7 @@ presenters:
   twitter: charlottecodes
   website: ''
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

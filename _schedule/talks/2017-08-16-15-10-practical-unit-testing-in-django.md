@@ -5,7 +5,7 @@ abstract: "This talk will focus on practical mocking and other techniques in uni
   * form methods\n* to mock the ORM or not to. \n* template unit testing"
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-16 15:10
 layout: session-details
 permalink: /talk/practical-unit-testing-in-django/
 presenters:
@@ -29,7 +29,7 @@ presenters:
   twitter: ''
   website: ''
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -41,7 +41,7 @@ video_url: ''
 This talk is an opportunity for you to explore practical ways of improving the test code you write. Unit testing can be challenging, but with the right toolbox of techniques, it is much easier to write unit tests that not only enable high degrees of code coverage, but assurance on each action of your code.
 
 Django provides an excellent test environment that facilitates testing across the whole of a project, however Django's documentation and many online examples focus on integration tests. Any typical use of the Django test client is an integration test. Tools such as selenium also provide a frame work for usability tests, functional tests or integration tests. What is missing in this is a close look at unit tests. It is difficult to obtain high code coverage with integration tests alone.
- 
+
 This talk will build on Daniel Davis' DjangoCon2015 talk "Why Unit Testing Doesn't Have To Be So Hard". That talk introduced the concept of using mocking to deal with the complexity of unit testing and gave a number of simple examples. In this talk, we will apply mocking, dummy objects and harnesses to unit test in the Django environment.
 
 We will focus first on class based views. Django provides an extensive Generic Class Base View hierarchy of base classes and mixins. These define a series of methods that focus on various elements of the response process. For more complex applications, this system provides much of what is needed but often customizations are needed and these can take the form of subclasses overriding one or more methods, or perhaps mixins that are built to implement abstractions of these customizations.

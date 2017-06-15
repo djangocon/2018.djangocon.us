@@ -5,7 +5,7 @@ abstract: There comes a point in the life of most successful code where you've o
   your data, and horror stories of bad decisions.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-16 12:15
 layout: session-details
 permalink: /talk/taking-django-distributed/
 presenters:
@@ -22,7 +22,7 @@ presenters:
   twitter: andrewgodwin
   website: http://www.aeracode.org
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

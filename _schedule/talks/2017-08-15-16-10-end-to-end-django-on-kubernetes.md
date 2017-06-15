@@ -4,7 +4,7 @@ abstract: Considering running Django on Kubernetes, but not sure where to start?
   easily deploy orchestrated Django in containers yourself.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15 16:10
 layout: session-details
 permalink: /talk/end-to-end-django-on-kubernetes/
 presenters:
@@ -19,7 +19,7 @@ presenters:
   twitter: fuzzychef
   website: http://jberkus.github.io/
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

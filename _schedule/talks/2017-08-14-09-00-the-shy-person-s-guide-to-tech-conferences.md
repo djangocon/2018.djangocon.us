@@ -5,7 +5,7 @@ abstract: "Are you a shy person who wants to have outstanding experiences at tec
   \ of your experience by connecting with others and sharing your own work."
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 09:00
 layout: session-details
 permalink: /talk/the-shy-person-s-guide-to-tech-conferences/
 presenters:
@@ -23,7 +23,7 @@ presenters:
   twitter: je92rivas
   website: https://hello.jerivas.com
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

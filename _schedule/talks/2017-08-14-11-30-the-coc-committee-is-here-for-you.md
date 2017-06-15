@@ -5,7 +5,7 @@ abstract: The DSF has had a Code of Conduct committee since 2013, that deals wit
   this leads to a better community for everyone. Including you.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 11:30
 layout: session-details
 permalink: /talk/the-coc-committee-is-here-for-you/
 presenters:
@@ -24,7 +24,7 @@ presenters:
   twitter: erikpub
   website: http://erik.io
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

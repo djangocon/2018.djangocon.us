@@ -5,7 +5,7 @@ abstract: "Are you a beginner worried about starting your first Django project? 
   \ to this talk for a handful of tips, and a lot of high-fives."
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15 12:20
 layout: session-details
 permalink: /talk/stumbling-through-django-and-how-not-to/
 presenters:
@@ -26,7 +26,7 @@ presenters:
   twitter: hellomelaniec
   website: http://www.melaniecrutchfield.com
 published: true
-room: ''
+room: 'Audobon'
 sitemap: true
 slides_url: ''
 summary: ''

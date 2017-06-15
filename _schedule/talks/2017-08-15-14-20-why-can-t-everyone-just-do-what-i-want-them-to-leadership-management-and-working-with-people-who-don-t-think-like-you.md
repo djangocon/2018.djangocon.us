@@ -5,7 +5,7 @@ abstract: We'll talk about how to identify productivity and motivational styles 
   working relationships.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15 14:20
 layout: session-details
 permalink: /talk/why-can-t-everyone-just-do-what-i-want-them-to-leadership-management-and-working-with-people-who-don-t-think-like-you/
 presenters:
@@ -24,7 +24,7 @@ presenters:
   twitter: babefromtoyland
   website: https://www.brianalmorgan.com
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

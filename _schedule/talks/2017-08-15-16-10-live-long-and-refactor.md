@@ -5,7 +5,7 @@ abstract: Refactoring is never easy - especially when what you are refactoring w
   your entire application in the process.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15 16:10
 layout: session-details
 permalink: /talk/live-long-and-refactor/
 presenters:
@@ -24,7 +24,7 @@ presenters:
   twitter: sanacodes
   website: http://www.github.com/sanajaved7
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

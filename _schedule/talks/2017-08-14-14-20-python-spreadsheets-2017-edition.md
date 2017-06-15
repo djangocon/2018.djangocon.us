@@ -5,7 +5,7 @@ abstract: Spreadsheets are often used to share interesting & important data. I'l
   via code. I first spoke on this in 2013, thus the title.
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 14:20
 layout: session-details
 permalink: /talk/python-spreadsheets-2017-edition/
 presenters:
@@ -22,7 +22,7 @@ presenters:
   twitter: Transition
   website: http://kojoidrissa.com/
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

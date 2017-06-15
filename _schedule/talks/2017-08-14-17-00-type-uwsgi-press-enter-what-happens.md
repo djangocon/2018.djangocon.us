@@ -5,7 +5,7 @@ abstract: "You're a knowledgeable Python web application developer, but how does
   \ OS and the networking stack to make the magic happen. \n\n"
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-14 17:00
 layout: session-details
 permalink: /talk/type-uwsgi-press-enter-what-happens/
 presenters:
@@ -19,7 +19,7 @@ presenters:
   twitter: phildini
   website: http://phildini.net/
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -30,6 +30,6 @@ video_url: ''
 
 This talk is aiming right at professional or experienced amateur Django developers who want to learn about one of the core technologies used in modern web apps. We'll do our best to make it accessible for all, but it's going to be best to come in with working knowledge of web applications and a rough understanding of web servers.
 
-We'll be covering how uWSGI serves Python web applications, how it manages workers and processes, and how it works with the operating system to handle networking. Our goal is to show how this works both in code and through abstractions, recognizing that different audience members are going to grasp things in different ways. 
+We'll be covering how uWSGI serves Python web applications, how it manages workers and processes, and how it works with the operating system to handle networking. Our goal is to show how this works both in code and through abstractions, recognizing that different audience members are going to grasp things in different ways.
 
 The hope is that attendees will walk away with a working of knowledge of how their apps interact with the network and the operating system through uWSGI, and that a commonly-used but less-understood piece of software will become demystified.

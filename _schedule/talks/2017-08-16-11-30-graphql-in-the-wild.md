@@ -24,7 +24,7 @@ presenters:
   twitter: ''
   website: ''
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

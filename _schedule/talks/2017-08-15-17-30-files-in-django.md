@@ -5,7 +5,7 @@ abstract: "Serving files is one of the most basic tasks of any web application. 
   \ configurations and implement a novel storage engine together."
 accepted: true
 category: talk
-date: 2017-07-14 09:00
+date: 2017-08-15-17-30 09:00
 layout: session-details
 permalink: /talk/files-in-django/
 presenters:
@@ -17,7 +17,7 @@ presenters:
   twitter: ''
   website: ''
 published: true
-room: ''
+room: 'Manito'
 sitemap: true
 slides_url: ''
 summary: ''

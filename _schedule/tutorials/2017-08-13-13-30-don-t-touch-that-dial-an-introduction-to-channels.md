@@ -23,7 +23,7 @@ presenters:
   twitter: KenWhitesell
   website: ''
 published: true
-room: Ballrom B
+room: Ballroom B
 sitemap: true
 slides_url: ''
 summary: ''

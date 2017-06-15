@@ -18,7 +18,7 @@ presenters:
   twitter: ''
   website: http://katrinaeg.com
 published: true
-room: Ballrom B
+room: Ballroom B
 sitemap: true
 slides_url: ''
 summary: ''

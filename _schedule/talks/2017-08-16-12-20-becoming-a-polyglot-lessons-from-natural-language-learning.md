@@ -5,7 +5,7 @@ abstract: "English, Python, C+, Spanish \u2013 all languages, right? Wrong? Mayb
   \ true natural language learning methods to become better developers."
 accepted: true
 category: talk
-date: 2017-07-16 12-20
+date: 2017-08-16 12:20
 layout: session-details
 permalink: /talk/becoming-a-polyglot-lessons-from-natural-language-learning/
 presenters:

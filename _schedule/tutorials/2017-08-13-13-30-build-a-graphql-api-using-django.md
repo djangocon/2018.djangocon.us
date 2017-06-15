@@ -18,7 +18,7 @@ presenters:
   twitter: murangajames
   website: ''
 published: true
-room: Track 1
+room: Manito
 sitemap: true
 slides_url: ''
 summary: ''

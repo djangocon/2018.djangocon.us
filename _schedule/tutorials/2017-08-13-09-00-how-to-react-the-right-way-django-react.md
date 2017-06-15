@@ -34,7 +34,7 @@ presenters:
   twitter: gsechter
   website: https://github.com/lightstrike/
 published: true
-room: Track 2
+room: Manito
 sitemap: true
 slides_url: ''
 summary: ''

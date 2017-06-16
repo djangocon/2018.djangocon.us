@@ -34,6 +34,7 @@ title: The shy person's guide to tech conferences
 video_url: ''
 ---
 
+<!--
 I used to think about tech conferences as a series of talks / panels / tutorials; but everything changed once I started looking beyond the tech and into the people behind it. Now conferences are not just a cool thing to do, but a highlight of my year!
 
 In my talk I want to share some of the things I’ve learned during my short time as conference-goer and speaker. I want to encourage you to make the most out of your conference experiences by connecting with those around you, learning from them, and sharing some stuff of your own. Maybe I can even give you that final push to submit that talk idea you’ve been thinking about? Let’s find out!
@@ -60,3 +61,4 @@ I’m no expert in sociology (or even conferences / events), but I will try to p
     - What to say
     - How to say it
     - A word for conference organizers
+-->

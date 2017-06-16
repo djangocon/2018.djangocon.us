@@ -22,14 +22,11 @@ presenters:
   photo_url: ''
   twitter: je92rivas
   website: https://hello.jerivas.com
-published: true
 #room: 'Audobon'
 room: full
 sitemap: true
 slides_url: ''
-summary: ''
 title: The shy person's guide to tech conferences
-track: ''
 video_url: ''
 ---
 

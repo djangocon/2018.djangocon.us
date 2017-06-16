@@ -20,13 +20,10 @@ presenters:
   photo_url: ''
   twitter: KatiMichel
   website: http://katherinemichel.github.io/
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Get a Jumpstart on Collaboration and Code Review in GitHub
-track: ''
 video_url: ''
 ---
 

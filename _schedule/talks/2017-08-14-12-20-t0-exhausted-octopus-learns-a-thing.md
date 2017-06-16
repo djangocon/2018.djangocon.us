@@ -21,13 +21,10 @@ presenters:
   photo_url: ''
   twitter: LRW3bb
   website: http://www.LRWebb.com
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Exhausted octopus learns a thing!!
-track: ''
 video_url: ''
 ---
 

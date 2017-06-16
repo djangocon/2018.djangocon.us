@@ -21,13 +21,10 @@ presenters:
   photo_url: ''
   twitter: freakboy3742
   website: http://pybee.org
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Autopsy of a slow train wreck: The life and death of a Django startup'
-track: ''
 video_url: ''
 ---
 

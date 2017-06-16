@@ -33,13 +33,10 @@ presenters:
   photo_url: ''
   twitter: gsechter
   website: https://github.com/lightstrike/
-published: true
 room: Manito
 sitemap: true
 slides_url: ''
-summary: ''
 title: How to React the Right Way (Django + React)
-track: ''
 video_url: ''
 ---
 

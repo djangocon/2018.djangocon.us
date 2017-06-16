@@ -16,13 +16,10 @@ presenters:
   photo_url: ''
   twitter: ''
   website: ''
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Files in Django
-track: ''
 video_url: ''
 ---
 

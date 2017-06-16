@@ -21,13 +21,10 @@ presenters:
   photo_url: ''
   twitter: mirisuzanne
   website: http://oddbird.net
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Don't Use My Grid System (or any others)
-track: ''
 video_url: ''
 ---
 

@@ -23,13 +23,10 @@ presenters:
   photo_url: ''
   twitter: KimCrayton1
   website: http://www.KimCrayton.com/
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: "\u200B Overcoming the Challenges of Mentoring"
-track: ''
 video_url: ''
 ---
 

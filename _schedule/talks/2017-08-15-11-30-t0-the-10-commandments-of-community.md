@@ -27,13 +27,10 @@ presenters:
   photo_url: ''
   twitter: likeOMGitsFEDAY
   website: ''
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: The 10 Commandments of Community Organizing
-track: ''
 video_url: ''
 ---
 

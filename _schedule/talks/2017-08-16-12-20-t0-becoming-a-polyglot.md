@@ -26,13 +26,10 @@ presenters:
   photo_url: ''
   twitter: ''
   website: ''
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Becoming a Polyglot: Lessons from Natural Language Learning'
-track: ''
 video_url: ''
 ---
 

@@ -17,13 +17,10 @@ presenters:
   photo_url: ''
   twitter: flaviojuvenal
   website: https://www.vinta.com.br/
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Preventing headaches with linters and automated checks
-track: ''
 video_url: ''
 ---
 

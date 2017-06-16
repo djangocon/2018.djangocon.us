@@ -19,13 +19,10 @@ presenters:
   photo_url: ''
   twitter: lmdragun
   website: ''
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Accessibility Matters: Creating a Better Web'
-track: ''
 video_url: ''
 ---
 

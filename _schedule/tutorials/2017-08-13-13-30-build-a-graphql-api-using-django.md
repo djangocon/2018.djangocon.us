@@ -17,13 +17,10 @@ presenters:
   photo_url: ''
   twitter: murangajames
   website: ''
-published: true
 room: Manito
 sitemap: true
 slides_url: ''
-summary: ''
 title: Build a GraphQL API using Django
-track: ''
 video_url: ''
 ---
 

@@ -25,13 +25,10 @@ presenters:
   photo_url: ''
   twitter: hellomelaniec
   website: http://www.melaniecrutchfield.com
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Stumbling Through Django and How Not To
-track: ''
 video_url: ''
 ---
 

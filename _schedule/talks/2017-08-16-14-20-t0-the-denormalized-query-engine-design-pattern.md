@@ -19,13 +19,10 @@ presenters:
   photo_url: ''
   twitter: simonw
   website: http://lanyrd.com/profile/simonw/
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: The denormalized query engine design pattern
-track: ''
 video_url: ''
 ---
 

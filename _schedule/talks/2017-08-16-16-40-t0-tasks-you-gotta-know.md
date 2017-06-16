@@ -23,13 +23,10 @@ presenters:
   photo_url: ''
   twitter: xima
   website: https://www.vinta.com.br/blog/author/filipeximenes/
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Tasks: you gotta know how to run ''em, you gotta know how to safe'' em'
-track: ''
 video_url: ''
 ---
 

@@ -22,13 +22,10 @@ presenters:
   photo_url: ''
   twitter: KenWhitesell
   website: ''
-published: true
 room: Ballroom B
 sitemap: true
 slides_url: ''
-summary: ''
 title: Don't Touch That Dial! An Introduction to Channels
-track: ''
 video_url: ''
 ---
 

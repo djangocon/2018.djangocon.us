@@ -17,13 +17,10 @@ presenters:
   photo_url: ''
   twitter: ''
   website: ''
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: "Getting the most out of Django\u2019s User Model"
-track: ''
 video_url: ''
 ---
 

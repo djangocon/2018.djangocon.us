@@ -23,14 +23,11 @@ presenters:
   photo_url: ''
   twitter: babefromtoyland
   website: https://www.brianalmorgan.com
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Why can't everyone just do what I want them to? Leadership, management, and
   working with people who don't think like you
-track: ''
 video_url: ''
 ---
 

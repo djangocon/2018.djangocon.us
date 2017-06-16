@@ -23,13 +23,10 @@ presenters:
   photo_url: ''
   twitter: sanacodes
   website: http://www.github.com/sanajaved7
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: "Live Long and Refactor \U0001F596\U0001F3FE"
-track: ''
 video_url: ''
 ---
 

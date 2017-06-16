@@ -21,14 +21,11 @@ presenters:
   photo_url: ''
   twitter: mrjoshida
   website: https://code.org
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Going Rogue: How Code.org  Creating a Curriculum Development Platform Without
   their Engineers'
-track: ''
 video_url: ''
 ---
 

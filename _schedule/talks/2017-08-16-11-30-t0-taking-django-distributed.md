@@ -21,13 +21,10 @@ presenters:
   photo_url: ''
   twitter: andrewgodwin
   website: http://www.aeracode.org
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Taking Django Distributed
-track: ''
 video_url: ''
 ---
 

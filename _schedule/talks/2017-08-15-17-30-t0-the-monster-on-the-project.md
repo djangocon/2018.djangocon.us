@@ -20,13 +20,10 @@ presenters:
   photo_url: ''
   twitter: WhataTiberius
   website: https://www.unroutable.me
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: The Monster on the Project
-track: ''
 video_url: ''
 ---
 

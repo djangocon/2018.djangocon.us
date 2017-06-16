@@ -20,13 +20,10 @@ presenters:
   photo_url: ''
   twitter: singingwolfboy
   website: https://www.davidbaumgold.com/
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Django vs Flask
-track: ''
 video_url: ''
 ---
 

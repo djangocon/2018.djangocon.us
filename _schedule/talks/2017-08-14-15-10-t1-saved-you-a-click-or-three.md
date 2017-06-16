@@ -21,14 +21,11 @@ presenters:
   photo_url: ''
   twitter: mailbackwards
   website: http://liamandrew.info
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Saved you a click (or three): Supercharging the Django admin with actions
   and views'
-track: ''
 video_url: ''
 ---
 

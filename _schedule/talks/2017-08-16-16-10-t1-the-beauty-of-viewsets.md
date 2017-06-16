@@ -18,13 +18,10 @@ presenters:
   photo_url: ''
   twitter: buddylindsey
   website: https://godjango.com
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: The Beauty of ViewSets in Django Rest Framework
-track: ''
 video_url: ''
 ---
 

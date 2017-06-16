@@ -18,13 +18,10 @@ presenters:
   photo_url: ''
   twitter: phildini
   website: http://phildini.net/
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Type UWSGI; Press Enter; What Happens?
-track: ''
 video_url: ''
 ---
 

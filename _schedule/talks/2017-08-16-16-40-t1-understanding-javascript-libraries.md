@@ -21,13 +21,10 @@ presenters:
   photo_url: ''
   twitter: andrewsforge
   website: http://jambonsw.com
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Understanding JavaScript Libraries via React and the React Ecosystem
-track: ''
 video_url: ''
 ---
 

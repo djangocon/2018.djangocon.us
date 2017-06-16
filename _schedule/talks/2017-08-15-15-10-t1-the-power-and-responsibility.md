@@ -22,13 +22,10 @@ presenters:
   photo_url: ''
   twitter: glasnt
   website: http://glasnt.com
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: "The Power \u26A1\uFE0F and Responsibility \U0001F613 of Unicode Adoption \u2728"
-track: ''
 video_url: ''
 ---
 

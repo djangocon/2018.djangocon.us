@@ -23,13 +23,10 @@ presenters:
   photo_url: ''
   twitter: ''
   website: ''
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: GraphQL in the wild
-track: ''
 video_url: ''
 ---
 

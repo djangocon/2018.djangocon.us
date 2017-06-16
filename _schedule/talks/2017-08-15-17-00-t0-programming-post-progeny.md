@@ -22,13 +22,10 @@ presenters:
   photo_url: ''
   twitter: jacindashelly
   website: ''
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Programming Post-Progeny: A New Parent''s Perspective'
-track: ''
 video_url: ''
 ---
 

@@ -19,14 +19,11 @@ presenters:
   photo_url: ''
   twitter: charlottecodes
   website: ''
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Write an API for Almost Anything (or The Amazing Power and Flexibility of Django
   Rest Framework)
-track: ''
 video_url: ''
 ---
 

@@ -22,13 +22,10 @@ presenters:
   photo_url: ''
   twitter: loooorenanicole
   website: http://www.lorenamesa.com
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Using Django, Docker, and Scikit-learn to Bootstrap Your Machine Learning Project
-track: ''
 video_url: ''
 ---
 

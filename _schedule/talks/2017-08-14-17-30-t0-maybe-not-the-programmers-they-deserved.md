@@ -27,13 +27,10 @@ presenters:
   photo_url: ''
   twitter: __deatz__
   website: ''
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Maybe Not the Programmers They Deserved, but the Programmers They Needed
-track: ''
 video_url: ''
 ---
 

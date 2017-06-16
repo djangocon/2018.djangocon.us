@@ -17,13 +17,10 @@ presenters:
   photo_url: ''
   twitter: ''
   website: http://katrinaeg.com
-published: true
 room: Ballroom B
 sitemap: true
 slides_url: ''
-summary: ''
 title: Testing Your Django Project
-track: ''
 video_url: ''
 ---
 

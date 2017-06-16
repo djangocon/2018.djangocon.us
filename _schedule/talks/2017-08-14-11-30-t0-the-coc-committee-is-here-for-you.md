@@ -23,13 +23,10 @@ presenters:
   photo_url: ''
   twitter: erikpub
   website: http://erik.io
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: The CoC committee is here for you
-track: ''
 video_url: ''
 ---
 

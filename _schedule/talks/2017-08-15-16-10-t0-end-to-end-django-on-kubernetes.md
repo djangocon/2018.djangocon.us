@@ -18,13 +18,10 @@ presenters:
   photo_url: ''
   twitter: fuzzychef
   website: http://jberkus.github.io/
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: End-to-End Django on Kubernetes
-track: ''
 video_url: ''
 ---
 

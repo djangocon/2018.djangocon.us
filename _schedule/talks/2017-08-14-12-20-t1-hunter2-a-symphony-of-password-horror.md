@@ -22,13 +22,10 @@ presenters:
   photo_url: ''
   twitter: attacus_au
   website: https://attacus.net
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'hunter2: A Symphony of Password Horror'
-track: ''
 video_url: ''
 ---
 

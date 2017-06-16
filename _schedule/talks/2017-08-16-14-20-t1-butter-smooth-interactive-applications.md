@@ -24,13 +24,10 @@ presenters:
   photo_url: ''
   twitter: gane5h
   website: http://www.silota.com
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Butter smooth, interactive applications with Django and Websockets
-track: ''
 video_url: ''
 ---
 

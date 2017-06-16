@@ -21,13 +21,10 @@ presenters:
   photo_url: ''
   twitter: Transition
   website: http://kojoidrissa.com/
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Python & Spreadsheets: 2017 Edition'
-track: ''
 video_url: ''
 ---
 

@@ -18,13 +18,10 @@ presenters:
   photo_url: ''
   twitter: GUNdotIO
   website: https://github.com/Miserlou
-published: true
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-summary: ''
 title: Serverless Django
-track: ''
 video_url: ''
 ---
 

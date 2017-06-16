@@ -22,13 +22,10 @@ presenters:
   photo_url: ''
   twitter: ossanna16
   website: http://anna-oz.tumblr.com
-published: true
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-summary: ''
 title: 'Flourishing FLOSS: Making Your Project Successful'
-track: ''
 video_url: ''
 ---
 

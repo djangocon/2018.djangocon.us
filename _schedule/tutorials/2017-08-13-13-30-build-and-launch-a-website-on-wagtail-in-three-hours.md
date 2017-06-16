@@ -15,13 +15,10 @@ presenters:
   photo_url: ''
   twitter: tomd
   website: https://torchbox.com
-published: true
 room: Audobon
 sitemap: true
 slides_url: ''
-summary: ''
 title: Build and launch a website on Wagtail, in three hours!
-track: ''
 video_url: ''
 ---
 

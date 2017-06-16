@@ -24,7 +24,7 @@ presenters:
   twitter: sanacodes
   website: http://www.github.com/sanajaved7
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

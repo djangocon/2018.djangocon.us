@@ -25,7 +25,7 @@ presenters:
   twitter: gane5h
   website: http://www.silota.com
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

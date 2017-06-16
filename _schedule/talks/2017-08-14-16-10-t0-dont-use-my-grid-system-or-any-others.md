@@ -22,7 +22,7 @@ presenters:
   twitter: mirisuzanne
   website: http://oddbird.net
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

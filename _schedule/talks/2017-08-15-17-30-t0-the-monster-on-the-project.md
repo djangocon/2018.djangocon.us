@@ -21,7 +21,7 @@ presenters:
   twitter: WhataTiberius
   website: https://www.unroutable.me
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

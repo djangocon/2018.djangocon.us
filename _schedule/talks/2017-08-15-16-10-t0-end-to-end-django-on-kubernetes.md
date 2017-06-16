@@ -19,7 +19,7 @@ presenters:
   twitter: fuzzychef
   website: http://jberkus.github.io/
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

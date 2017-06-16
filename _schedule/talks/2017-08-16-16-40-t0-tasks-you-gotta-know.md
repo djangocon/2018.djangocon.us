@@ -24,7 +24,7 @@ presenters:
   twitter: xima
   website: https://www.vinta.com.br/blog/author/filipeximenes/
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

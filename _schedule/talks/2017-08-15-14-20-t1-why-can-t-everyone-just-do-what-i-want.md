@@ -24,7 +24,7 @@ presenters:
   twitter: babefromtoyland
   website: https://www.brianalmorgan.com
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

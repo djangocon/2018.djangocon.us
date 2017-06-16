@@ -21,7 +21,7 @@ presenters:
   twitter: singingwolfboy
   website: https://www.davidbaumgold.com/
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

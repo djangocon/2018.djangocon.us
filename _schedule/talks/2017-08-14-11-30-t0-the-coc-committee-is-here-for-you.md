@@ -24,7 +24,7 @@ presenters:
   twitter: erikpub
   website: http://erik.io
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

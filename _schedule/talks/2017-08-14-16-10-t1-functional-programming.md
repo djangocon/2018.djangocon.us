@@ -20,7 +20,7 @@ presenters:
   twitter: _gignosko_
   website: http://blog.gignosko.me
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

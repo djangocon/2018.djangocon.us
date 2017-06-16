@@ -23,7 +23,7 @@ presenters:
   twitter: loooorenanicole
   website: http://www.lorenamesa.com
 published: true
-room: ''
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

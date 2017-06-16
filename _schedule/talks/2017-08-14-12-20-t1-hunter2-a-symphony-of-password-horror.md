@@ -23,7 +23,7 @@ presenters:
   twitter: attacus_au
   website: https://attacus.net
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

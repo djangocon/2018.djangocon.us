@@ -23,7 +23,7 @@ presenters:
   twitter: glasnt
   website: http://glasnt.com
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

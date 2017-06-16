@@ -22,7 +22,7 @@ presenters:
   twitter: freakboy3742
   website: http://pybee.org
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

@@ -22,7 +22,7 @@ presenters:
   twitter: andrewgodwin
   website: http://www.aeracode.org
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

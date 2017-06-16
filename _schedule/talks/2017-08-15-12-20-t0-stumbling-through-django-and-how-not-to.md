@@ -26,7 +26,7 @@ presenters:
   twitter: hellomelaniec
   website: http://www.melaniecrutchfield.com
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

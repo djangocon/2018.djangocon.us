@@ -18,7 +18,7 @@ presenters:
   twitter: flaviojuvenal
   website: https://www.vinta.com.br/
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

@@ -23,7 +23,7 @@ presenters:
   twitter: ossanna16
   website: http://anna-oz.tumblr.com
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''
@@ -51,7 +51,7 @@ With these methods and a half-dozen others, you’ll handle beautifully all the 
 
 * Introduction - Who am I? What is this talk about?
 * What is Open Source?
-* Overview of the different components that make up an Open Source project  
+* Overview of the different components that make up an Open Source project
 * Growing, cultivating, and nourishing your Open Source project  - Or how to make your project more successful
 	* Operations
 	* Funding

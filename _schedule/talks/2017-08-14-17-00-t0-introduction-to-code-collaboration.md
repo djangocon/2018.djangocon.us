@@ -21,7 +21,7 @@ presenters:
   twitter: KatiMichel
   website: http://katherinemichel.github.io/
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

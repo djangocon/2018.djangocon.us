@@ -20,7 +20,7 @@ presenters:
   twitter: simonw
   website: http://lanyrd.com/profile/simonw/
 published: true
-room: 'Audobon'
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 summary: ''

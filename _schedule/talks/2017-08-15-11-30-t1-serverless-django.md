@@ -19,7 +19,7 @@ presenters:
   twitter: GUNdotIO
   website: https://github.com/Miserlou
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

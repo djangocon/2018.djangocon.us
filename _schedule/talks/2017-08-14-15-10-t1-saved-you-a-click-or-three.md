@@ -22,7 +22,7 @@ presenters:
   twitter: mailbackwards
   website: http://liamandrew.info
 published: true
-room: 'Manito'
+room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 summary: ''

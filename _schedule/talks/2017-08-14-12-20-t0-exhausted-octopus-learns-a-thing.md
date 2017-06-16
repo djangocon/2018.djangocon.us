@@ -1,20 +1,22 @@
 ---
-abstract: "This talk draws from education research, principles of mindfulness, and\
-  \ everything I tried in the past year of learning. This talk is not about burnout,\
-  \ rather, it's about intentionally adding learning to the life you have- a life\
-  \ that's not always perfect, not always optimal, but always yours.  \n"
+abstract: |
+    This talk draws from education research, principles of mindfulness, and
+    everything I tried in the past year of learning. This talk is not about burnout,
+    rather, it's about intentionally adding learning to the life you have- a life
+    that's not always perfect, not always optimal, but always yours.
 accepted: true
 category: talk
 date: 2017-08-14 12:20
 layout: session-details
 permalink: /talk/exhausted-octopus-learns-a-thing/
 presenters:
-- bio: "Laura works in Information and Interpretive Technologies at the Philadelphia\
-    \ Museum of Art. No day is the same, and some more memorable moments include Sylvester\
-    \ Stallone and the Secret Service. She\u2019s actively involved in the Philadelphia\
-    \ chapter of Girl Develop It and TechGirlz. When she's not at work or volunteering,\
-    \ Laura can be found installing Linux flavors, enjoying a latte, or running in\
-    \ Fairmount Park. \r\n"
+- bio: |
+    Laura works in Information and Interpretive Technologies at the Philadelphia
+    Museum of Art. No day is the same, and some more memorable moments include Sylvester
+    Stallone and the Secret Service. She\u2019s actively involved in the Philadelphia
+    chapter of Girl Develop It and TechGirlz. When she's not at work or volunteering,
+    Laura can be found installing Linux flavors, enjoying a latte, or running in
+    Fairmount Park.
   company: Philadelphia Museum of Art
   github: ''
   name: Laura R. Webb

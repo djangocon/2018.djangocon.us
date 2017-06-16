@@ -1,27 +1,45 @@
 ---
-abstract: "This talk will focus on practical mocking and other techniques in unit\
-  \ testing, covering:\n* why integration testing is not enough by itself\n* assertions\
-  \ over all code action\n* unit testing techniques\n* class based view methods \n\
-  * form methods\n* to mock the ORM or not to. \n* template unit testing"
+abstract: |
+    This talk will focus on practical mocking and other techniques in unit
+    testing, covering:
+    * why integration testing is not enough by itself
+    * assertions over all code action
+    * unit testing techniques
+    * class based view methods
+    * form methods
+    * to mock the ORM or not to.
+    * template unit testing
 accepted: true
 category: talk
 date: 2017-08-16 15:10
 layout: session-details
 permalink: /talk/practical-unit-testing-in-django/
 presenters:
-- bio: "Wayne Merry CPA\r\nWork Experience\r\n* Financial Controller HOPE worldwide\
-    \ Australia (Development and benevolence charity) 2013-2017 and consultant to\
-    \ HOPE worldwide Papua New Guinea\r\n* Investment manager Mimas Iapetus Trust\
-    \ 2005-2012\r\n* General Manager Merry's Specialities 2003-2004\r\n* Trading Systems\
-    \ project lead Bourse Data 1998-2003\r\n* Industrial Systems manager United Weighing\
-    \ Australia 1995-1998\r\n\r\nEducation\r\n* BA App Sci (Computer Technology) 1991-1994\r\
-    \n* Masters of Entrepreneurship and Innovation (Hnrs) 2004-2008\r\n* Masters of\
-    \ Professional Accounting and Masters of International Finance (2010-2012)\r\n\
-    \r\nInterests\r\n* Bush Search and Rescue 2009- (developed GPS field training\
-    \ software using Django, first used 2011, and still in use)\r\n* Third world charity\
-    \ program implementation, reporting and management\r\n* Christianity\r\n* I work\
-    \ too hard to listen to much music, but I love listing to techno while programming\
-    \ in Django!"
+- bio: |
+    Wayne Merry CPA
+    Work Experience
+    * Financial Controller HOPE worldwide
+        Australia (Development and benevolence charity) 2013-2017 and consultant to
+        HOPE worldwide Papua New Guinea
+    * Investment manager Mimas Iapetus Trust
+        2005-2012
+    * General Manager Merry's Specialities 2003-2004
+    * Trading Systems
+        project lead Bourse Data 1998-2003
+    * Industrial Systems manager United Weighing
+        Australia 1995-1998
+
+    Education
+
+    * BA App Sci (Computer Technology) 1991-1994
+        * Masters of Entrepreneurship and Innovation (Hnrs) 2004-2008
+    * Masters of Professional Accounting and Masters of International Finance (2010-2012)
+
+    Interests
+    * Bush Search and Rescue 2009- (developed GPS field training software using Django, first used 2011, and still in use)
+    * Third world charity program implementation, reporting and management
+    * Christianity
+    * I work too hard to listen to much music, but I love listing to techno while programming in Django!
   company: ''
   github: ''
   name: Wayne Merry

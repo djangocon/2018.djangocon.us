@@ -1,15 +1,17 @@
 ---
-abstract: 'How long is it acceptable to keep users waiting for a response? The ideal
-  answer is: the minimum their internet connection allows. This means server process
-  time should be close as possible to zero. In this talk you will learn what are async
-  tasks, what they can do and what are the good practices.'
+abstract: |
+    How long is it acceptable to keep users waiting for a response? The ideal
+    answer is: the minimum their internet connection allows. This means server process
+    time should be close as possible to zero. In this talk you will learn what are async
+    tasks, what they can do and what are the good practices.
 accepted: true
 category: talk
 date: 2017-08-16 16:40
 layout: session-details
 permalink: /talk/tasks-you-gotta-know-how-to-run-em-you-gotta-know-how-to-safe-em/
 presenters:
-- bio: I'm a Python/Django developer from Brazil. I work in a Django shop I started
+- bio: |
+    I'm a Python/Django developer from Brazil. I work in a Django shop I started
     with a couple friends and I'm passionate about developing beautiful code. I'm
     interested in all kinds of programming languages, their communities and open source.
     I believe simple is better than complex, and that this should be a mantra for

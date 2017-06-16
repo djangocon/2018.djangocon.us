@@ -1,15 +1,17 @@
 ---
-abstract: The DSF has had a Code of Conduct committee since 2013, that deals with
-  violations, reporting, checking speakers, etc.. This talk will give a peek behind
-  the scenes of the work of the CoC committee and teams, incident handling, and how
-  this leads to a better community for everyone. Including you.
+abstract: |
+    The DSF has had a Code of Conduct committee since 2013, that deals with
+    violations, reporting, checking speakers, etc.. This talk will give a peek behind
+    the scenes of the work of the CoC committee and teams, incident handling, and how
+    this leads to a better community for everyone. Including you.
 accepted: true
 category: talk
 date: 2017-08-14 11:30
 layout: session-details
 permalink: /talk/the-coc-committee-is-here-for-you/
 presenters:
-- bio: Erik is the co-founder and CTO of a small Django development company in Amsterdam.
+- bio: |
+    Erik is the co-founder and CTO of a small Django development company in Amsterdam.
     They are deeply involved in the community around Django, a popular Python web
     framework, being a Django team member, chair of the Dutch Django Association and
     co-organiser of various conferences. Erik cares about building communities and

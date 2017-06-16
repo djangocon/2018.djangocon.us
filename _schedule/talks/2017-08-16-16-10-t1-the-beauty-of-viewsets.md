@@ -1,14 +1,16 @@
 ---
-abstract: DRF ViewSets will make your code shorter, more robust, and save you time
-  during your development, if you let them. They may be confusing at first, but once
-  you start using them you start to see how much easier they will make your life.
+abstract: |
+    DRF ViewSets will make your code shorter, more robust, and save you time
+    during your development, if you let them. They may be confusing at first, but once
+    you start using them you start to see how much easier they will make your life.
 accepted: true
 category: talk
 date: 2017-08-16 16:10
 layout: session-details
 permalink: /talk/the-beauty-of-viewsets-in-django-rest-framework/
 presenters:
-- bio: Buddy is the creator and producer of screencasts at GoDjango.com. He is also
+- bio: |
+    Buddy is the creator and producer of screencasts at GoDjango.com. He is also
     a Senior Software Engineer at Summit ESP. Buddy has also been doing some sort
     of web or software development since he was 14. Outside of development he loves
     camping, hiking, and photography.

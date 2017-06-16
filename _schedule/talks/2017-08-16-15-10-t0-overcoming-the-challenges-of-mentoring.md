@@ -1,7 +1,7 @@
 ---
-abstract: "Successful mentoring doesn\u2019t just happen, it\u2019s planned. Let\u2019\
-  s talk about what mentoring is, what it is not, and what makes for an effective\
-  \ mentorship."
+abstract: |
+    Successful mentoring doesn't just happen, it's planned. Let's talk about
+    what mentoring is, what it is not, and what makes for an effective mentorship.
 accepted: true
 category: talk
 date: 2017-08-16 15:10

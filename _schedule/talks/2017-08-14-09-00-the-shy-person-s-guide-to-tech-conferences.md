@@ -1,21 +1,25 @@
 ---
-abstract: "Are you a shy person who wants to have outstanding experiences at tech\
-  \ conferences? Come learn how to make them not just a cool thing to do, but the\
-  \ highlight of your year! In this talk, I\u2019ll guide you through making the most\
-  \ of your experience by connecting with others and sharing your own work."
+abstract: |
+    Are you a shy person who wants to have outstanding experiences at tech
+    conferences? Come learn how to make them not just a cool thing to do, but the
+    highlight of your year! In this talk, I'll guide you through making the most
+    of your experience by connecting with others and sharing your own work.
 accepted: true
 category: talk
 date: 2017-08-14 09:00
 layout: session-details
 permalink: /talk/the-shy-person-s-guide-to-tech-conferences/
 presenters:
-- bio: "Hi, I'm Ed! I'm a freelance web developer building fast, elegant sites with\
-    \ Python / Django. On the frontend, I love bringing beautiful designs to life\
-    \ using accessible HTML, (S)CSS, and JavaScript. Lately I've been playing with\
-    \ everyone's favorite toys: React and Redux.\r\n\r\nI've been contributing to\
-    \ [Mezzanine](https://github.com/stephenmcd/mezzanine/), a popular Django-based\
-    \ CMS, for several years now. I find great satisfaction in teaching and helping\
-    \ others in their programming journey and adventures with tech."
+- bio: |
+    Hi, I'm Ed! I'm a freelance web developer building fast, elegant sites with
+    Python / Django. On the frontend, I love bringing beautiful designs to life
+    using accessible HTML, (S)CSS, and JavaScript. Lately I've been playing with
+    everyone's favorite toys: React and Redux.
+
+    I've been contributing to [Mezzanine](https://github.com/stephenmcd/mezzanine/),
+    a popular Django-based CMS, for several years now. I find great satisfaction
+    in teaching and helping others in their programming journey and adventures
+    with tech.
   company: ''
   github: ''
   name: Ed Rivas

@@ -1,20 +1,23 @@
 ---
-abstract: "The dream of the modern startup is well known - with just a laptop and\
-  \ a dream, you too can build a software empire. Yet most software startups end in\
-  \ failure, not gold-plated Lamborghinis. \n\nThis is a case study of one such a\
-  \ failure. What went right? And what can you learn from their mistakes?"
+abstract: |
+    The dream of the modern startup is well known - with just a laptop and
+    a dream, you too can build a software empire. Yet most software startups end in
+    failure, not gold-plated Lamborghinis.
+
+    This is a case study of one such a failure. What went right? And what can you
+    learn from their mistakes?
 accepted: true
 category: talk
 date: 2017-08-16 16:10
 layout: session-details
 permalink: /talk/autopsy-of-a-slow-train-wreck-the-life-and-death-of-a-django-startup/
 presenters:
-- bio: "Dr Russell Keith-Magee is a 10 year veteran of the Django core team, and for\
-    \ 5 years, was President of the Django Software Foundation. He's also the founder\
-    \ of the BeeWare project, developing GUI tools to support the development of Python\
-    \ software. He lives in Perth, Western Australia with his wife, two children,\
-    \ and two animals that claim to be cats but have almost no feline properties.\r\
-    \n"
+- bio: |
+    Dr Russell Keith-Magee is a 10 year veteran of the Django core team, and for
+    5 years, was President of the Django Software Foundation. He's also the founder
+    of the BeeWare project, developing GUI tools to support the development of Python
+    software. He lives in Perth, Western Australia with his wife, two children,
+    and two animals that claim to be cats but have almost no feline properties.
   company: BeeWare Project
   github: ''
   name: Russell Keith-Magee

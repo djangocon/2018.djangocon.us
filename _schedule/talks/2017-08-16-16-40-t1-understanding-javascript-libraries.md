@@ -1,15 +1,17 @@
 ---
-abstract: Trying to keep up with the JavaScript ecosystem can be overwhelming. New
-  tools release every month, and the benefits of a given library over any other is
-  unclear. Join Django Unleashed author Andrew Pinkham as he shares his  experience
-  learning React and helps demystify the JS ecosystem.
+abstract: |
+    Trying to keep up with the JavaScript ecosystem can be overwhelming. New
+    tools release every month, and the benefits of a given library over any other is
+    unclear. Join Django Unleashed author Andrew Pinkham as he shares his  experience
+    learning React and helps demystify the JS ecosystem.
 accepted: true
 category: talk
 date: 2017-08-16 16:40
 layout: session-details
 permalink: /talk/understanding-javascript-libraries-via-react-and-the-react-ecosystem/
 presenters:
-- bio: Andrew Pinkham is the author of Django Unleashed (Pearson; [django-unleashed.com](https://django-unleashed.com))
+- bio: |
+    Andrew Pinkham is the author of Django Unleashed (Pearson; [django-unleashed.com](https://django-unleashed.com))
     and the founder and lead engineer at [JamBon Software](https://www.jambonsw.com/),
     which provides development consulting services and instruction in Python, Django,
     and JavaScript. Andrew is passionate about usability, security and distributed

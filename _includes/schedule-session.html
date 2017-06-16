@@ -1,7 +1,9 @@
 <li
   class="event
   {% if post.room == "Audobon" %}loc-alt
+  {% elsif post.room == "Ballrooms B and C" %}loc-alt
   {% elsif post.room == "Manito" %}loc-alt-2
+  {% elsif post.room == "Ballroom A" %}loc-alt-2
   {% elsif post.room == "Ballroom B" %}loc-alt-3
   {% else %}loc-main
   {% endif %}

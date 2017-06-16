@@ -5,7 +5,7 @@ abstract: This tutorial will teach you when, why, and (most importantly) how to 
   project that you can use/reference in the future.
 accepted: true
 category: tutorial
-date: 2017-08-13 09:00 -0500
+date: 2017-08-13 09:00:00 -0500
 layout: session-details
 permalink: /tutorials/how-to-react-the-right-way-django-react/
 presenters:

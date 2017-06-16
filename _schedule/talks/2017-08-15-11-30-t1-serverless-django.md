@@ -5,7 +5,7 @@ abstract: Save time and money by running Django without any permanent infrastruc
   patterns in an event-driven, server-less architecture.
 accepted: true
 category: talk
-date: 2017-08-15 11:30 -0500
+date: 2017-08-15 11:30:00 -0500
 layout: session-details
 permalink: /talk/serverless-django/
 presenters:

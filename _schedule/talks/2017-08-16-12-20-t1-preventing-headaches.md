@@ -5,7 +5,7 @@ abstract: 'Tired of ranting to your co-workers "all models need `__str__`"? Or t
   Repeat Yourself: make good practices knowledge executable!'
 accepted: true
 category: talk
-date: 2017-08-16 12:20 -0500
+date: 2017-08-16 12:20:00 -0500
 layout: session-details
 permalink: /talk/preventing-headaches-with-linters-and-automated-checks/
 presenters:

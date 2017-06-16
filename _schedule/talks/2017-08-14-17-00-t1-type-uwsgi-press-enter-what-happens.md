@@ -5,7 +5,7 @@ abstract: "You're a knowledgeable Python web application developer, but how does
   \ OS and the networking stack to make the magic happen. \n\n"
 accepted: true
 category: talk
-date: 2017-08-14 17:00 -0500
+date: 2017-08-14 17:00:00 -0500
 layout: session-details
 permalink: /talk/type-uwsgi-press-enter-what-happens/
 presenters:

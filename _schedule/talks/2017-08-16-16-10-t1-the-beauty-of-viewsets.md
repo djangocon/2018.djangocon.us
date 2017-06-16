@@ -5,7 +5,7 @@ abstract: |
     you start using them you start to see how much easier they will make your life.
 accepted: true
 category: talk
-date: 2017-08-16 16:10 -0500
+date: 2017-08-16 16:10:00 -0500
 layout: session-details
 permalink: /talk/the-beauty-of-viewsets-in-django-rest-framework/
 presenters:

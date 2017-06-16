@@ -6,7 +6,7 @@ abstract: |
     learning React and helps demystify the JS ecosystem.
 accepted: true
 category: talk
-date: 2017-08-16 16:40 -0500
+date: 2017-08-16 16:40:00 -0500
 layout: session-details
 permalink: /talk/understanding-javascript-libraries-via-react-and-the-react-ecosystem/
 presenters:

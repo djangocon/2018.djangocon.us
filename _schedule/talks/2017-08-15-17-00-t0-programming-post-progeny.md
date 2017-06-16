@@ -7,7 +7,7 @@ abstract: 'New parents have challenges. Programmers have challenges. Programmers
   that have worked for me (and failed experiments!).'
 accepted: true
 category: talk
-date: 2017-08-15 17:00 -0500
+date: 2017-08-15 17:00:00 -0500
 layout: session-details
 permalink: /talk/programming-post-progeny-a-new-parent-s-perspective/
 presenters:

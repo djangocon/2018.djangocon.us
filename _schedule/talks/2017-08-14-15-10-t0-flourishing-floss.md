@@ -5,7 +5,7 @@ abstract: "You maintain an Open Source project but your project isn\u2019t succe
   \ with a ideas & strategies for growing, and nourishing your OS project. "
 accepted: true
 category: talk
-date: 2017-08-14 15:10 -0500
+date: 2017-08-14 15:10:00 -0500
 layout: session-details
 permalink: /talk/flourishing-floss-making-your-project-successful/
 presenters:

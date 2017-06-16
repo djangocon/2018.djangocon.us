@@ -6,7 +6,7 @@ abstract: |
     this leads to a better community for everyone. Including you.
 accepted: true
 category: talk
-date: 2017-08-14 11:30 -0500
+date: 2017-08-14 11:30:00 -0500
 layout: session-details
 permalink: /talk/the-coc-committee-is-here-for-you/
 presenters:

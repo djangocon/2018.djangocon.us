@@ -5,7 +5,7 @@ abstract: The focus of this talk is around the topic of asynchrony in Django app
   the same result with a stock Django installation.
 accepted: true
 category: talk
-date: 2017-08-16 14:20 -0500
+date: 2017-08-16 14:20:00 -0500
 layout: session-details
 permalink: /talk/butter-smooth-interactive-applications-with-django-and-websockets/
 presenters:

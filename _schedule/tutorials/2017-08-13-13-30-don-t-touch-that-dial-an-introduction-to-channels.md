@@ -5,7 +5,7 @@ abstract: This tutorial provides a guided introduction to Channels, the code nee
   creating a fully-interactive web site.
 accepted: true
 category: tutorial
-date: 2017-08-13 13:30 -0500
+date: 2017-08-13 13:30:00 -0500
 layout: session-details
 permalink: /tutorials/don-t-touch-that-dial-an-introduction-to-channels/
 presenters:

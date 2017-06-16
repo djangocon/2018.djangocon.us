@@ -6,7 +6,7 @@ abstract: |
     tasks, what they can do and what are the good practices.
 accepted: true
 category: talk
-date: 2017-08-16 16:40
+date: 2017-08-16 16:40 -0500
 layout: session-details
 permalink: /talk/tasks-you-gotta-know-how-to-run-em-you-gotta-know-how-to-safe-em/
 presenters:

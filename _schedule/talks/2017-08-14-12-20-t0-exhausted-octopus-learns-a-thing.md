@@ -6,7 +6,7 @@ abstract: |
     that's not always perfect, not always optimal, but always yours.
 accepted: true
 category: talk
-date: 2017-08-14 12:20
+date: 2017-08-14 12:20 -0500
 layout: session-details
 permalink: /talk/exhausted-octopus-learns-a-thing/
 presenters:

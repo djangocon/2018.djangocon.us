@@ -4,7 +4,7 @@ abstract: In this tutorial , I talk about GraphQL, what it is and why you should
   a hands on walk through of how you can build a GraphQL api in Django using graphene.
 accepted: true
 category: tutorial
-date: 2017-08-13 13:30
+date: 2017-08-13 13:30 -0500
 layout: session-details
 permalink: /tutorials/build-a-graphql-api-using-django/
 presenters:

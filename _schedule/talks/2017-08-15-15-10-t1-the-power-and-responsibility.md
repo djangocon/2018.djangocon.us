@@ -5,7 +5,7 @@ abstract: "Emoji have a rich history of allowing communication of ideas in a red
   \ and emoji accessibility in web applications. \u2728\n"
 accepted: true
 category: talk
-date: 2017-08-15 15:10
+date: 2017-08-15 15:10 -0500
 layout: session-details
 permalink: /talk/the-power-and-responsibility-of-unicode-adoption/
 presenters:

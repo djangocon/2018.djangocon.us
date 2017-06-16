@@ -4,7 +4,7 @@ abstract: This talk will focus on community organizing for growth and longevity 
   will discuss how to maintain sanity in your work-life-volunteer balance.
 accepted: true
 category: talk
-date: 2017-08-15 11:30
+date: 2017-08-15 11:30 -0500
 layout: session-details
 permalink: /talk/the-10-commandments-of-community-organizing/
 presenters:

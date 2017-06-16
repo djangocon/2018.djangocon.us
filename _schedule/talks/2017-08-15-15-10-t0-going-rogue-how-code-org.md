@@ -5,7 +5,7 @@ abstract: "When my engineers didn\u2019t have the time to create the curriculum 
   \ (at scale!) without drawing the ire of our engineering team."
 accepted: true
 category: talk
-date: 2017-08-15 15:10
+date: 2017-08-15 15:10 -0500
 layout: session-details
 permalink: /talk/going-rogue-how-code-org-creating-a-curriculum-development-platform-without-their-engineers/
 presenters:

@@ -11,7 +11,7 @@ abstract: |
     * template unit testing
 accepted: true
 category: talk
-date: 2017-08-16 15:10
+date: 2017-08-16 15:10 -0500
 layout: session-details
 permalink: /talk/practical-unit-testing-in-django/
 presenters:

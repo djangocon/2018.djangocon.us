@@ -3,7 +3,7 @@ abstract: 'How to make a difference for underrepresented populations in tech by 
   available, imperfect, and vulnerable. '
 accepted: true
 category: talk
-date: 2017-08-14 17:30
+date: 2017-08-14 17:30 -0500
 layout: session-details
 permalink: /talk/maybe-not-the-programmers-they-deserved-but-the-programmers-they-needed/
 presenters:

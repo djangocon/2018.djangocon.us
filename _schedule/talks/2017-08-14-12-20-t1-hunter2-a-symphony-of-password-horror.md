@@ -6,7 +6,7 @@ abstract: 'Passwords have been security''s biggest weakness since the time of th
   ways to build a future where passwords don''t cause us quite so much drama.'
 accepted: true
 category: talk
-date: 2017-08-14 12:20
+date: 2017-08-14 12:20 -0500
 layout: session-details
 permalink: /talk/hunter2-a-symphony-of-password-horror/
 presenters:

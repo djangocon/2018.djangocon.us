@@ -5,7 +5,7 @@ abstract: Everyone knows testing is important, but it's frequently neglected bec
   to write, and which can be safely skipped.
 accepted: true
 category: tutorial
-date: 2017-08-13 09:00
+date: 2017-08-13 09:00 -0500
 layout: session-details
 permalink: /tutorials/testing-your-django-project/
 presenters:

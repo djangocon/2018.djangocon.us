@@ -5,7 +5,7 @@ abstract: "Reproducible results are the bane of a data science team's existence.
   \ store it, and use scikit-learn. Machine learning done easier? Yes!"
 accepted: true
 category: talk
-date: 2017-08-15 14:20
+date: 2017-08-15 14:20 -0500
 layout: session-details
 permalink: /talk/using-django-docker-and-scikit-learn-to-bootstrap-your-machine-learning-project/
 presenters:

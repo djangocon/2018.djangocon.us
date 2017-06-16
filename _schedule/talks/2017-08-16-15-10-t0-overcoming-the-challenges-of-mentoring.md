@@ -4,7 +4,7 @@ abstract: |
     what mentoring is, what it is not, and what makes for an effective mentorship.
 accepted: true
 category: talk
-date: 2017-08-16 15:10
+date: 2017-08-16 15:10 -0500
 layout: session-details
 permalink: /talk/overcoming-the-challenges-of-mentoring/
 presenters:

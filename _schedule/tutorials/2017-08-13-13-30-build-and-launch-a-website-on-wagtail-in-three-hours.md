@@ -3,7 +3,7 @@ abstract: We'll start from scratch and end with a customised, content-managed we
   live on the web.
 accepted: true
 category: tutorial
-date: 2017-08-13 13:30
+date: 2017-08-13 13:30 -0500
 layout: session-details
 permalink: /tutorials/build-and-launch-a-website-on-wagtail-in-three-hours/
 presenters:

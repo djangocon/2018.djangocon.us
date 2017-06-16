@@ -8,7 +8,7 @@ abstract: |
     learn from their mistakes?
 accepted: true
 category: talk
-date: 2017-08-16 16:10
+date: 2017-08-16 16:10 -0500
 layout: session-details
 permalink: /talk/autopsy-of-a-slow-train-wreck-the-life-and-death-of-a-django-startup/
 presenters:

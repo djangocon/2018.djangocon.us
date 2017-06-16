@@ -5,7 +5,7 @@ abstract: There comes a point in the life of most successful code where you've o
   your data, and horror stories of bad decisions.
 accepted: true
 category: talk
-date: 2017-08-16 11:30
+date: 2017-08-16 11:30 -0500
 layout: session-details
 permalink: /talk/taking-django-distributed/
 presenters:

@@ -5,7 +5,7 @@ abstract: "Django\u2019s User model has many great fields for storing user data.
   \ for how to customize the User model to your specific needs."
 accepted: true
 category: talk
-date: 2017-08-15 12:20
+date: 2017-08-15 12:20 -0500
 layout: session-details
 permalink: /talk/getting-the-most-out-of-djangos-user-model/
 presenters:

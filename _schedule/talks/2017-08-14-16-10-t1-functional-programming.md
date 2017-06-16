@@ -5,7 +5,7 @@ abstract: 'Functional programming  can reduce lines of code while adding safety 
   it''s a good idea to use these FP concepts in day-to-day python.  '
 accepted: true
 category: talk
-date: 2017-08-14 16:10
+date: 2017-08-14 16:10 -0500
 layout: session-details
 permalink: /talk/functional-programming-in-an-imperative-world-maybe/
 presenters:

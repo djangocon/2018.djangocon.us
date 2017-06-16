@@ -6,7 +6,7 @@ abstract: |
     of your experience by connecting with others and sharing your own work.
 accepted: true
 category: talk
-date: 2017-08-14 09:00
+date: 2017-08-14 09:00 -0500
 layout: session-details
 permalink: /talk/the-shy-person-s-guide-to-tech-conferences/
 presenters:

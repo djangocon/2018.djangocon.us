@@ -5,7 +5,7 @@ abstract: Full-text search engines like Elasticsearch have applications that str
   be done with a relational database alone.
 accepted: true
 category: talk
-date: 2017-08-16 14:20
+date: 2017-08-16 14:20 -0500
 layout: session-details
 permalink: /talk/the-denormalized-query-engine-design-pattern/
 presenters:

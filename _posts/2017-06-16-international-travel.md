@@ -1,6 +1,6 @@
 ---
 author: Irene Nandutu
-category: Program
+category: Travel
 date: 2017-06-16 00:00:01
 layout: post
 image: /static/img/blog/int-travel.png

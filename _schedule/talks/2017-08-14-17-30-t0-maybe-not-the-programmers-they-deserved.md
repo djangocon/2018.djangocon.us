@@ -24,7 +24,7 @@ presenters:
   company: University of Texas at Austin, DjangoCon US
   github: ''
   name: Jessica Deaton
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/d784ec87052c510aa63c59d2616fb186?s=400'
   twitter: __deatz__
   website: ''
 room: 'Ballrooms B and C'

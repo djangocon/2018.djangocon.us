@@ -22,7 +22,7 @@ presenters:
   company: ''
   github: ''
   name: Erik Romijn
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/5b3dccd38a8e6d16fe11e29ee34ab8ab?s=400'
   twitter: erikpub
   website: http://erik.io
 room: 'Ballrooms B and C'

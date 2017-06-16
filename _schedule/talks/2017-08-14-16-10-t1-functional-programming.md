@@ -16,7 +16,7 @@ presenters:
   company: ''
   github: ''
   name: Derik Pell
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/6c7278528399aa4b5a13ba80add57800?s=400'
   twitter: _gignosko_
   website: http://blog.gignosko.me
 room: 'Ballroom A'

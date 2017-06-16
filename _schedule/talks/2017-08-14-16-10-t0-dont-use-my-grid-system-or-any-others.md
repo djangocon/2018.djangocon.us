@@ -18,7 +18,7 @@ presenters:
   company: OddBird
   github: ''
   name: Miriam Suzanne
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/a98a3bb425ff796d7bfc1496b4dec98b?s=400'
   twitter: mirisuzanne
   website: http://oddbird.net
 room: 'Ballrooms B and C'

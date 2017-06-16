@@ -20,7 +20,7 @@ presenters:
   company: Kim Crayton LLC
   github: ''
   name: Kim Crayton
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/757dbff2728d60d50976c772e7e689f4?s=400'
   twitter: KimCrayton1
   website: http://www.KimCrayton.com/
 room: 'Ballrooms B and C'

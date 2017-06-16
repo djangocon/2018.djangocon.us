@@ -22,7 +22,7 @@ presenters:
   company: ''
   github: ''
   name: Melanie Crutchfield
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/3c6d60e22a885e2725666dd57612d690?s=400'
   twitter: hellomelaniec
   website: http://www.melaniecrutchfield.com
 room: 'Ballrooms B and C'

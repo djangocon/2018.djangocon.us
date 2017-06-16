@@ -16,7 +16,7 @@ presenters:
   company: PBS
   github: ''
   name: Lindsey Dragun
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/2bbef107ee4252fa3299fda7c274bd30?s=400'
   twitter: lmdragun
   website: ''
 room: 'Ballrooms B and C'

@@ -18,7 +18,7 @@ presenters:
   company: Code.org
   github: ''
   name: Josh Caldwell
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/76bb7de56b455add35a74419cb2a5799?s=400'
   twitter: mrjoshida
   website: https://code.org
 room: 'Ballrooms B and C'

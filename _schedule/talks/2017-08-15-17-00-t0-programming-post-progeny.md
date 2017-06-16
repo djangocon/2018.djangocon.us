@@ -19,7 +19,7 @@ presenters:
   company: Doctor On Demand
   github: ''
   name: Jacinda Shelly
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/8abc78adacf50a15e104e77e28e38411?s=400'
   twitter: jacindashelly
   website: ''
 room: 'Ballrooms B and C'

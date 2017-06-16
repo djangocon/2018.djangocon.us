@@ -17,7 +17,7 @@ presenters:
   company: Intel
   github: ''
   name: Tiberius Hefflin
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/12c5c1a413d22b9f94f999cc63d1d21f?s=400'
   twitter: WhataTiberius
   website: https://www.unroutable.me
 room: 'Ballrooms B and C'

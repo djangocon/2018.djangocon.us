@@ -19,7 +19,7 @@ presenters:
   company: Django REST Framework, PyLadies
   github: ''
   name: Anna Ossowski
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/8cd0ce6b727888d01bacaa09cf3ecb32?s=400'
   twitter: ossanna16
   website: http://anna-oz.tumblr.com
 room: 'Ballrooms B and C'

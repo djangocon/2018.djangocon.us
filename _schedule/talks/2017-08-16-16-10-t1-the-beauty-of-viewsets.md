@@ -17,7 +17,7 @@ presenters:
   company: GoDjango
   github: ''
   name: Buddy Lindsey, Jr.
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/d5c7efa3f66d6fc8ef6750fa07558c8a?s=400'
   twitter: buddylindsey
   website: https://godjango.com
 room: 'Ballroom A'

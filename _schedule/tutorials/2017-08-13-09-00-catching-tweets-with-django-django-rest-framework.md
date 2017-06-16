@@ -1,12 +1,12 @@
 ---
-abstract: Users on Twitter generate lots of data that could be used for a million different purposes. Django and DRF are amazing tools that handle large amounts of content. That’s a match made in heaven. Imagine what a developer could accomplish by combining these technologies. The sky is the limit.
+abstract: Users on Twitter generate lots of data that could be used for a million different purposes. Django and DRF are amazing tools that handle large amounts of content. That's a match made in heaven. Imagine what a developer could accomplish by combining these technologies. The sky is the limit.
 accepted: true
 category: tutorial
 date: 2017-08-13 09:00:00 -0500
 layout: session-details
 permalink: /tutorials/catching-tweets-with-django-django-rest-framework/
 presenters:
-- bio: I’m a developer form Mexico City. Up until high school I wanted to be an architect. I liked the craft of drawing blueprints by hand, but then autoCAD and computers came along and my life plan changed completely. I didn’t know what to study around computers so I went to Industrial Engineering, when I found out that Chemistry was a BIG part of the curriculum I ran the other way. I switched to IT and it was mostly hardware but it was good enough. Then I horribly failed my first class of coding :( It was a difficult adjustment, from blueprints to code, but I went to summer school where a great teacher showed me that incredible feeling you get when your code works and you can bring ideas to life! I never looked back. I’m submitting this proposal so late because it took a lot of talking myself in and out of it. My journey hasn’t been from point A to B and I’m taking the first step towards the next dot as a speaker. We’ll see how it goes.
+- bio: I'm a developer form Mexico City. Up until high school I wanted to be an architect. I liked the craft of drawing blueprints by hand, but then autoCAD and computers came along and my life plan changed completely. I didn't know what to study around computers so I went to Industrial Engineering, when I found out that Chemistry was a BIG part of the curriculum I ran the other way. I switched to IT and it was mostly hardware but it was good enough. Then I horribly failed my first class of coding :( It was a difficult adjustment, from blueprints to code, but I went to summer school where a great teacher showed me that incredible feeling you get when your code works and you can bring ideas to life! I never looked back. I'm submitting this proposal so late because it took a lot of talking myself in and out of it. My journey hasn't been from point A to B and I'm taking the first step towards the next dot as a speaker. We'll see how it goes.
   company: 
   github: 'http://github.com/katialira'
   name: Katia Lira

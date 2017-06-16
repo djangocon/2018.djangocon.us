@@ -12,7 +12,7 @@ presenters:
   company: Torchbox and Wagtail
   github: ''
   name: Tom Dyson
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/077b7dd79bc5205ad802be73b1536f75?s=400'
   twitter: tomd
   website: https://torchbox.com
 room: Audobon

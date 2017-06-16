@@ -24,7 +24,7 @@ presenters:
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-title: 'Going Rogue: How Code.org  Creating a Curriculum Development Platform Without
+title: 'Going Rogue: How Code.org Created a Curriculum Development Platform Without
   their Engineers'
 video_url: ''
 ---

@@ -26,55 +26,58 @@ video_url: ''
 
 This tutorial will introduce GraphQL to the participants, and walk them through rebuilding the poll app as a GraphQL api.
 
-### What is  GraphQL ? (10 Minutes)
+### What is GraphQL? (10 Minutes)
 
-	- What does GraphQL stand for ?
-	- Where it came from ?
+- What does GraphQL stand for?
+- Where it came from?
 
-### Why would you consider using it ? (5 Minutes)
+### Why would you consider using it? (5 Minutes)
 
-	- What problems does GraqhQL solve.
+- What problems does GraqhQL solve.
 
 ### GraphQL concepts (Schemas, Fields, Queries, Mutations) (10 Minutes)
 
-	- Go over some of the theory behind the GraphQL concepts
+- Go over some of the theory behind the GraphQL concepts
 
-		- Schemas
-		- Fields
-		- Queries
-		- Mutations
+    - Schemas
+    - Fields
+    - Queries
+    - Mutations
 
-### Graphene  (the goto python GraphQL framework) (5 Minutes)
-	- Overview of the graphene framework
+### Graphene (the go-to Python GraphQL framework) (5 Minutes)
+
+- Overview of the graphene framework
 
 ### Setting up a project with django-graphene (30 Minutes)
 
-	- Introduce the sample application (Polls) we shall be building
-	- Setup a simple django project and walkthrough how to get django-graphene setup
-	- Setup the models for the sample application (Polls)
+- Introduce the sample application (Polls) we shall be building
+- Setup a simple django project and walkthrough how to get django-graphene setup
+- Setup the models for the sample application (Polls)
 
 ### Building your schema (10 Minutes)
 
-	- Add a simple schema to the project and view it using the Graphiql tool
+- Add a simple schema to the project and view it using the GraphiQL tool
 
 ### Adding queries to your GraphQL api (10 Minutes)
 
-	- Add the relevant queries to the schema for our sample application
+- Add the relevant queries to the schema for our sample application
 
-### Test your api with GraphiQL (10 Minutes)
+### Test your API with GraphiQL (10 Minutes)
 
-	- Introduction to the GraphiQL tool and how to use it to view your data
+- Introduction to the GraphiQL tool and how to use it to view your data
 
 ### Changing data through mutations (10 Minutes)
 
-	- Add a mutation to the schema
+- Add a mutation to the schema
 
 ### Writing unit tests for your GraphQL api (20 Minutes)
-	- Write tests for the queries in the api
-	- Write test for the mutations in the api
-	- Go over some patterns to make it easier to write these kinds of tests
 
-### Handling authorization in your GraphQL api (10 Minutes)
-	- Securing data based on the logged in user
+- Write tests for the queries in the API
+- Write test for the mutations in the API
+- Go over some patterns to make it easier to write these kinds of tests
+
+### Handling authorization in your GraphQL API (10 Minutes)
+
+- Securing data based on the logged in user
 
 ### Questions

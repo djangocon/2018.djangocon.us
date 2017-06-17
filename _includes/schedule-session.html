@@ -23,7 +23,12 @@
       {% if post.presenters %}
         {% for presenter in post.presenters %}
         <p class="event-byline">
-          <img class="avatar" src="https://placem.at/people?w=140&h=140" alt="{{ presenter.name }}">
+          {% if presenter.photo_url != blank %}
+          <img
+            class="avatar"
+            src="{{ presenter.photo_url }}"
+            alt="Photo of {{ presenter.presenters }}" />
+          {% endif %}
           {{ presenter.name }}
         </p>
         {% endfor %}

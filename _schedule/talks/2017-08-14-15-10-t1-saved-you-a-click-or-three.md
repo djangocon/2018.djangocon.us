@@ -18,7 +18,7 @@ presenters:
   company: The Texas Tribune
   github: ''
   name: Liam Andrew
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/847c6a606b5e101dba7661c5972534b3?s=400'
   twitter: mailbackwards
   website: http://liamandrew.info
 room: 'Ballroom A'

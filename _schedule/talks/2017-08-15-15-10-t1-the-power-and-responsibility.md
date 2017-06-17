@@ -19,7 +19,7 @@ presenters:
   company: KatieConf
   github: ''
   name: Katie McLaughlin
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/fb3e2d1700bfe111088261ed1613315d?s=400'
   twitter: glasnt
   website: http://glasnt.com
 room: 'Ballroom A'

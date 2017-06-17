@@ -15,7 +15,7 @@ presenters:
   company: ContactOtter
   github: ''
   name: Philip James
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/40bda5d1977ad08fd86fe6d2c678711b?s=400'
   twitter: phildini
   website: http://phildini.net/
 room: 'Ballroom A'

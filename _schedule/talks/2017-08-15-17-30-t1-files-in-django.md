@@ -13,7 +13,7 @@ presenters:
   company: ''
   github: ''
   name: Josh Schneier
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/3df94fda74c1265f3a85126231ba54b7?s=400'
   twitter: ''
   website: ''
 room: 'Ballroom A'

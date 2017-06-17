@@ -17,7 +17,7 @@ presenters:
   company: ''
   github: ''
   name: kthrnmichel@gmail.com
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/6bd1895c4515020de4012b5b4bedb46d?s=400'
   twitter: KatiMichel
   website: http://katherinemichel.github.io/
 room: 'Ballrooms B and C'

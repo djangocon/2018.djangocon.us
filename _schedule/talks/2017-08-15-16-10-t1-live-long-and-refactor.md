@@ -20,7 +20,7 @@ presenters:
   company: National Journal
   github: ''
   name: Sana Javed
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/34c66c7edcdc64f1109356dddbd0c828?s=400'
   twitter: sanacodes
   website: http://www.github.com/sanajaved7
 room: 'Ballroom A'

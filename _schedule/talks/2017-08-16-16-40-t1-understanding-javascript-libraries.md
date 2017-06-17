@@ -20,7 +20,7 @@ presenters:
   company: JamBon Software
   github: ''
   name: Andrew Pinkham
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/ed38bdd910a09be6e706c1487112fe16?s=400'
   twitter: andrewsforge
   website: http://jambonsw.com
 room: 'Ballroom A'

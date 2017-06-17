@@ -16,7 +16,7 @@ presenters:
   company: Caktus Group
   github: ''
   name: charlotte.ann.mays@gmail.com
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/cbca17134a9e43d1162b8209bd2999d0?s=400'
   twitter: charlottecodes
   website: ''
 room: 'Ballroom A'

@@ -19,7 +19,7 @@ presenters:
     & Organizer, PyLadies Chicago
   github: ''
   name: Lorena Mesa
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/7f279cdd4dcbc3b5b98deed921ba86a2?s=400'
   twitter: loooorenanicole
   website: http://www.lorenamesa.com
 room: 'Ballrooms B and C'

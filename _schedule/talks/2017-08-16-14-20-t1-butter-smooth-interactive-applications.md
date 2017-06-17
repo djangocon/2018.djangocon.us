@@ -21,7 +21,7 @@ presenters:
   company: Silota
   github: ''
   name: Ganesh Swami
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/dbecd304844df44288b48398154ecd64?s=400'
   twitter: gane5h
   website: http://www.silota.com
 room: 'Ballroom A'

@@ -16,7 +16,7 @@ presenters:
   company: Eventbrite
   github: ''
   name: Simon Willison
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/5ea472afda25132732604f42f5256d79?s=400'
   twitter: simonw
   website: http://lanyrd.com/profile/simonw/
 room: 'Ballrooms B and C'

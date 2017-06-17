@@ -14,7 +14,7 @@ presenters:
   company: The University of Texas at Austin
   github: ''
   name: Julia M Looney
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/b9a883de5149c0cedc8d59492f497802?s=400'
   twitter: ''
   website: ''
 room: 'Ballroom A'

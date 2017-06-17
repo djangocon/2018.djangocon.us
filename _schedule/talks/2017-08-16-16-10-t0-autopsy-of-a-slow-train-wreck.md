@@ -21,7 +21,7 @@ presenters:
   company: BeeWare Project
   github: ''
   name: Russell Keith-Magee
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/b91373320dbc3bc52fcd870d3b21748f?s=400'
   twitter: freakboy3742
   website: http://pybee.org
 room: 'Ballrooms B and C'

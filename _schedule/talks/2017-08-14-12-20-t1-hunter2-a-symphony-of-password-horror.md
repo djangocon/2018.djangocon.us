@@ -19,7 +19,7 @@ presenters:
   company: ''
   github: ''
   name: Lilly Ryan
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/1fd917e7cb5f4d0122774b44885f635c?s=400'
   twitter: attacus_au
   website: https://attacus.net
 room: 'Ballroom A'

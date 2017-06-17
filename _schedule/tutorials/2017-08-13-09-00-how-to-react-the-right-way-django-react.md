@@ -30,7 +30,7 @@ presenters:
   company: ''
   github: ''
   name: Geoffrey Sechter
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/477b622918765c9686b7101863dca690?s=400'
   twitter: gsechter
   website: https://github.com/lightstrike/
 room: Manito

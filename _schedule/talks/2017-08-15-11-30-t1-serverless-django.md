@@ -15,7 +15,7 @@ presenters:
   company: Gun.io
   github: ''
   name: Rich Jones
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/15af2265ce0e063bacc267c8536d5e20?s=400'
   twitter: GUNdotIO
   website: https://github.com/Miserlou
 room: 'Ballroom A'

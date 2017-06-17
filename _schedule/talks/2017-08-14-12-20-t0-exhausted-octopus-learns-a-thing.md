@@ -20,7 +20,7 @@ presenters:
   company: Philadelphia Museum of Art
   github: ''
   name: Laura R. Webb
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/35a23dd5f4ea146f6217cef90a80ddd4?s=400'
   twitter: LRW3bb
   website: http://www.LRWebb.com
 room: 'Ballrooms B and C'

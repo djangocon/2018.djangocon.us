@@ -22,7 +22,7 @@ presenters:
   company: Vinta Software
   github: ''
   name: Filipe Ximenes
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/ce373a3291defccc69a1392feb587f17?s=400'
   twitter: xima
   website: https://www.vinta.com.br/blog/author/filipeximenes/
 room: 'Ballrooms B and C'

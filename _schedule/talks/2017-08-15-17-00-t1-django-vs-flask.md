@@ -17,7 +17,7 @@ presenters:
   company: ''
   github: ''
   name: David "DB" Baumgold
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/42c77de97965d620ba0b6ae624c3ba7b?s=400'
   twitter: singingwolfboy
   website: https://www.davidbaumgold.com/
 room: 'Ballroom A'

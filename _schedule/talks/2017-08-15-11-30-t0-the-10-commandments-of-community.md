@@ -24,7 +24,7 @@ presenters:
   company: Kansas City Women in Technology
   github: ''
   name: Jennifer Wadella
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/4e474e0aa662fd2d3902bcb7720df9d1?s=400'
   twitter: likeOMGitsFEDAY
   website: ''
 room: 'Ballrooms B and C'

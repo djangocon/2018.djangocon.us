@@ -23,7 +23,7 @@ presenters:
   company: ''
   github: ''
   name: Ed Rivas
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/67b77a54b5e4847d3dbf678b3c10c8fd?s=400'
   twitter: je92rivas
   website: https://hello.jerivas.com
 #room: 'Audobon'

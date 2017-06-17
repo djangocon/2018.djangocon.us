@@ -15,7 +15,7 @@ presenters:
   company: Red Hat
   github: ''
   name: Josh Berkus
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/e49b70b058716dd9dea73a14a1d9856e?s=400'
   twitter: fuzzychef
   website: http://jberkus.github.io/
 room: 'Ballrooms B and C'

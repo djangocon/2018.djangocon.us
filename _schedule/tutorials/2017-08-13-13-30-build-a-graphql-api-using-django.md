@@ -14,7 +14,7 @@ presenters:
   company: I work for Thoughtworks
   github: ''
   name: Muranga James
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/8376ac53dea210d3578b33dbf4c3fd9f?s=400'
   twitter: murangajames
   website: ''
 room: Manito

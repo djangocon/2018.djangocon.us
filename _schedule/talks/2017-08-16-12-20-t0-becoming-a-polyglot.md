@@ -23,7 +23,7 @@ presenters:
   company: The University of Texas at Austin
   github: ''
   name: Rebekah E Post
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/738cad0ecf1179a401bb4d368d361579?s=400'
   twitter: ''
   website: ''
 room: 'Ballrooms B and C'

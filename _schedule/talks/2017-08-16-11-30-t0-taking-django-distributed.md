@@ -18,7 +18,7 @@ presenters:
   company: ''
   github: ''
   name: Andrew Godwin
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/077e9a0cb34fa3eba2699240c9509717?s=400'
   twitter: andrewgodwin
   website: http://www.aeracode.org
 room: 'Ballrooms B and C'

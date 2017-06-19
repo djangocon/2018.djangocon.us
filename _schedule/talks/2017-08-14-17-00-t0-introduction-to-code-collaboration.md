@@ -16,7 +16,7 @@ presenters:
     good food, and listening to music. '
   company: ''
   github: ''
-  name: kthrnmichel@gmail.com
+  name: Katherine Michel
   photo_url: 'https://www.gravatar.com/avatar/6bd1895c4515020de4012b5b4bedb46d?s=400'
   twitter: KatiMichel
   website: http://katherinemichel.github.io/

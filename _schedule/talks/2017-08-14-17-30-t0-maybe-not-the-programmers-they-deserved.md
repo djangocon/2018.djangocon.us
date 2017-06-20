@@ -27,6 +27,13 @@ presenters:
   photo_url: 'https://www.gravatar.com/avatar/d784ec87052c510aa63c59d2616fb186?s=400'
   twitter: __deatz__
   website: ''
+- bio: 'Megan is a Software Engineer at the University of Texas where she gets to use Python, django, ansible and other fun toys to support developer tools. She likes urban farming, writing terrible sci-fi and is an active hunter in the quest for the perfect brownie recipe.'
+  company: University of Texas at Austin
+  github: ''
+  name: Megan Will
+  photo_url: 'https://www.gravatar.com/avatar/3090bd9a2215e058dcf779bb9856aa8e?s=400'
+  twitter: ''
+  website: ''
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''

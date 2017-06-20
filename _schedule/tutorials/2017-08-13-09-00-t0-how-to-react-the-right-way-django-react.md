@@ -19,7 +19,7 @@ presenters:
   company: ''
   github: ''
   name: Jack McCloy
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/612119eb6764012125a7cc0ff9f7adeb?s=400'
   twitter: jackmccloy
   website: https://github.com/lightstrike/
 - bio: |

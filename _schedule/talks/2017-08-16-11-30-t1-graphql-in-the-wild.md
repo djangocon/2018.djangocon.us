@@ -5,7 +5,7 @@ accepted: true
 category: talk
 date: 2017-08-16 11:30:00 -0500
 layout: session-details
-permalink: /talk/graphql-in-the-wild/
+permalink: /talks/graphql-in-the-wild/
 presenters:
 - bio: "Arianne is a programmer, teacher, and activist in Vancouver, BC. She is currently\
     \ a full-stack Django developer at [**7Geese**](https://7geese.com/) and an instructor\

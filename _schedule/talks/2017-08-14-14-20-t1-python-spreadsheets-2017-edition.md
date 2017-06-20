@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 14:20:00 -0500
 layout: session-details
-permalink: /talk/python-spreadsheets-2017-edition/
+permalink: /talks/python-spreadsheets-2017-edition/
 presenters:
 - bio: "Kojo Idrissa *was* an accountant who got an MBA and taught at university in\
     \ two different countries. He's *now* a new(ish) software engineer and is still\

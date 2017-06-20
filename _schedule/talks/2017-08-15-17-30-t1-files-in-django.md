@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 17:30:00 -0500
 layout: session-details
-permalink: /talk/files-in-django/
+permalink: /talks/files-in-django/
 presenters:
 - bio: ''
   company: ''

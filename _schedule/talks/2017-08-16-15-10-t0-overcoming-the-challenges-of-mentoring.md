@@ -6,7 +6,7 @@ accepted: true
 category: talk
 date: 2017-08-16 15:10:00 -0500
 layout: session-details
-permalink: /talk/overcoming-the-challenges-of-mentoring/
+permalink: /talks/overcoming-the-challenges-of-mentoring/
 presenters:
 - bio: "\u200BKim has years of experience working with learners of all ages, skill\
     \ level, and abilities and she would like to offer what she knows about student\

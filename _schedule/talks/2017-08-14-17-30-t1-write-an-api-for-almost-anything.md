@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 17:30:00 -0500
 layout: session-details
-permalink: /talk/write-an-api-for-almost-anything-or-the-amazing-power-and-flexibility-of-django-rest-framework/
+permalink: /talks/write-an-api-for-almost-anything-or-the-amazing-power-and-flexibility-of-django-rest-framework/
 presenters:
 - bio: Charlotte programmed as a hobby for over 20 years before finally turning that
     passion into a career last year. She is always looking for something new to learn,

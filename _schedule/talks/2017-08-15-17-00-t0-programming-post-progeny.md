@@ -9,7 +9,7 @@ accepted: true
 category: talk
 date: 2017-08-15 17:00:00 -0500
 layout: session-details
-permalink: /talk/programming-post-progeny-a-new-parent-s-perspective/
+permalink: /talks/programming-post-progeny-a-new-parent-s-perspective/
 presenters:
 - bio: Jacinda Shelly is the CTO at Doctor On Demand and mother of an incredible little
     girl named Ada.  She's been programming in Python for almost a decade now and

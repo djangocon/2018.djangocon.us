@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 14:20:00 -0500
 layout: session-details
-permalink: /talk/accessibility-matters-creating-a-better-web/
+permalink: /talks/accessibility-matters-creating-a-better-web/
 presenters:
 - bio: Lindsey is a full-stack developer at PBS, where they work on products such
     as pbs.org. They are a lead for Women Who Code DC and run Pride & Tech DC. They

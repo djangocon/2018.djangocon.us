@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 15:10:00 -0500
 layout: session-details
-permalink: /talk/saved-you-a-click-or-three-supercharging-the-django-admin-with-actions-and-views/
+permalink: /talks/saved-you-a-click-or-three-supercharging-the-django-admin-with-actions-and-views/
 presenters:
 - bio: '[Liam Andrew](https://www.twitter.com/mailbackwards) is a software developer
     and media researcher. His work aims to bridge software engineering and content

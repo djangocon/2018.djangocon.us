@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 17:30:00 -0500
 layout: session-details
-permalink: /talk/the-monster-on-the-project/
+permalink: /talks/the-monster-on-the-project/
 presenters:
 - bio: Tibbs recently graduated from the University of West of Scotland with a degree
     in computer security. She has relocated to Portland, OR, where she evangelizes

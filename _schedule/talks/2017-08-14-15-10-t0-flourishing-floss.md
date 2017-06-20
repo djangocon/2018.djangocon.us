@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 15:10:00 -0500
 layout: session-details
-permalink: /talk/flourishing-floss-making-your-project-successful/
+permalink: /talks/flourishing-floss-making-your-project-successful/
 presenters:
 - bio: Anna loves working at the intersection of tech and people and is currently
     managing the community and operations of Django REST Framework. She is a former

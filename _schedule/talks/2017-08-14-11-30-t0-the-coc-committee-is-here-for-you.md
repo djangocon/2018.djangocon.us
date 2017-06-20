@@ -8,7 +8,7 @@ accepted: true
 category: talk
 date: 2017-08-14 11:30:00 -0500
 layout: session-details
-permalink: /talk/the-coc-committee-is-here-for-you/
+permalink: /talks/the-coc-committee-is-here-for-you/
 presenters:
 - bio: |
     Erik is the co-founder and CTO of a small Django development company in Amsterdam.

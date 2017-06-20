@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 16:10:00 -0500
 layout: session-details
-permalink: /talk/don-t-use-my-grid-system-or-any-others/
+permalink: /talks/don-t-use-my-grid-system-or-any-others/
 presenters:
 - bio: "Miriam Suzanne is a web developer and user-experience designer,\_project-manager,\
     \ author, speaker, and musician \u2013 working with OddBird, Teacup Gorilla, CSS\

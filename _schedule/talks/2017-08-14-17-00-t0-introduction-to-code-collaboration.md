@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 17:00:00 -0500
 layout: session-details
-permalink: /talk/get-a-jumpstart-on-collaboration-and-code-review-in-github/
+permalink: /talks/get-a-jumpstart-on-collaboration-and-code-review-in-github/
 presenters:
 - bio: 'In addition to being the DjangoCon US Website Chair, Kati can often be found
     working on special projects for the United Methodist Church. She is a project

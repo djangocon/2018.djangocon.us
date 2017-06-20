@@ -8,7 +8,7 @@ accepted: true
 category: talk
 date: 2017-08-16 16:40:00 -0500
 layout: session-details
-permalink: /talk/tasks-you-gotta-know-how-to-run-em-you-gotta-know-how-to-safe-em/
+permalink: /talks/tasks-you-gotta-know-how-to-run-em-you-gotta-know-how-to-safe-em/
 presenters:
 - bio: |
     I'm a Python/Django developer from Brazil. I work in a Django shop I started

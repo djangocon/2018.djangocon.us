@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-16 16:10:00 -0500
 layout: session-details
-permalink: /talk/the-beauty-of-viewsets-in-django-rest-framework/
+permalink: /talks/the-beauty-of-viewsets-in-django-rest-framework/
 presenters:
 - bio: |
     Buddy is the creator and producer of screencasts at GoDjango.com. He is also

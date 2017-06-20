@@ -8,7 +8,7 @@ accepted: true
 category: talk
 date: 2017-08-14 12:20:00 -0500
 layout: session-details
-permalink: /talk/hunter2-a-symphony-of-password-horror/
+permalink: /talks/hunter2-a-symphony-of-password-horror/
 presenters:
 - bio: Lilly is a 100% certified sonnet writer, engineer, and erstwhile historian.
     She spends her days building and breaking corporate identity systems. Following

@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 16:10:00 -0500
 layout: session-details
-permalink: /talk/live-long-and-refactor/
+permalink: /talks/live-long-and-refactor/
 presenters:
 - bio: "I\u2019m a software developer with roots in the progressive movement and have\
     \ worn a number of different hats such as labor union organizer and digital media\

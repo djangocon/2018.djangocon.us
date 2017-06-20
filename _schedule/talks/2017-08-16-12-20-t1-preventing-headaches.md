@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-16 12:20:00 -0500
 layout: session-details
-permalink: /talk/preventing-headaches-with-linters-and-automated-checks/
+permalink: /talks/preventing-headaches-with-linters-and-automated-checks/
 presenters:
 - bio: Web developer from Brazil. Loves beautiful code. Partner at [Vinta](https://www.vinta.com.br/),
     a web consultancy specialized in building products with React and Django.

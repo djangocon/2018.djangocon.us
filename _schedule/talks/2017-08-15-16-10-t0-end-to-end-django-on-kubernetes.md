@@ -6,7 +6,7 @@ accepted: true
 category: talk
 date: 2017-08-15 16:10:00 -0500
 layout: session-details
-permalink: /talk/end-to-end-django-on-kubernetes/
+permalink: /talks/end-to-end-django-on-kubernetes/
 presenters:
 - bio: While Josh Berkus is well-known for his years of contributions to the PostgreSQL
     database system, today he works on new container stacks at Red Hat's Project Atomic.  A

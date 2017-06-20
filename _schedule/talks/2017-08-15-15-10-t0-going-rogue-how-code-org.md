@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 15:10:00 -0500
 layout: session-details
-permalink: /talk/going-rogue-how-code-org-creating-a-curriculum-development-platform-without-their-engineers/
+permalink: /talks/going-rogue-how-code-org-creating-a-curriculum-development-platform-without-their-engineers/
 presenters:
 - bio: Josh is a recovering Middle School English, Computer Science, and Robotics
     teacher. For the last three years he's been heading up the Middle School curriculum

@@ -13,7 +13,7 @@ accepted: true
 category: talk
 date: 2017-08-16 15:10:00 -0500
 layout: session-details
-permalink: /talk/practical-unit-testing-in-django/
+permalink: /talks/practical-unit-testing-in-django/
 presenters:
 - bio: |
     Wayne Merry CPA

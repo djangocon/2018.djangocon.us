@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 15:10:00 -0500
 layout: session-details
-permalink: /talk/the-power-and-responsibility-of-unicode-adoption/
+permalink: /talks/the-power-and-responsibility-of-unicode-adoption/
 presenters:
 - bio: "Katie has worn many different hats over the years, including a software developer\
     \ in many languages, a systems administrator for multiple operating systems, and\

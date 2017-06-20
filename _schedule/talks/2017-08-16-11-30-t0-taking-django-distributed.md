@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-16 11:30:00 -0500
 layout: session-details
-permalink: /talk/taking-django-distributed/
+permalink: /talks/taking-django-distributed/
 presenters:
 - bio: Andrew is a Django core developer and Senior Software Engineer at Eventbrite,
     and focuses mainly on software and systems architecture, data storage, and deployment.

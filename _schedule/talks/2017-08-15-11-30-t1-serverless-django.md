@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 11:30:00 -0500
 layout: session-details
-permalink: /talk/serverless-django/
+permalink: /talks/serverless-django/
 presenters:
 - bio: "[Rich Jones](https://github.com/Miserlou) is a consummate hacker. He is the\
     \ founder and CTO of [Gun.io](https://gun.io) and the author of the [Zappa](https://blog.zappa.io)\

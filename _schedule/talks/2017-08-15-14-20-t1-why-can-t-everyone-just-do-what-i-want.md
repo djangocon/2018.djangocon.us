@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 14:20:00 -0500
 layout: session-details
-permalink: /talk/why-can-t-everyone-just-do-what-i-want-them-to-leadership-management-and-working-with-people-who-don-t-think-like-you/
+permalink: /talks/why-can-t-everyone-just-do-what-i-want-them-to-leadership-management-and-working-with-people-who-don-t-think-like-you/
 presenters:
 - bio: Briana Morgan is enthusiastic about many things, including (but not limited
     to) public health, digital strategy, tech for social good, and the weird stuff

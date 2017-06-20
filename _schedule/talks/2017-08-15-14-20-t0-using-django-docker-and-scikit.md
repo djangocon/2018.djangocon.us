@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 14:20:00 -0500
 layout: session-details
-permalink: /talk/using-django-docker-and-scikit-learn-to-bootstrap-your-machine-learning-project/
+permalink: /talks/using-django-docker-and-scikit-learn-to-bootstrap-your-machine-learning-project/
 presenters:
 - bio: Political analyst turned coder, Lorena Mesa is a Sprout Social data engineer,
     Director on the Python Software Foundation, PyLadies Chicago co-organizer, and

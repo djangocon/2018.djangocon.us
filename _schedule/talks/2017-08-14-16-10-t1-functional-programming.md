@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 16:10:00 -0500
 layout: session-details
-permalink: /talk/functional-programming-in-an-imperative-world-maybe/
+permalink: /talks/functional-programming-in-an-imperative-world-maybe/
 presenters:
 - bio: 'Derik is lucky enough to spend most of his days wrangling backend web services
     using python and a bit of django, but he still has time to be fascinated by functional

@@ -8,7 +8,7 @@ accepted: true
 category: talk
 date: 2017-08-14 09:00:00 -0500
 layout: session-details
-permalink: /talk/the-shy-person-s-guide-to-tech-conferences/
+permalink: /talks/the-shy-person-s-guide-to-tech-conferences/
 presenters:
 - bio: |
     Hi, I'm Ed! I'm a freelance web developer building fast, elegant sites with

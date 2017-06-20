@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 12:20:00 -0500
 layout: session-details
-permalink: /talk/getting-the-most-out-of-djangos-user-model/
+permalink: /talks/getting-the-most-out-of-djangos-user-model/
 presenters:
 - bio: 'I''m a Software Engineer at the University of Texas at Austin. I make Django
     apps, and I love Django. '

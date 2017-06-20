@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-14 17:00:00 -0500
 layout: session-details
-permalink: /talk/type-uwsgi-press-enter-what-happens/
+permalink: /talks/type-uwsgi-press-enter-what-happens/
 presenters:
 - bio: Philip James is a Software Engineer at Stripe, a Civic Technologist and a Director
     for the City of Alameda Democratic Club and the East Bay Young Democrats. In his

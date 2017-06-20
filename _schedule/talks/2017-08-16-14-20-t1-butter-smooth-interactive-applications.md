@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-16 14:20:00 -0500
 layout: session-details
-permalink: /talk/butter-smooth-interactive-applications-with-django-and-websockets/
+permalink: /talks/butter-smooth-interactive-applications-with-django-and-websockets/
 presenters:
 - bio: "I'm a self-taught hacker with 10+ years of experience. I've been in the data\
     \ space my entire career, first with data pipelines for protein analysis and then\

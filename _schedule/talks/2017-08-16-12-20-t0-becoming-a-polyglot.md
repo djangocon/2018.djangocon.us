@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-16 12:20:00 -0500
 layout: session-details
-permalink: /talk/becoming-a-polyglot-lessons-from-natural-language-learning/
+permalink: /talks/becoming-a-polyglot-lessons-from-natural-language-learning/
 presenters:
 - bio: 'Hi! I''m Rebekah Post and I am a developer at the University of Texas at Austin.
     I work in the Office of Institutional Research, Reporting and Information Studies

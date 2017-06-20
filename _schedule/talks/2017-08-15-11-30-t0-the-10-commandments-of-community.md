@@ -6,7 +6,7 @@ accepted: true
 category: talk
 date: 2017-08-15 11:30:00 -0500
 layout: session-details
-permalink: /talk/the-10-commandments-of-community-organizing/
+permalink: /talks/the-10-commandments-of-community-organizing/
 presenters:
 - bio: Jennifer Wadella has been writing code since before she realized it was a credible
     career path. She currently works as a software engineer at an admission software

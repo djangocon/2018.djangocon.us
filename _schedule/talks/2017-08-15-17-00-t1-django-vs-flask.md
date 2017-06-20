@@ -7,7 +7,7 @@ accepted: true
 category: talk
 date: 2017-08-15 17:00:00 -0500
 layout: session-details
-permalink: /talk/django-vs-flask/
+permalink: /talks/django-vs-flask/
 presenters:
 - bio: DB is a freelance web developer living in the Boston area. He loves Python
     for its simplicity, its clarity, and its community -- especially in welcoming

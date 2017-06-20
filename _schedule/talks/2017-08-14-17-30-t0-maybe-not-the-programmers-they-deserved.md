@@ -5,7 +5,7 @@ accepted: true
 category: talk
 date: 2017-08-14 17:30:00 -0500
 layout: session-details
-permalink: /talk/maybe-not-the-programmers-they-deserved-but-the-programmers-they-needed/
+permalink: /talks/maybe-not-the-programmers-they-deserved-but-the-programmers-they-needed/
 presenters:
 - bio: 'I''m a Senior Software Developer at the University of Texas at Austin''s International
     Office. I work with Python/Django to build web applications to do a host of things

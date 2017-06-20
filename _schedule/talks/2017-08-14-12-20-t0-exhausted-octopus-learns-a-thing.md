@@ -8,7 +8,7 @@ accepted: true
 category: talk
 date: 2017-08-14 12:20:00 -0500
 layout: session-details
-permalink: /talk/exhausted-octopus-learns-a-thing/
+permalink: /talks/exhausted-octopus-learns-a-thing/
 presenters:
 - bio: |
     Laura works in Information and Interpretive Technologies at the Philadelphia

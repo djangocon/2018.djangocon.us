@@ -60,7 +60,7 @@ layout: base
           {% endif %}
           <h4>{{ presenter.name }}</h4>
           {% if presenter.bio != blank %}
-            <p>{{ presenter.bio }}</p>
+            {{ presenter.bio | markdownify }}
           {% endif %}
           <ul class="social-icons">
             {% if presenter.twitter != blank %}

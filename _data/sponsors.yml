@@ -1,8 +1,10 @@
 # sponsor data
 
 levels:
+
   - name: Diamond Sponsors
     sponsors:
+
       - name: "Lincoln Loop"
         logo: "/static/img/sponsors/ll_logo_landscape_color.svg"
         logo_orientation: landscape
@@ -17,8 +19,10 @@ levels:
           Lincoln Loop provides user experience, deployment, and real-time
           application development with JavaScript.
 
+
   - name: Platinum Sponsors
     sponsors:
+
 
   - name: Gold Sponsors
     sponsors:
@@ -73,19 +77,17 @@ levels:
       url: "https://www.caktusgroup.com/"
       url_friendly: "www.caktusgroup.com"
       description: |
-        Caktus builds web and SMS apps with Django for businesses and 
-        social good.  We’re known for developing sharp apps the right 
-        way, delivering over 100 solutions and impacting more than 70 
+        Caktus builds web and SMS apps with Django for businesses and
+        social good.  We’re known for developing sharp apps the right
+        way, delivering over 100 solutions and impacting more than 70
         million people.  In addition to building apps with the highest
         code quality, we provide discovery workshops, team augmentation,
-        and best practices consulting. We’re proud to be part of the 
+        and best practices consulting. We’re proud to be part of the
         AWS Partner Network as Consulting Partners.
-
 
 
   - name: Silver Sponsors
     sponsors:
-
 
       - name: "Tito"
         logo: "/static/img/sponsors/titologo.svg"
@@ -93,15 +95,15 @@ levels:
         url: "https://ti.to/home"
         url_friendly: "ti.to/home"
         description: |
-          Hundreds of tiny details, carefully considered. We thought 
-          carefully about how we would want the ticket purchasing 
-          experience to be like for our own events. A clean, 
-          mobile-friendly event homepage and checkout experience. 
-          A simple, fast checkout that attendees love. Quick payments 
-          using Stripe (say goodbye to waiting for your money). With 
-          Tito, your data is your data, we never market to your 
-          customers. So if you run events, come and take a look for 
-          yourself. The last thing we want you to worry about is your 
+          Hundreds of tiny details, carefully considered. We thought
+          carefully about how we would want the ticket purchasing
+          experience to be like for our own events. A clean,
+          mobile-friendly event homepage and checkout experience.
+          A simple, fast checkout that attendees love. Quick payments
+          using Stripe (say goodbye to waiting for your money). With
+          Tito, your data is your data, we never market to your
+          customers. So if you run events, come and take a look for
+          yourself. The last thing we want you to worry about is your
           event software.
 
       - name: "Rover.com"
@@ -113,7 +115,7 @@ levels:
           Rover.com is the nation’s largest online marketplace of
           5-star pet sitters and dog walkers. Through Rover’s
           straight-forward website and app, anyone can easily find,
-          message, and book a pet care provider who’ll treat their dog 
+          message, and book a pet care provider who’ll treat their dog
           like family.
 
       - name: "JBS Solutions"
@@ -132,8 +134,6 @@ levels:
           Development partner.)
 
 
-
-
   - name: Bronze Sponsors
     sponsors:
 
@@ -143,13 +143,13 @@ levels:
         url: "https://www.imagescape.com/"
         url_friendly: "www.imagescape.com"
         description: |
-          Imaginary Landscape is a Chicago-based custom web development 
-          firm that has been focused on Python programming since 1999 
-          and the Django web framework since 2006. We assist clients of 
-          all sizes and industries with application development, 
-          system administration and hosting, user interface and design, 
-          and information architecture. Our team of highly experienced 
-          software developers take pride in the quality of our work, 
+          Imaginary Landscape is a Chicago-based custom web development
+          firm that has been focused on Python programming since 1999
+          and the Django web framework since 2006. We assist clients of
+          all sizes and industries with application development,
+          system administration and hosting, user interface and design,
+          and information architecture. Our team of highly experienced
+          software developers take pride in the quality of our work,
           and it is what our reputation is built on for over 20 years.
 
       - name: "Fusionbox"
@@ -159,8 +159,8 @@ levels:
         url_friendly: "www.fusionbox.com"
         description: |
           Fusionbox is a custom software development agency specializing
-          in Python/Django, ETL, and application security.  They've 
-          helped companies big and small develop software since 2002.  
+          in Python/Django, ETL, and application security.  They've
+          helped companies big and small develop software since 2002.
 
       - name: "PostgreSQL Experts, Inc."
         logo: "/static/img/sponsors/pgxlogo.png"
@@ -168,14 +168,14 @@ levels:
         url: "https://pgexperts.com/"
         url_friendly: "www.pgexperts.com"
         description: |
-          PostgreSQL Experts, Inc., a team of dedicated open source 
-          technology experts, can help you develop new applications, 
-          accelerate existing applications, refactor infrastructure, 
-          and solve database problems. Our consultants are known by 
-          their many contributions to PostgreSQL, Django, and other 
-          OSS projects, including a PostgreSQL Core Team member, 
-          PostgreSQL committers and contributors, and contributors to 
-          database-backed applications in Django, Perl, PHP, Python 
+          PostgreSQL Experts, Inc., a team of dedicated open source
+          technology experts, can help you develop new applications,
+          accelerate existing applications, refactor infrastructure,
+          and solve database problems. Our consultants are known by
+          their many contributions to PostgreSQL, Django, and other
+          OSS projects, including a PostgreSQL Core Team member,
+          PostgreSQL committers and contributors, and contributors to
+          database-backed applications in Django, Perl, PHP, Python
           and Java.
 
       - name: "Mozilla"
@@ -185,10 +185,10 @@ levels:
         url_friendly: "www.mozilla.org"
         description: |
          At Mozilla, we’re a global community of technologists, thinkers
-         and builders working together so people worldwide can be 
-         informed contributors and creators of the Web. Our mission is 
-         to ensure the Internet is a global public resource, open and 
-         accessible to all, where individuals can shape their own 
+         and builders working together so people worldwide can be
+         informed contributors and creators of the Web. Our mission is
+         to ensure the Internet is a global public resource, open and
+         accessible to all, where individuals can shape their own
          experience and are empowered, safe and independent.
 
       - name: "Netlandish"
@@ -196,7 +196,7 @@ levels:
         logo_orientation: "landscape"
         url: "https://www.netlandish.com"
         url_friendly: "www.netlandish.com"
-        description: | 
+        description: |
           We solve business problems with software solutions. We've used
           our decades of combined Python and Django experience to help
           organizations of all sizes. From sales funnels to back offices,
@@ -212,17 +212,12 @@ levels:
         logo_orientation: "landscape"
         url: "https://sophilabs.co/"
         url_friendly: "www.sophilabs.com"
-        description: | 
-          Sophilabs is a software design and development agency with 5+ 
+        description: |
+          Sophilabs is a software design and development agency with 5+
           years of experience helping startups and enterprises build
           innovative solutions for demanding users. They deliver high
-          quality software on top of Python & Django, React and 
+          quality software on top of Python & Django, React and
           Angular, relying on lean principles and agile practices.
-
-
-
-
-
 
 
   - name: Diversity Sponsors

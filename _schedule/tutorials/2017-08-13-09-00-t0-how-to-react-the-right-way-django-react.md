@@ -40,14 +40,14 @@ title: How to React the Right Way (Django + React)
 video_url: ''
 ---
 
-## Why React?
+### Why React?
 
 For many projects, Django is the only framework you need. As user interfaces on the web become more complex, it's become harder and harder for Django templates to keep up. Specifically, Django templates fall short as you try to manage complex state in the browser. For a while, jQuery was the standard tool Django developers used to add interactivity to our sites. In a world where single-page web apps are becoming the standard, maintaining intricate jQuery logic isn't the right tool for the job anymore. React, on the other hand, introduces new patterns that make it much easier to develop expressive, fast, complex web applications.
 
-## What You'll Learn
+### What You'll Learn
 
 After attending this tutorial, you'll have a good working understanding of React, how it works, and where/how it can be used inside a Django project. You'll become familiar with tools that are often used with React, such as Redux, Webpack, and Babel. You'll leave the tutorial with clear next steps that you can take to use React in your existing and future Django projects.
 
-## Who is this for (pre-requisites)
+### Who is this for (pre-requisites)
 
 This tutorial is for people with an Intermediate (or above) level of understanding of Django and a beginner (or above) level of understanding of Javascript. For Django, understanding the request response cycle and the basics around how views pass data to templates is important to fully appreciate the benefits of React. For Javascript, having done some basic work using Javascript or jQuery will be enough to feel comfortable in this tutorial.

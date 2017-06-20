@@ -31,8 +31,7 @@ video_url: ''
 
 This tutorial will provide a hands-on guided introduction to using Channels in your Django web site to provide bi-directional communications and background processing. Topics will include common use-cases, specific functional and working code, and some implementation and integration details. There will also be some time spent discussing the general history of the internet and the technologies involved, providing the attendees with a deeper understanding of how and why we have gotten to this point.
 
-Session Outline
----------------
+### Session Outline
 
 1. An overview of TCP/IP and the HTTP protocol
     1. TCP Sockets

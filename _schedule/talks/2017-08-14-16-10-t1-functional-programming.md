@@ -26,7 +26,7 @@ title: Functional Programming in an Imperative World. Maybe
 video_url: ''
 ---
 
-# The pillars of FP
+### The pillars of FP
 Let's start by looking at the core concepts that differentiate FP from the OO / imperative style most programmers are familiar with. Along the way I'll introduce you to:
 
 1. Immutable data structures. Having data structures that don't change makes your code safer, especially when dealing with concurrency and parallelism, but they require you to approach solutions in a different way than you would with mutable data.
@@ -41,7 +41,7 @@ Let's start by looking at the core concepts that differentiate FP from the OO / 
 
 6. The holy trinity: map, reduce, filter. These three functions are the work horses of FP, helping us manipulate and transform data quickly and elegantly.
 
-# FP in python
+### FP in python
 Now, let's take a look at how we can or cannot apply these concepts in python.
 
 1. While most data structures in python are mutable, tuples are a built in immutable data structure that we have at our disposal. We'll see that tuples have a solid place in python, but they're not as easy to work with as we might like.
@@ -58,5 +58,5 @@ Now, let's take a look at how we can or cannot apply these concepts in python.
 
     Map. You probably don't use this enough in python so let's see if we can change that.
 
-# FP is great! Maybe.
+### FP is great! Maybe.
 Now that we've seen how FP can be used, we really need to decide if it should be used. Python is not a functional programming language, despite the tools it has. We've talked about some of the technical drawbacks to these tools, but we also need to decide if working in an FP paradigm is right for our work environment. We'll look at some examples of where running into FP can be jarring and talk about the additional cognitive load on co-workers who aren't used to seeing these tools in place.

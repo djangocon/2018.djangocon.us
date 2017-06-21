@@ -2,7 +2,7 @@
 abstract: "Emoji have a rich history of allowing communication of ideas in a reduced\
   \ amount of data. However, there is a responsibility to ensure limited miscommunication.\
   \ We'll discuss the history of emoji, cross-platform adoption, the Unicode standard,\
-  \ and emoji accessibility in web applications. \u2728\n"
+  \ and emoji accessibility in web applications. :sparkles:\n"
 accepted: true
 category: talk
 date: 2017-08-15 15:10:00 -0500
@@ -25,7 +25,7 @@ presenters:
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-title: "The Power \u26A1\uFE0F and Responsibility \U0001F613 of Unicode Adoption \u2728"
+title: "The Power :zap: and Responsibility :sweat: of Unicode Adoption :sparkles:"
 video_url: ''
 ---
 
@@ -35,4 +35,4 @@ Converting programming languages to use the new Unicode standard is hard, but on
 
 Emoji have a rich history as a way to allow the communication of ideas in a reduced amount of data. They date back to a time where this was important: SMS communications in Japan. However, as social networks feverishly try to clamber onto this bandwagon, their implementations of the standard create issues with miscommunication that aren’t possible with a 12×12 pictograph.
 
-We'll discuss the history of emoji, cross-platform adoption, the Unicode standard, and emoji accessibility in web applications. ✨
+We'll discuss the history of emoji, cross-platform adoption, the Unicode standard, and emoji accessibility in web applications. :sparkles:

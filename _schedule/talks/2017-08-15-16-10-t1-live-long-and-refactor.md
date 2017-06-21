@@ -26,7 +26,7 @@ presenters:
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-title: "Live Long and Refactor \U0001F596\U0001F3FE"
+title: "Live Long and Refactor :vulcan_salute:"
 video_url: ''
 ---
 

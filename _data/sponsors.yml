@@ -72,7 +72,7 @@ levels:
          effectively.
 
     - name: "Caktus Group"
-      logo: "/static/img/sponsors/caktus-logo-640x240.png"
+      logo: "/static/img/sponsors/caktuslogo.png"
       logo_orientation: landscape
       url: "https://www.caktusgroup.com/"
       url_friendly: "www.caktusgroup.com"

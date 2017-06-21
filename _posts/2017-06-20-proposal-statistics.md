@@ -15,7 +15,7 @@ Both the quantity and quality of the proposals were amazing. Sadly, we had only 
 - More than 20 reviewers signed up to help us review talks and tutorials.
 - We had 2,998 reviews total and 149 interactions with speakers over our two-week review period.
 
-After the first round of reviews there were 95 presentations with top votes. Out of those we chose our 46 DjangoCon US 2017 talks and tutorials. 47% of our presentations are by women speakers.
+After the first round of reviews, there were 95 presentations with top votes. Out of those, we chose our 46 DjangoCon US 2017 talks and tutorials. 47% of our presentations are by women speakers.
 
 The final decisions about our program were very difficult; we had enough excellent content to easily schedule two conferences. We’re very proud of the schedule we’ve put together and want to thank everyone who submitted a talk or proposal, even if it wasn’t selected. The quality of submissions was top notch, and we hope to see many of your proposals at other conferences or at DjangoCon US 2018.
 

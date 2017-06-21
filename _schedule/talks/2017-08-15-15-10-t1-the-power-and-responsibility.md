@@ -12,10 +12,10 @@ presenters:
 - bio: "Katie has worn many different hats over the years, including a software developer\
     \ in many languages, a systems administrator for multiple operating systems, and\
     \ a speaker on many different topics. She\u2019s currently a Core Developer on\
-    \ the BeeWare project, and a conference organiser for DjangoCon AU 2017, KatieConf,\
-    \ and assists with many other conferences around Australia. When she\u2019s not\
-    \ changing the world, she enjoys making tapestries, cooking, and yelling at JavaScript\
-    \ and its attempt at global variables."
+    \ the BeeWare project; conference organiser for DjangoCon AU 2017, \
+    \ and assists with many other conferences around Australia. When she's not\
+    \ changing the world, she enjoys cooking, making tapestries, and seeing just how\
+    \ well various application stacks handle emoji."
   company: KatieConf
   github: ''
   name: Katie McLaughlin

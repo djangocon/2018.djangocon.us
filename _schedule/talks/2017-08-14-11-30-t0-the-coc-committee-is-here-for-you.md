@@ -7,6 +7,7 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-14 11:30:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/the-coc-committee-is-here-for-you/
 presenters:
@@ -20,7 +21,6 @@ presenters:
     around communities and development. One of their side projects is the Less Obvious
     Conference Checklist, with many less obvious suggestions for event organisers.
   company: ''
-  difficulty: All
   github: ''
   name: Erik Romijn
   photo_url: 'https://www.gravatar.com/avatar/5b3dccd38a8e6d16fe11e29ee34ab8ab?s=400'

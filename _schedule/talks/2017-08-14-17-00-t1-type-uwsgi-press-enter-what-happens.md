@@ -6,6 +6,7 @@ abstract: "You're a knowledgeable Python web application developer, but how does
 accepted: true
 category: talk
 date: 2017-08-14 17:00:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/type-uwsgi-press-enter-what-happens/
 presenters:

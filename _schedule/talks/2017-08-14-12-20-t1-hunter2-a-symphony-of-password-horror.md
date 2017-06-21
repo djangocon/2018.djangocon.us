@@ -7,6 +7,7 @@ abstract: 'Passwords have been security''s biggest weakness since the time of th
 accepted: true
 category: talk
 date: 2017-08-14 12:20:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/hunter2-a-symphony-of-password-horror/
 presenters:

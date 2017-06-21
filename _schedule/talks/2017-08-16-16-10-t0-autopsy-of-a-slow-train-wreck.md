@@ -9,6 +9,7 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 16:10:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/autopsy-of-a-slow-train-wreck-the-life-and-death-of-a-django-startup/
 presenters:

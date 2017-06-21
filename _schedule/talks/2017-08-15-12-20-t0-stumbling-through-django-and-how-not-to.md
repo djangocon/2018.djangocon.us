@@ -6,6 +6,7 @@ abstract: "Are you a beginner worried about starting your first Django project? 
 accepted: true
 category: talk
 date: 2017-08-15 12:20:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /talks/stumbling-through-django-and-how-not-to/
 presenters:

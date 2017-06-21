@@ -6,6 +6,7 @@ abstract: This tutorial will teach you when, why, and (most importantly) how to 
 accepted: true
 category: tutorial
 date: 2017-08-13 09:00:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /tutorials/how-to-react-the-right-way-django-react/
 presenters:

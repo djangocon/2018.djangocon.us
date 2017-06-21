@@ -6,6 +6,7 @@ abstract: 'Functional programming  can reduce lines of code while adding safety 
 accepted: true
 category: talk
 date: 2017-08-14 16:10:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/functional-programming-in-an-imperative-world-maybe/
 presenters:

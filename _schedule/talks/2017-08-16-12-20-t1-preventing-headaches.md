@@ -6,6 +6,7 @@ abstract: 'Tired of ranting to your co-workers "all models need `__str__`"? Or t
 accepted: true
 category: talk
 date: 2017-08-16 12:20:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/preventing-headaches-with-linters-and-automated-checks/
 presenters:

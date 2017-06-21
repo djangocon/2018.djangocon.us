@@ -4,6 +4,7 @@ abstract: 'How to make a difference for underrepresented populations in tech by 
 accepted: true
 category: talk
 date: 2017-08-14 17:30:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/maybe-not-the-programmers-they-deserved-but-the-programmers-they-needed/
 presenters:

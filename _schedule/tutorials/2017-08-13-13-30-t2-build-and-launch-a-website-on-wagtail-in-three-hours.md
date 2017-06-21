@@ -4,6 +4,7 @@ abstract: We'll start from scratch and end with a customised, content-managed we
 accepted: true
 category: tutorial
 date: 2017-08-13 13:30:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /tutorials/build-and-launch-a-website-on-wagtail-in-three-hours/
 presenters:

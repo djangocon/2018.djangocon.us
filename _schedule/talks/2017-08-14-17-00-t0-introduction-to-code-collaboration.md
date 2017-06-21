@@ -6,6 +6,7 @@ abstract: Are you interested in collaboration and code review, but want to avoid
 accepted: true
 category: talk
 date: 2017-08-14 17:00:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /talks/get-a-jumpstart-on-collaboration-and-code-review-in-github/
 presenters:

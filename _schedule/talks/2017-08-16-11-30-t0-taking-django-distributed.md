@@ -6,6 +6,7 @@ abstract: There comes a point in the life of most successful code where you've o
 accepted: true
 category: talk
 date: 2017-08-16 11:30:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/taking-django-distributed/
 presenters:

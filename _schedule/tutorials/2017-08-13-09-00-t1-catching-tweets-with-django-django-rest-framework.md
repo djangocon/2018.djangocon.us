@@ -3,6 +3,7 @@ abstract: Users on Twitter generate lots of data that could be used for a millio
 accepted: true
 category: tutorial
 date: 2017-08-13 09:00:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /tutorials/catching-tweets-with-django-django-rest-framework/
 presenters:

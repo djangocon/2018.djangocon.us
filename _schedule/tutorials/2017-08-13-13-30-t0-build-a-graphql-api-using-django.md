@@ -5,6 +5,7 @@ abstract: In this tutorial , I talk about GraphQL, what it is and why you should
 accepted: true
 category: tutorial
 date: 2017-08-13 13:30:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /tutorials/build-a-graphql-api-using-django/
 presenters:

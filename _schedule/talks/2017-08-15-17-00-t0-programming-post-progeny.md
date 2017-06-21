@@ -8,6 +8,7 @@ abstract: 'New parents have challenges. Programmers have challenges. Programmers
 accepted: true
 category: talk
 date: 2017-08-15 17:00:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /talks/programming-post-progeny-a-new-parent-s-perspective/
 presenters:

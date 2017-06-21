@@ -6,6 +6,7 @@ abstract: "Django\u2019s User model has many great fields for storing user data.
 accepted: true
 category: talk
 date: 2017-08-15 12:20:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /talks/getting-the-most-out-of-djangos-user-model/
 presenters:

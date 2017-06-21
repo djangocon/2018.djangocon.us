@@ -8,6 +8,7 @@ accepted: true
 category: talk
 hidden: true
 date: 2017-08-14 09:00:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/the-shy-person-s-guide-to-tech-conferences/
 presenters:

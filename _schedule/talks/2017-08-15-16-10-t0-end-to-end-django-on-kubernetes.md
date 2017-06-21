@@ -5,6 +5,7 @@ abstract: Considering running Django on Kubernetes, but not sure where to start?
 accepted: true
 category: talk
 date: 2017-08-15 16:10:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/end-to-end-django-on-kubernetes/
 presenters:

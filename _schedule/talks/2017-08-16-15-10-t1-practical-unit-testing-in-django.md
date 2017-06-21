@@ -12,6 +12,7 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 15:10:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/practical-unit-testing-in-django/
 presenters:

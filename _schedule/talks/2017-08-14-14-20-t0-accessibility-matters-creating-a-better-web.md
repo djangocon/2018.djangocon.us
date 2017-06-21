@@ -6,6 +6,7 @@ abstract: A hands-on look at web accessibility where we go through examples of g
 accepted: true
 category: talk
 date: 2017-08-14 14:20:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/accessibility-matters-creating-a-better-web/
 presenters:

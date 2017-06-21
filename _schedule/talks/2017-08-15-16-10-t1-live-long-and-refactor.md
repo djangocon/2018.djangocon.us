@@ -6,6 +6,7 @@ abstract: Refactoring is never easy - especially when what you are refactoring w
 accepted: true
 category: talk
 date: 2017-08-15 16:10:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/live-long-and-refactor/
 presenters:

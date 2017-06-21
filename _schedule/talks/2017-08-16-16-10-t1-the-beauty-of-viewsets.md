@@ -6,6 +6,7 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 16:10:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/the-beauty-of-viewsets-in-django-rest-framework/
 presenters:

@@ -4,6 +4,7 @@ abstract: A Django developer's musings on moving outside the REST API box. What 
 accepted: true
 category: talk
 date: 2017-08-16 11:30:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/graphql-in-the-wild/
 presenters:

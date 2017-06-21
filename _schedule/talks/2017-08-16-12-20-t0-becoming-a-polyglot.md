@@ -6,6 +6,7 @@ abstract: "English, Python, C+, Spanish \u2013 all languages, right? Wrong? Mayb
 accepted: true
 category: talk
 date: 2017-08-16 12:20:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/becoming-a-polyglot-lessons-from-natural-language-learning/
 presenters:

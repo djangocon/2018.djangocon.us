@@ -7,6 +7,7 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 16:40:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /talks/understanding-javascript-libraries-via-react-and-the-react-ecosystem/
 presenters:

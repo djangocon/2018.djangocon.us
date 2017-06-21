@@ -6,6 +6,7 @@ abstract: Django is undoubtedly the first tool most of us reach for when buildin
 accepted: true
 category: talk
 date: 2017-08-14 17:30:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/write-an-api-for-almost-anything-or-the-amazing-power-and-flexibility-of-django-rest-framework/
 presenters:

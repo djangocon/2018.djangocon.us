@@ -6,6 +6,7 @@ abstract: Spreadsheets are often used to share interesting & important data. I'l
 accepted: true
 category: talk
 date: 2017-08-14 14:20:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /talks/python-spreadsheets-2017-edition/
 presenters:

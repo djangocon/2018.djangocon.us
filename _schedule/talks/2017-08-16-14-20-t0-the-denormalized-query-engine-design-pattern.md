@@ -6,6 +6,7 @@ abstract: Full-text search engines like Elasticsearch have applications that str
 accepted: true
 category: talk
 date: 2017-08-16 14:20:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/the-denormalized-query-engine-design-pattern/
 presenters:

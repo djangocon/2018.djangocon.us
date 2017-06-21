@@ -5,6 +5,7 @@ abstract: This talk will focus on community organizing for growth and longevity 
 accepted: true
 category: talk
 date: 2017-08-15 11:30:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/the-10-commandments-of-community-organizing/
 presenters:

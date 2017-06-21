@@ -6,6 +6,7 @@ abstract: Custom Django admin actions and views can seem daunting to beginners a
 accepted: true
 category: talk
 date: 2017-08-14 15:10:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/saved-you-a-click-or-three-supercharging-the-django-admin-with-actions-and-views/
 presenters:

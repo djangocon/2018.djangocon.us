@@ -6,6 +6,7 @@ abstract: "You maintain an Open Source project but your project isn\u2019t succe
 accepted: true
 category: talk
 date: 2017-08-14 15:10:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/flourishing-floss-making-your-project-successful/
 presenters:

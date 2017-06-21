@@ -6,6 +6,7 @@ abstract: "Emoji have a rich history of allowing communication of ideas in a red
 accepted: true
 category: talk
 date: 2017-08-15 15:10:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/the-power-and-responsibility-of-unicode-adoption/
 presenters:

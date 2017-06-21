@@ -6,6 +6,7 @@ abstract: "I developed a popular Sass grid system, and I'm about to release vers
 accepted: true
 category: talk
 date: 2017-08-14 16:10:00 -0500
+difficulty: All
 layout: session-details
 permalink: /talks/don-t-use-my-grid-system-or-any-others/
 presenters:

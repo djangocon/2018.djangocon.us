@@ -6,6 +6,7 @@ abstract: "Reproducible results are the bane of a data science team's existence.
 accepted: true
 category: talk
 date: 2017-08-15 14:20:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /talks/using-django-docker-and-scikit-learn-to-bootstrap-your-machine-learning-project/
 presenters:

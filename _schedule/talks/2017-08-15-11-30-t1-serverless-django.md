@@ -6,6 +6,7 @@ abstract: Save time and money by running Django without any permanent infrastruc
 accepted: true
 category: talk
 date: 2017-08-15 11:30:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /talks/serverless-django/
 presenters:

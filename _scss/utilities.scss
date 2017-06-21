@@ -53,3 +53,9 @@
     visibility: hidden;
   }
 }
+
+// Ensure emoji in headers display correct, size wise
+h1 img.emoji { 
+  width: 1em;
+  height: 1em; 
+}

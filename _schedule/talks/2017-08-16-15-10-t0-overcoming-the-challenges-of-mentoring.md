@@ -26,7 +26,7 @@ presenters:
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-title: "\u200B Overcoming the Challenges of Mentoring"
+title: "Overcoming the Challenges of Mentoring"
 video_url: ''
 ---
 

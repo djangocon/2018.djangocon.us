@@ -7,12 +7,12 @@ description: |
   Do you want to share a room at the venue with other attendees, or have accommodation available?
 ---
 
-Do you want to share a room at the [venue](/venue/#welcome) (Hotel RL by Red Lion Spokane at the Park) with other attendees, or have accommodation available? List yourself below, along with:
+Do you want to share a room at the [venue](/venue/#welcome) (Hotel RL by Red Lion Spokane at the Park) with other attendees, or have accommodation available? We have a [Google Spreadsheet just for you!](https://docs.google.com/spreadsheets/d/1xol19ghdCMiU9bID9bkd39suw4bES_hGfr2-dYOcTOM/edit?usp=sharing). List yourself along with:
 
-- how many other people you want to share with,
-- what nights you'll be there,
-- whether you've already reserved a room, and
-- any other requirements (e.g. male/female, smoking/non).
+- How many other people you want to share with
+- What nights you'll be there
+- Whether you've already reserved a room
+- Any other requirements (e.g. man/woman, smoking/non, snoring/non, etc)
 
 **Note:** _If any of your roommates will be arriving separately, be sure to list their names on the reservation as having permission to check in and get a key to your shared room from the front desk by showing photo ID._
 
@@ -46,3 +46,6 @@ If you are prepared to offer accommodation to one or more conference-goers who w
 | Name | Offering | Contact Details |
 | --- | --- |
 | Example Person | Place for sleeping bag | Call 123-5555 before 10pm |
+
+[Share a Room (spreadsheet information)](https://docs.google.com/spreadsheets/d/1xol19ghdCMiU9bID9bkd39suw4bES_hGfr2-dYOcTOM/edit?usp=sharing
+){: class="button center medium-centered" }

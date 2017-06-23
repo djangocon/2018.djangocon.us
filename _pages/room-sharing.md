@@ -20,8 +20,6 @@ _When reserving your room, be sure to specify the type and number of beds! Some 
 
 **Caution:** Room sharing arrangements are the responsibilities of the individual parties involved. DEFNA, DSF, and DjangoCon US Staff takes no responsibility, and cannot be involved in any disputes.
 
-In order to edit this page; you will need to submit a pull request on Github.
-
 ## I Already Have a Room Reservation
 
 If you have a room reservation and you're looking for a roommate to share costs, list your info here:

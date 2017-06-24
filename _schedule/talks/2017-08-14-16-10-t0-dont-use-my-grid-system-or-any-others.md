@@ -6,8 +6,9 @@ abstract: "I developed a popular Sass grid system, and I'm about to release vers
 accepted: true
 category: talk
 date: 2017-08-14 16:10:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/don-t-use-my-grid-system-or-any-others/
+permalink: /talks/don-t-use-my-grid-system-or-any-others/
 presenters:
 - bio: "Miriam Suzanne is a web developer and user-experience designer,\_project-manager,\
     \ author, speaker, and musician \u2013 working with OddBird, Teacup Gorilla, CSS\
@@ -18,7 +19,7 @@ presenters:
   company: OddBird
   github: ''
   name: Miriam Suzanne
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/a98a3bb425ff796d7bfc1496b4dec98b?s=400'
   twitter: mirisuzanne
   website: http://oddbird.net
 room: 'Ballrooms B and C'

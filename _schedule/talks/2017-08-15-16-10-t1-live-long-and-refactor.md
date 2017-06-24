@@ -6,8 +6,9 @@ abstract: Refactoring is never easy - especially when what you are refactoring w
 accepted: true
 category: talk
 date: 2017-08-15 16:10:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/live-long-and-refactor/
+permalink: /talks/live-long-and-refactor/
 presenters:
 - bio: "I\u2019m a software developer with roots in the progressive movement and have\
     \ worn a number of different hats such as labor union organizer and digital media\
@@ -20,13 +21,13 @@ presenters:
   company: National Journal
   github: ''
   name: Sana Javed
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/34c66c7edcdc64f1109356dddbd0c828?s=400'
   twitter: sanacodes
   website: http://www.github.com/sanajaved7
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''
-title: "Live Long and Refactor \U0001F596\U0001F3FE"
+title: "Live Long and Refactor :vulcan_salute:"
 video_url: ''
 ---
 

@@ -6,8 +6,9 @@ abstract: Are you interested in collaboration and code review, but want to avoid
 accepted: true
 category: talk
 date: 2017-08-14 17:00:00 -0500
+difficulty: Beginner
 layout: session-details
-permalink: /talk/get-a-jumpstart-on-collaboration-and-code-review-in-github/
+permalink: /talks/get-a-jumpstart-on-collaboration-and-code-review-in-github/
 presenters:
 - bio: 'In addition to being the DjangoCon US Website Chair, Kati can often be found
     working on special projects for the United Methodist Church. She is a project
@@ -16,8 +17,8 @@ presenters:
     good food, and listening to music. '
   company: ''
   github: ''
-  name: kthrnmichel@gmail.com
-  photo_url: ''
+  name: Katherine Michel
+  photo_url: 'https://www.gravatar.com/avatar/6bd1895c4515020de4012b5b4bedb46d?s=400'
   twitter: KatiMichel
   website: http://katherinemichel.github.io/
 room: 'Ballrooms B and C'

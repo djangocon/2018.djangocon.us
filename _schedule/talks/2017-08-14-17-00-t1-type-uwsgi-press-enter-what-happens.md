@@ -6,8 +6,9 @@ abstract: "You're a knowledgeable Python web application developer, but how does
 accepted: true
 category: talk
 date: 2017-08-14 17:00:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/type-uwsgi-press-enter-what-happens/
+permalink: /talks/type-uwsgi-press-enter-what-happens/
 presenters:
 - bio: Philip James is a Software Engineer at Stripe, a Civic Technologist and a Director
     for the City of Alameda Democratic Club and the East Bay Young Democrats. In his
@@ -15,7 +16,7 @@ presenters:
   company: ContactOtter
   github: ''
   name: Philip James
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/40bda5d1977ad08fd86fe6d2c678711b?s=400'
   twitter: phildini
   website: http://phildini.net/
 room: 'Ballroom A'

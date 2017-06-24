@@ -5,8 +5,9 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 15:10:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/overcoming-the-challenges-of-mentoring/
+permalink: /talks/overcoming-the-challenges-of-mentoring/
 presenters:
 - bio: "\u200BKim has years of experience working with learners of all ages, skill\
     \ level, and abilities and she would like to offer what she knows about student\
@@ -20,13 +21,13 @@ presenters:
   company: Kim Crayton LLC
   github: ''
   name: Kim Crayton
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/757dbff2728d60d50976c772e7e689f4?s=400'
   twitter: KimCrayton1
   website: http://www.KimCrayton.com/
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-title: "\u200B Overcoming the Challenges of Mentoring"
+title: "Overcoming the Challenges of Mentoring"
 video_url: ''
 ---
 

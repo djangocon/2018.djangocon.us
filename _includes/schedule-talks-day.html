@@ -1,4 +1,4 @@
-{% if post.accepted == true %}
+{% if post.accepted == true and post.hidden != true %}
 
   {% if post.room == 'full' %}
   	{% include schedule-session-full.html %}

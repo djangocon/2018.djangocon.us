@@ -6,8 +6,9 @@ abstract: Abusive behavior can make open source contributing feel impossible & e
 accepted: true
 category: talk
 date: 2017-08-15 17:30:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/the-monster-on-the-project/
+permalink: /talks/the-monster-on-the-project/
 presenters:
 - bio: Tibbs recently graduated from the University of West of Scotland with a degree
     in computer security. She has relocated to Portland, OR, where she evangelizes
@@ -17,7 +18,7 @@ presenters:
   company: Intel
   github: ''
   name: Tiberius Hefflin
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/12c5c1a413d22b9f94f999cc63d1d21f?s=400'
   twitter: WhataTiberius
   website: https://www.unroutable.me
 room: 'Ballrooms B and C'
@@ -30,7 +31,11 @@ video_url: ''
 Abusive behavior can have profound effects on personal relationships but it can also make open source contributing and office life miserable. For those stuck in a team with co workers who exhibit toxic behavior, going to work every day can feel like going to a battlefield. Knowing how to identify and how to respond to unreasonable behavior is vital. In this talk we will look at the ways we can improve our office and FOSS communities by recognizing, managing and gracefully removing this toxic behavior.
 
 Take away:
+
 What  abuse looks like
+
 How it affects those around it
+
 Steps to take if you are the target of abusive behavior
+
 How to manage toxic people in your project

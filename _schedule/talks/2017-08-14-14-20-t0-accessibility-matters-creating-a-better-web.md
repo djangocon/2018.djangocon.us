@@ -6,8 +6,9 @@ abstract: A hands-on look at web accessibility where we go through examples of g
 accepted: true
 category: talk
 date: 2017-08-14 14:20:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/accessibility-matters-creating-a-better-web/
+permalink: /talks/accessibility-matters-creating-a-better-web/
 presenters:
 - bio: Lindsey is a full-stack developer at PBS, where they work on products such
     as pbs.org. They are a lead for Women Who Code DC and run Pride & Tech DC. They
@@ -16,7 +17,7 @@ presenters:
   company: PBS
   github: ''
   name: Lindsey Dragun
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/2bbef107ee4252fa3299fda7c274bd30?s=400'
   twitter: lmdragun
   website: ''
 room: 'Ballrooms B and C'
@@ -26,11 +27,11 @@ title: 'Accessibility Matters: Creating a Better Web'
 video_url: ''
 ---
 
-# Overview
+### Overview
 This talk will go through accessibility concerns on the web through example sites and code with both good and bad accessibility to experience what some users have to struggle with daily. We will cover well-known concerns such as low vision/color blindness and deafness, as well as attention issues and autism, and discuss the limitations and abilities of various alternative input devices that people with motor control issues rely on. Short and long-term fixes will be demonstrated and taught, with the overall goal being that the participants leave knowing how to find and solve accessibility problems.
 
-## Why Bother With Accessibility
+### Why Bother With Accessibility
 Not only should you want everyone to be able to easily use your site, but having an accessible website comes with a variety of benefits. According to the U.S. Census Bureau, around 19% of Americans have a disability, which is a large potential audience for any site. Many companies also fall under accessibility laws they might not even be aware cover their products, with lawsuits becoming more prevalent in recent years, and showing a good faith effort to improve your products' accessibility can help keep your company out of hot water. Accessible web development also tends to lead to better UX and a happier user base. And, another plus: It will save devs time and frustration when they're working with the code, since good HTML is enforced.
 
-## Who This Talk Is For
+### Who This Talk Is For
 Anyone who wishes to learn more about accessibility. While we won't be going over the absolute basics of accessibility in detail, the examples and resources will be easy to understand for people with very basic knowledge of web development.

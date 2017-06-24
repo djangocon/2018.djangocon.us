@@ -6,8 +6,9 @@ abstract: Save time and money by running Django without any permanent infrastruc
 accepted: true
 category: talk
 date: 2017-08-15 11:30:00 -0500
+difficulty: Beginner
 layout: session-details
-permalink: /talk/serverless-django/
+permalink: /talks/serverless-django/
 presenters:
 - bio: "[Rich Jones](https://github.com/Miserlou) is a consummate hacker. He is the\
     \ founder and CTO of [Gun.io](https://gun.io) and the author of the [Zappa](https://blog.zappa.io)\
@@ -15,7 +16,7 @@ presenters:
   company: Gun.io
   github: ''
   name: Rich Jones
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/15af2265ce0e063bacc267c8536d5e20?s=400'
   twitter: GUNdotIO
   website: https://github.com/Miserlou
 room: 'Ballroom A'

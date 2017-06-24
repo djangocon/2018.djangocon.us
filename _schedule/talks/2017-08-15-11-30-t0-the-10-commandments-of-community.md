@@ -5,8 +5,9 @@ abstract: This talk will focus on community organizing for growth and longevity 
 accepted: true
 category: talk
 date: 2017-08-15 11:30:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/the-10-commandments-of-community-organizing/
+permalink: /talks/the-10-commandments-of-community-organizing/
 presenters:
 - bio: Jennifer Wadella has been writing code since before she realized it was a credible
     career path. She currently works as a software engineer at an admission software
@@ -24,7 +25,7 @@ presenters:
   company: Kansas City Women in Technology
   github: ''
   name: Jennifer Wadella
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/4e474e0aa662fd2d3902bcb7720df9d1?s=400'
   twitter: likeOMGitsFEDAY
   website: ''
 room: 'Ballrooms B and C'

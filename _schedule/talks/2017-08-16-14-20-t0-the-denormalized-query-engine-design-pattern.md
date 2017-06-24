@@ -6,8 +6,9 @@ abstract: Full-text search engines like Elasticsearch have applications that str
 accepted: true
 category: talk
 date: 2017-08-16 14:20:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/the-denormalized-query-engine-design-pattern/
+permalink: /talks/the-denormalized-query-engine-design-pattern/
 presenters:
 - bio: "Simon Willison is an engineering director at Eventbrite, a San Francisco ticketing\
     \ company working to bring the world together through live experiences.\r\n\r\n\
@@ -16,7 +17,7 @@ presenters:
   company: Eventbrite
   github: ''
   name: Simon Willison
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/5ea472afda25132732604f42f5256d79?s=400'
   twitter: simonw
   website: http://lanyrd.com/profile/simonw/
 room: 'Ballrooms B and C'

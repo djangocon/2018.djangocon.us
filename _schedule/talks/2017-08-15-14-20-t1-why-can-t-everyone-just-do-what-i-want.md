@@ -6,8 +6,9 @@ abstract: We'll talk about how to identify productivity and motivational styles 
 accepted: true
 category: talk
 date: 2017-08-15 14:20:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/why-can-t-everyone-just-do-what-i-want-them-to-leadership-management-and-working-with-people-who-don-t-think-like-you/
+permalink: /talks/why-can-t-everyone-just-do-what-i-want-them-to-leadership-management-and-working-with-people-who-don-t-think-like-you/
 presenters:
 - bio: Briana Morgan is enthusiastic about many things, including (but not limited
     to) public health, digital strategy, tech for social good, and the weird stuff
@@ -20,7 +21,7 @@ presenters:
   company: ''
   github: ''
   name: Briana Morgan
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/a79bbe2e771c95620018a2bf6bb0a690?s=400'
   twitter: babefromtoyland
   website: https://www.brianalmorgan.com
 room: 'Ballroom A'

@@ -7,8 +7,9 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 16:40:00 -0500
+difficulty: Beginner
 layout: session-details
-permalink: /talk/understanding-javascript-libraries-via-react-and-the-react-ecosystem/
+permalink: /talks/understanding-javascript-libraries-via-react-and-the-react-ecosystem/
 presenters:
 - bio: |
     Andrew Pinkham is the author of Django Unleashed (Pearson; [django-unleashed.com](https://django-unleashed.com))
@@ -20,7 +21,7 @@ presenters:
   company: JamBon Software
   github: ''
   name: Andrew Pinkham
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/ed38bdd910a09be6e706c1487112fe16?s=400'
   twitter: andrewsforge
   website: http://jambonsw.com
 room: 'Ballroom A'

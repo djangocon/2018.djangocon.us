@@ -4,6 +4,7 @@ abstract: We'll start from scratch and end with a customised, content-managed we
 accepted: true
 category: tutorial
 date: 2017-08-13 13:30:00 -0500
+difficulty: Beginner
 layout: session-details
 permalink: /tutorials/build-and-launch-a-website-on-wagtail-in-three-hours/
 presenters:
@@ -12,7 +13,7 @@ presenters:
   company: Torchbox and Wagtail
   github: ''
   name: Tom Dyson
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/077b7dd79bc5205ad802be73b1536f75?s=400'
   twitter: tomd
   website: https://torchbox.com
 room: Audobon

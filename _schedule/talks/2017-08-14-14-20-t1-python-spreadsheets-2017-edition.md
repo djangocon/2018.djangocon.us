@@ -6,8 +6,9 @@ abstract: Spreadsheets are often used to share interesting & important data. I'l
 accepted: true
 category: talk
 date: 2017-08-14 14:20:00 -0500
+difficulty: Beginner
 layout: session-details
-permalink: /talk/python-spreadsheets-2017-edition/
+permalink: /talks/python-spreadsheets-2017-edition/
 presenters:
 - bio: "Kojo Idrissa *was* an accountant who got an MBA and taught at university in\
     \ two different countries. He's *now* a new(ish) software engineer and is still\
@@ -18,7 +19,7 @@ presenters:
   company: Decisio Health
   github: ''
   name: Kojo Idrissa
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/ecc07649d926fab6932727462e81f9fb?s=400'
   twitter: Transition
   website: http://kojoidrissa.com/
 room: 'Ballroom A'

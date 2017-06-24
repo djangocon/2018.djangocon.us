@@ -7,8 +7,9 @@ abstract: 'Passwords have been security''s biggest weakness since the time of th
 accepted: true
 category: talk
 date: 2017-08-14 12:20:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/hunter2-a-symphony-of-password-horror/
+permalink: /talks/hunter2-a-symphony-of-password-horror/
 presenters:
 - bio: Lilly is a 100% certified sonnet writer, engineer, and erstwhile historian.
     She spends her days building and breaking corporate identity systems. Following
@@ -19,7 +20,7 @@ presenters:
   company: ''
   github: ''
   name: Lilly Ryan
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/1fd917e7cb5f4d0122774b44885f635c?s=400'
   twitter: attacus_au
   website: https://attacus.net
 room: 'Ballroom A'

@@ -5,8 +5,9 @@ abstract: Considering running Django on Kubernetes, but not sure where to start?
 accepted: true
 category: talk
 date: 2017-08-15 16:10:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/end-to-end-django-on-kubernetes/
+permalink: /talks/end-to-end-django-on-kubernetes/
 presenters:
 - bio: While Josh Berkus is well-known for his years of contributions to the PostgreSQL
     database system, today he works on new container stacks at Red Hat's Project Atomic.  A
@@ -15,7 +16,7 @@ presenters:
   company: Red Hat
   github: ''
   name: Josh Berkus
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/e49b70b058716dd9dea73a14a1d9856e?s=400'
   twitter: fuzzychef
   website: http://jberkus.github.io/
 room: 'Ballrooms B and C'

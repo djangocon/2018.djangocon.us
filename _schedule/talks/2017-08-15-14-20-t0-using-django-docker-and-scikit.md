@@ -6,8 +6,9 @@ abstract: "Reproducible results are the bane of a data science team's existence.
 accepted: true
 category: talk
 date: 2017-08-15 14:20:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/using-django-docker-and-scikit-learn-to-bootstrap-your-machine-learning-project/
+permalink: /talks/using-django-docker-and-scikit-learn-to-bootstrap-your-machine-learning-project/
 presenters:
 - bio: Political analyst turned coder, Lorena Mesa is a Sprout Social data engineer,
     Director on the Python Software Foundation, PyLadies Chicago co-organizer, and
@@ -19,7 +20,7 @@ presenters:
     & Organizer, PyLadies Chicago
   github: ''
   name: Lorena Mesa
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/7f279cdd4dcbc3b5b98deed921ba86a2?s=400'
   twitter: loooorenanicole
   website: http://www.lorenamesa.com
 room: 'Ballrooms B and C'

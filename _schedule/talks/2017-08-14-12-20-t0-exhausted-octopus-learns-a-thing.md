@@ -7,8 +7,9 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-14 12:20:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/exhausted-octopus-learns-a-thing/
+permalink: /talks/exhausted-octopus-learns-a-thing/
 presenters:
 - bio: |
     Laura works in Information and Interpretive Technologies at the Philadelphia
@@ -20,7 +21,7 @@ presenters:
   company: Philadelphia Museum of Art
   github: ''
   name: Laura R. Webb
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/35a23dd5f4ea146f6217cef90a80ddd4?s=400'
   twitter: LRW3bb
   website: http://www.LRWebb.com
 room: 'Ballrooms B and C'

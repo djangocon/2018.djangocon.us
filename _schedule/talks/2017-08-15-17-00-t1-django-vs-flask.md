@@ -6,8 +6,9 @@ abstract: Django is the undisputed king of web development in Python, but Flask 
 accepted: true
 category: talk
 date: 2017-08-15 17:00:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/django-vs-flask/
+permalink: /talks/django-vs-flask/
 presenters:
 - bio: DB is a freelance web developer living in the Boston area. He loves Python
     for its simplicity, its clarity, and its community -- especially in welcoming
@@ -17,7 +18,7 @@ presenters:
   company: ''
   github: ''
   name: David "DB" Baumgold
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/42c77de97965d620ba0b6ae624c3ba7b?s=400'
   twitter: singingwolfboy
   website: https://www.davidbaumgold.com/
 room: 'Ballroom A'
@@ -29,7 +30,7 @@ video_url: ''
 
 When it comes to web development in Python, Django isn't the only game in town. Flask is a scrappy young framework that takes a very different approach -- whereas Django ships with tons of features ready and eager to be used, Flask provides a bare minimum feature-set with rock-solid extensibility and incredible flexibility. This talk, given by a web developer who has experience with both frameworks, takes a good look at the pros and cons for both Flask and Django. If you've ever felt that Django is too hard to learn, or too inflexible, this is the talk for you!
 
-# Outline
+### Outline
 
 * What is Flask?
   * Historical background

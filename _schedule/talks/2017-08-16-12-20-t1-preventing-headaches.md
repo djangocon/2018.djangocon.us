@@ -6,15 +6,16 @@ abstract: 'Tired of ranting to your co-workers "all models need `__str__`"? Or t
 accepted: true
 category: talk
 date: 2017-08-16 12:20:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/preventing-headaches-with-linters-and-automated-checks/
+permalink: /talks/preventing-headaches-with-linters-and-automated-checks/
 presenters:
 - bio: Web developer from Brazil. Loves beautiful code. Partner at [Vinta](https://www.vinta.com.br/),
     a web consultancy specialized in building products with React and Django.
   company: Vinta Software
   github: ''
-  name: "Fl\xE1vio Junior"
-  photo_url: ''
+  name: "Flávio Junior"
+  photo_url: 'https://www.gravatar.com/avatar/ae23b47de29112b26cccb1a1e51ad3e4?s=400'
   twitter: flaviojuvenal
   website: https://www.vinta.com.br/
 room: 'Ballroom A'

@@ -6,8 +6,9 @@ abstract: "Are you a beginner worried about starting your first Django project? 
 accepted: true
 category: talk
 date: 2017-08-15 12:20:00 -0500
+difficulty: Beginner
 layout: session-details
-permalink: /talk/stumbling-through-django-and-how-not-to/
+permalink: /talks/stumbling-through-django-and-how-not-to/
 presenters:
 - bio: "Melanie is a creator, tinkerer, and prisoner of hope (h/t Cornel West). She\
     \ peddles happiness at [FiveUpApp.com](http://www.fiveupapp.com), and has been\
@@ -22,7 +23,7 @@ presenters:
   company: ''
   github: ''
   name: Melanie Crutchfield
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/3c6d60e22a885e2725666dd57612d690?s=400'
   twitter: hellomelaniec
   website: http://www.melaniecrutchfield.com
 room: 'Ballrooms B and C'

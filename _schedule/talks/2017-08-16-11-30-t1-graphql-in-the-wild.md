@@ -4,8 +4,9 @@ abstract: A Django developer's musings on moving outside the REST API box. What 
 accepted: true
 category: talk
 date: 2017-08-16 11:30:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/graphql-in-the-wild/
+permalink: /talks/graphql-in-the-wild/
 presenters:
 - bio: "Arianne is a programmer, teacher, and activist in Vancouver, BC. She is currently\
     \ a full-stack Django developer at [**7Geese**](https://7geese.com/) and an instructor\
@@ -20,7 +21,7 @@ presenters:
   company: 7Geese
   github: ''
   name: Arianne Dee
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/a76d801876ae3676b3d5041e9348a1da?s=400'
   twitter: ''
   website: ''
 room: 'Ballroom A'

@@ -6,8 +6,9 @@ abstract: The focus of this talk is around the topic of asynchrony in Django app
 accepted: true
 category: talk
 date: 2017-08-16 14:20:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/butter-smooth-interactive-applications-with-django-and-websockets/
+permalink: /talks/butter-smooth-interactive-applications-with-django-and-websockets/
 presenters:
 - bio: "I'm a self-taught hacker with 10+ years of experience. I've been in the data\
     \ space my entire career, first with data pipelines for protein analysis and then\
@@ -21,7 +22,7 @@ presenters:
   company: Silota
   github: ''
   name: Ganesh Swami
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/dbecd304844df44288b48398154ecd64?s=400'
   twitter: gane5h
   website: http://www.silota.com
 room: 'Ballroom A'

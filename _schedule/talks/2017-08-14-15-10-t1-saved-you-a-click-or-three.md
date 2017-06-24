@@ -6,8 +6,9 @@ abstract: Custom Django admin actions and views can seem daunting to beginners a
 accepted: true
 category: talk
 date: 2017-08-14 15:10:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/saved-you-a-click-or-three-supercharging-the-django-admin-with-actions-and-views/
+permalink: /talks/saved-you-a-click-or-three-supercharging-the-django-admin-with-actions-and-views/
 presenters:
 - bio: '[Liam Andrew](https://www.twitter.com/mailbackwards) is a software developer
     and media researcher. His work aims to bridge software engineering and content
@@ -18,7 +19,7 @@ presenters:
   company: The Texas Tribune
   github: ''
   name: Liam Andrew
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/847c6a606b5e101dba7661c5972534b3?s=400'
   twitter: mailbackwards
   website: http://liamandrew.info
 room: 'Ballroom A'

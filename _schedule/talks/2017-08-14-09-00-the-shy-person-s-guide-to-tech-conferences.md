@@ -6,9 +6,11 @@ abstract: |
     of your experience by connecting with others and sharing your own work.
 accepted: true
 category: talk
+hidden: true
 date: 2017-08-14 09:00:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/the-shy-person-s-guide-to-tech-conferences/
+permalink: /talks/the-shy-person-s-guide-to-tech-conferences/
 presenters:
 - bio: |
     Hi, I'm Ed! I'm a freelance web developer building fast, elegant sites with
@@ -23,18 +25,16 @@ presenters:
   company: ''
   github: ''
   name: Ed Rivas
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/67b77a54b5e4847d3dbf678b3c10c8fd?s=400'
   twitter: je92rivas
   website: https://hello.jerivas.com
-#room: 'Audobon'
-room: full
+room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 title: The shy person's guide to tech conferences
 video_url: ''
 ---
 
-<!--
 I used to think about tech conferences as a series of talks / panels / tutorials; but everything changed once I started looking beyond the tech and into the people behind it. Now conferences are not just a cool thing to do, but a highlight of my year!
 
 In my talk I want to share some of the things I’ve learned during my short time as conference-goer and speaker. I want to encourage you to make the most out of your conference experiences by connecting with those around you, learning from them, and sharing some stuff of your own. Maybe I can even give you that final push to submit that talk idea you’ve been thinking about? Let’s find out!
@@ -61,4 +61,3 @@ I’m no expert in sociology (or even conferences / events), but I will try to p
     - What to say
     - How to say it
     - A word for conference organizers
--->

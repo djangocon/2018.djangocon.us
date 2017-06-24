@@ -6,6 +6,7 @@ abstract: This tutorial provides a guided introduction to Channels, the code nee
 accepted: true
 category: tutorial
 date: 2017-08-13 13:30:00 -0500
+difficulty: Intermediate
 layout: session-details
 permalink: /tutorials/don-t-touch-that-dial-an-introduction-to-channels/
 presenters:
@@ -19,7 +20,7 @@ presenters:
   company: WSP
   github: ''
   name: Ken Whitesell
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/e6433d48b299aea363035401ac48cf5a?s=400'
   twitter: KenWhitesell
   website: ''
 room: Ballroom B
@@ -31,8 +32,7 @@ video_url: ''
 
 This tutorial will provide a hands-on guided introduction to using Channels in your Django web site to provide bi-directional communications and background processing. Topics will include common use-cases, specific functional and working code, and some implementation and integration details. There will also be some time spent discussing the general history of the internet and the technologies involved, providing the attendees with a deeper understanding of how and why we have gotten to this point.
 
-Session Outline
----------------
+### Session Outline
 
 1. An overview of TCP/IP and the HTTP protocol
     1. TCP Sockets

@@ -6,8 +6,9 @@ abstract: "When my engineers didn\u2019t have the time to create the curriculum 
 accepted: true
 category: talk
 date: 2017-08-15 15:10:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/going-rogue-how-code-org-creating-a-curriculum-development-platform-without-their-engineers/
+permalink: /talks/going-rogue-how-code-org-creating-a-curriculum-development-platform-without-their-engineers/
 presenters:
 - bio: Josh is a recovering Middle School English, Computer Science, and Robotics
     teacher. For the last three years he's been heading up the Middle School curriculum
@@ -18,13 +19,13 @@ presenters:
   company: Code.org
   github: ''
   name: Josh Caldwell
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/76bb7de56b455add35a74419cb2a5799?s=400'
   twitter: mrjoshida
   website: https://code.org
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
-title: 'Going Rogue: How Code.org  Creating a Curriculum Development Platform Without
+title: 'Going Rogue: How Code.org Created a Curriculum Development Platform Without
   their Engineers'
 video_url: ''
 ---

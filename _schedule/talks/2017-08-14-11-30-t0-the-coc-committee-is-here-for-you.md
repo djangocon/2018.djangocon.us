@@ -7,8 +7,9 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-14 11:30:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/the-coc-committee-is-here-for-you/
+permalink: /talks/the-coc-committee-is-here-for-you/
 presenters:
 - bio: |
     Erik is the co-founder and CTO of a small Django development company in Amsterdam.
@@ -22,7 +23,7 @@ presenters:
   company: ''
   github: ''
   name: Erik Romijn
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/5b3dccd38a8e6d16fe11e29ee34ab8ab?s=400'
   twitter: erikpub
   website: http://erik.io
 room: 'Ballrooms B and C'

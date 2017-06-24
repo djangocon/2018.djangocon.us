@@ -6,8 +6,9 @@ abstract: Django is undoubtedly the first tool most of us reach for when buildin
 accepted: true
 category: talk
 date: 2017-08-14 17:30:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/write-an-api-for-almost-anything-or-the-amazing-power-and-flexibility-of-django-rest-framework/
+permalink: /talks/write-an-api-for-almost-anything-or-the-amazing-power-and-flexibility-of-django-rest-framework/
 presenters:
 - bio: Charlotte programmed as a hobby for over 20 years before finally turning that
     passion into a career last year. She is always looking for something new to learn,
@@ -15,8 +16,8 @@ presenters:
     PyLadies RDU.
   company: Caktus Group
   github: ''
-  name: charlotte.ann.mays@gmail.com
-  photo_url: ''
+  name: Charlotte Mays
+  photo_url: 'https://www.gravatar.com/avatar/cbca17134a9e43d1162b8209bd2999d0?s=400'
   twitter: charlottecodes
   website: ''
 room: 'Ballroom A'

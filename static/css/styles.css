@@ -747,28 +747,17 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:rgba(12,75,51,
 .card-theme-light-beige h1,.card-theme-light-beige h2,.card-theme-light-beige .partner-footer h3,.partner-footer .card-theme-light-beige h3,.card-theme-light-beige h3,.card-theme-light-beige h4,.card-theme-light-beige h5,.card-theme-light-beige h6,.card-theme-light-beige a{color:#f8efe3}
 .card-theme-light-beige a:hover{color:#dfd7cc}.card-theme-light-beige .theme-color{color:#f8efe3}
 .card-theme-light-beige .theme-bg{background-color:#f8efe3;color:#fff}.card-theme-light-beige path{fill:#f8efe3}
-<<<<<<< HEAD
 .bottomless>*:last-child{margin-bottom:0}.v-pad-bottom{padding-bottom:1rem}@media print,screen and (min-width:55.625em){.v-pad-bottom{padding-bottom:2rem}
 }.v-pad-top{padding-top:1rem}@media print,screen and (min-width:55.625em){.v-pad-top{padding-top:2rem}
 }.section-pad{padding-top:1rem;padding-bottom:1rem}@media print,screen and (min-width:55.625em){.section-pad{padding-top:4rem;padding-bottom:4rem}
 }.wf-loading h1,.wf-loading h2,.wf-loading .partner-footer h3,.partner-footer .wf-loading h3,.wf-loading h3,.wf-loading h4,.wf-loading h5,.wf-loading h6,.wf-loading p,.wf-loading li,.wf-loading table{visibility:hidden}
-h1 a,h2 a,.partner-footer h3 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none}li{margin-bottom:.85rem}
-.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{margin-bottom:1.5rem}.demp{font-weight:400}
-iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bottom:0}
+h1 img.emoji{width:1em;height:1em}h1 a,h2 a,.partner-footer h3 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none}
+li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{margin-bottom:1.5rem}
+.demp{font-weight:400}iframe,.highlighter-rouge{margin-bottom:1rem}.responsive-embed iframe{margin-bottom:0}
 .thumbnail-block{border-radius:0}@media print,screen and (min-width:55.625em){.list-split{display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-pack:justify;justify-content:space-between}
 .list-split li{width:45%}}.callout-dark{background-color:#072a1c;color:#f1dfc7}:target:before{display:block;margin:-70px 0 0;height:70px;content:""}
 @media print,screen and (min-width:55.625em){:target:before{margin-top:-110px;height:110px}
 }.button{text-decoration:none}.button+.button{margin-left:.5em}.button.secondary,.button.secondary:hover{color:#fefefe}
-=======
-.v-pad-bottom{padding-bottom:1em}@media print,screen and (min-width:55.625em){.v-pad-bottom{padding-bottom:2em}
-}.v-pad-top{padding-top:1em}@media print,screen and (min-width:55.625em){.v-pad-top{padding-top:2em}
-}.section-pad{padding-top:1em;padding-bottom:1em}@media print,screen and (min-width:55.625em){.section-pad{padding-top:4em;padding-bottom:4em}
-}h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none}li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}
-.lead.min{margin-bottom:1.5rem}.demp{font-weight:400}iframe,.highlighter-rouge{margin-bottom:1rem}
-.responsive-embed iframe{margin-bottom:0}.thumbnail-block{border-radius:0}@media print,screen and (min-width:55.625em){.list-split{display:-ms-flexbox;display:flex;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-pack:justify;justify-content:space-between}
-.list-split li{width:45%}}.callout-dark{background-color:#072a1c;color:#f1dfc7}.button{text-decoration:none}
-.button+.button{margin-left:.5em}.button.secondary,.button.secondary:hover{color:#fefefe}
->>>>>>> 69ff121... adding venu page including places to eat
 .event-page h1{margin-bottom:.5rem}.menu a{color:#fefefe;text-decoration:none}.headroom--top .menu .menu,.menu .menu{text-align:left}
 .headroom--top .menu .menu a,.menu .menu a{color:#fefefe}.headroom--top .menu .menu a:hover,.menu .menu a:hover{background:#d66315}
 .headroom--top .menu .navbar-button,.navbar-button{padding-top:.4rem;padding-bottom:.4rem;background:#d66315;color:#fefefe;text-align:center;line-height:1.1}

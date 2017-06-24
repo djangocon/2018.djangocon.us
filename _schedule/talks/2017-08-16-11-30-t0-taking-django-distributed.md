@@ -6,8 +6,9 @@ abstract: There comes a point in the life of most successful code where you've o
 accepted: true
 category: talk
 date: 2017-08-16 11:30:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/taking-django-distributed/
+permalink: /talks/taking-django-distributed/
 presenters:
 - bio: Andrew is a Django core developer and Senior Software Engineer at Eventbrite,
     and focuses mainly on software and systems architecture, data storage, and deployment.
@@ -18,7 +19,7 @@ presenters:
   company: ''
   github: ''
   name: Andrew Godwin
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/077e9a0cb34fa3eba2699240c9509717?s=400'
   twitter: andrewgodwin
   website: http://www.aeracode.org
 room: 'Ballrooms B and C'

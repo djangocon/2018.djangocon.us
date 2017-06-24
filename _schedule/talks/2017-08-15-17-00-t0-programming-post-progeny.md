@@ -8,8 +8,9 @@ abstract: 'New parents have challenges. Programmers have challenges. Programmers
 accepted: true
 category: talk
 date: 2017-08-15 17:00:00 -0500
+difficulty: Beginner
 layout: session-details
-permalink: /talk/programming-post-progeny-a-new-parent-s-perspective/
+permalink: /talks/programming-post-progeny-a-new-parent-s-perspective/
 presenters:
 - bio: Jacinda Shelly is the CTO at Doctor On Demand and mother of an incredible little
     girl named Ada.  She's been programming in Python for almost a decade now and
@@ -19,7 +20,7 @@ presenters:
   company: Doctor On Demand
   github: ''
   name: Jacinda Shelly
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/8abc78adacf50a15e104e77e28e38411?s=400'
   twitter: jacindashelly
   website: ''
 room: 'Ballrooms B and C'

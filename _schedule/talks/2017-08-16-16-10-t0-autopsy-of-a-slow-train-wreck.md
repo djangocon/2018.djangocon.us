@@ -9,8 +9,9 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 16:10:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/autopsy-of-a-slow-train-wreck-the-life-and-death-of-a-django-startup/
+permalink: /talks/autopsy-of-a-slow-train-wreck-the-life-and-death-of-a-django-startup/
 presenters:
 - bio: |
     Dr Russell Keith-Magee is a 10 year veteran of the Django core team, and for
@@ -21,7 +22,7 @@ presenters:
   company: BeeWare Project
   github: ''
   name: Russell Keith-Magee
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/b91373320dbc3bc52fcd870d3b21748f?s=400'
   twitter: freakboy3742
   website: http://pybee.org
 room: 'Ballrooms B and C'

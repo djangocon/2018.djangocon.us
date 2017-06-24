@@ -6,8 +6,9 @@ abstract: |
 accepted: true
 category: talk
 date: 2017-08-16 16:10:00 -0500
+difficulty: Intermediate
 layout: session-details
-permalink: /talk/the-beauty-of-viewsets-in-django-rest-framework/
+permalink: /talks/the-beauty-of-viewsets-in-django-rest-framework/
 presenters:
 - bio: |
     Buddy is the creator and producer of screencasts at GoDjango.com. He is also
@@ -17,7 +18,7 @@ presenters:
   company: GoDjango
   github: ''
   name: Buddy Lindsey, Jr.
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/d5c7efa3f66d6fc8ef6750fa07558c8a?s=400'
   twitter: buddylindsey
   website: https://godjango.com
 room: 'Ballroom A'

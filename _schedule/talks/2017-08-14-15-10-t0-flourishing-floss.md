@@ -6,8 +6,9 @@ abstract: "You maintain an Open Source project but your project isn\u2019t succe
 accepted: true
 category: talk
 date: 2017-08-14 15:10:00 -0500
+difficulty: All
 layout: session-details
-permalink: /talk/flourishing-floss-making-your-project-successful/
+permalink: /talks/flourishing-floss-making-your-project-successful/
 presenters:
 - bio: Anna loves working at the intersection of tech and people and is currently
     managing the community and operations of Django REST Framework. She is a former
@@ -19,7 +20,7 @@ presenters:
   company: Django REST Framework, PyLadies
   github: ''
   name: Anna Ossowski
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/8cd0ce6b727888d01bacaa09cf3ecb32?s=400'
   twitter: ossanna16
   website: http://anna-oz.tumblr.com
 room: 'Ballrooms B and C'

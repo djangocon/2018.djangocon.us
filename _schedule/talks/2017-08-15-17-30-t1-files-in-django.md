@@ -6,14 +6,15 @@ abstract: "Serving files is one of the most basic tasks of any web application. 
 accepted: true
 category: talk
 date: 2017-08-15 17:30:00 -0500
+difficulty: Beginner
 layout: session-details
-permalink: /talk/files-in-django/
+permalink: /talks/files-in-django/
 presenters:
 - bio: ''
   company: ''
   github: ''
   name: Josh Schneier
-  photo_url: ''
+  photo_url: 'https://www.gravatar.com/avatar/3df94fda74c1265f3a85126231ba54b7?s=400'
   twitter: ''
   website: ''
 room: 'Ballroom A'

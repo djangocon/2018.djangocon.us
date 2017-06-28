@@ -9,7 +9,7 @@ description: |
 
 Do you want to share a room at the [venue](/venue/#welcome) (Hotel RL by Red Lion Spokane at the Park) with other attendees, or have accommodation available? Do you want to drive to DjangoCon from Portland, Seattle, Boise, or other nearby cities?
 
-We have a [Google Spreadsheet just for you!](https://docs.google.com/spreadsheets/d/1xol19ghdCMiU9bID9bkd39suw4bES_hGfr2-dYOcTOM/edit?usp=sharing). 
+We have a [Google Spreadsheet just for you!](https://docs.google.com/spreadsheets/d/1xol19ghdCMiU9bID9bkd39suw4bES_hGfr2-dYOcTOM/edit?usp=sharing) 
 
 If you're looking for a room, list yourself along with:
 
@@ -51,10 +51,7 @@ If you are prepared to offer accommodation to one or more conference-goers who w
 | --- | --- |
 | Example Person | Place for sleeping bag | Call 123-5555 before 10pm |
 
-[Share a Room (spreadsheet information)](https://docs.google.com/spreadsheets/d/1xol19ghdCMiU9bID9bkd39suw4bES_hGfr2-dYOcTOM/edit?usp=sharing
-){: class="button center medium-centered" }
-
-## I would like to Ride Share
+## I Would Like to Ride Share
 
 If you're looking to share a ride from nearby cities to Spokane, then please include whether you're providing a ride or looking for one, where you're leaving from and the dates you need to travel.  Examples:
 
@@ -62,3 +59,6 @@ If you're looking to share a ride from nearby cities to Spokane, then please inc
 | --- | --- |
 | Example Driver | Driver | NE Portland | leave 8/13 return 8/17 | @example_driver | no cost-sharing required |
 | Example Rider | Passenger | Tacoma | arrive by 8/12 | example@rider.org | can take shift driving |
+
+[Share a Room or Ride (spreadsheet information)](https://docs.google.com/spreadsheets/d/1xol19ghdCMiU9bID9bkd39suw4bES_hGfr2-dYOcTOM/edit?usp=sharing
+){: class="button center medium-centered" }

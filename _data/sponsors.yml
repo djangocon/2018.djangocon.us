@@ -134,7 +134,7 @@ levels:
           Development partner.)
 
       - name: "JamBon Software"
-        logo: "/static/img/sponsors/jambonlogo"
+        logo: "/static/img/sponsors/jambonlogo.png"
         logo_orientation: "landscape"
         url: "http://www.jambonsw.com/"
         url_friendly: "www.jambonsw.com/"

@@ -9,7 +9,7 @@ title: Registration and Breakfast
 presenters:
 difficulty:
 
-date: 2017-08-14 8:00:00 -0500
+date: 2017-08-14 8:30:00 -0500
 room: full
 ---
 Riverside Exhibit Hall

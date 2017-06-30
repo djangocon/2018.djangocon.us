@@ -12,12 +12,10 @@
     "style-sherpa": "^1.0.2"
   },
   "scripts": {
+    "add": "all-contributors add",
+    "generate": "all-contributors generate",
     "start": "gulp",
     "build": "gulp sass"
-  },
-  "scripts": {
-    "add": "all-contributors add",
-    "generate": "all-contributors generate"
   },
   "repository": {
     "type": "git",

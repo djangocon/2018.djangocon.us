@@ -15,5 +15,6 @@ Are you attending DjangoCon US 2017 in Spokane, Washington, but you are not from
 - **Accommodation**: If you are staying in the conference hotel, book your room [here](https://reservations.redlion.com/ibe/details.aspx?hotelID=13746&langID=1&group=20170811&hgID=280&dt1=6432&nights=8&rooms=1&adults=1&child1=0). Our conference rate expires on July 11.
 - **Conference Tickets**: Tickets are [on sale](https://ti.to/defna/djangocon-us-2017)! Our refund policy is listed at the bottom of the page.
 - **Money Conversion**: Most places in the US will take major credit cards, such as Visa and Mastercard. You can withdraw local currency from your bank account using an ATM if you need cash while you are in the United States.
+- **Travel Paperwork**: Print out copies of your visa letter, conference ticket, lodging reservation confirmation, return ticket, and the conference schedule. These documents can be helpful when going through US Customs and Border Protection. 
 
  We are looking forward to seeing you in Spokane in August!

@@ -1,8 +1,9 @@
 ---
-abstract: "You maintain an Open Source project but your project isn\u2019t succeeding\
-  \ in the ways you want? \nIn this talk we\u2019ll explore the different components\
-  \ of an OS project & how they work together. Afterwards you\u2019ll be well-equipped\
-  \ with a ideas & strategies for growing, and nourishing your OS project. "
+abstract: |
+  You maintain an Open Source project but your project isn\u2019t succeeding
+  in the ways you want? \nIn this talk we\u2019ll explore the different components
+  of an OS project & how they work together. Afterwards you\u2019ll be well-equipped
+  with a ideas & strategies for growing, and nourishing your OS project.
 accepted: true
 category: talk
 date: 2017-08-14 15:10:00 -0500
@@ -10,13 +11,13 @@ difficulty: All
 layout: session-details
 permalink: /talks/flourishing-floss-making-your-project-successful/
 presenters:
-- bio: Anna loves working at the intersection of tech and people and is currently
-    managing the community and operations of Django REST Framework. She is a former
-    director of the Python Software Foundation, PyCon US Open Spaces-Chair, DjangoCon
-    US Diversity Chair, and group leader of the PyLadies Remote group. In her free
-    time she loves speaking at conferences and mentoring future speakers. Anna is
-    very passionate about diversity and community outreach and wants to encourage
-    more women to learn programming because it's awesome!
+- bio: Anna loves working at the intersection of tech and people and currently
+    works for Elastic in developer relations. She is a former director of the
+    Python Software Foundation, PyCon US Open Spaces-Chair, DjangoCon US
+    Diversity Chair, and group leader of the PyLadies Remote group. In her free
+    time she loves speaking at conferences and mentoring future speakers. Anna
+    is very passionate about diversity and community outreach and wants to
+    encourage more women to learn programming because it's awesome!
   company: Django REST Framework, PyLadies
   github: ''
   name: Anna Ossowski

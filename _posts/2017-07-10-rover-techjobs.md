@@ -27,10 +27,10 @@ as I do with my family, so I want to enjoy my time around them.
 Now, you can’t answer that question directly before you’ve even 
 applied, but you can get a sense for if the company seems to have
 strong values and high ethical standards.  Between press, asking around
-your network via LinkedIn, reading Glassdoor reviews you can start
-to get a sense for what the company’s culture.
+your network via LinkedIn, and reading Glassdoor reviews, you can start
+to get a sense of the company’s culture.
 
-Rover has it’s [Core Values](https://www.rover.com/core-values/) 
+Rover has its [Core Values](https://www.rover.com/core-values/) 
 published on our web site, so that prospective candidates will
 understand what it’s like to work here.  These values are not
 platitudes--they are actual principles we use to guide our
@@ -72,7 +72,7 @@ morning, and it’s really hard to do that when you don’t enjoy the work
 you’re doing.
 
 I’ve spent my entire career building industry leading, 
-consumer websites, and that’s what we’re doing here it Rover.
+consumer websites, and that’s what we’re doing here at Rover.
 Creating features for the web site and mobile apps, the machine
 learning algorithms that power our custom search engine, and the data
 warehouse that allows us to analyze our experiments and split tests...
@@ -89,7 +89,7 @@ position--goodness knows that I’ve joined some crazy startups in
 my career!--but it’s also important to go into that eyes wide open.
 
 Rover, of course, is not in that position: we have world-class
-investors, are growing rapidly and a have bright future ahead.
+investors, are growing rapidly and have a bright future ahead.
 If you’re interested in working together, check our open positions
 at [http://rover.com/jobs](http://rover.com/jobs).
 

@@ -7,6 +7,10 @@ image: /static/img/blog/thankyourover.png
 title: "How To Choose a Job in the Tech Industry"
 ---
 
+People who work in the technology industry enjoy a luxury that people in
+other industries simply don’t have: the opportunity to choose
+where we want to work.  
+
 Naturally, we still have to apply, interview, have the right skills and
 get the job. However, because our skills are in high demand, there's a
 plethora of jobs out there from which we can choose and employers are

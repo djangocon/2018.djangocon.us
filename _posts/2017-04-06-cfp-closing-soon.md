@@ -21,8 +21,8 @@ You've never spoken before? Not a problem! Our [speaker mentors](/speaking/speak
 
 There is no reason not to apply! Here are two articles to get you started:
 
- * [Writing a PyCon Proposal by Brian Curtin](http://blog.briancurtin.com/posts/writing-a-pycon-proposal.html)
- * [How to Submit a Kickass Talk to otsconf (or any other conf for that matter) by the OpenTechSchool Conference](http://blog.otsconf.com/post/118360171200/how-to-submit-a-kickass-talk-to-otsconf-or-any)
+<!--  * [Writing a PyCon Proposal by Brian Curtin](http://blog.briancurtin.com/posts/writing-a-pycon-proposal.html)
+ --> * [How to Submit a Kickass Talk to otsconf (or any other conf for that matter) by the OpenTechSchool Conference](http://blog.otsconf.com/post/118360171200/how-to-submit-a-kickass-talk-to-otsconf-or-any)
 
 As always, feel free to contact us if you have questions.
 

@@ -23,7 +23,7 @@ presenters:
   name: Briana Morgan
   photo_url: 'https://www.gravatar.com/avatar/a79bbe2e771c95620018a2bf6bb0a690?s=400'
   twitter: babefromtoyland
-  website: https://www.brianalmorgan.com
+  website: http://www.brianalmorgan.com
 room: 'Ballroom A'
 sitemap: true
 slides_url: ''

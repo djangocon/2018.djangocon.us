@@ -9,7 +9,7 @@ title: "How To Choose a Job in the Tech Industry"
 
 People who work in the technology industry enjoy a luxury that people in
 other industries simply don’t have: the opportunity to choose
-where we want to work.  
+where we want to work.
 
 Naturally, we still have to apply, interview, have the right skills and
 get the job. However, because our skills are in high demand, there's a
@@ -19,28 +19,28 @@ most people in most industries.
 
 That being said, when presented with so many opportunities, how do you
 choose the one that is the best fit?  Personally, I use the following
-four-point framework to guide my decisions, and as a result, 
+four-point framework to guide my decisions, and as a result,
 that’s how I ended up working at Rover.
 
 **It’s all about the people**
 
-First, the most important question is, “do I like the people?”  
+First, the most important question is, “do I like the people?”
 To my way of thinking, I spend as much time with the people I work with
 as I do with my family, so I want to enjoy my time around them.
 
-Now, you can’t answer that question directly before you’ve even 
+Now, you can’t answer that question directly before you’ve even
 applied, but you can get a sense for if the company seems to have
 strong values and high ethical standards.  Between press, asking around
 your network via LinkedIn, and reading Glassdoor reviews, you can start
 to get a sense of the company’s culture.
 
-Rover has its [Core Values](https://www.rover.com/core-values/) 
+Rover has its [Core Values](https://www.rover.com/core-values/)
 published on our web site, so that prospective candidates will
 understand what it’s like to work here.  These values are not
 platitudes--they are actual principles we use to guide our
 day-to-day work.
 
-Ultimately, the matter of people is a threshold question: 
+Ultimately, the matter of people is a threshold question:
 if a company doesn’t share my values, then none of the other
 questions matter.
 
@@ -48,15 +48,15 @@ questions matter.
 
 The second question I ask is, “does this product or service pass
 the ‘sniff test’ for me?”  When I say, “‘sniff test’ to me” that’s
-actually sort of a multi-part question composed of several 
+actually sort of a multi-part question composed of several
 sub-questions, such as:
 
 - Does the product make sense and do I understand what they’re doing?
-- Is this solving a real problem for consumers or businesses, 
+- Is this solving a real problem for consumers or businesses,
 or is this a solution in search of a problem?
 - Do I think it’s a noble endeavor that will make the world better?
 
-Essentially, the question I’m asking myself is: 
+Essentially, the question I’m asking myself is:
 “do I buy into what this company is doing?”  I want to have meaningful
 work, so if I can’t buy in, then I’m not that interested.
 
@@ -65,17 +65,17 @@ I had experienced the problem of searching for someone to care for
 my pup like family while I was away, and owning a pet has enriched my
 life.  Rover believes that everyone should have the opportunity to
 enjoy the unconditional love of a pet, and our mission is to make dog
-ownership possible.  
+ownership possible.
 
 **Getting out of bed in the morning**
 
-The third question I ask myself is, “will I enjoy the work?”  
-I believe that we only have success when we’re having fun.  
+The third question I ask myself is, “will I enjoy the work?”
+I believe that we only have success when we’re having fun.
 And, at the end of the day, we all have to get out of bed in the
 morning, and it’s really hard to do that when you don’t enjoy the work
 you’re doing.
 
-I’ve spent my entire career building industry leading, 
+I’ve spent my entire career building industry leading,
 consumer websites, and that’s what we’re doing here at Rover.
 Creating features for the web site and mobile apps, the machine
 learning algorithms that power our custom search engine, and the data
@@ -102,5 +102,5 @@ marketplace of 5-star pet sitters and dog walkers. Since 1995, Scott
 has been building early-stage consumer web sites on the edge of emerging
 online trends.  Prior to Rover, Scott worked with user-generated
 content at Cheezburger, e-commerce at
-[drugstore.com](drugstore.com), online media at
+[drugstore.com](https://drugstore.com), online media at
 ESPN.com at Starwave and online marketing with Seth Godin at Yoyodyne.*

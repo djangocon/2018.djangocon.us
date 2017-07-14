@@ -27,7 +27,7 @@ presenters:
   name: Ed Rivas
   photo_url: 'https://www.gravatar.com/avatar/67b77a54b5e4847d3dbf678b3c10c8fd?s=400'
   twitter: je92rivas
-  website: https://hello.jerivas.com
+  website: http://hello.jerivas.com
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''

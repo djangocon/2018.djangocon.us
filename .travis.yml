@@ -5,11 +5,11 @@ dist: trusty
 rvm:
   - 2.2
 
-sudo: required
+# sudo: required
 # sudo: false # route your build to the container-based infrastructure for a faster build
 
-before_install:
-  - sudo update-ca-certificates
+# before_install:
+#   - sudo update-ca-certificates
 
 script:
   - bundle exec rake test

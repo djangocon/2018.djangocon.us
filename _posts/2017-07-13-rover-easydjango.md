@@ -15,7 +15,7 @@ with a goal of little to no interruption to the other projects going on
 in the tech team. [And we were already busy](https://www.geekwire.com/2017/rover-acquires-dogvacay-biggest-competitor-online-dog-sitting-marketplace/)!
 A couple months in, things are going pretty smoothly - we’ve managed to
 successfully land our other big projects, make significant progress, 
-nd we’re now about ready to put the final pieces out into production. 
+and we’re now about ready to put the final pieces out into production. 
 It used to be a fairly painful process to upgrade, but we’ve definitely
 learned a few lessons along the way, and made our lives easier with 
 some smart planning. Here are the lessons we’ve learned through this

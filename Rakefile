@@ -12,6 +12,9 @@ task :test do
         /404.html/,
         /homepage-full.html/,
         /schedule/
+    ],
+    :url_ignore => [
+        /pgexperts.com/
     ]
   }
   HTMLProofer.check_directory("./_site", options).run

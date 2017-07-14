@@ -15,6 +15,7 @@ script:
   - bundle exec rake test
 
 cache:
+  bundler: true
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 

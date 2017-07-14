@@ -18,7 +18,7 @@ task :test do
         /pgexperts.com/
     ]
   }
-  HTMLProofer.check_directory('./_site/', options).run
+  HTMLProofer.check_directory('./_site', options).run
 end
 
 task :default => 'test'

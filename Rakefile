@@ -15,6 +15,7 @@ task :test do
         /homepage-full.html/,
         /schedule/
     ],
+    :only_4xx => true,
     :url_ignore => [
         /pgexperts.com/
     ]

@@ -1,10 +1,11 @@
+#!/usr/bin/env ruby
+
 require 'html-proofer'
 
 task :test do
   sh 'bundle exec jekyll build'
   options = {
     :assume_extension => true,
-    # :check_html => true,
     :checks_to_ignore => [
         'ImageCheck'
     ],
@@ -18,7 +19,7 @@ task :test do
         /pgexperts.com/
     ]
   }
-  HTMLProofer.check_directory('./_site', options).run
+  HTMLProofer.check_directory("./_site", options).run
 end
 
 task :default => 'test'

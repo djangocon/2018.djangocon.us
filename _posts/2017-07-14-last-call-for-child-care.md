@@ -3,7 +3,7 @@ author: Monique Murphy
 category: Travel
 date: 2017-07-14 00:00:01
 layout: post
-image: /static/img/blog/ .png
+image: /static/img/blog/last-call-child-care.png
 title: "Child Care Needs Survey Closes Soon"
 ---
 

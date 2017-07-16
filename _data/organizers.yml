@@ -127,19 +127,17 @@ organizers:
 
   - name: "Nicholle James"
     role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
+    photo_url: "/static/img/organizers/oboechick.jpg"
+    github: "oboechick"
     twitter: ""
     website: ""
 
   - name: "Philip James"
-    role: "Organizer"
-    photo_url: "https://placem.at/people?w=600&h=600&random=yes"
-    hidden: true
-    github: ""
-    twitter: ""
-    website: ""
+    role: "Organizer, Visa Coordinator"
+    photo_url: "/static/img/organizers/phildini.jpg"
+    github: "phildini"
+    twitter: "phildini"
+    website: "http://phildini.net/"
 
   - name: "Rebecca Conley"
     role: "Organizer"

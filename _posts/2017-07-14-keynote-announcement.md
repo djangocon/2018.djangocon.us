@@ -25,7 +25,7 @@ Alicia will discuss the challenges she faced as an African American woman in bec
 
 Ana is currently a backend developer and has given talks at DjangoCon Europe, PyCon US, EuroPython, and Django Under the Hood, among others. She has been the maintainer and Google Summer of Code mentor for the [Systers Portal](https://github.com/systers/portal). Recently Ana became the organizer of the [PyLadies London](https://www.meetup.com/PyLadiesLondon/) meetup. Learn more about Ana on her [website](https://ana-balica.github.io/), or follow her on Twitter at [@anabalica](https://twitter.com/anabalica)!
 
-The Django documentation section on testing starts with this: "Automated testing is an extremely useful bug-killing tool for the modern Web developer.” Nobody can argue with that. Testing is an integral part of modern software development and Ana's talk will offer an in-depth overview of how the Django testing framework evolved, showcase some common techniques, tools and best practices, talk about speed improvements and guide you through a real-world example of testing a Django app. Testing is fun, isn't it? 
+The Django documentation section on testing starts with this: "Automated testing is an extremely useful bug-killing tool for the modern Web developer.” Nobody can argue with that. Testing is an integral part of modern software development, and Ana’s talk will offer an in-depth overview of how the Django testing framework evolved; showcase some common techniques, tools, and best practices; talk about speed improvements; and guide you through a real-world example of testing a Django app. Testing is fun, isn't it? 
 
 ## Tracy Osborn
 <div class="profile">

@@ -1,7 +1,7 @@
 ---
 author: Lacey Williams Henschel
 category: Program
-date: 2017-07-14 00:00:01
+date: 2017-07-17 00:00:01
 layout: post
 image: /static/img/blog/keynote.png
 title: "Announcing Our Keynote Speakers!"

@@ -3,7 +3,7 @@ author: Lacey Williams Henschel
 category: Program
 date: 2017-07-14 00:00:01
 layout: post
-image: /static/img/blog/volunteer.png
+image: /static/img/blog/keynote.png
 title: "Announcing Our Keynote Speakers!"
 ---
 
@@ -16,7 +16,7 @@ The DjangoCon US team is so excited to present our 2017 keynote speakers!
 </div>
 Alicia is the founder and creator of [Pevo](https://itunes.apple.com/us/app/pevo/id852392358?mt=8), an iOS app in 6 languages that helps domestic violence survivors escape abuse and connects them with local resources. She is the director of the Atlanta chapter of [Women Who Code](https://www.womenwhocode.com/atlanta), and was featured in the Apple Worldwide Developers keynotes in 2015 and 2016. You can follow her on Twitter at [@Fineblkwoman](https://twitter.com/Fineblkwoman), or check out her website, [Coffee, Women, and Tech](http://www.coffeewomenandtech.com/). 
 
-Alicia will discuss the challenges she faced in becoming an iOS developer at the age of 51. As a self-taught African American woman, she created a mobile app dedicated to helping victims escape domestic violence and abuse. She has seen the best and worst of the tech community. As demonstrated by her app, she believes that the tech industry can improve and change lives if we open our arms, embrace change, and think about how women can change the way we see and create apps. 
+Alicia will discuss the challenges she faced as an African American woman in becoming an iOS developer at the age of 51. As a self-taught developer, she created a mobile app dedicated to helping victims escape domestic violence and abuse. She has seen the best and worst of the tech community. As demonstrated by her app, she believes that the tech industry can improve and change lives if we open our arms, embrace change, and think about how women can change the way we see and create apps. 
 
 ## Ana Balica 
 <div class="profile">

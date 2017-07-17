@@ -20,9 +20,9 @@ presenters:
   company: ''
   github: ''
   name: Jack McCloy
-  photo_url: 'https://www.gravatar.com/avatar/612119eb6764012125a7cc0ff9f7adeb?s=400'
+  photo_url: 'https://s.gravatar.com/avatar/bb2edf24b5cafd3a4405d8d100bc7dfa?s=400'
   twitter: jackmccloy
-  website: https://github.com/lightstrike/
+  website: https://github.com/jackmccloy/
 - bio: |
     Geoffrey Sechter is the lead organizer of <a href="http://www.meetup.com/django-nyc/">Django NYC</a>.
     He's applied Django in many situations, both for entrepreneurial pursuits

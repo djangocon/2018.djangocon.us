@@ -23,7 +23,7 @@ levels:
   - name: Platinum Sponsors
     sponsors:
       - name: "Heroku"
-        logo: "/statoc/img/sponsors/herokulogo.png"
+        logo: "/static/img/sponsors/herokulogo.png"
         url: "https://www.heroku.com/"
         url_friendly: "www.heroku.com"
         description: |

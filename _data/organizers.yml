@@ -97,7 +97,7 @@ organizers:
     website: ""
 
   - name: "Kojo Idrissa"
-    role: ":zap: Talk/Orientation Chair"
+    role: ":zap: Talk, Orientation and Sprints Chairs"
     photo_url: "/static/img/organizers/kojo.jpg"
     github: "kojoidrissa"
     twitter: "Transition"
@@ -126,7 +126,7 @@ organizers:
     website: ""
 
   - name: "Nicholle James"
-    role: "Organizer"
+    role: "Sprints Co-Chair"
     photo_url: "/static/img/organizers/oboechick.jpg"
     github: "oboechick"
     twitter: ""

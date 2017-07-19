@@ -255,6 +255,18 @@ levels:
           follow [@CashStar](https://twitter.com/CashStar) or
           e-mail [info@cashstar.com](mailto:info@cashstar.com) .
 
+      - name: "Little Weaver Web Collective"
+        logo: "/static/img/sponsors/littleweaver.png"
+        logo_orientation: "landscape"
+        url: "https://littleweaverweb.com/"
+        url_friendly: "www.littleweaverweb.com"
+        description: |
+          We're a worker-owned collective that works with 
+          mission-driven companies and nonprofits. We're dedicated to
+          socially-responsible design and website development and
+          passionate about the development of a better internet built
+          on open-source technologies.
+
 
   - name: Diversity Sponsors
     sponsors:

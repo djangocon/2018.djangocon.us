@@ -8,9 +8,9 @@
           <article class="row hour-row">
             <div class="column medium-1">
               <time class="time">{{ post.date | date: "%l:%M%P" }}
-                {% comment %}
-                  <span class="muted">9am</span>
-                {% endcomment %}
+                {% if post.end_date %}
+                  <span class="muted">{{ post.end_date | date: "%l:%M%P" }}</span>
+                {% endif %}
               </time>
             </div>
             <div class="column medium-11">
@@ -28,9 +28,9 @@
           <article class="row hour-row">
             <div class="column medium-1">
               <time class="time">{{ post.date | date: "%l:%M%P" }}
-                {% comment %}
-                  <span class="muted">9am</span>
-                {% endcomment %}
+                {% if post.end_date %}
+                  <span class="muted">{{ post.end_date | date: "%l:%M%P" }}</span>
+                {% endif %}
               </time>
             </div>
             <div class="column medium-11">

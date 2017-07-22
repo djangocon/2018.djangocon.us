@@ -15,6 +15,8 @@ Participants will learn the basics of programming, including HTML, CSS, Python, 
 
 Django Girls is a non-profit organization created to encourage and inspire women and non-binary individuals from around the world to pursue tech! Our workshop is funded entirely through donations from generous sponsors and organised and coached by volunteers! Please reach out if you’d like to give back to the community through sponsorship or volunteering.
 
+A special thank you to our major sponsor [Startup Spokane Central](http://startupspokane.com/) for providing our workshop space and local support.
+
 See our [website](https://djangogirls.org/spokane/) for more information and to apply. You can email us at [Spokane@DjangoGirls.org](mailto:Spokane@DjangoGirls.org). Follow us on [Twitter](https://twitter.com/DjangoGirlsSpo) for updates too!
 
 Hope to see you there! 

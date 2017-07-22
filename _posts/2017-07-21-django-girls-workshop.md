@@ -4,7 +4,7 @@ category: Django Girls Workshop
 date: 2017-07-21 00:00:01
 layout: post
 image: /static/img/blog/django-girls-workshop.png
-title: "Django Girls Workshop is coming to DjangoCon Spokane!"
+title: "Django Girls Workshop is Coming to DjangoCon Spokane!"
 ---
 
 We are currently accepting applications from women and non-binary participants, coaches of any gender, and sponsors to take part in a free, one-day Django programming workshop on August 12. 

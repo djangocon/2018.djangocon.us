@@ -1,7 +1,5 @@
 ---
-author: 
-- Katherine "Kati" Michel
-- Alexis Fitzpatrick
+author: Katherine "Kati" Michel, Alexis Fitzpatrick
 category: Django Girls Workshop
 date: 2017-07-21 00:00:01
 layout: post

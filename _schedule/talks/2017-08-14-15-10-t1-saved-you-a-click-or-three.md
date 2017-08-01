@@ -17,7 +17,7 @@ presenters:
     He has been fighting with the Django admin since 2012, most recently with The
     Texas Tribune.'
   company: The Texas Tribune
-  github: https://github.com/mailbackwards
+  github: mailbackwards
   name: Liam Andrew
   photo_url: https://avatars0.githubusercontent.com/u/1697151?v=4&s=400
   twitter: mailbackwards

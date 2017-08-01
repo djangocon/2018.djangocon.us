@@ -18,7 +18,7 @@ presenters:
     long and prosper".
   company: Director, Python Software Foundation & Software Engineer, Sprout Social
     & Organizer, PyLadies Chicago
-  github: https://github.com/lorenanicole
+  github: lorenanicole
   name: Lorena Mesa
   photo_url: https://avatars3.githubusercontent.com/u/4573607?v=4&s=400
   twitter: loooorenanicole

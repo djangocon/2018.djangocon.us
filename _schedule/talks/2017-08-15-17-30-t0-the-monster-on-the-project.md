@@ -16,7 +16,7 @@ presenters:
     at Intel. She is passionate about encouraging small children to take the plunge
     into STEM and about laughing at cats on the internet.
   company: Intel
-  github: https://github.com/WhataTiberius
+  github: WhataTiberius
   name: Tiberius Hefflin
   photo_url: https://pbs.twimg.com/profile_images/840695546302017536/NUvp4QqA_400x400.jpg
   twitter: WhataTiberius

@@ -18,7 +18,7 @@ presenters:
     public, giving talks on the history and ethics of technology, and camouflaging
     herself in libraries.
   company: ''
-  github: https://github.com/attacus
+  github: attacus
   name: Lilly Ryan
   photo_url: https://avatars3.githubusercontent.com/u/15101584?v=4&s=400
   twitter: attacus_au

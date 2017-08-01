@@ -23,7 +23,7 @@ presenters:
     knitting, cross-stitching, sewing, bullet journaling), reading fiction, binge
     watching TV, cooking, and traveling.'
   company: University of Texas at Austin, DjangoCon US
-  github: https://github.com/deatonjm
+  github: deatonjm
   name: Jessica Deaton
   photo_url: /static/img/organizers/deatz.jpg
   twitter: __deatz__

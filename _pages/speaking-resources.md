@@ -6,6 +6,7 @@ permalink: /speaking/speaker-resources/
 description: Resources to support DjangoCon 2017 speakers
 ---
 
+{% comment %}
 ##  Talks
 
 Length: (20-25 minutes) or (40-45 minutes)
@@ -22,8 +23,9 @@ Here are some examples of what has been accepted over the last couple of years:
 Length: ~3 - 3.5 hours
 
 We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level, just be sure to indicate clearly what you expect your students to already know or have experience with{% comment %}in your proposal{% endcomment %}.
+{% endcomment %}
 
-{% comment %}Still unsure if you should submit? {% endcomment %}Not only will we cover your DjangoCon US ticket, but tutorials are compensated.
+{% comment %}Still unsure if you should submit? Not only will we cover your DjangoCon US ticket, but tutorials are compensated.{% endcomment %}
 
 {% comment %}
 <div class="row">
@@ -32,6 +34,10 @@ We’re open to all kinds of ideas, especially ones we haven’t thought of! Tec
     </div>
 </div>
 {% endcomment %}
+
+## Information for Speakers 
+* The Speaker Green Room will be in Willow II on Sunday-Wednesday. Please be in the Green Room at least 10 minutes before your talk to meet your session runner, who will escort you to your presentation room.  
+* The Quiet Room will be in Willow I on all conference days. 
 
 ## Need some help with your {% comment %}proposal or {% endcomment %}talk?
 

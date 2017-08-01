@@ -15,9 +15,9 @@ presenters:
     programming and new ways to think about code. He currently lives in Chattanooga,
     TN with his partner and mischief-making doppelganger, Moon. '
   company: ''
-  github: ''
+  github: https://github.com/gignosko
   name: Derik Pell
-  photo_url: 'https://www.gravatar.com/avatar/6c7278528399aa4b5a13ba80add57800?s=400'
+  photo_url: https://avatars0.githubusercontent.com/u/6536109?v=4&s=400
   twitter: _gignosko_
   website: http://blog.gignosko.me
 room: 'Ballroom A'

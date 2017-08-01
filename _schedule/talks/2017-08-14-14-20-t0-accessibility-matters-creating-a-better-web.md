@@ -15,11 +15,11 @@ presenters:
     have a passion for accessibility across tech and life and love teaching others
     how to better improve the usability of their applications.
   company: PBS
-  github: ''
+  github: https://github.com/lmdragun
   name: Lindsey Dragun
-  photo_url: 'https://www.gravatar.com/avatar/2bbef107ee4252fa3299fda7c274bd30?s=400'
+  photo_url: https://pbs.twimg.com/profile_images/610549295956103170/t5ZJbgAC_400x400.png
   twitter: lmdragun
-  website: ''
+  website: http://dragun.tech/
 room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''

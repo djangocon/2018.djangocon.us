@@ -15,9 +15,9 @@ presenters:
     Simon joined Eventbrite through their acquisition of Lanyrd, a Y Combinator funded\
     \ company he co-founded in 2010. He is a co-creator of the Django Web Framework."
   company: Eventbrite
-  github: ''
+  github: https://github.com/simonw
   name: Simon Willison
-  photo_url: 'https://www.gravatar.com/avatar/5ea472afda25132732604f42f5256d79?s=400'
+  photo_url: https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_400x400.jpeg
   twitter: simonw
   website: http://lanyrd.com/profile/simonw/
 room: 'Ballrooms B and C'

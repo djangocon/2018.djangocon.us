@@ -23,9 +23,9 @@ presenters:
     knitting, cross-stitching, sewing, bullet journaling), reading fiction, binge
     watching TV, cooking, and traveling.'
   company: University of Texas at Austin, DjangoCon US
-  github: ''
+  github: https://github.com/deatonjm
   name: Jessica Deaton
-  photo_url: 'https://www.gravatar.com/avatar/d784ec87052c510aa63c59d2616fb186?s=400'
+  photo_url: /static/img/organizers/deatz.jpg
   twitter: __deatz__
   website: ''
 - bio: 'Megan is a Software Engineer at the University of Texas where she gets to use Python, django, ansible and other fun toys to support developer tools. She likes urban farming, writing terrible sci-fi and is an active hunter in the quest for the perfect brownie recipe.'

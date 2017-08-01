@@ -16,9 +16,9 @@ presenters:
     at Intel. She is passionate about encouraging small children to take the plunge
     into STEM and about laughing at cats on the internet.
   company: Intel
-  github: ''
+  github: https://github.com/WhataTiberius
   name: Tiberius Hefflin
-  photo_url: 'https://www.gravatar.com/avatar/12c5c1a413d22b9f94f999cc63d1d21f?s=400'
+  photo_url: https://pbs.twimg.com/profile_images/840695546302017536/NUvp4QqA_400x400.jpg
   twitter: WhataTiberius
   website: https://www.unroutable.me
 room: 'Ballrooms B and C'

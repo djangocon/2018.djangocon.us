@@ -17,7 +17,7 @@ presenters:
   company: Caktus Group
   github: ''
   name: Charlotte Mays
-  photo_url: 'https://www.gravatar.com/avatar/cbca17134a9e43d1162b8209bd2999d0?s=400'
+  photo_url: https://pbs.twimg.com/profile_images/621708174060601344/0A4cHLxa_400x400.jpg
   twitter: charlottecodes
   website: ''
 room: 'Ballroom A'

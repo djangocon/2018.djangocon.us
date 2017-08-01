@@ -12,17 +12,17 @@ layout: session-details
 permalink: /talks/the-coc-committee-is-here-for-you/
 presenters:
 - bio: |
-    Erik is the co-founder and CTO of a small Django development company in Amsterdam.
+    Sasha is the co-founder and CTO of a small Django development company in Amsterdam.
     They are deeply involved in the community around Django, a popular Python web
     framework, being a Django team member, chair of the Dutch Django Association and
-    co-organiser of various conferences. Erik cares about building communities and
+    co-organiser of various conferences. Sasha cares about building communities and
     conferences in which everyone feels welcome, valued and at home, regardless of
     their background. They have specific interest in well-being and ethical issues
     around communities and development. One of their side projects is the Less Obvious
     Conference Checklist, with many less obvious suggestions for event organisers.
   company: ''
   github: ''
-  name: Erik Romijn
+  name: Erik Sasha Romijn
   photo_url: 'https://www.gravatar.com/avatar/5b3dccd38a8e6d16fe11e29ee34ab8ab?s=400'
   twitter: erikpub
   website: http://erik.io

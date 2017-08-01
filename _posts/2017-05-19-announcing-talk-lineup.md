@@ -42,7 +42,7 @@ We’ll also announce the tutorial schedule in just a few days, and the conferen
  * Understanding JavaScript Libraries via React and the React Ecosystem (Andrew Pinkham)
  * Becoming a Polyglot: Lessons from Natural Language Learning (Rebekah E. Post)
  * The Shy Person's Guide to Tech Conferences (Ed Rivas)
- * The CoC Committee Is Here for You (Erik Romijn)
+ * The CoC Committee Is Here for You (Erik Sasha Romijn)
  * hunter2: A Symphony of Password Horror (Lilly Ryan)
  * Files in Django (Josh Schneier)
  * Programming Post-Progeny: A New Parent's Perspective (Jacinda Shelly)

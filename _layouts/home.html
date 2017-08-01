@@ -132,9 +132,9 @@ layout: base
 
   <div class="news row">
     {% for post in site.posts %}
-      {% unless post.hidden or post.category == 'talk' or post.category == 'tutorial' %}
+      {% unless post.hidden %}
       <article class="news-title medium-4 column">
-        <div class="card card-theme-orange">
+        <div class="card {% if post.category == "Sponsorship" %}card-theme-teal{% else %}card-theme-green{% endif %}">
           <div class="card-section">
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h3>

@@ -20,7 +20,7 @@ presenters:
   company: WSP
   github: ''
   name: Ken Whitesell
-  photo_url: 'https://www.gravatar.com/avatar/e6433d48b299aea363035401ac48cf5a?s=400'
+  photo_url: https://pbs.twimg.com/profile_images/1825623146/Self_400x400.jpg
   twitter: KenWhitesell
   website: ''
 room: Ballroom B

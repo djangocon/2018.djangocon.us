@@ -19,7 +19,7 @@ presenters:
   company: Decisio Health
   github: ''
   name: Kojo Idrissa
-  photo_url: 'https://www.gravatar.com/avatar/ecc07649d926fab6932727462e81f9fb?s=400'
+  photo_url: "/static/img/organizers/kojo.jpg"
   twitter: Transition
   website: http://kojoidrissa.com/
 room: 'Ballroom A'

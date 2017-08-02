@@ -14,6 +14,19 @@
             <h3 class="event-title">{{ post.title }}</h3>
             {{ post.content }}
           </span>
+          {% if post.presenters %}
+            {% for presenter in post.presenters %}
+            <p class="event-byline">
+              {% if presenter.photo_url != blank %}
+              <img
+                class="avatar"
+                src="{{ presenter.photo_url }}"
+                alt="Photo of {{ presenter.presenters }}" />
+              {% endif %}
+              {{ presenter.name }}
+            </p>
+            {% endfor %}
+          {% endif %}
         </li>
       </ul>
     </div>

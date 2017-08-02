@@ -14,9 +14,9 @@ presenters:
     \ founder and CTO of [Gun.io](https://gun.io) and the author of the [Zappa](https://blog.zappa.io)\
     \ framework.\r\n\r\nCome say hi!"
   company: Gun.io
-  github: ''
+  github: Miserlou
   name: Rich Jones
-  photo_url: 'https://www.gravatar.com/avatar/15af2265ce0e063bacc267c8536d5e20?s=400'
+  photo_url: https://avatars1.githubusercontent.com/u/139987?v=4&s=400
   twitter: GUNdotIO
   website: https://github.com/Miserlou
 room: 'Ballroom A'

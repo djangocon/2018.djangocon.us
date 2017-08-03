@@ -10,13 +10,14 @@ difficulty: Intermediate
 layout: session-details
 permalink: /tutorials/don-t-touch-that-dial-an-introduction-to-channels/
 presenters:
-- bio: "Ken Whitesell is a software developer with more than 35 years experience scattered\
-    \ among just about any platform you care to name. He has been working with Django\
-    \ for about 5 years now, mostly on very narrowly-targeted internal applications\
-    \ for the companies in which he has been employed. Ken is currently an Assistant\
-    \ Manager, Systems Development with WSP, in the GeoSpatial and Advanced Technology\
-    \ group, working on projects involving Vehicle Fleet Management and Traffic Control\
-    \ systems.\r\n"
+- bio: |
+    Ken Whitesell is a software developer with more than 35 years experience
+    scattered among just about any platform you care to name. He has been
+    working  with Django for about 5 years now, mostly on very narrowly-targeted
+    internal applications for the companies in which he has been employed.
+    Ken is currently an Assistant Manager, Systems Development with WSP,
+    in the GeoSpatial and Advanced Technology group, working on projects
+    involving Vehicle Fleet Management and Traffic Control systems.
   company: WSP
   github: ''
   name: Ken Whitesell

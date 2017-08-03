@@ -1,15 +1,10 @@
 ---
 layout: session-details
 category: talk
-permalink:
+permalink: /talks/board-game-night/
 accepted: true
-sitemap: false
-
+sitemap: true
 title: Board Game Night
-
-presenters:
-difficulty:
-
 date: 2017-08-15 19:00:00 -0500
 end_date: 2017-08-15 21:30:00 -0500
 room: full

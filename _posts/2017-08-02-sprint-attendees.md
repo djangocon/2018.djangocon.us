@@ -7,6 +7,8 @@ image: /static/img/blog/sprints.png
 title: "DjangoCon US Sprints: A New Attendee Guide"
 ---
 
+![]({{ page.image }})
+
 DjangoCon US 2017 is less than two weeks away. In addition to the [tutorials](https://2017.djangocon.us/tutorials/) and [talks](https://2017.djangocon.us/talks/), DjangoCon US has two days of [sprints](https://2017.djangocon.us/sprints/). If you've never sprinted before, here's a basic introduction.
 
 ## What are sprints?

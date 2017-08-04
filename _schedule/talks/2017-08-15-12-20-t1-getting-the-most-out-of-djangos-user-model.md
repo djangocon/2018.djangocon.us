@@ -1,8 +1,10 @@
 ---
-abstract: "Django\u2019s User model has many great fields for storing user data. But\
-  \ what if we need more?  There are different ways to add extra fields to your project\u2019\
-  s User model depending on your app's needs. This talk will cover different methods\
-  \ for how to customize the User model to your specific needs."
+abstract: |
+    Django's User model has many great fields for storing user data. But
+    what if we need more?  There are different ways to add extra fields
+    to your project's User model depending on your app's needs. This
+    talk will cover different methods for how to customize the User
+    model to your specific needs.
 accepted: true
 category: talk
 date: 2017-08-15 12:20:00 -0500
@@ -10,12 +12,13 @@ difficulty: Beginner
 layout: session-details
 permalink: /talks/getting-the-most-out-of-djangos-user-model/
 presenters:
-- bio: 'I''m a Software Engineer at the University of Texas at Austin. I make Django
-    apps, and I love Django. '
+- bio: |
+    I'm a Software Engineer at the University of Texas at Austin. I make
+    Django apps, and I love Django.
   company: The University of Texas at Austin
-  github: ''
+  github: https://avatars2.githubusercontent.com/u/10968474?v=4&s=400
   name: Julia M Looney
-  photo_url: 'https://www.gravatar.com/avatar/b9a883de5149c0cedc8d59492f497802?s=400'
+  photo_url: https://avatars2.githubusercontent.com/u/10968474?v=4&s=400
   twitter: ''
   website: ''
 room: 'Ballroom A'

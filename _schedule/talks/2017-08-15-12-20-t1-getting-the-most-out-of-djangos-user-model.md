@@ -16,7 +16,7 @@ presenters:
     I'm a Software Engineer at the University of Texas at Austin. I make
     Django apps, and I love Django.
   company: The University of Texas at Austin
-  github: https://avatars2.githubusercontent.com/u/10968474?v=4&s=400
+  github: jlooney
   name: Julia M Looney
   photo_url: https://avatars2.githubusercontent.com/u/10968474?v=4&s=400
   twitter: ''

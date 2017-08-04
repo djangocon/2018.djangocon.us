@@ -29,6 +29,6 @@ It's up to you. We don't know all the projects that are going to be having sprin
     +  If you're worried about being a complete coding novice, there's also documentation to contribute to. As a beginner, your views on documentation are especially valuable. If a **true** beginner can't get started with the beginner documentation, it needs to be fixed. But the only way to know that is to have a beginner look at it and help clarify it.
     +  Don't forget about other skills you may have. Some documentation needs to be translated into other languages. You may be able to help with that. Each project has unique needs that you may be able to address.
 -  I'm scared people will think I don't know what I'm doing.
-    +  Most of us are. But people who attend sprints are very happy to help new contributors, no matter their skill level. Remember, you're volunteering to **help them**. TSo, they want you to succeed. And if you're still too uncomfortable, remember, you can also work on your own projects or tutorials. You can also observe the sprints during Day 1, then jump in on Day 2.
+    +  Most of us are. But people who attend sprints are very happy to help new contributors, no matter their skill level. Remember, you're volunteering to **help them**. So, they want you to succeed. And if you're still too uncomfortable, remember, you can also work on your own projects or tutorials. You can also observe the sprints during Day 1, then jump in on Day 2.
 
 No matter how you choose to participate, we hope to see you at the sprints this year or in the future.

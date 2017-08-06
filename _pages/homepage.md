@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DjangoCon 2017 • Spokane, WA • August 13-18
+title: DjangoCon US 2017 • August 13-18, 2017 • Spokane, WA United States
 permalink: /
 description: |
     Six days of talks, sprints, and tutorials by the community for the community.

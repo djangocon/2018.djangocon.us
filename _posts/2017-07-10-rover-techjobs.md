@@ -95,7 +95,7 @@ my career!--but it’s also important to go into that eyes wide open.
 Rover, of course, is not in that position: we have world-class
 investors, are growing rapidly and have a bright future ahead.
 If you’re interested in working together, check our open positions
-at [http://rover.com/jobs](http://rover.com/jobs).
+at [https://rover.com/jobs](http://rover.com/jobs).
 
 *Scott Porad is the CTO at Rover.com, the nation’s largest online
 marketplace of 5-star pet sitters and dog walkers. Since 1995, Scott

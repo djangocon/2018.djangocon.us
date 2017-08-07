@@ -16,6 +16,6 @@ If you've ever thought about giving a talk at a conference, but you're nervous o
 
 If you proposed a talk for DjangoCon US 2017 and it wasn't accepted, consider condensing some of the key points into a :zap: Talk.
 
-:zap: Talks will be [Monday-Wednesday at 12:50pm](https://2017.djangocon.us/talks/) in Ballrooms B & C. Sign-ups will happen at the conference. We look forward to seeing your talks.
+:zap: Talks will be [Monday-Wednesday at 12:50 pm](https://2017.djangocon.us/talks/) in Ballrooms B & C. Sign-ups will happen at the conference. We look forward to seeing your talks.
 
 

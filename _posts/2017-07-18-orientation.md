@@ -7,6 +7,7 @@ image: /static/img/blog/orientation.png
 title: "Announcing Our Orientation Event"
 ---
 
+![]({{ page.image }})
 We're less than a month out from DjangoCon US 2017. For the second year in a row, we're pleased to have an Orientation event on the first day. But we promise it's not like those boring orientations you had to attend in school.
 
 ## What is *Orientation*?

@@ -3,7 +3,7 @@ author: Michael Trythall
 category: Website
 date: 2017-08-09 00:00:01
 layout: post
-title: "The New DjangoCon Website"
+title: "The New DjangoCon US Website"
 ---
 
 For the past three years [Lincoln Loop](https://lincolnloop.com/) has had the privilege of designing and building the DjangoCon US website in conjunction with the DjangoCon US volunteer team. Before us it was [Caktus Group](https://www.caktusgroup.com/), then [Eldarion](http://eldarion.com/), and so many others, including the versatile [Idan Gazit](http://gazit.me/), who shaped all of the early conference branding.

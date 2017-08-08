@@ -6,9 +6,9 @@ layout: post
 title: "The New DjangoCon Website"
 ---
 
-For the past three years [Lincoln Loop](http://lincolnloop.com/) has had the privilege of designing and building the DjangoCon US website in conjunction with the DjangoCon US volunteer team. Before us it was [Caktus Group](https://www.caktusgroup.com/), then [Eldarion](http://eldarion.com/), and so many others, including the versatile [Idan Gazit](http://gazit.me/), who shaped all of the early conference branding.
+For the past three years [Lincoln Loop](https://lincolnloop.com/) has had the privilege of designing and building the DjangoCon US website in conjunction with the DjangoCon US volunteer team. Before us it was [Caktus Group](https://www.caktusgroup.com/), then [Eldarion](http://eldarion.com/), and so many others, including the versatile [Idan Gazit](http://gazit.me/), who shaped all of the early conference branding.
 
-You can view previous versions of the website by putting the year as a subdomain into the URL. For example, last year's website is [2016.djangocon.us](http://2016.djangocon.us). You can go [pretty far back](https://2008.djangocon.us/), though things can get a little wonky!
+You can view previous versions of the website by putting the year as a subdomain into the URL. For example, last year's website is [2016.djangocon.us](https://2016.djangocon.us). You can go [pretty far back](https://2008.djangocon.us/), though things can get a little wonky!
 
 Designing and building the conference website is no small feat. For many of us, the DjangoCon US community has provided not only job opportunities but lasting friendships. This can make it hard to be objective. It *feels* like a passion project, except you measure everything by budget, sprints, and customer satisfaction instead of shipping pet features in your free time. And when the work means so much to you, even *kindly worded* negative critique from a community you love stings a little.
 

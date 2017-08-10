@@ -49,4 +49,7 @@ We'll need people at the registration desk to check people in to the conference 
 
 ## Sprint Mentors and Volunteers
 
-Sign up to help mentor or run errands at the sprints. For this volunteer opportunity, you just need to be willing to help newcomers to the sprints make their first commits!
+Sign up to help mentor or run errands at the sprints. For this volunteer opportunity we need two types of volunteers. Both types can help the sprint organizers focus on things that only they can do.
+
+-  **Mentors**: people willing to help newcomers to the sprints make their first commits. Remember: even if you've only recently made *your* first commit, you can still help someone else make *theirs*. You actually might be the BEST person to help a new contributor. We also need mentors to help slightly more experienced contributors make MORE commits.  
+-  **Volunteers**: people who'd like to help the sprints run smoothly. That can cover a lot of things like running errands, making signs, or helping people find the different sprint groups their looking for. If you'd LIKE to contribute to the sprints, but you're worried you're "not ready", this is an EXCELLENT way to help, while seeing a sprint up close. Who knows, maybe you'll make a contribution too!

@@ -38,7 +38,7 @@ For changes that require cloning/running the code locally, follow the instructio
 Clone your forked repo locally via the terminal, replacing the username in the URL with your own (note: not all operating systems will use a $ as a terminal prompt).
 
 ```bash
-$ https://github.com/your-username/2017.djangocon.us
+$ git clone https://github.com/your-username/2017.djangocon.us
 ```
 
 Change directory into the folder

@@ -2,8 +2,10 @@
 // it adds classes with JS, and those classes are used here.
 // Documentation here: http://wicky.nillia.ms/headroom.js/
 
+
+
 // title bar text overrides
-.menu a {
+.title-bar .menu a {
   text-decoration: none;
   color: $white;
 }

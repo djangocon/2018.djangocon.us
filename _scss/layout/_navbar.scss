@@ -2,10 +2,16 @@
 // it adds classes with JS, and those classes are used here.
 // Documentation here: http://wicky.nillia.ms/headroom.js/
 
+
+
 // title bar text overrides
-.menu  a {
-  color: $white;
+.title-bar .menu a {
   text-decoration: none;
+  color: $white;
+}
+
+.dropdown .menu li {
+  margin-bottom: 0;
 }
 
 // If you want to only have the transparent-at-top option on the homepage

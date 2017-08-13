@@ -5,11 +5,13 @@
 
 
 // title bar text overrides
+.off-canvas .menu a,
 .title-bar .menu a {
   text-decoration: none;
   color: $white;
 }
 
+.off-canvas .menu li,
 .dropdown .menu li {
   margin-bottom: 0;
 }

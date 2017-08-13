@@ -759,7 +759,7 @@ li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{mar
 @media print,screen and (min-width:55.625em){:target:before{margin-top:-110px;height:110px}
 }.button{text-decoration:none}.button+.button{margin-left:.5em}.button.secondary,.button.secondary:hover{color:#fefefe}
 .event-page h1{margin-bottom:.5rem}.off-canvas .menu a,.title-bar .menu a{text-decoration:none;color:#fefefe}
-.dropdown .menu li{margin-bottom:0}.headroom--top .menu .menu,.menu .menu{text-align:left}
+.off-canvas .menu li,.dropdown .menu li{margin-bottom:0}.headroom--top .menu .menu,.menu .menu{text-align:left}
 .headroom--top .menu .menu a,.menu .menu a{color:#fefefe}.headroom--top .menu .menu a:hover,.menu .menu a:hover{background:#d66315}
 .headroom--top .menu .navbar-button,.navbar-button{padding-top:.4rem;padding-bottom:.4rem;background:#d66315;color:#fefefe;text-align:center;line-height:1.1}
 .headroom--top .menu .navbar-button small,.navbar-button small{font-size:.76923rem}

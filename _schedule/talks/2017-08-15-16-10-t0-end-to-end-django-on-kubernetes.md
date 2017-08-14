@@ -1,5 +1,5 @@
 ---
-abstract: Considering running Django on Kubernetes, but not sure where to start?  This
+abstract: Considering running Django on Kubernetes, but not sure where to start? This
   talk will take you through the layers and configuration required so that you can
   easily deploy orchestrated Django in containers yourself.
 accepted: true
@@ -9,8 +9,17 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talks/end-to-end-django-on-kubernetes/
 presenters:
+
+- bio: Frank is the Founder of REVSYS and President of the Django Software Foundation
+  company: Revsys
+  github: ''
+  name: Frank Wiles
+  photo_url: 'https://avatars1.githubusercontent.com/u/144159?v=4&s=400'
+  twitter: fwiles
+  website: http://www.revsys.com/
+
 - bio: While Josh Berkus is well-known for his years of contributions to the PostgreSQL
-    database system, today he works on new container stacks at Red Hat's Project Atomic.  A
+    database system, today he works on new container stacks at Red Hat's Project Atomic. A
     part-time potter, Josh resides in Portland Oregon with a librarian and a startlingly
     large black cat.
   company: Red Hat
@@ -26,9 +35,9 @@ title: End-to-End Django on Kubernetes
 video_url: ''
 ---
 
-Not only is Kubernetes a great way to deploy Django and all of its dependencies, it's actually the easiest way!  Really!
+Not only is Kubernetes a great way to deploy Django and all of its dependencies, it's actually the easiest way! Really!
 
-Deploying multi-layer applications with multiple dependencies is exactly what Kubernetes is designed to do.  You can replace pages of Django and PostgreSQL configuration templates with a simple Kubernetes config, OpenShift template or Helm chart, and then stand up the entire stack for your application in a single command.  In this presentation, we will walk you through the setup required to deploy and scale Django, including:
+Deploying multi-layer applications with multiple dependencies is exactly what Kubernetes is designed to do. You can replace pages of Django and PostgreSQL configuration templates with a simple Kubernetes config, OpenShift template or Helm chart, and then stand up the entire stack for your application in a single command. In this presentation, we will walk you through the setup required to deploy and scale Django, including:
 
 * Replicated PostgreSQL with persistent storage and automated failover
 * Scalable Django application servers

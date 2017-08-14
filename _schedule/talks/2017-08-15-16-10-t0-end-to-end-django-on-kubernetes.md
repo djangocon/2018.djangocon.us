@@ -9,6 +9,15 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talks/end-to-end-django-on-kubernetes/
 presenters:
+
+- bio: Frank is the Founder of REVSYS and President of the Django Software Foundation
+  company: Revsys
+  github: ''
+  name: Frank Wiles
+  photo_url: 'https://avatars1.githubusercontent.com/u/144159?v=4&s=400'
+  twitter: fwiles
+  website: http://www.revsys.com/
+
 - bio: While Josh Berkus is well-known for his years of contributions to the PostgreSQL
     database system, today he works on new container stacks at Red Hat's Project Atomic. A
     part-time potter, Josh resides in Portland Oregon with a librarian and a startlingly

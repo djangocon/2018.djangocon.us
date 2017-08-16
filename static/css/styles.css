@@ -471,7 +471,7 @@ select[multiple]{height:auto;background-image:none}.is-invalid-input:not(:focus)
 .media-object-section>:last-child{margin-bottom:0}.media-object-section.middle{vertical-align:middle}
 .media-object-section.bottom{vertical-align:bottom}.menu{margin:0;list-style-type:none}
 .menu>li{display:table-cell;vertical-align:middle}[data-whatinput='mouse'] .menu>li{outline:0}
-.menu>li>a{display:block;padding:.7rem .7rem;line-height:1}.menu input,.menu select,.menu a,.menu button{margin-bottom:0}
+.menu>li>a{display:block;padding:.95rem .7rem;line-height:1}.menu input,.menu select,.menu a,.menu button{margin-bottom:0}
 .menu>li>a img,.menu>li>a i,.menu>li>a svg{vertical-align:middle}.menu>li>a img+span,.menu>li>a i+span,.menu>li>a svg+span{vertical-align:middle}
 .menu>li>a img,.menu>li>a i,.menu>li>a svg{margin-right:.25rem;display:inline-block}
 .menu>li,.menu.horizontal>li{display:table-cell}.menu.expanded{display:table;width:100%;table-layout:fixed}
@@ -487,9 +487,9 @@ select[multiple]{height:auto;background-image:none}.is-invalid-input:not(:focus)
 .menu.align-right::before,.menu.align-right::after{display:table;content:' '}
 .menu.align-right::after{clear:both}.menu.align-right>li{float:right}.menu.icon-top>li>a{text-align:center}
 .menu.icon-top>li>a img,.menu.icon-top>li>a i,.menu.icon-top>li>a svg{display:block;margin:0 auto .25rem}
-.menu.icon-top.vertical a>span{margin:auto}.menu.nested{margin-left:1rem}.menu .active>a{background:#0c4b33;color:#fefefe}
+.menu.icon-top.vertical a>span{margin:auto}.menu.nested{margin-left:0}.menu .active>a{background:#0c4b33;color:#fefefe}
 .menu.menu-bordered li{border:1px solid #e6e6e6}.menu.menu-bordered li:not(:first-child){border-top:0}
-.menu.menu-hover li:hover{background-color:#e6e6e6}.menu-text{padding-top:0;padding-bottom:0;padding:.7rem .7rem;font-weight:bold;line-height:1;color:inherit}
+.menu.menu-hover li:hover{background-color:#e6e6e6}.menu-text{padding-top:0;padding-bottom:0;padding:.95rem .7rem;font-weight:bold;line-height:1;color:inherit}
 .menu-centered{text-align:center}.menu-centered>.menu{display:inline-block;vertical-align:top}
 .no-js [data-responsive-menu] ul{display:none}.is-off-canvas-open{overflow:hidden}
 .js-off-canvas-overlay{position:absolute;top:0;left:0;width:100%;height:100%;transition:opacity .5s ease,visibility .5s ease;background:rgba(241,223,199,0.7);opacity:0;visibility:hidden;overflow:hidden}
@@ -761,14 +761,14 @@ li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{mar
 .event-page h1{margin-bottom:.5rem}.off-canvas .menu a,.title-bar .menu a{text-decoration:none;color:#fefefe}
 .off-canvas .menu li,.dropdown .menu li{margin-bottom:0}.headroom--top .menu .menu,.menu .menu{text-align:left}
 .headroom--top .menu .menu a,.menu .menu a{color:#fefefe}.headroom--top .menu .menu a:hover,.menu .menu a:hover{background:#d66315}
-.headroom--top .menu .navbar-button,.navbar-button{padding-top:.4rem;padding-bottom:.4rem;background:#d66315;color:#fefefe;text-align:center;line-height:1.1}
+.headroom--top .menu .navbar-button,.navbar-button{background:#d66315;text-align:center;color:#fefefe}
 .headroom--top .menu .navbar-button small,.navbar-button small{font-size:.76923rem}
 .headroom--top .menu .navbar-button:hover,.navbar-button:hover{background:#c15913}
-.logo{width:160px;display:block;margin:10px 0 -20px 10px;height:53px}.logo svg{max-width:100%;height:100%}
+.logo{display:block;margin:10px 0 -20px 10px;width:160px;height:53px}.logo svg{max-width:100%;height:100%}
 .logo .background-field{fill:#0c4b33}.logo .djangocon{fill:#f1dfc7}.logo .location{fill:#d66315}
 @media print,screen and (min-width:55.625em){.logo{margin:10px 0 -60px 10px;width:140px;height:auto}
 }@media print,screen and (min-width:64em){.logo{width:270px}}@media screen and (min-width:75em){.logo{width:300px}
-}.headroom{will-change:transform;transition:all 200ms ease;position:fixed;top:0;left:0;right:0;z-index:10}
+}.headroom{position:fixed;top:0;right:0;left:0;z-index:10;transition:all 200ms ease;will-change:transform}
 .headroom a,.headroom svg,.headroom path,.headroom polygon,.headroom rect,.headroom g{transition:all 400ms ease}
 @media screen and (max-width:32.6875em){.headroom--pinned{transform:translateY(0)}
 .headroom--unpinned{transform:translateY(-130%)}}.headroom--top{background-color:transparent}
@@ -781,7 +781,8 @@ li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{mar
 .headroom--top .menu li:not(.has-button):hover>a,.headroom--top .menu li:not(.has-button):hover>a:hover{color:#d66315}
 @media print,screen and (min-width:55.625em){.headroom--top .logo{width:140px}}@media print,screen and (min-width:64em){.headroom--top .logo{width:265px}
 }@media screen and (min-width:75em){.headroom--top .logo{width:360px}}.dropdown.menu>li.is-dropdown-submenu-parent>a{padding-right:1.1rem}
-.home-content{margin-top:-2px;padding-top:8%;position:relative;z-index:2;background-image:url(/static/img/bottom-trees.png);background-image:url(/static/img/bottom-trees.svg),linear-gradient(transparent,transparent);background-position:center top;background-repeat:no-repeat;background-size:101% auto}
+@media screen and (max-width:55.5625em){.is-dropdown-submenu-parent{position:static}
+.menu>li>a{padding:.7rem}}.home-content{margin-top:-2px;padding-top:8%;position:relative;z-index:2;background-image:url(/static/img/bottom-trees.png);background-image:url(/static/img/bottom-trees.svg),linear-gradient(transparent,transparent);background-position:center top;background-repeat:no-repeat;background-size:101% auto}
 .home-content>:last-child{padding-bottom:3rem}.subpage-content{padding-bottom:100px;margin-top:-4%;position:relative;z-index:2}
 .subpage-content .section-pad:first-child{padding-top:0}.subpage-header{position:relative;background:url(/static/img/subpage-masthead.png),linear-gradient(#beeaf3 50%,#beeaf3 50%,#f1dfc7 0);background-image:url(/static/img/subpage-masthead.svg),linear-gradient(#beeaf3 50%,#beeaf3 50%,#f1dfc7 0);background-position:bottom left;background-repeat:no-repeat;background-size:100% auto;text-align:center;padding:100px 0 17%}
 @media print,screen and (min-width:55.625em){.subpage-header{padding:160px 0 18%}

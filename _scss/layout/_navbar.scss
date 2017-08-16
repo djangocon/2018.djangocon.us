@@ -37,12 +37,9 @@
 
 .headroom--top .menu .navbar-button,
 .navbar-button {
-  padding-top: .4rem;
-  padding-bottom: .4rem;
   background: $orange;
-  color: $white;
   text-align: center;
-  line-height: 1.1;
+  color: $white;
 
   small {
     font-size: rem-calc(16);
@@ -54,9 +51,9 @@
 }
 
 .logo {
-  width: 160px;
   display: block;
   margin: 10px 0 -20px 10px;
+  width: 160px;
   height: 53px; // for IE
 
   svg {
@@ -99,13 +96,13 @@
 
 // change appearance on scroll.
 .headroom {
-  will-change: transform;
-  transition: all 200ms ease;
   position: fixed;
   top: 0;
-  left: 0;
   right: 0;
+  left: 0;
   z-index: 10;
+  transition: all 200ms ease;
+  will-change: transform;
 
   a,
   svg,
@@ -135,15 +132,15 @@
     width: 160px;
     height: auto;
 
-    .background-field{
+    .background-field {
       fill: transparent;
     }
 
-    .djangocon{
+    .djangocon {
       fill: $green;
     }
 
-    .location{
+    .location {
       fill: $orange;
     }
   }
@@ -212,4 +209,14 @@
 // tightening drop-down arrows on navigaiton parent elements
 .dropdown.menu > li.is-dropdown-submenu-parent > a {
   padding-right: 1.1rem;
+}
+
+@include breakpoint(smedium down) {
+  .is-dropdown-submenu-parent {
+    position: static; // fixing drilldown
+  }
+
+  .menu>li>a {
+    padding: .7rem;
+  }
 }

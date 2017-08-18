@@ -20,7 +20,7 @@ presenters:
   website: https://www.vinta.com.br/
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://www.vinta.com.br/blog/2017/talks-around-globe-djangoconau-pybay-djangoconus/'
 title: Preventing headaches with linters and automated checks
 video_url: ''
 ---

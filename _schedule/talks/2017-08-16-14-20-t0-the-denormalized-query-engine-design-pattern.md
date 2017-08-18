@@ -22,7 +22,7 @@ presenters:
   website: http://lanyrd.com/profile/simonw/
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/simon/the-denormalized-query-engine-design-pattern'
 title: The denormalized query engine design pattern
 video_url: ''
 ---

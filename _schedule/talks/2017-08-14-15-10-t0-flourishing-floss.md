@@ -26,7 +26,7 @@ presenters:
   website: http://anna-oz.tumblr.com
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/ossanna16/flourishing-floss-making-your-project-successful'
 title: 'Flourishing FLOSS: Making Your Project Successful'
 video_url: ''
 ---

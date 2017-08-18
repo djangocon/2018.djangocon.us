@@ -21,7 +21,7 @@ presenters:
   website: http://phildini.net/
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://www.wordfugue.com/talks/type-uwsgi-press-enter-what-happens/'
 title: Type UWSGI; Press Enter; What Happens?
 video_url: ''
 ---

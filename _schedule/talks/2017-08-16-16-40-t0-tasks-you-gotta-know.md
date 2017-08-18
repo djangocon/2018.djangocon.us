@@ -28,7 +28,7 @@ presenters:
   website: https://www.vinta.com.br/blog/author/filipeximenes/
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/filipeximenes/tasks-you-gotta-know-how-to-run-em'
 title: 'Tasks: you gotta know how to run ''em, you gotta know how to safe'' em'
 video_url: ''
 ---

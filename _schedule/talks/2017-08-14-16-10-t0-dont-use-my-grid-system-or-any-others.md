@@ -24,7 +24,7 @@ presenters:
   website: http://oddbird.net
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://oddbooksapp.com/book/djangocon-layout'
 title: Don't Use My Grid System (or any others)
 video_url: ''
 ---

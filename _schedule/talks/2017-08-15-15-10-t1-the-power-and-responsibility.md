@@ -25,7 +25,7 @@ presenters:
   website: http://glasnt.com
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'http://glasnt.com/talks/2017_08_DjangoConUS/#/'
 title: "The Power :zap: and Responsibility :sweat: of Unicode Adoption :sparkles:"
 video_url: ''
 ---

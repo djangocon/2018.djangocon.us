@@ -26,7 +26,7 @@ presenters:
   website: http://www.brianalmorgan.com
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/brianalmorgan/why-cant-everyone-just-do-what-i-want-them-to-leadership-management-and-working-with-people-who-dont-think-like-you'
 title: Why can't everyone just do what I want them to? Leadership, management, and
   working with people who don't think like you
 video_url: ''

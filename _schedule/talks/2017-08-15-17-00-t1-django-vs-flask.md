@@ -23,7 +23,7 @@ presenters:
   website: https://www.davidbaumgold.com/
 room: 'Ballroom A'
 sitemap: true
-slides_url: 'https://t.co/NiTcld5VGV'
+slides_url: 'https://archive.org/details/djangocon-us-2017-django-vs-flask'
 title: Django vs Flask
 video_url: ''
 ---

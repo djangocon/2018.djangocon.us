@@ -17,7 +17,8 @@ task :test do
     ],
     :only_4xx => true,
     :url_ignore => [
-        /pgexperts.com/
+        /pgexperts.com/,
+        /aaspokane.org/
     ]
   }
   HTMLProofer.check_directory("./_site", options).run

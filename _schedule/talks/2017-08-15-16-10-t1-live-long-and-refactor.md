@@ -26,7 +26,7 @@ presenters:
   website: http://www.github.com/sanajaved7
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://github.com/sanajaved7/live-long-and-refactor/blob/master/Live%20Long%20and%20Refactor%20-%20DjangoCon%202017.pdf'
 title: "Live Long and Refactor :vulcan_salute:"
 video_url: ''
 ---

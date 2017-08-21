@@ -23,7 +23,7 @@ presenters:
   website: ''
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://drive.google.com/file/d/0BzKcUOrSOL4iSnF1SHp1NzdYV0U/view'
 title: "Getting the most out of Django\u2019s User Model"
 video_url: ''
 ---

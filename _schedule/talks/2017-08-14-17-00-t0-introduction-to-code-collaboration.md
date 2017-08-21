@@ -23,7 +23,7 @@ presenters:
   website: http://katherinemichel.github.io/
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017/blob/master/README.md'
 title: Get a Jumpstart on Collaboration and Code Review in GitHub
 video_url: ''
 ---

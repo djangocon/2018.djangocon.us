@@ -24,7 +24,7 @@ presenters:
   website: https://code.org
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://docs.google.com/presentation/d/1M_oISPmhuuSPwcBDBD2vDp8YF6E7AnRz2AS_-S0HoR4/edit#slide=id.g1e4b1e39f3_0_0'
 title: 'Going Rogue: How Code.org Created a Curriculum Development Platform Without
   their Engineers'
 video_url: ''

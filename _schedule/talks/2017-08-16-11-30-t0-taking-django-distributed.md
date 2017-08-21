@@ -24,7 +24,7 @@ presenters:
   website: http://www.aeracode.org
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/andrewgodwin/taking-django-distributed'
 title: Taking Django Distributed
 video_url: ''
 ---

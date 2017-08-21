@@ -25,7 +25,7 @@ presenters:
   website: http://www.lorenamesa.com
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://docs.google.com/presentation/d/1LTuUq3aX5iYkVvB6ds31KZkjSzKJgLrdKudDw1GlnKY/edit'
 title: Using Django, Docker, and Scikit-learn to Bootstrap Your Machine Learning Project
 video_url: ''
 ---

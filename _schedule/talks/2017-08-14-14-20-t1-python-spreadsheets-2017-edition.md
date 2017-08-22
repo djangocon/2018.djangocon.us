@@ -24,7 +24,7 @@ presenters:
   website: http://kojoidrissa.com/
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://github.com/kojoidrissa/djangocon_2017'
 title: 'Python & Spreadsheets: 2017 Edition'
 video_url: ''
 ---

@@ -29,7 +29,7 @@ presenters:
   website: ''
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://docs.google.com/presentation/d/1emfP-RDX8CndOZnI4W46m88-Ygg890PIgRpgx93Hjus/edit'
 title: 'Becoming a Polyglot: Lessons from Natural Language Learning'
 video_url: ''
 ---

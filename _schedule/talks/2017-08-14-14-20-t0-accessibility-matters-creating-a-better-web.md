@@ -22,7 +22,7 @@ presenters:
   website: http://dragun.tech/
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'http://dragun.tech/djangocon.html'
 title: 'Accessibility Matters: Creating a Better Web'
 video_url: ''
 ---

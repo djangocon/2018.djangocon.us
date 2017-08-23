@@ -26,7 +26,7 @@ presenters:
   website: http://www.KimCrayton.com/
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://prezi.com/onpml8d870va/overcoming-the-challenges-of-mentoring-updated'
 title: "Overcoming the Challenges of Mentoring"
 video_url: ''
 ---

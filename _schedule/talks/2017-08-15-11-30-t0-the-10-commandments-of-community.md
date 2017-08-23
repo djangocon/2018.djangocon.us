@@ -30,7 +30,7 @@ presenters:
   website: ''
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'https://tehfedaykin.github.io/10CommandmentsofCommunityOrganizing/#/title'
 title: The 10 Commandments of Community Organizing
 video_url: ''
 ---

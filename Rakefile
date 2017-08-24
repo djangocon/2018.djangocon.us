@@ -18,7 +18,8 @@ task :test do
     :only_4xx => true,
     :url_ignore => [
         /pgexperts.com/,
-        /aaspokane.org/
+        /aaspokane.org/,
+        /speakerdeck.com/  # Remove after https://speakerdeck.com/andrewgodwin/ is fixed
     ]
   }
   HTMLProofer.check_directory("./_site", options).run

@@ -26,7 +26,7 @@ presenters:
   website: ''
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://github.com/ariannedee/graphql-django-presentation'
 title: GraphQL in the wild
 video_url: ''
 ---

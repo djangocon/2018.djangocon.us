@@ -30,7 +30,7 @@ presenters:
   website: http://jberkus.github.io/
 room: 'Ballrooms B and C'
 sitemap: true
-slides_url: ''
+slides_url: 'http://www.revsys.com/talks/2017/django-on-kubernetes/'
 title: End-to-End Django on Kubernetes
 video_url: ''
 ---

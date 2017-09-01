@@ -21,7 +21,7 @@ presenters:
   website: https://github.com/Miserlou
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://cdn.rawgit.com/Miserlou/Talks/8f7cd4b7/zappa-djangocon-2017/djangocon.html#0'
 title: Serverless Django
 video_url: ''
 ---

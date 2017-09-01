@@ -35,7 +35,7 @@ For now, we're keeping track of the percentages internally and will discuss how 
 
 We’re adding links to slide decks to our [talk pages](https://2017.djangocon.us/talks/) as we receive them. Speakers, please [tweet](https://twitter.com/djangocon) yours to us, [email us](mailto:hello@djangocon.us) a link, or [submit a PR](https://github.com/djangocon/2017.djangocon.us/tree/master/_schedule/talks) to add them yourself (update `slides_url`)!
 
-The A/V team is working on the videos, and they will start going up on our [YouTube page](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T) September 1. Our photographer is editing the photos (there were over 3,500 to go through!), and they should be ready September 1 as well. We’ll let you know on Twitter when we have links!
+The A/V team is working on the videos, and they will start going up on our [YouTube page](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T) September 8. Our photographer is editing the photos (there were over 3,500 to go through!), and they should be ready September 8 as well. We’ll let you know on Twitter when we have links!
 
 ## 2018 and Beyond!
 

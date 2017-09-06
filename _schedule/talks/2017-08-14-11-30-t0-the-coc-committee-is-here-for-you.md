@@ -30,7 +30,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 title: The CoC committee is here for you
-video_url: ''
+video_url: 'https://youtu.be/6i5xmERxVDk'
 ---
 
 Since a community-wide Code of Conduct was adopted in 2013, the Django Software Foundation has had a Code of Conduct committee. The committee deals with CoC violations on e.g. mailing lists, aggregates reports from conferences, can check speaker lists against CoC reports and provide general advice and support. Django events tend to have their own CoC with their own CoC team.

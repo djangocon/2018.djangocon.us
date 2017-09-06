@@ -39,7 +39,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://docs.google.com/presentation/d/1px6z2WDUVav8Dx-omRXbICttjq9XF1H5EYTg-E41lzI/edit#slide=id.p'
 title: Maybe Not the Programmers They Deserved, but the Programmers They Needed
-video_url: ''
+video_url: 'https://youtu.be/MGobECNDsnw'
 ---
 
 ### Introduction: We read to know we are not alone

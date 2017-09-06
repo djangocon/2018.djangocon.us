@@ -25,7 +25,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://archive.org/details/djangocon-us-2017-django-vs-flask'
 title: Django vs Flask
-video_url: ''
+video_url: 'https://youtu.be/UY2JMZjQspY'
 ---
 
 When it comes to web development in Python, Django isn't the only game in town. Flask is a scrappy young framework that takes a very different approach -- whereas Django ships with tons of features ready and eager to be used, Flask provides a bare minimum feature-set with rock-solid extensibility and incredible flexibility. This talk, given by a web developer who has experience with both frameworks, takes a good look at the pros and cons for both Flask and Django. If you've ever felt that Django is too hard to learn, or too inflexible, this is the talk for you!

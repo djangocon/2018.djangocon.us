@@ -29,7 +29,7 @@ sitemap: true
 slides_url: 'https://speakerdeck.com/brianalmorgan/why-cant-everyone-just-do-what-i-want-them-to-leadership-management-and-working-with-people-who-dont-think-like-you'
 title: Why can't everyone just do what I want them to? Leadership, management, and
   working with people who don't think like you
-video_url: ''
+video_url: 'https://youtu.be/QLDc4PlxGiI'
 ---
 
 Do you pride yourself on your post-it and Sharpie collection? Do you set appointments for yourself in your own calendar - that you actually show up for? Do you write to-do lists on your hand, since you'll forget if the to-do isn't right in front of your face? Do you own - and use - a label maker? Do you hate New Year's resolutions because the whole idea of starting new habits on January 1 is an artificial construct?

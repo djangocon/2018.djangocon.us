@@ -32,7 +32,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'http://www.revsys.com/talks/2017/django-on-kubernetes/'
 title: End-to-End Django on Kubernetes
-video_url: ''
+video_url: 'https://youtu.be/4LpaxvKsSlo'
 ---
 
 Not only is Kubernetes a great way to deploy Django and all of its dependencies, it's actually the easiest way! Really!

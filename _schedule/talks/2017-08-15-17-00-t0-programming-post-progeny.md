@@ -27,7 +27,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 title: 'Programming Post-Progeny: A New Parent''s Perspective'
-video_url: ''
+video_url: 'https://youtu.be/mvFBUqlSNIo'
 ---
 
 When my daughter appeared on the scene in October 2017, my life was turned upside down.

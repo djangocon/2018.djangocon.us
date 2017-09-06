@@ -23,7 +23,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://cdn.rawgit.com/Miserlou/Talks/8f7cd4b7/zappa-djangocon-2017/djangocon.html#0'
 title: Serverless Django
-video_url: ''
+video_url: 'https://youtu.be/ixRZfVBn_A8'
 ---
 
 You've probably heard the buzzword by now - "serverless". It's a new type of application architecture where traditional web servers are replaced by ephemeral cloud services. But what does it mean for the average Django user? Hint: lower costs, more scalability, more capabilities and less ops tasks to worry about!

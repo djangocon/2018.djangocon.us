@@ -25,7 +25,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://drive.google.com/file/d/0BzKcUOrSOL4iSnF1SHp1NzdYV0U/view'
 title: "Getting the most out of Django\u2019s User Model"
-video_url: ''
+video_url: 'https://youtu.be/uLPZYuj7yTg'
 ---
 
 Django’s User model is nice, but the fields it provides out of the box are minimal. We frequently need to associate our own custom data with a user, and luckily Django provides ways for us to add to its built-in User model. This talk will help novice Django developers understand which options are best when it comes to getting the most out of the Django User model.

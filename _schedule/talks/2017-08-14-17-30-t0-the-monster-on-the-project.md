@@ -25,7 +25,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 title: The Monster on the Project
-video_url: ''
+video_url: 'https://youtu.be/ym1S0sfHzpI'
 ---
 
 Abusive behavior can have profound effects on personal relationships but it can also make open source contributing and office life miserable. For those stuck in a team with co workers who exhibit toxic behavior, going to work every day can feel like going to a battlefield. Knowing how to identify and how to respond to unreasonable behavior is vital. In this talk we will look at the ways we can improve our office and FOSS communities by recognizing, managing and gracefully removing this toxic behavior.

@@ -26,7 +26,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://github.com/kojoidrissa/djangocon_2017'
 title: 'Python & Spreadsheets: 2017 Edition'
-video_url: ''
+video_url: 'https://youtu.be/ewYminvBly8'
 ---
 
 Spreadsheets are OFTEN terrible. They're also everywhere! As one of the default forms of data exchange, learning to work with spreadsheets directly via Python can save time and effort. We'll look at [Openpyxl](https://openpyxl.readthedocs.io/en/default/), a library that lets you do just that. We'll look at at least two different (beginner-friendly)example cases: transforming one spreadsheet into another spreadsheet and converting a spreadsheet into JSON. I'll also use my experience as a former accountant to highlight some of the issues around reading from and writing to a spreadsheet file and how you might deal with them. You MAY even learn to make new friends and grow the Python community! True Story!

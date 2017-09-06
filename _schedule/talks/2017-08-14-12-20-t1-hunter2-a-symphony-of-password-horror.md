@@ -27,7 +27,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 title: 'hunter2: A Symphony of Password Horror'
-video_url: ''
+video_url: 'https://youtu.be/QLuMLoD4jzY'
 ---
 
 The year is 2017. We have hoverboards, jetpacks, solar-powered cars, and also so many awful passwords that it's become trivial for pretty much anyone to have their accounts compromised. We've got passwords for our passwords. Eight-year-olds with a dictionary and a set of dice can generate mathematically stronger passwords than most corporations that have your credit card details. We spend our days wandering through endless forests of requirements to come up with something that contains no more than twelve letters, a special character, the eye of a newt, and at least one uppercase letter, only to be emailed it back in plaintext if you forget it. And then it goes on a Post-It note on a monitor.

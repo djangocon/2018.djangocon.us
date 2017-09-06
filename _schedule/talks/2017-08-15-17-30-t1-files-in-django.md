@@ -21,7 +21,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 title: Files in Django
-video_url: ''
+video_url: 'https://youtu.be/RfTNBLiWjMI'
 ---
 
 One of the most confusing parts of Django for newcomers (and some old hands alike!) is the handling of files. Among the 10+ settings, static vs user uploaded distinction, and plethora of deployment options it's no wonder that many people end up cargo-culting their production settings.

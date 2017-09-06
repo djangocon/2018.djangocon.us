@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 title: 'Saved you a click (or three): Supercharging the Django admin with actions
   and views'
-video_url: ''
+video_url: 'https://youtu.be/puTOzuSxou4'
 ---
 
 The goal of this talk is to "save you a click": while this is a pejorative phrase in The Texas Tribune's newsroom, we love saving our reporters and editors clicks in the Django admin when they're filing a breaking story. We've combined several helpful Django features, libraries, patterns and customizations -- ranging from the obvious to the advanced -- to supercharge our admin, allowing for live previews, shortcuts, and dynamic updates. Taken together, these tools suggest a framework for developing new admin features quickly and maintainably.

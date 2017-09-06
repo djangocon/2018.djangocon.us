@@ -32,7 +32,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://tehfedaykin.github.io/10CommandmentsofCommunityOrganizing/#/title'
 title: The 10 Commandments of Community Organizing
-video_url: ''
+video_url: 'https://youtu.be/X-fTO-GNXdM'
 ---
 
 Welcome to the advanced class on community organizing. You’ve got a decent amount of members in your Meetup.com group, you hold events fairly routinely, maybe you’ve pulled in some legit speakers at your last conference or event ... and you want to do more. This talk will focus on community organizing for growth and longevity by building out teams, improving communications, implementing processes, and most importantly will discuss how to maintain sanity in your work-life-volunteer balance. If you’ve ever had to answer the question “Oh, this ISN’T your full time job???” - this talk is definitely for you. If you’re just starting out organizing and don’t want to fall flat on your face, this talk will be very pragmatic for you.

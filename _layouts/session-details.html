@@ -50,6 +50,12 @@ layout: base
           {% endif %}
       </section>
       {% endif %}
+
+      {% if page.video_url != blank %}
+        {% assign youtube_id = page.video_url | replace:"https://youtu.be/",""%}
+        {% include youtube-embed.html id=youtube_id %}
+      {% endif %}
+
       <h2>About This {{ page.category | capitalize }}</h2>
       {{ content }}
     </div>

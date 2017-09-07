@@ -30,7 +30,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://speakerdeck.com/filipeximenes/tasks-you-gotta-know-how-to-run-em'
 title: 'Tasks: you gotta know how to run ''em, you gotta know how to safe'' em'
-video_url: ''
+video_url: 'https://youtu.be/XjzyOyLbvN8'
 ---
 
 Web developers often find themselves in situations where server processing takes longer than a user would accept. One very common situation is when sending emails. Although simple and relatively quick task, it requires the communication with an external service. In this situation, it’s not possible to foresee how long that service will take to answer. Not to mention the many unexpected situations that can arise, such as errors and bugs. The solution to this problem is to delegate long lasting tasks while responding quickly to the user. This is the point where we need async tasks. There are some tools available that can assist in this job. In this talk, you will learn about the concepts, caveats and best practices for when developing async tasks. For this, I will use Python's most popular tool for the task: Celery.

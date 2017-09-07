@@ -31,7 +31,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://docs.google.com/presentation/d/1emfP-RDX8CndOZnI4W46m88-Ygg890PIgRpgx93Hjus/edit'
 title: 'Becoming a Polyglot: Lessons from Natural Language Learning'
-video_url: ''
+video_url: 'https://youtu.be/7qx8aBaLGoM'
 ---
 
 As a trained linguist and former university language instructor, people often assume that my natural language* (spoken, signed, or written) learning analysis background made learning to code easier for me. They might say something like "That makes sense, they're languages, right? They have syntax." These casual comments seem true on the surface when talking about parts of speech and variable types. But once you dig deeper, it becomes clear that there are far more differences than similarities between these types of languages despite the shared name. However, many skills and methods I have utilized in learning languages and teaching languages as an adult to adults have served me well as a developer.

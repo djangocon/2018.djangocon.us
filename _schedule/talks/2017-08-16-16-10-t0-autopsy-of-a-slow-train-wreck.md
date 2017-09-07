@@ -29,7 +29,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 title: 'Autopsy of a slow train wreck: The life and death of a Django startup'
-video_url: ''
+video_url: 'https://youtu.be/2Rhd6z3GxVc'
 ---
 
 Everyone knows the story: armed with nothing more than a laptop and a dream, a couple of plucky geeks decide to take on the world: disrupting, innovating, and subverting their way to success. In just a few short months, they take a ramshackle collection of software and turn it into a money-printing factory that enables them to drive off into the sunset in gold-plated Lamborghinis.

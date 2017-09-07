@@ -51,7 +51,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 title: Practical Unit Testing in Django
-video_url: ''
+video_url: 'https://youtu.be/Ue-a20-tKPI'
 ---
 
 This talk is an opportunity for you to explore practical ways of improving the test code you write. Unit testing can be challenging, but with the right toolbox of techniques, it is much easier to write unit tests that not only enable high degrees of code coverage, but assurance on each action of your code.

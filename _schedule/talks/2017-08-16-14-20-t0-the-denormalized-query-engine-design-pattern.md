@@ -24,7 +24,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://speakerdeck.com/simon/the-denormalized-query-engine-design-pattern'
 title: The denormalized query engine design pattern
-video_url: ''
+video_url: 'https://youtu.be/NzcvewgqYog'
 ---
 
 Most web applications need to offer search functionality. Open source tools like Solr and Elasticsearch are a powerful option for building custom search engines... but it turns out they can be used for way more than just search.

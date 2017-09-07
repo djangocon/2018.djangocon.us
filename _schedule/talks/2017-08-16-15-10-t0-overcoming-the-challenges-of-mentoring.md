@@ -28,7 +28,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://prezi.com/onpml8d870va/overcoming-the-challenges-of-mentoring-updated'
 title: "Overcoming the Challenges of Mentoring"
-video_url: ''
+video_url: 'https://youtu.be/O6zPRGWR04g'
 ---
 
 ​There is an ongoing mantra within the developer community: that there are far more jobs available then programmers to fill them. Which should be an indication as to the wonderful potential for both business and those learning to code. Yet what often follows such statements are not words of joy but rather a list of frustrations related to the difficulty in finding and retaining enough skilled developers to fill these positions.

@@ -22,7 +22,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://www.vinta.com.br/blog/2017/talks-around-globe-djangoconau-pybay-djangoconus/'
 title: Preventing headaches with linters and automated checks
-video_url: ''
+video_url: 'https://youtu.be/IMRHFlDxaqU'
 ---
 
 While it's very common to enforce PEP8 code style with tools like flake8, it's rare for Django projects to use any other types of tools for automated checks. However, linters and automated checks are a good way to enforce code quality beyond code style. Human-based code reviews are great, but if an experienced programmer leaves the organization, all quality-related knowledge they have will be gone. One way to prevent this is to make developers consolidate their knowledge as custom check tools. Instead of repeating to every junior programmer how they should code, experienced developers should write tools to do that for them. Having this kind of "executable knowledge" is great to ensure long-lasting good practices in organizations.

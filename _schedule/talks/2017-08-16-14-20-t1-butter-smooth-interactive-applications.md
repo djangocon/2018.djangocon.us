@@ -29,7 +29,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 title: Butter smooth, interactive applications with Django and Websockets
-video_url: ''
+video_url: 'https://youtu.be/BRCx6lSA0fM'
 ---
 
 Web applications have changed significantly over the years – from simple static pages, to sprinkling interactiveness with JQuery/AJAX, to full dynamic single page apps. Through each evolution, we’re adding more complexity, more data and more asynchronous behavior to our applications.

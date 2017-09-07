@@ -25,7 +25,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 title: The Beauty of ViewSets in Django Rest Framework
-video_url: ''
+video_url: 'https://youtu.be/8yRvl4i6CNE'
 ---
 
 ViewSets will make your code shorter, more robust, and save you time during your development, if you let them. I have spent a lot of time dealing with writing view code, and dealing with all the urls, only to finally learn ViewSets. It immediately saved development time as well as making my code more simple.

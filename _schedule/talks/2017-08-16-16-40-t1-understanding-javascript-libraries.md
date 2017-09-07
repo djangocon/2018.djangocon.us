@@ -28,7 +28,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://speakerdeck.com/jambonrose/understanding-javascript-libraries-via-react-and-the-react-ecosystem'
 title: Understanding JavaScript Libraries via React and the React Ecosystem
-video_url: ''
+video_url: 'https://youtu.be/g8d6UbVCuuw'
 ---
 
 After an initial foray into JavaScript in 2011, I actively avoided learning or using JavaScript. Then, in early 2017, JamBon Software took on a project to build a bleeding-edge JavaScript web app in Facebook's React. Suddenly, I did not have a choice and had to learn JavaScript---versions 5 and 6---as well as Facebook's React library with the entire JavaScript and React ecosystems behind it.

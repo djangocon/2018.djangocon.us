@@ -26,7 +26,7 @@ presenters:
   website: http://jambonsw.com
 room: 'Ballroom A'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/jambonrose/understanding-javascript-libraries-via-react-and-the-react-ecosystem'
 title: Understanding JavaScript Libraries via React and the React Ecosystem
 video_url: ''
 ---

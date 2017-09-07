@@ -25,7 +25,7 @@ sitemap: true
 slides_url: ''
 title: Write an API for Almost Anything (or The Amazing Power and Flexibility of Django
   Rest Framework)
-video_url: ''
+video_url: 'https://youtu.be/-6tR5TffP0w'
 ---
 
 This talk will feature a few off-the-beaten-path applications of APIs. Since the combination of Django and DRF makes it so easy to get a simple API running, it becomes a very powerful, flexible, and expandable tool for a variety of uses. The only thing these applications may have in common is their need to share data across the web.

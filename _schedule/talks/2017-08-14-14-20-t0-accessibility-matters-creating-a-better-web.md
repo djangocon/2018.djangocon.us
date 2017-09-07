@@ -24,7 +24,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'http://dragun.tech/djangocon.html'
 title: 'Accessibility Matters: Creating a Better Web'
-video_url: ''
+video_url: 'https://youtu.be/alE3hWLHhNY'
 ---
 
 ### Overview

@@ -28,7 +28,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://github.com/sanajaved7/live-long-and-refactor/blob/master/Live%20Long%20and%20Refactor%20-%20DjangoCon%202017.pdf'
 title: "Live Long and Refactor :vulcan_salute:"
-video_url: ''
+video_url: 'https://youtu.be/PPe4Gps8Wzk'
 ---
 
 Refactoring major components of a live application with many users can be daunting. The stakes are even higher when the users are paying for your product. This talk covers how to approach building and incrementally deploying a complex refactor. Using a case study, I will walk through what makes major refactors so challenging, what you should avoid, and what can make them easier in the future.

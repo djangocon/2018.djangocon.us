@@ -30,7 +30,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: ''
 title: Stumbling Through Django and How Not To
-video_url: ''
+video_url: 'https://youtu.be/QnJx95MpWMg'
 ---
 
 If you’re a beginner about to embark on a new Django project adventure, this talk is for you.

@@ -26,7 +26,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://oddbooksapp.com/book/djangocon-layout'
 title: Don't Use My Grid System (or any others)
-video_url: ''
+video_url: 'https://youtu.be/mDRfFEcj3-Q'
 ---
 
 I built Susy, a Sass grid system that can generate any grid technique you like — but I haven't used it in years. I'll show you how various grid systems work, and how to avoid using them. For those few cases where a grid really is required, we'll talk about the best ways to roll your own, so you're not relying on a bloated library to make decisions for you. We'll also look at the new layout toys, from flexbox to CSS Grid, and how to get started with only a few lines of code.

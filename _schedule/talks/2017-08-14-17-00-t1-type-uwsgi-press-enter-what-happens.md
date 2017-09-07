@@ -23,7 +23,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'https://www.wordfugue.com/talks/type-uwsgi-press-enter-what-happens/'
 title: Type UWSGI; Press Enter; What Happens?
-video_url: ''
+video_url: 'https://youtu.be/YoUZIzPGKT8'
 ---
 
 This talk is aiming right at professional or experienced amateur Django developers who want to learn about one of the core technologies used in modern web apps. We'll do our best to make it accessible for all, but it's going to be best to come in with working knowledge of web applications and a rough understanding of web servers.

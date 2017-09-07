@@ -27,7 +27,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://docs.google.com/presentation/d/1LTuUq3aX5iYkVvB6ds31KZkjSzKJgLrdKudDw1GlnKY/edit'
 title: Using Django, Docker, and Scikit-learn to Bootstrap Your Machine Learning Project
-video_url: ''
+video_url: 'https://youtu.be/zaT7DRsB9Cw'
 ---
 
 Reproducible results can be the bane of a data engineer or data scientist’s existence. Perhaps a data scientist prototyped a model some months ago, tabled the project, only to return to it today. It’s now when they notice the inaccurate or lack of documentation in the feature engineering process. No one wins in that scenario.

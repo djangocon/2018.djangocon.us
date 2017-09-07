@@ -27,7 +27,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: 'http://glasnt.com/talks/2017_08_DjangoConUS/#/'
 title: "The Power :zap: and Responsibility :sweat: of Unicode Adoption :sparkles:"
-video_url: ''
+video_url: 'https://youtu.be/BSQ_VmQfBZE'
 ---
 
 Communication is difficult. Whether between humans, machines, or a combination of the two, trying to translate meaningful information is a lossy process.

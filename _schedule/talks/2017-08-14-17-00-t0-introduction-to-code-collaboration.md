@@ -25,7 +25,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017/blob/master/README.md'
 title: Get a Jumpstart on Collaboration and Code Review in GitHub
-video_url: ''
+video_url: 'https://youtu.be/KCKPbsi88IU'
 ---
 
 Even though open-source collaborators and code reviewers are needed more than ever, the few git learning resources that focus on these subjects are not beginner friendly. This is a missed opportunity! As the DjangoCon US Website Chair, I review pull requests submitted to the website repo. This has given me the opportunity to develop a beginner-friendly, best practice GitHub workflow. I can jumpstart your collaboration and code review skills by sharing what I've learned with you. This talk is for anyone, but one of my goals in giving it is to encourage other women to take leadership roles.

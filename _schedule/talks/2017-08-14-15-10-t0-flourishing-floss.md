@@ -28,7 +28,7 @@ room: 'Ballrooms B and C'
 sitemap: true
 slides_url: 'https://speakerdeck.com/ossanna16/flourishing-floss-making-your-project-successful'
 title: 'Flourishing FLOSS: Making Your Project Successful'
-video_url: ''
+video_url: 'https://youtu.be/xLuSyrGLdyg'
 ---
 
 You maintain an Open Source project with great code? Yet your project isn’t succeeding in the ways you want? Maybe you’re struggling with funding or documentation? Or you just can’t find new contributors and you’re drowning in issues and pull requests?

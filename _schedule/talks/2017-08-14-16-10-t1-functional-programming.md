@@ -24,7 +24,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: ''
 title: Functional Programming in an Imperative World. Maybe
-video_url: ''
+video_url: 'https://youtu.be/Nk2kqwz7jjs'
 ---
 
 ### The pillars of FP

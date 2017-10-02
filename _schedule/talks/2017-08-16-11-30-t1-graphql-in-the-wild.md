@@ -31,7 +31,7 @@ room: 'Ballroom A'
 sitemap: true
 slides_url: https://github.com/ariannedee/graphql-django-presentation
 title: GraphQL in the wild
-video_url: https://www.youtube.com/watch?v=bTh-JPgKKdQ
+video_url: https://youtu.be/bTh-JPgKKdQ
 ---
 
 Since being released by Facebook in 2015, GraphQL has gained a lot of hype for being the best thing since sliced bread and REST APIs. But what is all the hype about and how does GraphQL fare in the real world?

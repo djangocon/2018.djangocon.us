@@ -8,16 +8,19 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talks/graphql-in-the-wild/
 presenters:
-- bio: "Arianne is a programmer, teacher, and activist in Vancouver, BC. She is currently\
-    \ a full-stack Django developer at [**7Geese**](https://7geese.com/) and an instructor\
-    \ for [**Ladies Learning Code**](http://ladieslearningcode.com/chapters/vancouver/).\r\
-    \n\r\nPast work includes developing a solution in Django and D3 to automate heating\
-    \ and cooling in large, complex buildings at **Sensible Building Science** and\
-    \ consulting for corporations on agile product development and modern testing\
-    \ strategies at **ThoughtWorks** in SF.\r\n\r\nArianne has degrees in civil engineering\
-    \ and computer science from UBC and has taught 1000+ kids about poverty, science,\
-    \ and programming through various organizations. She climbs rocks and her favourite\
-    \ board game is Terraforming Mars."
+- bio: |
+    Arianne is a programmer, teacher, and activist in Vancouver, BC. She is currently
+    a full-stack Django developer at [**7Geese**](https://7geese.com/) and an instructor
+    for [**Ladies Learning Code**](http://ladieslearningcode.com/chapters/vancouver/).
+
+    Past work includes developing a solution in Django and D3 to automate heating
+    and cooling in large, complex buildings at **Sensible Building Science** and
+    consulting for corporations on agile product development and modern testing
+    strategies at **ThoughtWorks** in SF.
+
+    Arianne has degrees in civil engineering and computer science from UBC and has
+    taught 1000+ kids about poverty, science, and programming through various
+    organizations. She climbs rocks and her favourite board game is Terraforming Mars.
   company: 7Geese
   github: ''
   name: Arianne Dee
@@ -26,9 +29,9 @@ presenters:
   website: ''
 room: 'Ballroom A'
 sitemap: true
-slides_url: 'https://github.com/ariannedee/graphql-django-presentation'
+slides_url: https://github.com/ariannedee/graphql-django-presentation
 title: GraphQL in the wild
-video_url: ''
+video_url: https://www.youtube.com/watch?v=bTh-JPgKKdQ
 ---
 
 Since being released by Facebook in 2015, GraphQL has gained a lot of hype for being the best thing since sliced bread and REST APIs. But what is all the hype about and how does GraphQL fare in the real world?

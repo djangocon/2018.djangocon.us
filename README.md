@@ -1,8 +1,8 @@
-# 2017.djangocon.us Website
+# 2018.djangocon.us Website
 
-[![Build Status](https://travis-ci.org/djangocon/2017.djangocon.us.svg?branch=master)](https://travis-ci.org/djangocon/2017.djangocon.us) [![Contributors](https://img.shields.io/github/contributors/djangocon/2017.djangocon.us.svg)](https://github.com/djangocon/2017.djangocon.us/graphs/contributors)
+[![Build Status](https://travis-ci.org/djangocon/2018.djangocon.us.svg?branch=master)](https://travis-ci.org/djangocon/2018.djangocon.us) [![Contributors](https://img.shields.io/github/contributors/djangocon/2018.djangocon.us.svg)](https://github.com/djangocon/2018.djangocon.us/graphs/contributors)
 
-The 2017 DjangoCon.us website is a static site compiled with [Jekyll](https://jekyllrb.com/docs/home/). The frontend relies heavily on the [Foundation](http://foundation.zurb.com/sites/docs/) framework. Frontend dependencies are installed and updated with [npm](https://www.npmjs.com/), and complied for production using [Gulp](http://gulpjs.com/).
+The 2018 DjangoCon.us website is a static site compiled with [Jekyll](https://jekyllrb.com/docs/home/). The frontend relies heavily on the [Foundation](http://foundation.zurb.com/sites/docs/) framework. Frontend dependencies are installed and updated with [npm](https://www.npmjs.com/), and complied for production using [Gulp](http://gulpjs.com/).
 
 ## Code of Conduct
 
@@ -15,7 +15,7 @@ Get started contributing by reading our [Contributing](CONTRIBUTING.md) guidelin
 
 ## Contributing via Browser
 
-1. Navigate to the [DjangoCon U.S. website repo](https://github.com/djangocon/2017.djangocon.us) on GitHub. In the upper right hand corner of the repo, click the "Fork" button. Alternatively, click on an individual file and click the pencil icon. GitHub will automatically fork the repo for you.
+1. Navigate to the [DjangoCon U.S. website repo](https://github.com/djangocon/2018.djangocon.us) on GitHub. In the upper right hand corner of the repo, click the "Fork" button. Alternatively, click on an individual file and click the pencil icon. GitHub will automatically fork the repo for you.
 
 2. Head over to your GitHub account, where you will find the forked repo. This is a copy of the official code. Your changes to this forked code will not affect the official code, unless you submit a pull request and an admin merges your pull request.
 
@@ -38,13 +38,13 @@ For changes that require cloning/running the code locally, follow the instructio
 Clone your forked repo locally via the terminal, replacing the username in the URL with your own (note: not all operating systems will use a $ as a terminal prompt).
 
 ```bash
-$ git clone https://github.com/your-username/2017.djangocon.us
+$ git clone https://github.com/your-username/2018.djangocon.us
 ```
 
 Change directory into the folder
 
 ```bash
-$ cd 2017.djangocon.us
+$ cd 2018.djangocon.us
 ```
 
 Verify that you are on the master branch
@@ -53,7 +53,7 @@ Verify that you are on the master branch
 $ git branch
 ```
 
-Follow the instructions below to run the website on a local server. GitHub recommends using [Bundler](http://bundler.io/) to install and run Jekyll. [Ruby](https://www.ruby-lang.org) is a pre-requisite. One of the project dependencies (nokogiri) requires a Ruby version >= 2.1.0. See the [Jekyll Quick-start Guide](https://jekyllrb.com/docs/quickstart/) for more info.  
+Follow the instructions below to run the website on a local server. GitHub recommends using [Bundler](http://bundler.io/) to install and run Jekyll. [Ruby](https://www.ruby-lang.org) is a pre-requisite. One of the project dependencies (nokogiri) requires a Ruby version >= 2.1.0. See the [Jekyll Quick-start Guide](https://jekyllrb.com/docs/quickstart/) for more info.
 
 ### Install Jekyll
 
@@ -108,7 +108,7 @@ $ git push origin master
 
 You will then resume the process at step 6 to submit a pull request.
 
-If you plan to continue working locally and submitting pull requests, you may want to add an upstream remote locally that points to DjangoCon U.S., in order to fetch changes. You may also want to consider creating a feature branch (also known as a "topic" branch), making your changes there (instead of in the master branch), pushing to GitHub and submitting the update via pull request. You can then keep your master branch up-to-date while working on multiple features. 
+If you plan to continue working locally and submitting pull requests, you may want to add an upstream remote locally that points to DjangoCon U.S., in order to fetch changes. You may also want to consider creating a feature branch (also known as a "topic" branch), making your changes there (instead of in the master branch), pushing to GitHub and submitting the update via pull request. You can then keep your master branch up-to-date while working on multiple features.
 
 ### Adding Contributors
 

@@ -1,0 +1,58 @@
+@include breakpoint(medium) {
+  .card-row {
+    display: flex;
+    justify-content: center;
+
+    > .column {
+      display: flex;
+    }
+  }
+}
+
+.card {
+  width: 100%;
+}
+
+.card.icon-right {
+  .card-icon {
+    float: right;
+    margin: 1em 0 2em 2em;
+  }
+}
+
+.card.icon-left,
+.card.icon-right {
+  display: flex;
+  align-items: flex-start;
+
+  .card-title {
+    text-align: left;
+  }
+
+  .card-icon {
+    float: left; // no-flex fallback
+    align-self: center;
+    margin: 0 0 0 1em;
+    width: 240px;
+  }
+}
+
+.card.icon-right {
+  flex-direction: row-reverse;
+
+  .card-icon {
+    float: right; // no-flex fallback
+    margin: 0 1em 0 0;
+  }
+}
+
+.card-icon {
+  display: block;
+  margin: 1em auto 0;
+  width: 100px;
+  height: 100px;
+}
+
+.card-title {
+  text-align: center;
+}

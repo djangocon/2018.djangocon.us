@@ -1,0 +1,56 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% seo %}
+
+{% if page.video_url != blank %}
+{% assign youtube_id = page.video_url | replace:"https://youtu.be/",""%}
+{% include youtube-embed-head.html id=youtube_id %}
+{% endif %}
+    <!-- Google fonts https://www.google.com/fonts
+    ================================================== -->
+    <script src="https://use.typekit.net/dvm6jjh.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <link rel="stylesheet" href="/static/css/styles.css">
+
+    <!-- favicon
+    ================================================== -->
+    <link href="/static/icons/favicon.ico" rel=icon type="image/x-icon">
+    <link href="/static/icons/favicon.png" rel=icon type="image/png">
+    <link href="/static/icons/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+  </head>
+  <body class="{{ page.layout }}-page">
+   {% include social-icons.html %}
+
+    <div class="off-canvas-wrapper">
+      <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+        <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right">
+            <ul class="vertical menu drilldown" data-drilldown>
+              {% include nav.html %}
+            </ul>
+        </div>
+
+        <div class="off-canvas-content" data-off-canvas-content>
+          {{ content }}
+
+          {% include footer.html %}
+        </div><!-- end .off-canvas-content -->
+      </div><!-- end .off-canvas-wrapper-inner -->
+    </div><!-- end .off-canvas-wrapper -->
+
+
+
+    <!-- Loading JavaScripts
+    ================================================== -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/static/js/jquery.min.js"><\/script>')</script>
+    <script src="/static/js/what-input.min.js"></script>
+    <script src="/static/js/foundation.min.js"></script>
+    <script src="/static/js/headroom.min.js"></script>
+    <script src="/static/js/main.js"></script>
+    {% include analytics.html %}
+  </body>
+</html>

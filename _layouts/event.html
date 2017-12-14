@@ -1,0 +1,77 @@
+---
+title:
+layout: base
+---
+
+{% include titlebar.html %}
+<header class="subpage-header">
+  <h1>
+    {% if page.heading %}{{ page.heading }}{% else %}{{ page.title }}{% endif %}
+  </h1>
+  <p class="lead">
+    {{ page.datefriendly }},
+    {{ page.room }}
+    <br>
+    <span
+      class="label"
+      aria-label="Audience level:">{{ page.difficulty }}</span>
+  </p>
+</header>
+
+<div class="content subpage-content">
+  <div class="row">
+    <div class="column medium-8" markdown="1">
+      {% if page.lead %}
+      <div class="lead">
+        {{ page.lead }}
+      </div>
+      {% endif %}
+
+      {% if page.video_url or page.slides_url %}
+      <section class="event-links">
+        <h2 class="event-links-heading">Resources</h2>
+          <a
+            href="{{ page.video_url }}"
+            class="event-link button secondary">
+            <svg xmlns="http://www.w3.org/2000/svg" class="event-link-icon theme-white" viewBox="0 0 100 100"><title>Video</title><path d="M9 20v44h82V20zm34 10l20 12-20 12zM26 70c-2.046 0-3.788 1.24-4.563 3H13a2 2 0 1 0 0 4h8.438c.774 1.76 2.516 3 4.562 3 2.046 0 3.788-1.24 4.563-3H87a2 2 0 1 0 0-4H30.562c-.774-1.76-2.516-3-4.562-3z" overflow="visible"/></svg>
+            Video
+          </a>
+          <a
+            href="{{ page.slides_url }}"
+            class="event-link button secondary">
+            <svg xmlns="http://www.w3.org/2000/svg" class="event-link-icon theme-white" viewBox="0 0 100 100"><title>Slideshow</title><path fill-rule="evenodd" d="M48.006 6v8.395H12v60.968h34.395l-15.03 15.03 3.422 3.42 15.996-15.997L66.78 93.813l3.42-3.42-15.028-15.03H88.85V14.395H52.845V6h-4.84zM26.232 31.888H58.07v-4.355H26.232v4.355zm0 10h45.483v-4.354H26.232v4.355zm0 10h12.275v-4.355H26.232v4.354zm0 10h30.645V57.53H26.232v4.355z"/></svg>
+            Slides
+          </a>
+      </section>
+      {% endif %}
+
+
+      <h2>About This {{ page.category }}</h2>
+      {{ content }}
+    </div>
+    <div class="column medium-4">
+      <div class="profile">
+        <img class="thumbnail" src="https://placem.at/people?w=600&h=600">
+        <h4>Jane Doe</h4>
+        <p>This is what Jane does. Fusce id consequat velit. Donec nec purus vel augue dignissim scelerisque. Nam id nibh semper, scelerisque dui ut, accumsan diam. Praesent vehicula arcu sapien, non molestie tellus imperdiet et. Fusce odio justo, malesuada at eros ut, rhoncus lacinia nulla.</p>
+        <ul class="social-icons">
+          <li>
+            <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+              <svg class="twitter-icon"><use xlink:href="#twitter-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://github.com/djangocon/" target="_blank">
+              <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+            </a>
+          </li>
+          <li>
+            <a class="github" href="https://website.com" target="_blank">
+              <svg class="social-icon"><use xlink:href="#web-icon"></use></svg>
+            </a>
+          </li>
+        </ul>
+      </div><!--/.profile -->
+    </div><!-- end .column -->
+  </div><!-- end .row -->
+</div><!-- end .content -->

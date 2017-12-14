@@ -1,0 +1,127 @@
+#########################
+## Sample Sass Lint File
+#########################
+# Linter Options
+# rules @ https://github.com/sasstools/sass-lint/tree/master/docs/rules
+
+options:
+  # Don't merge default rules
+  merge-default-rules: false
+# Rule Configuration
+rules:
+  border-zero:
+    - 2
+    -
+      convention: none
+  brace-style:
+    - 2
+    -
+      style: '1tbs'
+  class-name-format:
+    - 2
+    - convention: hyphenatedlowercase
+  empty-args: 2
+  empty-line-between-blocks:
+    - 2
+  extends-before-mixins: 2
+  extends-before-declarations: 2
+  mixin-name-format:
+    - 2
+    -
+      convention: hyphenatedlowercase
+  nesting-depth:
+    - 1
+    -
+      max-depth: 2
+  no-duplicate-properties: 1
+  no-empty-rulesets: 2
+  no-warn: 1
+  no-debug: 1
+  no-ids: 1
+  no-misspelled-properties: 2
+  no-vendor-prefixes: 1
+  one-declaration-per-line: 2
+  indentation:
+    - 2
+    -
+      size: 2
+  property-sort-order:
+    - 1
+    -
+      order:
+        - appearance
+        - position
+        - top
+        - right
+        - bottom
+        - left
+        - z-index
+        - display
+        - box-sizing
+        - float
+        - order
+        - flex
+        - flex-direction
+        - flex-flow
+        - justify-content
+        - align-items
+        - align-self
+        - margin
+        - margin-top
+        - margin-right
+        - margin-bottom
+        - margin-left
+        - padding
+        - padding-top
+        - padding-right
+        - padding-bottom
+        - padding-left
+        - width
+        - min-width
+        - max-width
+        - height
+        - min-height
+        - max-height
+        - box-shadow
+        - border
+        - border-top
+        - border-right
+        - border-bottom
+        - border-left
+        - border-color
+        - border-image
+        - border-radius
+        - border-width
+        - background
+        - background-image
+        - background-color
+        - background-position
+        - background-repeat
+        - background-size
+        - font
+        - font-family
+        - font-size
+        - font-style
+        - font-weight
+        - line-height
+        - text-align
+        - text-decoration
+        - text-overflow
+        - text-transform
+        - white-space
+        - vertical-align
+        - color
+        - overflow
+        - clip
+        - content
+      ignore-custom-properties: true
+  single-line-per-selector: 1
+  # Set to 1 until sasslint 1.6 is released.
+  # See this issue: https://github.com/sasstools/sass-lint/issues/572
+  space-around-operator: 1
+  space-before-brace: 2
+  space-before-bang: 2
+  space-before-colon: 2
+  space-between-parens: 2
+  zero-unit:
+    - 2

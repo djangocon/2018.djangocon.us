@@ -1,0 +1,188 @@
+%has-bg {
+  background: $light-beige;
+
+  .location {
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    font-size: 0.8em;
+  }
+}
+
+.schedule {
+  margin: 0;
+  padding-right: 0;
+  padding-left: 0;
+  list-style: none;
+
+  .day {
+    font-weight: $global-weight-normal;
+  }
+
+  .day,
+  .lead {
+    text-align: center;
+  }
+}
+
+.time {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: rem-calc(24px);
+  text-align: center;
+
+  .muted:before {
+    content: " – ";
+  }
+}
+
+.events {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.event {
+  @include clearfix;
+  @include bottomless;
+
+  position: relative;
+  margin: 0 0 1em;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover .event-title {
+    color: $secondary-color;
+  }
+
+  a:hover .event-byline {
+    color: $body-font-color;
+  }
+
+  .event-content {
+    @include bottomless;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  .event-byline {
+    margin-top: auto;
+    padding-top: $global-margin * 2;
+  }
+
+  .label {
+    align-self: center;
+  }
+
+  .avatar {
+    margin: 0 .5em 0 0;
+    max-width: 60px;
+    border-radius: 50%;
+    vertical-align: middle;
+  }
+}
+
+.event-title {
+  margin-bottom: .5rem;
+  font-size: rem-calc(24px);
+}
+
+// Handle variations
+.event.loc-main {
+  @extend %has-bg;
+  border-top: 8px solid $secondary-color;
+}
+
+.event.loc-main .location {
+  background: $light-beige;
+  color: $secondary-color;
+}
+
+.event.loc-alt {
+  @extend %has-bg;
+  border-top: 8px solid $teal;
+
+  .location,
+  a:hover {
+    color: $teal;
+  }
+}
+
+.event.loc-alt-2 {
+  @extend %has-bg;
+  border-top: 8px solid $light-green;
+
+  .location,
+  a:hover {
+    color: $light-green;
+  }
+}
+
+.event.loc-alt-3 {
+  @extend %has-bg;
+  border-top: 8px solid $green;
+
+  .location,
+  a:hover {
+    color: $green;
+  }
+}
+
+.event.loc-main,
+.event.loc-alt,
+.event.loc-alt-2,
+.event.loc-alt-3 {
+  padding: ($global-margin * 1.75) $global-margin $global-margin;
+}
+
+@include breakpoint(medium) {
+  .hour-row {
+    padding: $global-margin 0;
+  }
+
+  .events {
+    display: flex;
+  }
+
+  .event {
+    display: flex;
+    flex-direction: column;
+    margin: 0 $global-margin / 2;
+    text-align: left;
+    flex-grow: 1;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  .event .label {
+    display: inline-block;
+    align-self: flex-start;
+    margin-left: 0;
+  }
+
+  .time {
+    margin-bottom: 0;
+    text-align: right;
+
+    .muted {
+      display: block;
+      opacity: 0.6;
+    }
+
+    .muted:before {
+      content: "";
+    }
+  }
+}

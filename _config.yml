@@ -1,0 +1,74 @@
+title: DjangoCon US
+url: "https://2017.djangocon.us"
+author : DjangoCon US
+enforce_ssl: "2017.djangocon.us"
+relative_permalinks: false
+permalink: news/:title/  # permalink: date
+contact_us_email: "hello@djangocon.us"
+sponsors_email: "sponsors@djangocon.us"
+coc_email: "coc@djangocon.us"
+visa_email: "visas@djangocon.us"
+
+include:
+  - _pages
+  - .surgeignore
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+exclude:
+  - .editorconfig
+  - .gitignore
+  - bower_components
+  - CONTRIBUTING.md
+  - deploy_surge.sh
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - LICENSE
+  - node_modules
+  - package.json
+  - Rakefile
+  - README.md
+  - vendor
+
+# We need `future` to allow our schedule to work :/
+future: true
+
+collections:  # process the _data folder
+  components:
+    output: false
+  schedule:
+    output: true
+    permalink: /:collection/:name/
+
+# SEO Plugin settings
+
+twitter:
+  username: djangocon
+
+# This is the default logo that people see with opengraph
+logo: /static/2017-logos/squares-and-social/djangocon-square.png
+
+# Frontmatter fallback settings
+# This is the default logo that people see on blog posts
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /static/2017-logos/squares-and-social/djangocon-square.png
+
+# Our DjangoCon US links
+sponsorship_prospectus: "https://drive.google.com/file/d/0B7Im-0Y6WeGXTE5uOVVjYXdtMWc/view"
+financial_aid_application: "https://goo.gl/forms/Uu3gr1ltLbSR7SxM2"
+
+github: [metadata]
+facebook:
+  app_id: 280981518972848

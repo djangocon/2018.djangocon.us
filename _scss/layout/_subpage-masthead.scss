@@ -1,0 +1,22 @@
+.subpage-header {
+  position: relative;
+
+  background: url(/static/img/subpage-masthead.png),
+  linear-gradient($sky-blue 50%, $sky-blue 50%, $body-background 0);
+  background-image: url(/static/img/subpage-masthead.svg),
+  linear-gradient($sky-blue 50%, $sky-blue 50%, $body-background 0);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  text-align: center;
+  padding: 100px 0 17%;
+
+  @include breakpoint(medium) {
+    padding: 160px 0 18%;
+  }
+}
+
+.subpage-header a {
+  text-decoration: none;
+}

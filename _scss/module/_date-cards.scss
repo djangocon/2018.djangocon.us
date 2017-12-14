@@ -1,0 +1,40 @@
+.date-card {
+  margin-bottom: 2rem;
+
+  .date-card-title {
+    margin-bottom: .5rem;
+    font-size: 1.6rem;
+  }
+
+  p {
+    margin-bottom: 0;
+    line-height: 1.25;
+  }
+
+  .dates {
+    margin-right: 20px;
+    font-weight: $global-weight-bold;
+    text-align: center;
+  }
+
+  .month {
+    display: block;
+    padding: .2em;
+    background-color: $secondary-color;
+    color: $white;
+    font-size: 1rem;
+  }
+
+  .days {
+    display: block;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    background-color: $white;
+    font-size: rem-calc(40);
+    color: $secondary-color;
+  }
+
+  @include breakpoint(large) {
+    margin-bottom: 0;
+  }
+}

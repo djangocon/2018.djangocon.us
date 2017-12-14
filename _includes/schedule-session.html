@@ -1,0 +1,38 @@
+<li
+  class="event
+  {% if post.room == "Audobon" %}loc-alt
+  {% elsif post.room == "Ballrooms B and C" %}loc-alt
+  {% elsif post.room == "Manito" %}loc-alt-2
+  {% elsif post.room == "Ballroom A" %}loc-alt-2
+  {% elsif post.room == "Ballroom B" %}loc-alt-3
+  {% else %}loc-main
+  {% endif %}
+
+  ">
+  {% unless post.room == 'filler' %}
+    <a href="{{ post.permalink }}" class="event-content">
+      {% if post.title %}
+        <h3 class="event-title">{{ post.title }}</h3>
+      {% endif %}
+      {% if post.difficulty %}
+        <span class="label" aria-label="Audience level:">{{ post.difficulty }}</span>
+      {% endif %}
+      {% if post.room %}
+        <p class="location">{{ post.room }}</p>
+      {% endif %}
+      {% if post.presenters %}
+        {% for presenter in post.presenters %}
+        <p class="event-byline">
+          {% if presenter.photo_url != blank %}
+          <img
+            class="avatar"
+            src="{{ presenter.photo_url }}"
+            alt="Photo of {{ presenter.presenters }}" />
+          {% endif %}
+          {{ presenter.name }}
+        </p>
+        {% endfor %}
+      {% endif %}
+    </a>
+  {% endunless %}
+</li>

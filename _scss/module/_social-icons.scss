@@ -1,0 +1,60 @@
+.social-icons {
+  margin: 2em auto;
+  text-align: center;
+  list-style: none;
+
+  li {
+    display: inline-block;
+    margin: 0 1em;
+  }
+
+  .profile & {
+    margin: 1em 0;
+
+    li {
+      margin: 0 0.5em;
+    }
+  }
+}
+
+.social-icons a {
+  display: block;
+
+  svg {
+    width: 42px;
+    height: 42px;
+    fill: $white;
+  }
+
+  .profile & {
+    svg {
+      width: 32px;
+      height: 32px;
+      fill: $secondary-color;
+    }
+  }
+
+  &:hover svg {
+    fill: $primary-color;
+  }
+
+  &.facebook:hover svg {
+    fill: $color-facebook;
+  }
+
+  &.twitter:hover svg {
+    fill: $color-twitter;
+  }
+
+  &.linkedin:hover svg {
+    fill: $color-linkedin;
+  }
+
+  &.instagram:hover svg {
+    fill: $color-instagram;
+  }
+
+  &.github:hover svg {
+    fill: $color-github;
+  }
+}

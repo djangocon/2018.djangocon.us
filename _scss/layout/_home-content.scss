@@ -1,0 +1,15 @@
+.home-content {
+  margin-top: -2px;
+  padding-top: 8%;
+  position: relative;
+  z-index: 2;
+  background-image: url(/static/img/bottom-trees.png);
+  background-image: url(/static/img/bottom-trees.svg), linear-gradient(transparent, transparent);
+  background-position: center top;
+  background-repeat:  no-repeat;
+  background-size: 101% auto;
+}
+
+.home-content > &:last-child {
+  padding-bottom: 3rem;
+}

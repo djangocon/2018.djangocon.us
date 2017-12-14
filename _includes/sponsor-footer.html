@@ -1,0 +1,23 @@
+<div class="partner-footer section-pad theme-light-beige">
+  <h3 class="v-pad-bottom text-center">Our Sponsors</h3>
+
+  {% for level in site.data.sponsors.levels %}
+    {% if level.sponsors %}
+      <h4 class="lead min text-center swatch-color-teal">{{ level.name }}</h4>
+      <div class="row partner-list">
+        {% for sponsor in level.sponsors %}
+          {% unless sponsor.hidden %}
+            <div class="partner-block text-center">
+              <a href="{{ sponsor.url }}">
+                <img
+                  class="partner-logo {{ sponsor.logo_orientation }}"
+                  src="{{ sponsor.logo }}"
+                  alt="{{ sponsor.name }} Logo" />
+              </a>
+            </div>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

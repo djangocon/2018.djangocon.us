@@ -1,0 +1,193 @@
+{
+  "projectName": "2017.djangocon.us",
+  "projectOwner": "djangocon",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mtrythall",
+      "name": "Michael Trythall",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/84750?v=3",
+      "profile": "http://mtrythall.com",
+      "contributions": []
+    },
+    {
+      "login": "jefftriplett",
+      "name": "Jeff Triplett",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50527?v=3",
+      "profile": "http://jefftriplett.com/",
+      "contributions": []
+    },
+    {
+      "login": "kkellydesign",
+      "name": "Kasey Kelly",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/202590?v=3",
+      "profile": "http://KellyCreativeTech.com",
+      "contributions": []
+    },
+    {
+      "login": "williln",
+      "name": "Lacey Williams Henschel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2286304?v=3",
+      "profile": "http://laceyhenschel.com",
+      "contributions": []
+    },
+    {
+      "login": "KatherineMichel",
+      "name": "KatherineMichel",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4193054?v=3",
+      "profile": "http://katherinemichel.github.io",
+      "contributions": []
+    },
+    {
+      "login": "FlipperPA",
+      "name": "Timothy Allen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/68164?v=3",
+      "profile": "http://www.PeregrineSalon.com",
+      "contributions": []
+    },
+    {
+      "login": "rebkin05",
+      "name": "rebkin05",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13985355?v=3",
+      "profile": "https://github.com/rebkin05",
+      "contributions": []
+    },
+    {
+      "login": "deatonjm",
+      "name": "Jessica Deaton",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3345131?v=3",
+      "profile": "https://github.com/deatonjm",
+      "contributions": []
+    },
+    {
+      "login": "brentschneider",
+      "name": "Brent Schneider",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/744669?v=3",
+      "profile": "http://twitter.com/webmedic",
+      "contributions": []
+    },
+    {
+      "login": "Nandutu",
+      "name": "Irene Nandutu",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7518308?v=3",
+      "profile": "https://github.com/Nandutu",
+      "contributions": []
+    },
+    {
+      "login": "ossanna16",
+      "name": "Anna Ossowski",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8700795?v=3",
+      "profile": "http:/anna-oz.tumblr.com",
+      "contributions": []
+    },
+    {
+      "login": "craigbruce",
+      "name": "Craig Bruce",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1503648?v=3",
+      "profile": "http://about.me/craigbruce",
+      "contributions": []
+    },
+    {
+      "login": "daheats",
+      "name": "daheats",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20408533?v=3",
+      "profile": "https://github.com/daheats",
+      "contributions": []
+    },
+    {
+      "login": "jessiofhall",
+      "name": "Jessi Hall",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12751372?v=3",
+      "profile": "https://github.com/jessiofhall",
+      "contributions": []
+    },
+    {
+      "login": "SaraDGore",
+      "name": "Sara D Gore",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2285473?v=3",
+      "profile": "https://github.com/SaraDGore",
+      "contributions": []
+    },
+    {
+      "login": "kojoidrissa",
+      "name": "Kojo Idrissa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5251109?v=3",
+      "profile": "http://kojoidrissa.com/",
+      "contributions": []
+    },
+    {
+      "login": "moniquemurphy",
+      "name": "moniquemurphy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13872721?v=3",
+      "profile": "https://github.com/moniquemurphy",
+      "contributions": []
+    },
+    {
+      "login": "amfitz",
+      "name": "amfitz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15040326?v=3",
+      "profile": "https://github.com/amfitz",
+      "contributions": []
+    },
+    {
+      "login": "cholmes5",
+      "name": "cholmes5",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/27741978?v=3",
+      "profile": "https://github.com/cholmes5",
+      "contributions": []
+    },
+    {
+      "login": "jberkus",
+      "name": "Josh Berkus",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/115146?v=3",
+      "profile": "http://www.databasesoup.com",
+      "contributions": []
+    },
+    {
+      "login": "glasnt",
+      "name": "Katie McLaughlin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/813732?v=3",
+      "profile": "http://glasnt.com",
+      "contributions": []
+    },
+    {
+      "login": "lgh2",
+      "name": "Laura ",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17437250?v=4",
+      "profile": "https://github.com/lgh2",
+      "contributions": []
+    },
+    {
+      "login": "phildini",
+      "name": "Philip James",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/710999?v=4",
+      "profile": "http://phildini.net",
+      "contributions": []
+    },
+    {
+      "login": "h34th3r329",
+      "name": "h34th3r329",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15834992?v=4",
+      "profile": "https://github.com/h34th3r329",
+      "contributions": []
+    },
+    {
+      "login": "jackmccloy",
+      "name": "Jack McCloy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7756138?v=4",
+      "profile": "http://twitter.com/jackmccloy",
+      "contributions": []
+    },
+    {
+      "login": "ariannedee",
+      "name": "Arianne",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2425730?v=4",
+      "profile": "https://github.com/ariannedee",
+      "contributions": []
+    }
+  ]
+}

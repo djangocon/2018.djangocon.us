@@ -1,0 +1,86 @@
+.footer {
+  background: $secondary-color;
+  padding-top: 1px;
+  padding-bottom: 2rem;
+
+  p,
+  a,
+  small {
+    color: $white;
+  }
+
+  a,
+  svg,
+  path,
+  polygon,
+  rect,
+  g {
+    transition: all 400ms ease;
+  }
+
+  .legal {
+    display: block;
+  }
+}
+
+.footer-logo {
+  width: 240px;
+  display: block;
+  margin: -36px auto 2em;
+  position: relative;
+  z-index: 2;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .background-field{
+    fill: $green;
+  }
+
+  .djangocon {
+    fill: $body-background;
+  }
+
+  .location {
+    fill:$orange;
+  }
+
+  &:hover {
+    .background-field {
+      fill: $body-background;
+    }
+
+    .djangocon {
+      fill: $green;
+    }
+  }
+
+  @include breakpoint(medium) {
+    margin-top: -44px;
+  }
+}
+
+.footer-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: rem-calc(24);
+
+  a {
+    color: $white;
+    display: block;
+    padding: 0.25em 0.5em;
+  }
+
+  @include breakpoint(medium) {
+    text-align: center;
+
+    li {
+      display: inline-block;
+      vertical-align: baseline;
+    }
+  }
+}

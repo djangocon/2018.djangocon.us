@@ -4,6 +4,8 @@ We are pleased to announce that the DjangoCon US 2018 conference will take place
 
 For more details, checkout our [announcement](https://www.defna.org/announcements/2017/11/2/djangocon-us-2018-in-san-diego).
 
+[Code of Conduct](coc.md)
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93279021-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];

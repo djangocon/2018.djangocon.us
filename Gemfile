@@ -8,19 +8,26 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 
-gem 'jekyll'
-# gem 'mini_magick'
-gem 'rake'
-gem 'github-pages', group: :jekyll_plugins
+# gem "octopress-autoprefixer"
+# gem "sass"
+# gem "uglifier"
+gem "jekyll"
+gem "mini_magick"
+
+gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed'
-  gem 'jekyll-redirect-from'
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-sitemap'
+    gem 'jekyll-feed'
+    gem 'jekyll-redirect-from'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-sitemap'
 end
 
-group :development, :test do
+group :test do
+  gem 'rake'
   gem 'html-proofer'
 end
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

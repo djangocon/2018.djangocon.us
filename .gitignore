@@ -1,3 +1,10 @@
-_site/
-.sass-cache/
+_site
+.bundle
+.sass-cache
+.DS_Store
 .jekyll-metadata
+Gemfile.lock
+npm-debug.log
+
+bower_components/
+node_modules/

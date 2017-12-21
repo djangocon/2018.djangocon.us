@@ -1,0 +1,89 @@
+.partner-footer {
+  h3 {
+    @extend h2;
+    margin-bottom: $global-margin * 2;
+  }
+
+  .lead {
+    font-size: rem-calc(20);
+    font-weight: $global-weight-bold;
+    text-transform: uppercase;
+  }
+
+  .partner-list {
+    position: relative;
+    margin-bottom: $global-margin * 2;
+
+    &:not(:last-child):after {
+      position: absolute;
+      bottom: 0;
+      display: block;
+      width: 80%;
+      height: 1px;
+      background: $dark-beige;
+      content: "";
+    }
+  }
+}
+
+.partner-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.partner-block {
+  padding: 0 $global-margin $global-margin;
+  width: 100%;
+
+  @include breakpoint(smedium) {
+    width: 33.33%;
+  }
+
+  @include breakpoint(medium) {
+    width: 25%;
+  }
+
+  @include breakpoint(large) {
+    width: 20%;
+  }
+}
+
+.partner-list {
+  .partner-logo.portrait {
+    max-height: 70px;
+  }
+
+  .partner-logo.landscape {
+    max-width: 160px;
+  }
+}
+
+
+/*
+// LEGACY
+.partner-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+  .item {
+    display: inline-block;
+    max-width: 200px;
+    margin: 0.5em;
+  }
+
+  .partner {
+    display: block;
+    opacity: 0.7;
+    transition: all 300ms ease;
+    filter: grayscale(100%);
+
+    &:hover {
+      filter: grayscale(0%);
+      opacity: 1;
+    }
+  }
+}
+*/

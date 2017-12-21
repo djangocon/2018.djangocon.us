@@ -1,0 +1,346 @@
+# sponsor data
+
+levels:
+
+  - name: Diamond Sponsors
+    sponsors:
+
+      - name: "Lincoln Loop"
+        logo: "/static/img/sponsors/ll_logo_landscape_color.svg"
+        logo_orientation: landscape
+        url: "https://lincolnloop.com/"
+        url_friendly: "lincolnloop.com"
+        description: |
+          Lincoln Loop is a full-service software development agency
+          specializing in Python and Django development for web and
+          mobile. Since 2007 our emphasis on quality in an agile environment
+          has helped numerous startups and high-traffic sites grow their
+          businesses. In addition to rock solid Python powered backends,
+          Lincoln Loop provides user experience, deployment, and real-time
+          application development with JavaScript.
+
+
+  - name: Platinum Sponsors
+    sponsors:
+      - name: "Heroku"
+        logo: "/static/img/sponsors/herokulogo.png"
+        url: "https://www.heroku.com/"
+        url_friendly: "www.heroku.com"
+        description: |
+          Heroku, a Salesforce company and industry pioneer in platform
+          as a service (PaaS), enables developers to build and run
+          applications entirely in the cloud, without the need to
+          purchase or maintain any servers or software. Over 8
+          million apps, including ones from Product Hunt, Casper and
+          Citrix run on Heroku. With support for the most popular
+          languages such as Ruby and Node.js, high-scale data services
+          including Postgres, Redis and Kafka, and an add-ons
+          ecosystem featuring over 150 cloud application services, 
+          Heroku provides companies from startups to Fortune 500 
+          enterprises with a faster and more effective way to create, 
+          deploy and manage beautiful apps in the cloud. 
+
+
+  - name: Gold Sponsors
+    sponsors:
+    - name: "Revolution Systems"
+      logo: "/static/img/sponsors/revsys.png"
+      logo_orientation: portrait
+      url: "http://www.revsys.com/"
+      url_friendly: "revsys.com"
+      description: |
+        Revolution Systems primarily focuses on building and maintaining
+        customized web applications, offering world-class consulting and
+        technical support for a variety of Open Source technologies and
+        software systems. Specializing in performance and scalability,
+        their core expertise lies in Python, Django, PostgreSQL, systems
+        admin services and devops. (All this and they still find time to
+        be the world leader in Django support and training!)
+
+    - name: "Guidebook"
+      logo: "/static/img/sponsors/Guidebook640.png"
+      logo_orientation: landscape
+      url: "https://guidebook.com/"
+      url_friendly: "guidebook.com"
+      description: |
+        Guidebook is a simple yet powerful mobile application builder
+        that lets you create an app in four easy steps — no technical
+        skills required. Just choose from a gallery of mobile app
+        templates, select your features, and fill it with content.
+        Then publish in minutes to Google Play and the Apple App Store.
+
+    - name: "JetBrains"
+      logo: "/static/img/sponsors/jetbrains.png"
+      logo_orientation: portrait
+      url: "https://www.jetbrains.com/"
+      url_friendly: "jetbrains.com"
+      description: |
+         JetBrains delivers intelligent software solutions that make
+         developers more productive by simplifying their challenging
+         tasks, automating the routine, and helping them adopt the best
+         development practices. PyCharm is the Python IDE for
+         Professional Developers by JetBrains providing a complete set
+         of tools for productive Python, Web and scientific development,
+         available in three editions. The free and open-source PyCharm
+         Community Edition is perfect for pure Python coding. PyCharm
+         Professional Edition is designed for professional Python and
+         Web developers. PyCharm Educational Edition helps novice
+         programmers learn programming with Python easily and
+         effectively.
+
+    - name: "Caktus Group"
+      logo: "/static/img/sponsors/caktuslogo.png"
+      logo_orientation: landscape
+      url: "https://www.caktusgroup.com/"
+      url_friendly: "www.caktusgroup.com"
+      description: |
+        Caktus builds web and SMS apps with Django for businesses and
+        social good.  We’re known for developing sharp apps the right
+        way, delivering over 100 solutions and impacting more than 70
+        million people.  In addition to building apps with the highest
+        code quality, we provide discovery workshops, team augmentation,
+        and best practices consulting. We’re proud to be part of the
+        AWS Partner Network as Consulting Partners.
+
+    - name: "Nexmo"
+      logo: "/static/img/sponsors/nexmologo.png"
+      logo_orientation: "landscape"
+      url: "https://www.nexmo.com/"
+      url_friendly: "www.nexmo.com"
+      description: |
+        Nexmo is a global cloud communications platform, providing APIs
+        and SDKs for SMS, voice, phone verification, messaging and
+        advanced multi-channel conversations. We have officially
+        supported open source libraries for Python, Node.JS, Ruby, PHP, 
+        Java and C# .NET enabling you to build scalable communications
+        features such as two-factor authentication, notifications, 
+        two-way and group messaging, one to one or multi person calls, 
+        all with the technologies that you are already using.
+
+
+  - name: Silver Sponsors
+    sponsors:
+
+      - name: "Tito"
+        logo: "/static/img/sponsors/titologo.svg"
+        logo_orientation: "landscape"
+        url: "https://ti.to/home"
+        url_friendly: "ti.to/home"
+        description: |
+          Hundreds of tiny details, carefully considered. We thought
+          carefully about how we would want the ticket purchasing
+          experience to be like for our own events. A clean,
+          mobile-friendly event homepage and checkout experience.
+          A simple, fast checkout that attendees love. Quick payments
+          using Stripe (say goodbye to waiting for your money). With
+          Tito, your data is your data, we never market to your
+          customers. So if you run events, come and take a look for
+          yourself. The last thing we want you to worry about is your
+          event software.
+
+      - name: "Rover.com"
+        logo: "/static/img/sponsors/roverlogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.rover.com/"
+        url_friendly: "www.rover.com"
+        description: |
+          Rover.com is the nation’s largest online marketplace of
+          5-star pet sitters and dog walkers. Through Rover’s
+          straight-forward website and app, anyone can easily find,
+          message, and book a pet care provider who’ll treat their dog
+          like family.
+
+      - name: "JBS Solutions"
+        logo: "/static/img/sponsors/jbslogo.png"
+        logo_orientation: "landscape"
+        url: "http://www.jbssolutions.com/"
+        url_friendly: "www.jbssolutions.com"
+        description: |
+          JBS Solutions has developed custom web applications for
+          clients from small to large, supporting e-commerce,
+          appointment scheduling, advertising, nationally televised
+          events, data warehousing/business intelligence and many
+          others. They work primarily in Django, but other
+          technologies occasionally fit applications better
+          (even Microsoft - a separate team is a Gold Application
+          Development partner.)
+
+      - name: "JamBon Software"
+        logo: "/static/img/sponsors/jambonlogo.png"
+        logo_orientation: "landscape"
+        url: "http://www.jambonsw.com/"
+        url_friendly: "www.jambonsw.com/"
+        description: |
+          JamBon Software is a software consultancy that specializes
+          in building beautiful and robust applications. The team at
+          JamBon Software is passionate about usability and security,
+          and loves building software that provides the user with a
+          memorable experience.
+
+
+
+  - name: Bronze Sponsors
+    sponsors:
+
+      - name: "Imaginary Landscape"
+        logo: "/static/img/sponsors/ImaginaryLogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.imagescape.com/"
+        url_friendly: "www.imagescape.com"
+        description: |
+          Imaginary Landscape is a Chicago-based custom web development
+          firm that has been focused on Python programming since 1999
+          and the Django web framework since 2006. We assist clients of
+          all sizes and industries with application development,
+          system administration and hosting, user interface and design,
+          and information architecture. Our team of highly experienced
+          software developers take pride in the quality of our work,
+          and it is what our reputation is built on for over 20 years.
+
+      - name: "Fusionbox"
+        logo: "/static/img/sponsors/fusionboxlogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.fusionbox.com/"
+        url_friendly: "www.fusionbox.com"
+        description: |
+          Fusionbox is a custom software development agency specializing
+          in Python/Django, ETL, and application security.  They've
+          helped companies big and small develop software since 2002.
+
+      - name: "PostgreSQL Experts, Inc."
+        logo: "/static/img/sponsors/pgxlogo.png"
+        logo_orientation: "portrait"
+        url: "https://pgexperts.com/"
+        url_friendly: "www.pgexperts.com"
+        description: |
+          PostgreSQL Experts, Inc., a team of dedicated open source
+          technology experts, can help you develop new applications,
+          accelerate existing applications, refactor infrastructure,
+          and solve database problems. Our consultants are known by
+          their many contributions to PostgreSQL, Django, and other
+          OSS projects, including a PostgreSQL Core Team member,
+          PostgreSQL committers and contributors, and contributors to
+          database-backed applications in Django, Perl, PHP, Python
+          and Java.
+
+      - name: "Mozilla"
+        logo: "/static/img/sponsors/mozillalogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.mozilla.org"
+        url_friendly: "www.mozilla.org"
+        description: |
+         At Mozilla, we’re a global community of technologists, thinkers
+         and builders working together so people worldwide can be
+         informed contributors and creators of the Web. Our mission is
+         to ensure the Internet is a global public resource, open and
+         accessible to all, where individuals can shape their own
+         experience and are empowered, safe and independent.
+
+      - name: "Netlandish"
+        logo: "/static/img/sponsors/netlandishlogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.netlandish.com"
+        url_friendly: "www.netlandish.com"
+        description: |
+          We solve business problems with software solutions. We've used
+          our decades of combined Python and Django experience to help
+          organizations of all sizes. From sales funnels to back offices,
+          custom CMS to analytic dashboards, we've done it all. Our
+          swollen testimonial file and ratings on sites like Clutch speak
+          to our ability to not just hit the technical mark but also
+          understand the business impacts. Don't listen to us though...
+          Just ask for references. Our customers will sell our services
+          way better than we ever could.
+
+      - name: "Sophilabs"
+        logo: "/static/img/sponsors/sophilabslogo.png"
+        logo_orientation: "landscape"
+        url: "https://sophilabs.co/"
+        url_friendly: "www.sophilabs.com"
+        description: |
+          Sophilabs is a software design and development agency with 5+
+          years of experience helping startups and enterprises build
+          innovative solutions for demanding users. They deliver high
+          quality software on top of Python & Django, React and
+          Angular, relying on lean principles and agile practices.
+
+      - name: "CashStar"
+        logo: "/static/img/sponsors/cashstarlogo.png"
+        logo_orientation: "landscape"
+        url: "https://www.cashstar.com/"
+        url_friendly: "www.cashstar.com"
+        description: |
+          CashStar is the industry-leading provider of prepaid commerce
+          solutions at the forefront of mobile payments, digital gifting
+          and branded currency. The CashStar Commerce platform is used
+          by merchants to increase revenue, reduce costs and optimize
+          customer experiences across channels, and the CashStar
+          Exchange platform is used by gift card distributors and
+          loyalty programs to procure and deliver gift cards from
+          hundreds of leading brands. CashStar clients include top
+          brands like Sephora, Starbucks, The Home Depot, Uber and
+          Walmart and distribution partners such as
+          American Express Membership Rewards, Great Lakes Scrip,
+          Maritz Motivation Solutions, MyCokeRewards, Raise.com
+          and United MileagePlusX. To learn more about CashStar’s
+          solutions, please visit [www.cashstar.com](https://www.cashstar.com/),
+          follow [@CashStar](https://twitter.com/CashStar) or
+          e-mail [info@cashstar.com](mailto:info@cashstar.com) .
+
+      - name: "Little Weaver Web Collective"
+        logo: "/static/img/sponsors/littleweaver.png"
+        logo_orientation: "landscape"
+        url: "https://littleweaverweb.com/"
+        url_friendly: "www.littleweaverweb.com"
+        description: |
+          We're a worker-owned collective that works with 
+          mission-driven companies and nonprofits. We're dedicated to
+          socially-responsible design and website development and
+          passionate about the development of a better internet built
+          on open-source technologies.
+
+
+  - name: Diversity Sponsors
+    sponsors:
+
+    - name: "DEFNA"
+      logo: "/static/img/sponsors/defna.png"
+      logo_orientation: portrait
+      url: "https://www.defna.org/"
+      url_friendly: "www.defna.org"
+      description: |
+        Django Events Foundation North America (DEFNA) is a non-profit
+        based in California USA. It was formed in 2015 at the request
+        of the Django Software Foundation (DSF) to run DjangoCon US.
+        The DSF have licensed DEFNA to run DjangoCon US for 2015, 2016
+        and 2017. Beyond DjangoCon US we also plan to be involved with
+        other events in North America that cover the education and
+        outreach of Django.
+
+    - name: "Django Software Foundation"
+      logo: "/static/img/sponsors/django-logo-positive.svg"
+      logo_orientation: portrait
+      url: "https://www.djangoproject.com/foundation/"
+      url_friendly: "djangoproject.com"
+      description: |
+        Development of Django is supported by an independent foundation
+        established as a 501(c)(3) non-profit. Like most open-source
+        foundations, the goal of the Django Software Foundation is to
+        promote, support, and advance its open-source project: in our
+        case, the Django Web framework.
+
+    - name: "Python Software Foundation"
+      logo: "/static/img/sponsors/psf-logo.svg"
+      logo_orientation: portrait
+      url: "https://www.python.org/psf/"
+      url_friendly: "python.org"
+      description: |
+        The Python Software Foundation (PSF) is a 501(c)(3) non-profit
+        corporation that holds the intellectual property rights behind
+        the Python programming language. We manage the open source
+        licensing for Python version 2.1 and later and own and protect
+        the trademarks associated with Python. We also run the North
+        American PyCon conference annually, support other Python
+        conferences around the world, and fund Python related
+        development with our grants program and by funding special
+        projects.

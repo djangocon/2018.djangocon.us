@@ -1,0 +1,14 @@
+.button {
+  text-decoration: none;
+
+  & + & {
+    margin-left: 0.5em;
+  }
+}
+
+.button.secondary {
+  &,
+  &:hover {
+    color: $white;
+  }
+}

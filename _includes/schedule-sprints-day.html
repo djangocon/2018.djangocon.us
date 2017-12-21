@@ -1,0 +1,33 @@
+{% if post.accepted == true %}
+
+  {% if post.room == 'full' %}
+  	{% include schedule-session-full.html %}
+  {% else %}
+  	{% capture slot %}{% cycle 'begin', 'skip', 'end' %}{% endcapture %}
+
+  	{% if slot == 'begin' %}
+      <li>
+        <article class="row hour-row">
+          <div class="column medium-1">
+            <time class="time">{{ post.date | date: "%l:%M%P" }}
+              {% if post.end_date %}
+                <span class="muted">{{ post.end_date | date: "%l:%M%P" }}</span>
+              {% endif %}
+            </time>
+          </div>
+          <div class="column medium-11">
+              <ul class="events">
+  	{% endif %}
+
+  	{% include schedule-session.html %}
+
+  	{% if slot == 'end' %}
+              </ul>
+          </div>
+        </article>
+      </li>
+  	{% endif %}
+
+  {% endif %}
+
+{% endif %}

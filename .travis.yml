@@ -1,0 +1,24 @@
+language: ruby
+
+dist: trusty
+
+rvm:
+  - 2.3.3
+
+before_install:
+  - sudo update-ca-certificates
+
+script:
+  - bundle exec rake test
+
+cache:
+  bundler: true
+  directories:
+  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+# sudo: false # route your build to the container-based infrastructure for a faster build
+sudo: required

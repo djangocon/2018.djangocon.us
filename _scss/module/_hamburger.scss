@@ -1,0 +1,20 @@
+// Hamburger menu options. The source is pulled in from a bower
+// component. Docs: https://github.com/jonsuh/hamburgers;
+$hamburger-layer-color: $body-background;
+$hamburger-layer-width: 30px;
+$hamburger-layer-height: 2px;
+$hamburger-types: (spin);
+
+@import 'hamburgers';
+
+.hamburger {
+  padding: 16px 15px 10px;
+}
+
+.headroom--top {
+  .hamburger-inner,
+  .hamburger-inner:before,
+  .hamburger-inner:after {
+    background-color: $primary-color;
+  }
+}

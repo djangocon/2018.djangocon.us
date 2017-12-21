@@ -1,0 +1,375 @@
+---
+permalink: /
+description: DjangoCon US 2018 conference will take place in San Diego, California from October 14-19, 2018!
+title: DjangoCon US 2018 conference will take place in San Diego, California from October 14-19, 2018!
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% seo %}
+  <link href="{% link static/img/landing-page/favicon.ico %}" rel=icon type="image/x-icon">
+  <link href="{% link static/img/landing-page/favicon.png %}" rel=icon type="image/png">
+
+  <!-- Begin page styles -->
+  <style>
+    /* Config */
+    :root {
+      --green  : #2C4837;
+      --leaf   : #78B291;
+      --padua  : #AFEAC6;
+      --grape  : #5E4CA4;
+      --lilac  : #9870CF;
+      --chalk  : #DFD0E8;
+      --blue   : #2E6FB3;
+      --orange : #E16C40;
+
+      /* Typography */
+      --font-size  : 17px;
+      --normal     : 400;
+      --bold       : 500;
+    }
+
+    /* Begin reset */
+    html {
+      box-sizing: border-box;
+      font-size: var(--font-size);
+    }
+
+    *, *:before, *:after {
+      box-sizing: inherit;
+    }
+
+    body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+      margin: 0;
+      padding: 0;
+      font-weight: var(--normal);
+    }
+
+    ol, ul {
+      list-style: none;
+    }
+
+    img,
+    svg {
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* Begin base styles */
+    body {
+      padding: 0;
+      background-color: #EEE7E5;
+      font-family: "program",Helvetica,sans-serif;
+      line-height: 1.5;
+      color: #111111;
+    }
+
+    h1,
+    h2,
+    h3 {
+      margin-bottom: 2rem;
+      font-weight: 500;
+      line-height: 1.2;
+    }
+
+    p {
+      margin-bottom: 1.5rem;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+
+    .button {
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 10px;
+      padding: .5em 1em;
+      background: var(--orange);
+      font-weight: var(--bold);
+      text-decoration: none;
+      color: white;
+    }
+
+    .siteUpper {
+      margin: 2rem auto;
+      width: 90%;
+      max-width: 1000px;
+    }
+
+    .siteHeader {
+      padding: 2rem 2rem 4rem;
+      background: #F1FFFA;
+      text-align: center;
+    }
+
+    .logo {
+      width: 25rem;
+      color: var(--green);
+    }
+
+    .conf-locdate {
+      font-size: 2.8rem;
+      font-weight: 400;
+    }
+
+    .conf-description {
+      margin: 0 auto;
+      max-width: 20em; /* Change depending on text length */
+      font-size: 2rem;
+      font-weight: var(--bold);
+    }
+
+    .featuresBlock {
+      display: flex;
+      flex-flow: row wrap;
+      margin-left: -1.5rem;
+      margin-right: -1.5rem;
+    }
+
+    .feature {
+      display: flex;
+      flex-direction: column;
+      flex: 1 0 300px;
+      padding: 2rem;
+      background: var(--green);
+      font-size: 1.2rem;
+      line-height: 1.35;
+      text-decoration: none;
+      color: white;
+    }
+
+    .feature p {
+      flex: 1 1 auto;
+      margin-bottom: 1.5rem;
+    }
+
+    .feature .cta {
+      text-decoration: underline;
+    }
+
+    .feature:hover .cta {
+      text-decoration: none;
+    }
+
+    .feature:nth-child(2) {
+      background: var(--blue);
+    }
+
+    .feature:last-child {
+      background: var(--grape);
+    }
+
+    .spBlock {
+      padding: 2rem;
+      background: black url('{% link static/img/landing-page/people.jpg %}') no-repeat;
+      background-size: cover;
+      font-size: 1.4rem;
+      line-height: 1.3;
+      color: white;
+    }
+
+    .spBlock p {
+      max-width: 30em;
+    }
+
+    .sponsorsBlock p:last-of-type {
+      margin-bottom: 0;
+    }
+
+    .previousSponsors {
+      display: flex;
+      flex-flow: row wrap;
+      margin-top: 1.5rem;
+    }
+
+    .previousSponsors-title {
+      display: block;
+      margin-bottom: .5rem;
+      width: 100%;
+      font-size: 1.2rem;
+    }
+
+    .previousSponsors p {
+      font-size: 1.1rem;
+    }
+
+    .previousSponsors-list {
+      display: flex;
+      flex-flow: row wrap;
+    }
+
+    .siteFooter {
+      padding: 3rem;
+      background: var(--green);
+      text-align: center;
+      color: white;
+    }
+
+    .siteFooter a {
+      color: white;
+    }
+
+    .siteFooter a:hover {
+      color: var(--orange);
+    }
+
+    .socialIcons {
+      display: flex;
+      justify-content: center;
+      margin: 0 0 2rem 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .socialIcons li {
+      margin: 0 2rem;
+    }
+
+    .socialIcons a {
+      display: inline-flex;
+      color: var(--leaf);
+    }
+
+    .socialIcon {
+      width: 50px;
+      height: 50px;
+    }
+
+    .email {
+      display: inline-block;
+      margin-bottom: 1.5rem;
+      font-size: 1.5rem;
+      font-weight: 500;
+    }
+
+    .legal {
+      font-size: 1.1rem;
+    }
+  </style>
+
+  <script src="https://use.typekit.net/dvm6jjh.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+</head>
+
+<body>
+
+<div class="page">
+  <div class="siteUpper">
+    <header class="siteHeader">
+      <svg class="logo"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg>
+      <h1 class="conf-locdate">San Diego, CA &ndash; Oct 14-19, 2018</h1>
+      <h2 class="conf-description">Join us for six days of inspiration, education, and networking opportunities.</h2>
+    </header>
+    <main class="siteMain">
+      <div class="featuresBlock">
+        <a href="https://2017.djangocon.us/schedule/" class="feature">
+          <h3>Learn from Django's Brightest</h3>
+          <p>Every conference is packed with talks and workshops by Django veterans and enthusiastic first-time presenters.</p>
+          <span class="cta">See last year's schedule</span>
+        </a>
+        <a href="mailto:hello@djangocon.us?subject=Organizing DjangoCon US 2018" class="feature">
+          <h3>Let's Grow Together&mdash;Organize DjangoCon US</h3>
+          <p>Help make the conference happen by taking a leadership role on the organizing team, or volunteering to help out over the next several months.</p>
+          <span class="cta">Contact us to volunteer</span>
+        </a>
+        <a href="https://github.com/djangocon/2018.djangocon.us/blob/master/coc.md" class="feature">
+          <h3>Code of Conduct</h3>
+          <p>Participants are expected to be respectful to each other. DjangoCon US is a welcoming environment.</p>
+
+          <span class="cta">See our code of conduct</span>
+        </a>
+      </div>
+      <section class="spBlock">
+        <h2 class="spBlock-title">Sponsor DjangoCon US</h2>
+        <p>By giving to the community who builds and supports the software you use, you help ensure its happiness, health, and productivity. Sponsoring DjangoCon US also puts your brand in front of &gt;10,000 Python professionals and opportunities to speak directly to all of them.</p>
+
+        <p>
+          <a
+            href="mailto:hello@djangocon.us?subject=Sponsorsing DjangoCon US 2018"
+            class="button">Ask About Sponsorship</a>
+            <a
+            href="https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"
+            class="button">See Our Prospectus</a>
+        </p>
+
+        <!--
+        <div class="previousSponsors">
+          <h3 class="previousSponsors-title">Previous Top Sponsors</h3>
+          <ul class="previousSponsors-list">
+            <li>
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#lincolnloop"></use></svg>
+            </li>
+            <li>
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tito"></use></svg>
+            </li>
+          </ul>
+        </div>
+        -->
+      </section>
+    </main>
+  </div>
+
+  <footer class="siteFooter" role="contentinfo">
+    <ul class="socialIcons">
+      <li>
+        <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+          <svg class="socialIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter-icon"></use></svg>
+        </a>
+      </li>
+      <li>
+        <a class="github" href="https://github.com/djangocon/" target="_blank">
+          <svg class="socialIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#github-icon"></use></svg>
+        </a>
+      </li>
+      <li>
+        <a class="facebook" href="https://www.facebook.com/djangoconus/" target="_blank">
+          <svg class="socialIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook-icon"></use></svg>
+        </a>
+      </li>
+    </ul>
+
+    <p>
+      <a href="mailto:hello@djangocon.us" class="email">hello@djangocon.us</a>
+    </p>
+
+    <small class="legal">
+      &copy; 2018 DjangoCon US &bull; Presented by <a href="https://www.defna.org/">DEFNA</a>
+    </small>
+  </footer>
+</div>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="github-icon" viewBox="0 0 32.58 31.77">
+    <title>Github</title>
+      <path fill="currentColor"  d="M16.29,0a16.29,16.29,0,0,0-5.15,31.75c.81.15,1.11-.35,1.11-.79s0-1.41,0-2.77C7.7,29.18,6.74,26,6.74,26a4.31,4.31,0,0,0-1.81-2.38c-1.48-1,.11-1,.11-1a3.42,3.42,0,0,1,2.5,1.68,3.47,3.47,0,0,0,4.74,1.35,3.48,3.48,0,0,1,1-2.18C9.7,23.08,5.9,21.68,5.9,15.44a6.3,6.3,0,0,1,1.68-4.37,5.86,5.86,0,0,1,.16-4.31s1.37-.44,4.48,1.67a15.44,15.44,0,0,1,8.16,0c3.11-2.11,4.48-1.67,4.48-1.67A5.85,5.85,0,0,1,25,11.07a6.29,6.29,0,0,1,1.67,4.37c0,6.26-3.81,7.63-7.44,8a3.89,3.89,0,0,1,1.11,3c0,2.18,0,3.93,0,4.47s.29.94,1.12.78A16.29,16.29,0,0,0,16.29,0Z"/>
+  </symbol>
+  <symbol id="twitter-icon" viewBox="0 0 32.804 26.499">
+    <title>Twitter</title>
+    <path fill="currentColor" d="M32.804 3.055c-.887 1.28-1.971 2.462-3.35 3.447v.887c0 3.054-.689 6.107-2.167 8.964-1.379 2.856-3.645 5.221-6.601 7.191-2.955 1.97-6.402 2.955-10.343 2.955-3.842 0-7.29-.985-10.344-2.955.296 0 .887.099 1.675.099 3.152 0 5.911-.985 8.373-2.857-1.478 0-2.758-.492-3.94-1.379s-1.97-1.97-2.363-3.349c.196.098.689.098 1.28.098s1.182-.098 1.772-.196c-1.575-.296-2.856-1.084-3.841-2.364-.985-1.281-1.479-2.66-1.479-4.236v-.1c.887.493 1.872.788 2.956.887-1.971-1.379-2.956-3.25-2.956-5.614 0-1.183.296-2.266.887-3.35 3.646 4.433 8.274 6.797 13.89 6.994a5.95 5.95 0 0 1-.197-1.478c0-1.872.69-3.448 1.971-4.729S20.982 0 22.854 0c1.97 0 3.546.69 4.826 2.069 1.379-.296 2.857-.788 4.236-1.576-.493 1.576-1.478 2.758-2.955 3.743 1.38-.296 2.66-.689 3.843-1.181z"/>
+  </symbol>
+  <symbol id="facebook-icon" viewBox="0 0 42 42">
+    <title>Facebook</title>
+    <path fill="currentColor"  d="M39.68,0H2.32A2.32,2.32,0,0,0,0,2.32V39.68A2.32,2.32,0,0,0,2.32,42H22.43V25.74H17V19.4h5.47V14.72c0-5.42,3.31-8.38,8.15-8.38a44.91,44.91,0,0,1,4.89.25v5.67H32.12c-2.63,0-3.14,1.25-3.14,3.09v4h6.28l-.82,6.34H29V42h10.7A2.32,2.32,0,0,0,42,39.68V2.32A2.32,2.32,0,0,0,39.68,0Z"/>
+  </symbol>
+  <symbol id="logo" viewBox="0 0 310 58.9">
+    <title>DjangoCon.US</title>
+    <path fill="currentColor" d="M34.9.1h9.3v9.5h-9.3zM29.4 0h-9.3v14.1c-1.3-.3-2.7-.5-4.1-.5-9.7 0-16 6.1-16 15.5C0 38.9 5.9 43.9 17.3 44c4.1 0 8.1-.4 12.1-1.2V0zm-9.3 36.3c-1.1.2-2.1.2-3.2.2-4.8 0-7.4-2.7-7.4-7.6s2.7-7.9 7.4-7.9c1.1 0 2.1.1 3.1.5l.1 14.8z"/><path fill="currentColor" d="M34.9 32.4c0 8-.4 11.1-1.8 13.7s-3.3 4.3-7.4 6.2l8.6 4.1c4.1-2 6.1-3.9 7.6-6.8s2.2-6.6 2.2-14V14.2h-9.3v18.2zM62.1 13.6c-4.3 0-8.5.9-12.3 2.8v7.1c3.4-1.8 7.1-2.7 10.9-2.8 2.3 0 3.2.6 3.2 2.3v2c-11.4 1-16.1 3.9-16.1 10.4 0 6 3.5 8.7 11.3 8.7 4.4 0 8.9-.4 13.3-1V24.3c0-3.8-.2-5.6-1-7-1.4-2.5-4.5-3.7-9.3-3.7zm2.3 23.6c-1.5.3-3 .4-4.5.4-2.5 0-3.7-.8-3.7-2.6 0-2.4 2-3.4 8.2-4v6.2zM154.8 44.4c9.4 0 15.4-6 15.4-15.7 0-9.4-5.7-15.2-15-15.2-9.5 0-15.4 6-15.4 15.7 0 9.4 5.7 15.2 15 15.2zm.3-23.5c3.6 0 5.6 3 5.6 8s-2.1 8-5.7 8-5.7-2.9-5.7-8 2.1-8 5.8-8zM140.8 15c-4-.9-8.1-1.3-12.1-1.3-13.6 0-21.3 5.9-21.3 16.4 0 8.4 5.2 13.8 13.3 13.8 2.1.1 4.1-.4 6-1.3v.2c0 5.9-2.6 8.3-8.7 8.3-3.5 0-6.9-.8-10-2.4v8.5c3.2 1.2 6.6 1.8 10 1.8 4.9 0 8.8-1.1 11.7-3.2.5-.3 1-.7 1.4-1.1.8-.7 1.4-1.5 2-2.4 2-3.1 2.7-6.8 2.7-14.7V35c-.1-1.3-.1-2.5-.1-3.8l-.1-5-.1-3.9v-1c1.9.2-.4-.2 2.1.2l3.2-6.5zm-14 20.1v.7c-1.1.4-2.3.6-3.5.6-4.1 0-6.4-2.6-6.4-7.2 0-3.2 1.2-5.5 3.4-6.8 1.6-.9 3.5-1.4 5.4-1.3h1v.7l.1 3 .1 4.2c0 1.3.1 2.5.1 3.5l-.2 2.6zM91.6 13.6c-4.9.1-9.9.8-14.6 2.1v27.9h9.3V21.7c1.4-.4 2.8-.7 4.3-.7 3.3 0 4.5 1.3 4.5 4.9v17.7h9.3V25.5c0-4.6-.6-6.8-2.5-8.7s-5.5-3.2-10.3-3.2zM231.6 29.2c0-9.4-5.7-15.2-15-15.2-9.5 0-15.4 6-15.4 15.7 0 9.3 5.7 15.2 15.1 15.2s15.3-6 15.3-15.7zm-20.9.2c0-5.1 2.1-8 5.8-8s5.6 3 5.6 8-2.1 8-5.7 8-5.7-2.8-5.7-8zM252.5 26.4v17.7h9.3V26c0-4.6-.6-6.8-2.5-8.7s-5.5-3.2-10.3-3.2c-4.9.1-9.9.8-14.6 2.1v27.9h9.3V22.2c1.4-.4 2.8-.7 4.3-.6 3.3 0 4.5 1.3 4.5 4.8zM291 43.4c1.3-1.4 1.8-2.9 1.8-6.1V24.7h-6.5V37c0 2.5-.8 3.4-3.1 3.4-1 0-2-.2-3-.5V24.7h-6.4v19.4c3.3.9 6.7 1.4 10.2 1.4 3.2.1 5.6-.7 7-2.1zM177.8 40.6c3 2.8 8.5 3.8 12.2 3.7 2.9 0 5.8-.7 8.4-2.1v-7.4c-2 1-4.2 1.6-6.4 1.6-3.6 0-9.3-1.4-9.3-7.8s5.7-7.8 9.3-7.8c2.2 0 4.3.7 6.2 1.8v-7.5c-2.5-1.2-5.3-1.8-8.1-1.8-3.7 0-8.8 1.1-11.8 4-3.2 2.9-5.1 7-5.1 11.3-.3 4.5 1.4 8.9 4.6 12zM302.7 32.3c-1.5-.7-1.4-1.5-1.4-1.5s0-1.3 2.6-1.3c1.9 0 3.7.5 5.4 1.3v-4.9c-2-1-4.3-1.4-6.6-1.2-7.5.3-7.4 6-7.4 6-.2 1.5.4 3 1.4 4.2 1.6 1.3 3.4 2.3 5.3 3 1.4.5 1.9 1.2 1.9 1.5s.2 1.4-2.6 1.4c-2.1-.1-4.1-.7-6-1.6v5.1c2.8 1.1 5.9 1.5 8.8 1.1 2.8-.5 5.6-1.4 5.9-5.9.3-4.4-4.1-5.8-7.3-7.2zM264.1 36.7h7.4v7.4h-7.4z"/>
+  </symbol>
+
+  <!-- Sponsor logos -->
+  <symbol id="lincolnloop" viewBox="0 0 1296 720">
+    <title>Lincoln Loop</title>
+    <path d="M686.3 223.2c0-8.6 5.2-13.1 13.1-13.1s13.1 4.5 13.1 13.1v107.6c0 8.6-5.2 13.1-13.1 13.1s-13.1-4.5-13.1-13.1V223.2zm59.2-13.8c7.5 0 13.6 6.1 13.6 13.6s-6.1 13.6-13.6 13.6-13.6-6.1-13.6-13.6 6.1-13.6 13.6-13.6m-13.1 49.1c0-7 2.9-13.1 13.1-13.1s13.1 6.1 13.1 13.1v72.3c0 7-2.9 13.1-13.1 13.1s-13.1-6.1-13.1-13.1v-72.3zm44.7 0c0-7.9 3.6-13.1 11.8-13.1 8.3 0 11.8 5.2 11.8 13.1v3.4h.4c7.4-9.7 16.9-16.5 31.8-16.5 15.8 0 33 7.9 33 34.4v50.9c0 7-2.9 13.1-13.1 13.1s-13.1-6.1-13.1-13.1V285c0-10.6-5.2-18.1-16.5-18.1-9.2 0-19.9 7.5-19.9 20.6v43.2c0 7-2.9 13.1-13.1 13.1s-13.1-6.1-13.1-13.1v-72.2zm150-13.1c21.9 0 38.2 12.4 38.2 24.6 0 7.5-5.6 11.3-12.2 11.3-12.4 0-7.9-15.4-26.7-15.4-10.2 0-22.2 7-22.2 30.7 0 16.3 7.7 26.9 22.1 26.9 18.3 0 14.4-16.9 28.2-16.9 6.6 0 10.9 4.8 10.9 10 0 11.5-12.9 27.3-39.8 27.3-32.3 0-47.5-19.9-47.5-47.4-.2-30.1 16.9-51.1 49-51.1m92.9 0c31.6 0 48.4 21.5 48.4 49.2 0 26.2-12.7 49.3-48.4 49.3s-48.4-23.1-48.4-49.3c0-27.7 16.8-49.2 48.4-49.2m0 79.1c15.6 0 22.2-14 22.2-30 0-17-7-29.8-22.2-29.8s-22.2 12.7-22.2 29.8c-.1 16 6.6 30 22.2 30m62.9-101.3c0-8.6 5.2-13.1 13.1-13.1 7.9 0 13.1 4.5 13.1 13.1v107.6c0 8.6-5.2 13.1-13.1 13.1-7.9 0-13.1-4.5-13.1-13.1V223.2zm44.7 35.3c0-7.9 3.6-13.1 11.8-13.1 8.3 0 11.8 5.2 11.8 13.1v3.4h.4c7.4-9.7 16.9-16.5 31.8-16.5 15.8 0 33 7.9 33 34.4v50.9c0 7-2.9 13.1-13.1 13.1s-13.1-6.1-13.1-13.1V285c0-10.6-5.2-18.1-16.5-18.1-9.1 0-19.9 7.5-19.9 20.6v43.2c0 7-2.9 13.1-13.1 13.1s-13.1-6.1-13.1-13.1v-72.2zM686.3 381.7c0-8.6 5.2-13.1 13.1-13.1s13.1 4.5 13.1 13.1v107.6c0 8.6-5.2 13.1-13.1 13.1s-13.1-4.5-13.1-13.1V381.7zm89.2 22.2c31.6 0 48.4 21.5 48.4 49.2 0 26.2-12.7 49.3-48.4 49.3s-48.4-23.1-48.4-49.3c0-27.6 16.8-49.2 48.4-49.2m0 79.2c15.6 0 22.2-14 22.2-30 0-17-7-29.8-22.2-29.8s-22.2 12.7-22.2 29.8c0 16 6.6 30 22.2 30m106-79.2c31.6 0 48.4 21.5 48.4 49.2 0 26.2-12.7 49.3-48.4 49.3s-48.4-23.1-48.4-49.3c0-27.6 16.8-49.2 48.4-49.2m0 79.2c15.6 0 22.2-14 22.2-30 0-17-7-29.8-22.2-29.8s-22.2 12.7-22.2 29.8c0 16 6.6 30 22.2 30m61.5-66.8c0-8.1 3.8-12.4 11.8-12.4 7.7 0 11.8 4.3 11.8 12.4v4.1h.4c4.3-11.1 14.9-16.5 27.6-16.5 21.9 0 41.1 16 41.1 49.9 0 25.1-12.7 48.6-40.4 48.6-12 0-21-4.8-25.8-13.3h-.4v35c0 8.6-5.2 13.1-13.1 13.1-7.9 0-13.1-4.5-13.1-13.1V416.3zm45.8 8.1c-15.2 0-21 13.6-21 28.5 0 13.5 5 29.2 21 29.1 16.7 0 20.8-16.9 20.8-29.1 0-15.4-6.8-28.1-20.8-28.5" fill="currentColor"/><path d="M352.2 87.4C201.9 87.4 79.6 209.7 79.6 360s122.3 272.6 272.6 272.6c151.2 0 273.5-122.3 273.5-272.6S503.4 87.4 352.2 87.4zm-12.6 184.4v92.1c-.2 7.3-2.4 14.2-6 20-1.4 2.8-2.8 5-3.7 6.4-1.5 2.4-50.2 71.8-50.2 71.8l-19.8 28c-11.3 16.1-27 17.7-41.8 7.4-14.8-10.4-18.7-25.6-7.4-41.8 0 0 36.1-51.7 52-74.4 3.8-5.5 6.5-9.3 7.2-10.3.3-.4.5-.7.7-1 5.4-7.1 8.7-15.8 9-25.2V240.7c0-19.7 11.9-30 30-30s30 10.3 30 30v31.1zm147.7 225.5c-14.8 10.4-30.5 8.8-41.8-7.4l-19.8-28s-48.8-69.4-50.2-71.8c-.9-1.4-2.2-3.6-3.7-6.4-3.6-5.9-5.8-12.7-6-20V240.4c0-19.7 11.9-30 30-30s30 10.3 30 30v104.2c.2 9.5 3.5 18.2 9 25.2.2.3.5.7.7 1 .7 1 3.3 4.8 7.2 10.3 15.9 22.7 52 74.4 52 74.4 11.2 16.2 7.4 31.5-7.4 41.8z" fill-rule="evenodd" clip-rule="evenodd" fill="currentColor"/>
+  </symbol>
+  <symbol id="tito" viewBox="-189 189.3 260 103.4"><path d="M-108.2 189.3h-67v19h23v82h21v-82h23zM-98.2 189.3h19v18h-19zM-98.2 217.3h19v73h-19zM18.3 214.9c-21.5 0-38.9 17.4-38.9 38.9s17.4 38.9 38.9 38.9 38.9-17.4 38.9-38.9-17.4-38.9-38.9-38.9zm-21 38.9c0-12.2 9.9-22 22-22s22 9.8 22 22c0 1-.1 1.9-.2 2.8-1.8-14-14.8-15.5-18.9-15.5-4.5 0-5.9.6-8.4 2.2v15s2.2-1.5 5.1-1.5c2.9 0 9 1.7 9 8.9s-4.9 10-9.6 10c-11.1.1-21-10.1-21-21.9zM-28.2 232.3v-16h-14v-27h-18v27h-9v16h9v42c0 .7 0 16.6 31 16v-16s-13 .9-13-7v-35h14z" fill="currentColor"/>
+</svg>
+
+{% include analytics.html %}
+</body>
+</html>

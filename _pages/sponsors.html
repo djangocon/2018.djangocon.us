@@ -1,0 +1,56 @@
+---
+layout: base
+permalink: /sponsors/
+heading: Sponsors
+description: DjangoCon US is only possible through the support of various organizations.
+---
+
+{% include titlebar.html %}
+
+<header class="subpage-header">
+  <h1>{{ page.heading }}</h1>
+</header>
+
+<div class="content">
+  <div class="row column v-pad-bottom">
+    <div class="medium-6 large-7 column">
+      <p class="lead">
+        DjangoCon US is only possible through the generosity of the organizations and businesses on this page. Their donations make it possible for us to provide financial support to speakers and attendees, record all talks, host sprints, and feed everyone for six days. Thank you for your support!
+      </p>
+    </div>
+    <div class="medium-5 large-4 column">
+      <div class="callout callout-dark text-center partner-cta-box">
+        <h2>Sponsor DjangoCon US</h2>
+        <p>By supporting the community who builds and supports the software you use, you help ensure its happiness, health, and productivity.</p>
+        <a href="/sponsors/information/" class="button secondary">Become a Sponsor</a>
+      </div>
+    </div>
+  </div>
+
+  {% for level in site.data.sponsors.levels %}
+    {% if level.sponsors %}
+      <div class="section-pad {% cycle 'theme-light-beige', 'theme-dark-beige', 'theme-medium-beige' %}">
+        <h2 class="text-center v-pad-bottom">{{ level.name }}</h2>
+        {% for sponsor in level.sponsors %}
+          {% unless sponsor.hidden %}
+            <div class="row partner">
+              <div class="column medium-4 text-center">
+                <a href="{{ sponsor.url }}">
+                  <img
+                    class="partner-logo {{ sponsor.logo_orientation }}"
+                    src="{{ sponsor.logo }}"
+                    alt="{{ sponsor.name }} Logo" />
+                </a>
+              </div>
+              <div class="column medium-8">
+                <h3 class="partner-name"><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></h3>
+                {% capture sponsor_description %}{{ sponsor.description }}{: .partner-description }{% endcapture %}
+                {{ sponsor_description | markdownify }}
+              </div>
+            </div>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

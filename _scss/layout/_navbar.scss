@@ -1,0 +1,222 @@
+// headroom is the plugin used to pin the navbar to the top.
+// it adds classes with JS, and those classes are used here.
+// Documentation here: http://wicky.nillia.ms/headroom.js/
+
+
+
+// title bar text overrides
+.off-canvas .menu a,
+.title-bar .menu a {
+  text-decoration: none;
+  color: $white;
+}
+
+.off-canvas .menu li,
+.dropdown .menu li {
+  margin-bottom: 0;
+}
+
+// If you want to only have the transparent-at-top option on the homepage
+// instead of site-wide,  prepend every instance of .headroom--top with
+// .home-title-wrap in this file.
+
+.headroom--top .menu .menu,
+.menu .menu { // subnav menu, with the headroom class added so it doesn't change
+  text-align: left;
+
+  a {
+    color: $white;
+  }
+
+  a:hover {
+    background: $secondary-color;
+  }
+
+}
+
+
+.headroom--top .menu .navbar-button,
+.navbar-button {
+  background: $orange;
+  text-align: center;
+  color: $white;
+
+  small {
+    font-size: rem-calc(16);
+  }
+
+  &:hover {
+    background: mix(black, $orange, 10%);
+  }
+}
+
+.logo {
+  display: block;
+  margin: 10px 0 -20px 10px;
+  width: 160px;
+  height: 53px; // for IE
+
+  svg {
+    max-width: 100%;
+    height: 100%;
+  }
+
+  .background-field {
+    fill: $green;
+  }
+
+  .djangocon {
+    fill: $body-background;
+  }
+
+  .location {
+    fill: $orange;
+  }
+}
+
+@include breakpoint(medium) {
+  .logo {
+    margin: 10px 0 -60px 10px;
+    width: 140px;
+    height: auto;
+  }
+}
+
+@include breakpoint(large) {
+  .logo {
+    width: 270px;
+  }
+}
+
+@include breakpoint(xlarge) {
+  .logo {
+    width: 300px;
+  }
+}
+
+// change appearance on scroll.
+.headroom {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+  transition: all 200ms ease;
+  will-change: transform;
+
+  a,
+  svg,
+  path,
+  polygon,
+  rect,
+  g {
+    transition: all 400ms ease;
+  }
+}
+
+@include breakpoint(small only) { // hide header when scrolling down on mobile
+  .headroom--pinned {
+    transform: translateY(0%);
+  }
+
+  .headroom--unpinned {
+    transform: translateY(-130%);
+  }
+}
+
+// change visual styles
+.headroom--top {
+  background-color: transparent;
+
+  .logo {
+    width: 160px;
+    height: auto;
+
+    .background-field {
+      fill: transparent;
+    }
+
+    .djangocon {
+      fill: $green;
+    }
+
+    .location {
+      fill: $orange;
+    }
+  }
+
+  .top-bar-title {
+    color: $primary-color;
+  }
+
+  .menu {
+    a {
+      color: $green;
+    }
+
+    li.is-dropdown-submenu-parent > a::after { // override arrow color
+      border-color: $green transparent transparent;
+    }
+
+    li li.is-dropdown-submenu-parent > a::after { // override arrow color
+      border-color: $body-background transparent transparent;
+      opacity: 1;
+    }
+
+    .menu {
+      a {
+        color: $white;
+      }
+
+      a:hover {
+        background: $primary-color;
+      }
+    }
+
+    li:not(.has-button) {
+      &:hover {
+        > a,
+        > a:hover {
+          color: $orange;
+        }
+      }
+    }
+  }
+
+  @include breakpoint(medium) {
+    .logo {
+      width: 140px;
+      //height: 46px;
+    }
+  }
+
+  @include breakpoint(large) {
+    .logo {
+      width: 265px;
+      //height: 88px;
+    }
+  }
+
+  @include breakpoint(xlarge) {
+    .logo {
+      width: 360px;
+      //height: 118px;
+    }
+  }
+}
+
+
+// tightening drop-down arrows on navigaiton parent elements
+.dropdown.menu > li.is-dropdown-submenu-parent > a {
+  padding-right: 1.1rem;
+}
+
+@include breakpoint(smedium down) {
+  .is-dropdown-submenu-parent {
+    position: static; // fixing drilldown
+  }
+
+  .menu>li>a {
+    padding: .7rem;
+  }
+}

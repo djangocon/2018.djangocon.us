@@ -1,0 +1,135 @@
+
+// This file creates classes to manipulate colors. The color options can be found
+// in the $djangocon-palette sass map in _settings.scss. Here are the available
+// classes and what they do (where 'n' is the name of the color):
+// ```
+// `.theme-n` // Adds a background color to the block it's applied to. For darker
+// colors, text and links default to white. A generic class of `.theme-color`
+// can be applied to elements within the theme  to inherit that color as well,
+// so themes can be applied quickly to parent elements to change the colors
+// further down the cascade.
+//
+// `.swatch-color-n` can be applied to any element to change that element's text
+// color.
+//
+// `.card-theme-n` can be applied to Foundation's 'card' element to add a colored
+// top border, and change the color of any headlines or SVG icons inside the
+// container. `.theme-color` and `.theme-bg` can also be used generically
+// inside these containers.
+
+
+
+/// Sets up basic background/foreground and link theme support for block
+/// (page-wide) elements.
+/// @param {Map} $colors The map of colors to run through
+@mixin generate-block-themes($colors: $djangocon-palette) {
+  @each $name, $color in $djangocon-palette {
+    $foreground-color: $white;
+
+    .theme-#{$name} {
+      background-color: $color;
+
+      @if not index(($light-beige, $dark-beige), $color) {
+        color: $white;
+
+        a,
+        a:hover {
+          color: $white;
+        }
+      }
+
+      .theme-color {
+        color: $color;
+      }
+    }
+
+    .tint-#{$name} {
+      position: relative;
+
+      @include breakpoint(medium) {
+        @if not index(($light-beige, $dark-beige), $color) {
+          &,
+          & blockquote,
+          & blockquote p,
+          & cite {
+            color: $white;
+          }
+
+          a,
+          a:hover {
+            color: $white;
+          }
+        }
+
+        &:after {
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          background-color: $color;
+          content: "";
+          opacity: 0.8;
+        }
+      }
+
+    }
+  }
+}
+
+@include generate-block-themes($djangocon-palette);
+
+/// Take a map of colors and generates helpful classes to use them
+/// as color properties.
+/// @param {Map} $map A map of names with colors
+@mixin generate-palette-helpers($map: $palette) {
+  $params-ok: false;
+
+  @if type-of($map) != "map" {
+    @error "Parameter `#{$map}` must be a map.";
+  } @else {
+    $params-ok: true;
+  }
+
+  @if $params-ok {
+    @each $name, $color in $map {
+      .swatch-color-#{$name} {
+        color: $color;
+      }
+
+      .card-theme-#{$name} {
+        border: none;
+        border-top: 8px solid $color;
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        a {
+          color: $color;
+        }
+
+        a:hover {
+          color: mix(black, $color, 10%);
+        }
+
+        .theme-color {
+          color: $color;
+        }
+
+        .theme-bg {
+          background-color: $color;
+          color: #fff;
+        }
+
+        path {
+          fill: $color;
+        }
+      }
+    }
+  }
+}
+
+@include generate-palette-helpers($djangocon-palette);

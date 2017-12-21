@@ -1,0 +1,25 @@
+.partner {
+  margin-bottom: $global-margin * 2;
+}
+
+.partner-name {
+  font-size: rem-calc(36);
+  font-weight: $global-weight-normal;
+}
+
+.partner-url {
+  font-size: rem-calc(20);
+  font-weight: $global-weight-normal;
+}
+
+.partner-logo {
+  margin-bottom: $global-margin;
+}
+
+.partner-logo.portrait {
+  max-height: 200px;
+}
+
+.partner-logo.landscape {
+  max-width: 300px;
+}

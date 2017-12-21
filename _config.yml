@@ -1,0 +1,111 @@
+title: DjangoCon US
+url: "https://2018.djangocon.us"
+author : DjangoCon US
+description: |
+  DjangoCon US 2018 conference will take place in San Diego, California
+  from October 14-19, 2018!
+enforce_ssl: "2018.djangocon.us"
+relative_permalinks: false
+permalink: news/:title/  # permalink: date
+contact_us_email: "hello@djangocon.us"
+sponsors_email: "sponsors@djangocon.us"
+coc_email: "coc@djangocon.us"
+visa_email: "visas@djangocon.us"
+
+include:
+  - _pages
+  - .surgeignore
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+exclude:
+  - .editorconfig
+  - .gitignore
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+  - bower_components
+  - deploy_surge.sh
+  - gulpfile.js
+  - node_modules
+  - package.json
+  - vendor
+
+  # TODO: As we bring pages live, we need to revisit this section...
+  - _pages/404.md
+  - _pages/about.html
+  - _pages/coc.html
+  - _pages/demo-schedule.html
+  - _pages/event.md
+  - _pages/faqs.html
+  - _pages/financial-aid.md
+  - _pages/homepage-full.md
+  - _pages/homepage.md
+  - _pages/news.md
+  - _pages/organizers.html
+  - _pages/room-sharing.md
+  - _pages/schedule.html
+  - _pages/slack.html
+  - _pages/speaking-resources.md
+  - _pages/speaking.md
+  - _pages/sponsors-information.md
+  - _pages/sponsors.html
+  - _pages/sprints.html
+  - _pages/talks.html
+  - _pages/tickets.html
+  - _pages/tutorials.html
+  - _pages/venue.html
+  - _pages/why-djangocon-us.html
+  - _posts
+  - _schedule
+  - static/2018-logos
+
+
+# We need `future` to allow our schedule to work :/
+future: true
+
+collections:  # process the _data folder
+  components:
+    output: false
+  schedule:
+    output: true
+    permalink: /:collection/:name/
+
+# SEO Plugin settings
+
+twitter:
+  username: djangocon
+
+# This is the default logo that people see with opengraph
+# logo: /static/2018-logos/squares-and-social/djangocon-square.png
+logo: /static/img/landing-page/logo.svg
+
+
+# Frontmatter fallback settings
+# This is the default logo that people see on blog posts
+defaults:
+  - scope:
+      path: ""
+    values:
+      # image: /static/2018-logos/squares-and-social/djangocon-square.png
+      image: /static/img/landing-page/logo.png
+
+# Our DjangoCon US links
+sponsorship_prospectus: "https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"
+financial_aid_application: "https://goo.gl/forms/Uu3gr1ltLbSR7SxM2"
+
+github: [metadata]
+facebook:
+  app_id: 280981518972848

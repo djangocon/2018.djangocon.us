@@ -1,0 +1,21 @@
+<nav class="title-bar headroom headroom--top">
+  <div class="title-bar-left">
+      <a class="logo" href="/">
+        {% include logo.svg.html %}
+      </a>
+  </div>
+  <div class="title-bar-right">
+    <ul class="dropdown menu quiet show-for-medium" data-dropdown-menu>
+      {% include nav.html %}
+    </ul>
+    <button
+      class="hamburger hamburger--spin hide-for-medium" type="button" data-toggle="offCanvasRight"
+      aria-hidden="true"
+      aria-label="A button that open and closes site navigation">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+
+  </div>
+</nav>

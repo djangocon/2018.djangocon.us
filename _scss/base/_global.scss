@@ -1,0 +1,69 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  a {
+    text-decoration: none;
+  }
+}
+
+li {
+  margin-bottom: .85rem;
+}
+
+.lead {
+  margin-bottom: 2.5rem;
+  font-weight: $global-weight-normal;
+}
+
+.lead.min {
+  margin-bottom: 1.5rem;
+}
+
+.demp {
+  font-weight: $global-weight-normal;
+}
+
+iframe,
+.highlighter-rouge {
+  margin-bottom: $global-margin;
+}
+
+.responsive-embed iframe {
+  margin-bottom: 0;
+}
+
+.thumbnail-block {
+  border-radius: 0;
+}
+
+.list-split {
+  @include breakpoint(medium) {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+
+    li {
+      width: 45%;
+    }
+  }
+}
+
+.callout-dark {
+  @include callout-style(darken($dark-green, 5%));
+}
+
+// Ensure we have space for anchors and the header does not cover them.
+:target:before {
+  display:block;
+  margin: -70px 0 0; /* negative fixed header height */
+  height: 70px; /* fixed header height*/
+  content: "";
+
+  @include breakpoint(medium) {
+    margin-top: -110px;
+    height: 110px;
+  }
+}

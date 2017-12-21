@@ -1,0 +1,47 @@
+.event-links-heading {
+  margin-right: 1em;
+  width: 100%;
+  font-size: rem-calc(28);
+  color: $green;
+
+  @include breakpoint(medium) {
+    width: auto;
+  }
+}
+
+.event-link-icon {
+  height: 36px;
+}
+
+.event-link-icon path {
+  fill: $white;
+}
+
+.event-link {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: .75em 1.75em;
+  width: 48%;
+
+}
+
+.event-link-icon {
+  margin-right: .5em;
+}
+
+.event-links {
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: $global-margin * 3;
+
+  @include breakpoint(smedium) {
+    justify-content: center;
+    align-items: center;
+
+    .event-links-heading,
+    .event-link {
+      width: auto;
+    }
+  }
+}

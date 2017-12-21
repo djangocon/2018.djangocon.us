@@ -1,0 +1,61 @@
+/// Removes trailing space at the bottom of elements.
+@mixin bottomless {
+  & > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.bottomless {
+  @include bottomless;
+}
+
+.v-pad-bottom {
+  padding-bottom: 1rem;
+
+  @include breakpoint(medium) {
+    padding-bottom: 2rem;
+  }
+}
+
+.v-pad-top {
+  padding-top: 1rem;
+
+  @include breakpoint(medium) {
+    padding-top: 2rem;
+  }
+}
+
+.section-pad {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  @include breakpoint(medium) {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
+
+// This class is added to the <html> element while fonts
+// are loading. If webfonts fail to load, it's replaced
+// by .wf-inactive, so there shouldn't be a scenerio
+// where the page gets stuck and no fonts show up.
+
+.wf-loading {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  li,
+  table {
+    visibility: hidden;
+  }
+}
+
+// Ensure emoji in headers display correct, size wise
+h1 img.emoji { 
+  width: 1em;
+  height: 1em; 
+}

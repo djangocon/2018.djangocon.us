@@ -1,0 +1,18 @@
+.post-item {
+  margin-bottom: $global-margin;
+  padding-bottom: $global-padding;
+  border-bottom: 1px solid $dark-beige;
+  @include bottomless;
+}
+
+.post-title {
+  font-weight: $global-weight-normal;
+}
+
+.post-title a {
+  color: $secondary-color;
+
+  &:hover {
+    color: $primary-color;
+  }
+}

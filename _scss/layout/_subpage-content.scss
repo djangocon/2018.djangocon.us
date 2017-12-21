@@ -1,0 +1,10 @@
+.subpage-content {
+  padding-bottom: 100px;
+  margin-top: -4%;
+  position: relative;
+  z-index: 2;
+
+  .section-pad:first-child {
+    padding-top: 0;
+  }
+}

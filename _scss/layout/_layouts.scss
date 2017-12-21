@@ -1,0 +1,10 @@
+// Patterns that are specific to a page and likely not reusable.
+
+.partner-cta-box h2 {
+  margin-bottom: $global-margin / 2;
+  font-size: rem-calc(28);
+}
+
+.schedule-page .subpage-content {
+  padding-bottom: 0;
+}

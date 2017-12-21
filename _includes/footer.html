@@ -1,0 +1,77 @@
+<footer class="footer" role="contentinfo">
+
+  <a class="footer-logo" href="{{ site.url }}">
+    {% include logo.svg.html %}
+  </a>
+
+  <div class="row column">
+
+    {% comment %}
+    <div class="show-for-medium">
+      <ul class="footer-nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Buy Tickets</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">FAQ</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <ul class="footer-nav">
+        <li><a href="#">About</a></li>
+        <li><a href="#">Code of Conduct</a></li>
+        <li><a href="#">Financial Aid</a></li>
+        <li><a href="#">Why DjangoCon US?</a></li>
+        <li><a href="#">Organizers</a></li>
+      </ul>
+      <ul class="footer-nav">
+        <li><a href="#">Venue</a></li>
+        <li><a href="#">Accessibility</a></li>
+        <li><a href="#">Speaking</a></li>
+        <li><a href="#">Speaker Resources</a></li>
+      </ul>
+      <ul class="footer-nav">
+        <li><a href="#">Sponsors</a></li>
+        <li><a href="#">Become a Sponsor</a></li>
+      </ul>
+    </div>
+    {% endcomment %}
+
+    <ul class="social-icons">
+      <li>
+        <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
+          <svg class="social-icon"><use xlink:href="#twitter-icon"></use></svg>
+        </a>
+      </li>
+      <li>
+        <a class="github" href="https://github.com/djangocon/" target="_blank">
+          <svg class="social-icon"><use xlink:href="#github-icon"></use></svg>
+        </a>
+      </li>
+      <li>
+        <a class="facebook" href="https://www.facebook.com/djangoconus/" target="_blank">
+          <svg class="social-icon"><use xlink:href="#facebook-icon"></use></svg>
+        </a>
+      </li>
+
+      {% comment %}
+      <li>
+        <a class="instagram" href="https://www.instagram.com/#TODO/" target="_blank">
+          <svg class="social-icon"><use xlink:href="#instagram-icon"></use></svg>
+        </a>
+      </li>
+      {% endcomment %}
+    </ul>
+
+    <p class="text-center">
+      <strong>
+        <a
+          href="mailto:{{site.contact_us_email}}">{{site.contact_us_email}}</a>
+      </strong>
+    </p>
+
+    <small class="legal text-center">
+      &copy; {{ site.time | date: '%Y' }} DjangoCon US
+      &middot; Design by <a href="https://lincolnloop.com/">Lincoln Loop</a>
+      &middot; Presented by <a href="https://www.defna.org/">DEFNA</a>
+    </small>
+  </div>
+</footer>

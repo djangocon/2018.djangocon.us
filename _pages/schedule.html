@@ -1,0 +1,127 @@
+---
+layout: default
+title: Schedule
+permalink: /schedule/
+description: DjangoConUS 2017 Conference Schedule
+heading: General Conference Schedule
+sitemap: true
+---
+
+<!-- tutorials -->
+<section class="section-pad schedule">
+  <div class="row column">
+    <h2 class="day">Tutorials: Sunday, August 13</h2>
+    <p class="lead">
+      Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
+    </p>
+    <ul class="schedule">
+      {% for post in site.schedule %}
+        {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
+        {% if day == 'Sunday' %}
+          {% include schedule-tutorials-day.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+<!-- tutorials -->
+
+<!-- talks: day 1 -->
+<section class="section-pad schedule">
+  <div class="row column">
+    <h2 class="day">Talks: Monday, August 14</h2>
+    <ul class="schedule">
+      {% for post in site.schedule %}
+        {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
+        {% if day == 'Monday' %}
+          {% include schedule-talks-day.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+<!-- talks: day 1 -->
+
+<!-- talks: day 2 -->
+<section class="section-pad schedule">
+  <div class="row column">
+    <h2 class="day">Talks: Tuesday, August 15</h2>
+    {% comment %}
+    <p class="lead">
+      Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
+    </p>
+    {% endcomment %}
+    <ul class="schedule">
+      {% for post in site.schedule %}
+        {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
+        {% if day == 'Tuesday' %}
+          {% include schedule-talks-day.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+<!-- talks: day 2 -->
+
+<!-- talks: day 3 -->
+<section class="section-pad schedule">
+  <div class="row column">
+    <h2 class="day">Talks: Wednesday, August 16</h2>
+    {% comment %}
+    <p class="lead">
+      Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
+    </p>
+    {% endcomment %}
+    <ul class="schedule">
+      {% for post in site.schedule %}
+        {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
+        {% if day == 'Wednesday' %}
+          {% include schedule-talks-day.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+<!-- talks: day 3 -->
+
+<!-- sprints: day 1 -->
+<section class="section-pad schedule">
+  <div class="row column">
+    <h2 class="day">Sprints: Thursday, August 17</h2>
+    {% comment %}
+    <p class="lead">
+      Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
+    </p>
+    {% endcomment %}
+    <ul class="schedule">
+      {% for post in site.schedule %}
+        {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
+        {% if day == 'Thursday' %}
+          {% include schedule-sprints-day.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+<!-- sprints: day 1 -->
+
+<!-- sprints: day 2 -->
+<section class="section-pad schedule">
+  <div class="row column">
+    <h2 class="day">Sprints: Friday, August 18</h2>
+    {% comment %}
+    <p class="lead">
+      Tutorials are a separate registration and are $150 per session. Buy tutorial tickets before they sell out!
+    </p>
+    {% endcomment %}
+    <ul class="schedule">
+      {% for post in site.schedule %}
+        {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
+        {% if day == 'Friday' %}
+          {% include schedule-sprints-day.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+<!-- sprints: day 2 -->

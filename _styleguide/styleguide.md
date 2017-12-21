@@ -31,7 +31,7 @@ locally using Adobe Creative Cloud for desktop use in order to edit the logo in
 the future. If you choose to buy the font license, you can do so at
 [Emigree.com](http://www.emigre.com/EF.php?fid=219).
 
-<img class="styleguide-logo" src="/static/2017-logos/DjangoCon-2017-no-bg.svg">
+<img class="styleguide-logo" src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.svg">
 
 
 
@@ -62,90 +62,90 @@ theme for the year. For 2017, the color palette is as follows:
 
 <div class="row logo-set-wrap">
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-black-knockout.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-knockout.jpg" download>black-knockout.jpg</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-knockout.pdf" download>black-knockout.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-knockout.png" download>black-knockout.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-knockout.svg" download>black-knockout.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.jpg" download>black-knockout.jpg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.pdf" download>black-knockout.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.png" download>black-knockout.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.svg" download>black-knockout.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-black-with-opacity.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-with-opacity.jpg" download>black-with-opacity.jpg</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-with-opacity.pdf" download>black-with-opacity.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-with-opacity.png" download>black-with-opacity.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black-with-opacity.svg" download>black-with-opacity.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.jpg" download>black-with-opacity.jpg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.pdf" download>black-with-opacity.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.png" download>black-with-opacity.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.svg" download>black-with-opacity.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-black.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-black.jpg" download>black.jpg</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black.pdf" download>black.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black.png" download>black.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-black.svg" download>black.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.jpg" download>black.jpg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.pdf" download>black.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.png" download>black.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.svg" download>black.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-color-with-background.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-color-with-background.jpg" download>color-with-background.jpg</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-color-with-background.pdf" download>color-with-background.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-color-with-background.png" download>color-with-background.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-color-with-background.svg" download>color-with-background.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.jpg" download>color-with-background.jpg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.pdf" download>color-with-background.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.png" download>color-with-background.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.svg" download>color-with-background.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-green.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-green.jpg" download>green.jpg</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-green.pdf" download>green.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-green.png" download>green.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-green.svg" download>green.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.jpg" download>green.jpg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.pdf" download>green.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.png" download>green.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.svg" download>green.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-knockout.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-knockout.jpg" download>knockout.jpg</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-knockout.pdf" download>knockout.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-knockout.png" download>knockout.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-knockout.svg" download>knockout.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.jpg" download>knockout.jpg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.pdf" download>knockout.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.png" download>knockout.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.svg" download>knockout.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-no-bg.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-no-bg.jpg" download>no-bg.jpg</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-no-bg.pdf" download>no-bg.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-no-bg.png" download>no-bg.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-no-bg.svg" download>no-bg.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.jpg" download>no-bg.jpg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.pdf" download>no-bg.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.png" download>no-bg.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.svg" download>no-bg.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-white-with-opacity.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-white-with-opacity.pdf" download>white-with-opacity.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-white-with-opacity.png" download>white-with-opacity.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-white-with-opacity.svg" download>white-with-opacity.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.pdf" download>white-with-opacity.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.png" download>white-with-opacity.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.svg" download>white-with-opacity.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/DjangoCon-2017-white.png">
+  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.png">
   <ul class="download-links">
-    <li><a href="/static/2017-logos/DjangoCon-2017-white.pdf" download>white.pdf</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-white.png" download>white.png</a></li>
-    <li><a href="/static/2017-logos/DjangoCon-2017-white.svg" download>white.svg</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.pdf" download>white.pdf</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.png" download>white.png</a></li>
+    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.svg" download>white.svg</a></li>
   </ul>
 </div>
 <div class="logo-set column small-6 medium-4">
-  <img src="/static/2017-logos/squares-and-social/djangocon-square.png">
+  <img src="https://djangocon.github.io/resources/us-2017/squares-and-social/djangocon-square.png">
   <ul class="download-links">
-  <li><a href="/static/2017-logos/squares-and-social/djangocon-square.png" download>djangocon-square.png</a></li>
-  <li><a href="/static/2017-logos/squares-and-social/djangocon-square.psd" download>djangocon-square.psd</a></li>
-  <li><a href="/static/2017-logos/squares-and-social/trees-background.jpg" download>trees-background.jpg</a></li>
+  <li><a href="https://djangocon.github.io/resources/us-2017/squares-and-social/djangocon-square.png" download>djangocon-square.png</a></li>
+  <li><a href="https://djangocon.github.io/resources/us-2017/squares-and-social/djangocon-square.psd" download>djangocon-square.psd</a></li>
+  <li><a href="https://djangocon.github.io/resources/us-2017/squares-and-social/trees-background.jpg" download>trees-background.jpg</a></li>
   </ul>
 </div>
 </div>

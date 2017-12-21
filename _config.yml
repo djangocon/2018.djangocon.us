@@ -44,6 +44,7 @@ exclude:
   - vendor
 
   # TODO: As we bring pages live, we need to revisit this section...
+  - coc.md
   - _pages/404.md
   - _pages/about.html
   - _pages/coc.html

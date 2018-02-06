@@ -16,7 +16,7 @@ gulp.task('sass', function() {
     })
       .on('error', $.sass.logError))
     .pipe($.autoprefixer({
-      browsers: ['last 2 versions', 'ie >= 10']
+      browsers: ['last 2 versions', 'ie >= 11']
     }))
     .pipe(uglifycss({
       "maxLineLen": 80,
@@ -30,7 +30,6 @@ gulp.task('styleguide', function() {
     output: 'styleguide/index.html',
     template: '_styleguide/template.hbs'
   });
-
 });
 
 gulp.task('default', ['sass'], function() {

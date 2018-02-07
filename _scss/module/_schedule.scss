@@ -116,11 +116,11 @@
 
 .event.loc-alt-2 {
   @extend %has-bg;
-  border-top: 8px solid $light-green;
+  border-top: 8px solid $green;
 
   .location,
   a:hover {
-    color: $light-green;
+    color: $green;
   }
 }
 

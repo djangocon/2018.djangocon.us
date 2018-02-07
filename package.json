@@ -6,7 +6,6 @@
   "devDependencies": {
     "all-contributors-cli": "^4.0.1",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.0",
     "gulp-load-plugins": "^1.1.0",
     "gulp-sass": "^2.1.0",
     "style-sherpa": "^1.0.2"
@@ -29,7 +28,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "foundation-sites": "^6.3.1",
+    "foundation-sites": "6.3.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-uglifycss": "^1.0.6",
     "hamburgers": "^0.7.0",

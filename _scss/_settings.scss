@@ -45,24 +45,30 @@
 //  36. Tooltip
 //  37. Top Bar
 
-$green: #0C4B33; // django dark green
-$light-green: #20C989; // django light green
-$dark-green: mix(black, $green, 15%);
+$green: #59986F;
+$purple: #5B2D65;
+
+$tuatara: #353535;
+$lilac: #86558E;
+$light-green: #89C0A3;
+$glade: #BCD488;
+$tapestry: #C06E8B;
+$fawn: #E6A075;
+$grandis: #F5CF71;
+$rice: #F2E194;
+
+
 $teal: #3b928f;
-$sky-blue: #BEEAF3; // Only used
 $light-blue: #84D3D5;
 $beige: #F1DFC7;
 $dark-beige: mix(black, $beige, 5%);
 $light-beige: mix(white, $beige, 50%);
 $orange: #D66315;
 
+
 $djangocon-palette: (
   green: $green,
-  light-green: $light-green,
-  dark-green: $dark-green,
-  teal: $teal,
   light-blue: $light-blue,
-  orange: $orange,
   dark-beige: $dark-beige,
   light-beige: $light-beige,
 );
@@ -85,34 +91,32 @@ $global-font-size: 130%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.4;
 $foundation-palette: (
-  primary: $green, // Django dark green
-  secondary: $orange,
+  primary: $green,
+  secondary: $purple,
   success: #3adb76,
   warning: #ffae00,
-  alert: #cc4b37,
-  teal: $teal,
-  light-green: $light-green,
-  light-blue: $light-blue,
+  alert: #cc4b37
 );
+
 @include add-foundation-colors;
+
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
-$white: #fefefe;
-$body-background: $beige;
-$body-font-color: $primary-color;
-$body-font-family: 	"program",Helvetica,sans-serif;
+$white: #ffffff;
+$body-background: $white;
+$body-font-color: $tuatara;
+$body-font-family: 'Source Sans Pro', Helvetica, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
 $global-weight-normal: 400;
-$global-weight-bold: 500;
+$global-weight-bold: 700;
 $global-radius: 0;
 $global-text-direction: ltr;
 $global-flexbox: false;
 $print-transparent-backgrounds: true;
-
 
 
 // 2. Breakpoints
@@ -144,7 +148,7 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $body-font-family;
+$header-font-family: 'Signika', Helvetica, sans-serif;
 $header-font-weight: $global-weight-bold;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
@@ -382,10 +386,10 @@ $dropdown-sizes: (
 // -----------------
 
 $dropdownmenu-arrows: true;
-$dropdownmenu-arrow-color: $beige;
+$dropdownmenu-arrow-color: $black;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-min-width: 200px;
-$dropdownmenu-background: linear-gradient(to bottom, rgba($green,0.85) 0%,rgba($dark-green,0.95) 100%);
+$dropdownmenu-background: $green; // TODO: Design
 $dropdownmenu-border: none;
 
 // 19. Forms
@@ -628,8 +632,8 @@ $thumbnail-radius: 50%;
 // 35. Title Bar
 // -------------
 
-$titlebar-background: rgba($primary-color, 0.9);
-$titlebar-color: $white;
+$titlebar-background: $white;
+$titlebar-color: $black;
 $titlebar-padding: 0;
 $titlebar-text-font-weight: bold;
 $titlebar-icon-color: $white;

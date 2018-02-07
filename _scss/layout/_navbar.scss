@@ -131,18 +131,6 @@
   .logo {
     width: 160px;
     height: auto;
-
-    .background-field {
-      fill: transparent;
-    }
-
-    .djangocon {
-      fill: $green;
-    }
-
-    .location {
-      fill: $orange;
-    }
   }
 
   .top-bar-title {
@@ -186,21 +174,18 @@
   @include breakpoint(medium) {
     .logo {
       width: 140px;
-      //height: 46px;
     }
   }
 
   @include breakpoint(large) {
     .logo {
       width: 265px;
-      //height: 88px;
     }
   }
 
   @include breakpoint(xlarge) {
     .logo {
       width: 360px;
-      //height: 118px;
     }
   }
 }
@@ -216,7 +201,7 @@
     position: static; // fixing drilldown
   }
 
-  .menu>li>a {
+  .menu > li > a {
     padding: .7rem;
   }
 }

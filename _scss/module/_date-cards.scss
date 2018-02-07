@@ -21,8 +21,9 @@
     display: block;
     padding: .2em;
     background-color: $secondary-color;
-    color: $white;
     font-size: 1rem;
+    font-weight: $global-weight-bold;
+    color: $white;
   }
 
   .days {
@@ -30,7 +31,7 @@
     padding-top: .5rem;
     padding-bottom: .5rem;
     background-color: $white;
-    font-size: rem-calc(40);
+    font-size: rem-calc(32);
     color: $secondary-color;
   }
 

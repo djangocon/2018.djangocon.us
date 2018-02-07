@@ -45,30 +45,7 @@ exclude:
 
   # TODO: As we bring pages live, we need to revisit this section...
   - coc.md
-  - _pages/404.md
-  - _pages/about.html
-  - _pages/coc.html
-  - _pages/demo-schedule.html
-  - _pages/event.md
-  - _pages/faqs.html
-  - _pages/financial-aid.md
-  - _pages/homepage-full.md
-  - _pages/homepage.md
-  - _pages/news.md
-  - _pages/organizers.html
-  - _pages/room-sharing.md
-  - _pages/schedule.html
-  - _pages/slack.html
-  - _pages/speaking-resources.md
-  - _pages/speaking.md
-  - _pages/sponsors-information.md
-  - _pages/sponsors.html
-  - _pages/sprints.html
-  - _pages/talks.html
-  - _pages/tickets.html
-  - _pages/tutorials.html
-  - _pages/venue.html
-  - _pages/why-djangocon-us.html
+  - _pages/landing-page.html
   - _posts
   - _schedule
   - static/2018-logos

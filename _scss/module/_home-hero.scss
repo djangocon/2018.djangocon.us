@@ -1,25 +1,13 @@
 .header {
   position: relative;
-  background: url(/static/img/top-trees.png);
-  background: url(/static/img/top-trees.svg), none;
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-color: $green;
-  background-size: 100% auto;
-  padding: 140px 0 40px;
+  padding: 3rem 0;
   text-align: center;
 
   h1 {
-    color: $light-blue;
-  }
-
-  .row:first-child {
-    // Specific to 2017. Adjust for different copy.
-    max-width: 50em;
+    color: $body-font-color;
   }
 
   .subhead {
-
     max-width: 660px;
     text-align: center;
     color: $body-background;
@@ -31,7 +19,7 @@
   }
 
   .subheading {
-    margin-bottom: $global-margin/2;
+    margin-bottom: $global-margin / 2;
     font-size: rem-calc(22);
     font-weight: $global-weight-normal;
   }
@@ -41,11 +29,11 @@
   }
 
   .location:before {
-    content: "";
-    width: 100px;
     display: block;
     margin: 0 auto 0.5em;
+    width: 100px;
     border-top: 1px solid $body-background;
+    content: "";
   }
 
   @include breakpoint(medium) {

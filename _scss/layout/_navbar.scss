@@ -8,6 +8,10 @@
 .off-canvas .menu a,
 .title-bar .menu a {
   text-decoration: none;
+  color: $black;
+}
+
+.off-canvas .menu a {
   color: $white;
 }
 
@@ -30,10 +34,8 @@
 
   a:hover {
     background: $secondary-color;
-    color: $white;
   }
 }
-
 
 .headroom--top .menu .navbar-button,
 .navbar-button {
@@ -44,11 +46,15 @@
   }
 }
 
+.headroom .menu .menu a {
+  font-size: rem-calc(18);
+}
+
 .logo {
   display: block;
   margin: 10px 0 -20px 10px;
-  width: 160px;
-  height: 53px; // for IE
+  width: 147px;
+  height: 40px; // for IE
 
   svg {
     max-width: 100%;
@@ -83,6 +89,7 @@
   right: 0;
   left: 0;
   z-index: 10;
+
   transition: all 200ms ease;
   will-change: transform;
 
@@ -94,6 +101,11 @@
   g {
     transition: all 400ms ease;
   }
+
+  &,
+  .hamburger {
+    height: 60px;
+  }
 }
 
 @include breakpoint(small only) { // hide header when scrolling down on mobile
@@ -103,6 +115,10 @@
 
   .headroom--unpinned {
     transform: translateY(-130%);
+
+    .logo path {
+      fill: $body-background;
+    }
   }
 }
 
@@ -139,16 +155,7 @@
       }
 
       a:hover {
-        background: $primary-color;
-      }
-    }
-
-    li:not(.has-button) {
-      &:hover {
-        > a,
-        > a:hover {
-          color: $sienna;
-        }
+        background: get-color(primary);
       }
     }
   }

@@ -74,11 +74,12 @@ $global-font-size: 130%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.4;
 $foundation-palette: (
-  primary: $orchid,
-  secondary: $shakespeare,
+  primary: $eminence,
+  secondary: $orchid,
   success: #3adb76,
   warning: #ffae00,
-  alert: #cc4b37
+  alert: #cc4b37,
+  black: $black,
 );
 
 @include add-foundation-colors;
@@ -355,7 +356,7 @@ $drilldown-transition: transform 0.15s linear;
 $drilldown-arrows: true;
 $drilldown-arrow-color: $medium-gray;
 $drilldown-arrow-size: 6px;
-$drilldown-background: $primary-color;
+$drilldown-background: $black;
 
 // 17. Dropdown
 // ------------
@@ -378,7 +379,7 @@ $dropdown-sizes: (
 $dropdownmenu-arrows: true;
 $dropdownmenu-arrow-color: $black;
 $dropdownmenu-arrow-size: 6px;
-$dropdownmenu-min-width: 200px;
+$dropdownmenu-min-width: 260px;
 $dropdownmenu-background: $black;
 $dropdownmenu-border: none;
 
@@ -445,7 +446,7 @@ $mediaobject-image-width-stacked: 100%;
 
 $menu-margin: 0;
 $menu-margin-nested: 0;
-$menu-item-padding: .95rem .7rem;
+$menu-item-padding: .8rem;
 $menu-item-color-active: $white;
 $menu-item-background-active: get-color(primary);
 $menu-icon-spacing: 0.25rem;
@@ -467,7 +468,7 @@ $meter-fill-bad: $alert-color;
 
 $offcanvas-size: 250px;
 $offcanvas-vertical-size: 250px;
-$offcanvas-background: $primary-color;
+$offcanvas-background: $black;
 $offcanvas-shadow: 0 0 10px rgba($black, 0.7);
 $offcanvas-push-zindex: 1;
 $offcanvas-overlap-zindex: 10;
@@ -622,10 +623,10 @@ $thumbnail-radius: 50%;
 // 35. Title Bar
 // -------------
 
-$titlebar-background: $white;
+$titlebar-background: get-color(primary);
 $titlebar-color: $black;
 $titlebar-padding: 0;
-$titlebar-text-font-weight: bold;
+$titlebar-text-font-weight: $global-weight-bold;
 $titlebar-icon-color: $white;
 $titlebar-icon-color-hover: $medium-gray;
 $titlebar-icon-spacing: 0.25rem;

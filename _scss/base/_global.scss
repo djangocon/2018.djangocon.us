@@ -52,7 +52,7 @@ iframe,
 }
 
 .callout-dark {
-  @include callout-style(darken($green, 5%));
+  @include callout-style(darken($black, 5%));
 }
 
 // Ensure we have space for anchors and the header does not cover them.

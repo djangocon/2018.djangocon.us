@@ -30,23 +30,17 @@
 
   a:hover {
     background: $secondary-color;
+    color: $white;
   }
-
 }
 
 
 .headroom--top .menu .navbar-button,
 .navbar-button {
-  background: $orange;
   text-align: center;
-  color: $white;
 
   small {
     font-size: rem-calc(16);
-  }
-
-  &:hover {
-    background: mix(black, $orange, 10%);
   }
 }
 
@@ -59,18 +53,6 @@
   svg {
     max-width: 100%;
     height: 100%;
-  }
-
-  .background-field {
-    fill: $green;
-  }
-
-  .djangocon {
-    fill: $body-background;
-  }
-
-  .location {
-    fill: $orange;
   }
 }
 
@@ -139,11 +121,11 @@
 
   .menu {
     a {
-      color: $green;
+      color: $body-font-color;
     }
 
     li.is-dropdown-submenu-parent > a::after { // override arrow color
-      border-color: $green transparent transparent;
+      border-color: $black transparent transparent;
     }
 
     li li.is-dropdown-submenu-parent > a::after { // override arrow color
@@ -165,7 +147,7 @@
       &:hover {
         > a,
         > a:hover {
-          color: $orange;
+          color: $sienna;
         }
       }
     }
@@ -173,19 +155,19 @@
 
   @include breakpoint(medium) {
     .logo {
-      width: 140px;
+      width: 80px;
     }
   }
 
   @include breakpoint(large) {
     .logo {
-      width: 265px;
+      width: 225px;
     }
   }
 
   @include breakpoint(xlarge) {
     .logo {
-      width: 360px;
+      width: 280px;
     }
   }
 }

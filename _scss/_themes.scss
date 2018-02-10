@@ -29,7 +29,7 @@
     .theme-#{$name} {
       background-color: $color;
 
-      @if not index(($light-beige, $dark-beige), $color) {
+      @if not index(($light-gray, $medium-gray), $color) {
         color: $white;
 
         a,
@@ -47,7 +47,7 @@
       position: relative;
 
       @include breakpoint(medium) {
-        @if not index(($light-beige, $dark-beige), $color) {
+        @if not index(($light-gray, $medium-gray), $color) {
           &,
           & blockquote,
           & blockquote p,
@@ -121,7 +121,7 @@
 
         .theme-bg {
           background-color: $color;
-          color: #fff;
+          color: $white;
         }
 
         path {

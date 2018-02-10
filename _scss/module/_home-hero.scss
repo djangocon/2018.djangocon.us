@@ -10,7 +10,7 @@
   .subhead {
     max-width: 660px;
     text-align: center;
-    color: $body-background;
+    color: $body-font-color;
   }
 
   .subhead strong {
@@ -48,8 +48,8 @@
     }
 
     .location {
-      border-left: 1px solid $body-background;
       padding-top: 0;
+      border-left: 1px solid $body-background;
       text-align: left;
 
       &:before {

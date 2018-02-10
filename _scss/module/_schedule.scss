@@ -1,5 +1,5 @@
 %has-bg {
-  background: $light-beige;
+  background: $light-gray;
 
   .location {
     position: absolute;
@@ -100,37 +100,37 @@
 }
 
 .event.loc-main .location {
-  background: $light-beige;
+  background: $light-gray;
   color: $secondary-color;
 }
 
 .event.loc-alt {
   @extend %has-bg;
-  border-top: 8px solid $teal;
+  border-top: 8px solid $medium-gray;
 
   .location,
   a:hover {
-    color: $teal;
+    color: $medium-gray;
   }
 }
 
 .event.loc-alt-2 {
   @extend %has-bg;
-  border-top: 8px solid $green;
+  border-top: 8px solid $black;
 
   .location,
   a:hover {
-    color: $green;
+    color: $black;
   }
 }
 
 .event.loc-alt-3 {
   @extend %has-bg;
-  border-top: 8px solid $green;
+  border-top: 8px solid $black;
 
   .location,
   a:hover {
-    color: $green;
+    color: $black;
   }
 }
 

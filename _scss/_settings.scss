@@ -45,33 +45,16 @@
 //  36. Tooltip
 //  37. Top Bar
 
-$green: #59986F;
-$purple: #5B2D65;
 
-$tuatara: #353535;
-$lilac: #86558E;
-$light-green: #89C0A3;
-$glade: #BCD488;
-$tapestry: #C06E8B;
-$fawn: #E6A075;
-$grandis: #F5CF71;
-$rice: #F2E194;
-
-
-$teal: #3b928f;
-$light-blue: #84D3D5;
-$beige: #F1DFC7;
-$dark-beige: mix(black, $beige, 5%);
-$light-beige: mix(white, $beige, 50%);
-$orange: #D66315;
-
-
-$djangocon-palette: (
-  green: $green,
-  light-blue: $light-blue,
-  dark-beige: $dark-beige,
-  light-beige: $light-beige,
-);
+$eminence: #6D0F84;
+$orchid: #B52BC9;
+$shakespeare: #05B4DD;
+$viking: #07C8E8;
+$willow: #B7DB53;
+$violetred: #EA5397;
+$sienna: #FC7E56;
+$festival: #F9CC12;
+$yellow: #FFE363;
 
 $color-twitter: #1DB4EB;
 $color-facebook: #44649D;
@@ -91,8 +74,8 @@ $global-font-size: 130%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.4;
 $foundation-palette: (
-  primary: $green,
-  secondary: $purple,
+  primary: $orchid,
+  secondary: $shakespeare,
   success: #3adb76,
   warning: #ffae00,
   alert: #cc4b37
@@ -100,13 +83,20 @@ $foundation-palette: (
 
 @include add-foundation-colors;
 
-$light-gray: #e6e6e6;
+$light-gray: #F7F8F9;
 $medium-gray: #cacaca;
-$dark-gray: #8a8a8a;
-$black: #0a0a0a;
-$white: #ffffff;
+$dark-gray: #555555;
+$black: #1E1E1E;
+$white: #FFFFFF;
+
+
+$djangocon-palette: (
+  light-gray: $light-gray
+);
+
+
 $body-background: $white;
-$body-font-color: $tuatara;
+$body-font-color: $black;
 $body-font-family: 'Source Sans Pro', Helvetica, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
@@ -175,7 +165,7 @@ $header-styles: (
 );
 $header-text-rendering: optimizeLegibility;
 $small-font-size: 80%;
-$header-small-font-color: mix($beige, $primary-color, 40%);
+$header-small-font-color: $dark-gray;
 $paragraph-lineheight: 1.6;
 $paragraph-margin-bottom: 1rem;
 $paragraph-text-rendering: optimizeLegibility;
@@ -316,7 +306,7 @@ $buttongroup-radius-on-each: true;
 // 13. Callout
 // -----------
 
-$callout-background: $light-beige;
+$callout-background: $light-gray;
 $callout-background-fade: 0;
 $callout-border: 1px solid rgba($black, 0.25);
 $callout-margin: 0 0 1rem 0;
@@ -363,7 +353,7 @@ $closebutton-color-hover: $black;
 
 $drilldown-transition: transform 0.15s linear;
 $drilldown-arrows: true;
-$drilldown-arrow-color: $beige;
+$drilldown-arrow-color: $medium-gray;
 $drilldown-arrow-size: 6px;
 $drilldown-background: $primary-color;
 
@@ -389,7 +379,7 @@ $dropdownmenu-arrows: true;
 $dropdownmenu-arrow-color: $black;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-min-width: 200px;
-$dropdownmenu-background: $green; // TODO: Design
+$dropdownmenu-background: $black;
 $dropdownmenu-border: none;
 
 // 19. Forms
@@ -584,7 +574,7 @@ $switch-paddle-transition: all 0.25s ease-out;
 // 32. Table
 // ---------
 
-$table-background: darken($dark-beige, 5%);
+$table-background: darken($dark-gray, 5%);
 $table-color-scale: 5%;
 $table-border: 1px solid smart-scale($table-background, $table-color-scale);
 $table-padding: rem-calc(8 10 10);

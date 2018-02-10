@@ -31,10 +31,6 @@
   a {
     color: $white;
   }
-
-  a:hover {
-    background: $secondary-color;
-  }
 }
 
 .headroom--top .menu .navbar-button,
@@ -155,7 +151,7 @@
       }
 
       a:hover {
-        background: get-color(primary);
+        background: get-color(secondary);
       }
     }
   }

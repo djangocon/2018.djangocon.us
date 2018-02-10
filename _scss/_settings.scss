@@ -380,7 +380,7 @@ $dropdownmenu-arrows: true;
 $dropdownmenu-arrow-color: $black;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-min-width: 260px;
-$dropdownmenu-background: $black;
+$dropdownmenu-background: get-color(primary);
 $dropdownmenu-border: none;
 
 // 19. Forms

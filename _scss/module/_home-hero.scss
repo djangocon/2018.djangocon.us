@@ -37,7 +37,7 @@
   }
 
   @include breakpoint(medium) {
-    padding-top: 35vw;
+    padding-top: 14rem;
 
     .subhead {
       text-align: right;
@@ -56,22 +56,5 @@
         content: none;
       }
     }
-  }
-
-  @include breakpoint(smedium) {
-    padding-top: 25vw;
-    background-position: 0 -36px;
-  }
-
-  @include breakpoint(medium) {
-    background-position: 0 -80px;
-  }
-
-  @include breakpoint(large) {
-    background-position: 0 -100px;
-  }
-
-  @include breakpoint(xxlarge) {
-    padding-bottom: 100px;
   }
 }

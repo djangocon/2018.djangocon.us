@@ -92,7 +92,17 @@ $white: #FFFFFF;
 
 
 $djangocon-palette: (
-  light-gray: $light-gray
+  eminence: $eminence,
+  orchid: $orchid,
+  shakespeare: $shakespeare,
+  viking: $viking,
+  willow: $willow,
+  violetred: $violetred,
+  sienna: $sienna,
+  festival: $festival,
+  yellow: $yellow,
+  light-gray: $light-gray,
+  medium-gray: $medium-gray
 );
 
 
@@ -293,6 +303,7 @@ $button-palette: $foundation-palette;
 $button-opacity-disabled: 0.25;
 $button-background-hover-lightness: -20%;
 $button-hollow-hover-lightness: -50%;
+$button-hollow-border-width: 2px;
 $button-transition: background-color 0.25s ease-out, color 0.25s ease-out;
 
 // 12. Button Group

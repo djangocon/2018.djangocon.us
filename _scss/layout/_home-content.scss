@@ -1,15 +1,7 @@
 .home-content {
-  margin-top: -2px;
-  padding-top: 8%;
   position: relative;
   z-index: 2;
-  /* TODO: Design
-  background-image: url(/static/img/bottom-trees.png);
-  background-image: url(/static/img/bottom-trees.svg), linear-gradient(transparent, transparent);
-  background-position: center top;
-  background-repeat:  no-repeat;
-  background-size: 101% auto;
-  */
+  margin-top: 3rem;
 }
 
 .home-content > &:last-child {

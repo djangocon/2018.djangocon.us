@@ -1,9 +1,9 @@
 .header {
   position: relative;
   padding: 6rem 0 3rem;
-  text-align: center;
 
   h1 {
+    text-align: center;
     color: $body-font-color;
   }
 
@@ -11,6 +11,15 @@
     max-width: 660px;
     text-align: center;
     color: $body-font-color;
+  }
+
+  .home-eventinfo {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .datesyear-year {
+    @include show-for(medium);
   }
 
   .subhead strong {
@@ -21,23 +30,11 @@
   .subheading {
     margin-bottom: $global-margin / 2;
     font-size: rem-calc(22);
-    font-weight: $global-weight-normal;
-  }
-
-  .dates-year {
-    @include show-for(medium);
-  }
-
-  .location:before {
-    display: block;
-    margin: 0 auto 0.5em;
-    width: 100px;
-    border-top: 1px solid $body-background;
-    content: "";
   }
 
   @include breakpoint(medium) {
-    padding-top: 14rem;
+    padding-top: 4rem;
+    padding-bottom: 0;
 
     .subhead {
       text-align: right;
@@ -47,14 +44,20 @@
       margin-bottom: 0;
     }
 
+    .datesyear {
+      text-align: right;
+    }
+
     .location {
       padding-top: 0;
-      border-left: 1px solid $body-background;
+      border-left: 6px solid $violetred;
       text-align: left;
+    }
+  }
 
-      &:before {
-        content: none;
-      }
+  @include breakpoint(large) {
+    .header-text {
+      padding-top: 5.5rem;
     }
   }
 }

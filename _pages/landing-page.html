@@ -94,7 +94,7 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
       text-decoration: none;
       color: white;
     }
-    
+
     .button:hover {
       /* TODO: a11y hover */
     }
@@ -181,7 +181,7 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
     .spBlock p:last-of-type {
       margin-bottom: 0;
     }
-    
+
     .spBlock .button:first-of-type {
       margin-bottom: 1rem;
     }
@@ -234,34 +234,35 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
     .legal {
       font-size: 1.1rem;
     }
-    
+
     @media (min-width: 520px) {
       :root {
         --font-size  : 17px;
       }
-      
+
       .spBlock .button:first-child {
         margin-right: 1rem;
       }
     }
-    
+
     @media (min-width: 720px) {
       .siteUpper {
         margin: 2rem auto;
         width: 90%;
       }
-      
+
       .featuresBlock {
         margin-left: -1.5rem;
         margin-right: -1.5rem;
       }
-      
+
       .spBlock {
         padding: 2rem;
       }
     }
   </style>
 
+  {# TODO: Update fonts #}
   <script src="https://use.typekit.net/dvm6jjh.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 </head>
@@ -340,16 +341,16 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
 </div>
 
 {% comment %}
-  To add SVGs to the sprite, simply add them in via <symbol>. 
+  To add SVGs to the sprite, simply add them in via <symbol>.
   Be sure to condense your SVG code via something like SVGO online:
   https://jakearchibald.github.io/svgomg/
-  
+
   You'll also need:
-  
+
   1. A unique idea
   2. Add: fill="currentColor" to any paths or objects so color may be used
   3. A descriptive <title> for accessibility
-    
+
   See the <svg><use ..> pattern above for reference on adding to the page.
 {% endcomment %}
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">

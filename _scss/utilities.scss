@@ -35,27 +35,8 @@
   }
 }
 
-// This class is added to the <html> element while fonts
-// are loading. If webfonts fail to load, it's replaced
-// by .wf-inactive, so there shouldn't be a scenerio
-// where the page gets stuck and no fonts show up.
-
-.wf-loading {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p,
-  li,
-  table {
-    visibility: hidden;
-  }
-}
-
 // Ensure emoji in headers display correct, size wise
-h1 img.emoji { 
+h1 img.emoji {
   width: 1em;
-  height: 1em; 
+  height: 1em;
 }

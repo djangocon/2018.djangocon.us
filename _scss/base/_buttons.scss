@@ -6,9 +6,26 @@
   }
 }
 
-.button.secondary {
-  &,
-  &:hover {
-    color: $white;
+.button.hollow {
+  position: relative;
+  border: 2px solid $black;
+  font-weight: $global-weight-bold;
+  color: $black;
+}
+
+.button.hollow:before {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  z-index: -1;
+  display: inline-block;
+  width: calc(100% + 5px);
+  height: calc(100% + 5px);
+  content: "";
+}
+
+@each $name, $color in $djangocon-palette {
+  .button.hollow.theme-#{$name}:before {
+    background-color: $color;
   }
 }

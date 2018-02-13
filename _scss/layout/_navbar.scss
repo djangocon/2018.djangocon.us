@@ -62,30 +62,6 @@
   }
 }
 
-@include breakpoint(medium) {
-  .headroom {
-    position: static !important;
-  }
-
-  .logo {
-    margin: 10px 0 -60px 10px;
-    width: 140px;
-    height: auto;
-  }
-}
-
-@include breakpoint(large) {
-  .logo {
-    width: 270px;
-  }
-}
-
-@include breakpoint(xlarge) {
-  .logo {
-    width: 300px;
-  }
-}
-
 // change appearance on scroll.
 .headroom {
   position: fixed;
@@ -112,28 +88,9 @@
   }
 }
 
-@include breakpoint(small only) { // hide header when scrolling down on mobile
-  .headroom--pinned {
-    transform: translateY(0%);
-  }
-
-  .headroom--unpinned {
-    transform: translateY(-130%);
-
-    .logo path {
-      fill: $body-background;
-    }
-  }
-}
-
 // change visual styles
 .headroom--top {
   background-color: transparent;
-
-  .logo {
-    width: 160px;
-    height: auto;
-  }
 
   .top-bar-title {
     color: $primary-color;
@@ -163,24 +120,6 @@
       }
     }
   }
-
-  @include breakpoint(medium) {
-    .logo {
-      width: 80px;
-    }
-  }
-
-  @include breakpoint(large) {
-    .logo {
-      width: 225px;
-    }
-  }
-
-  @include breakpoint(xlarge) {
-    .logo {
-      width: 280px;
-    }
-  }
 }
 
 
@@ -190,6 +129,10 @@
 }
 
 @include breakpoint(smedium down) {
+  .headroom--not-top .logo path {
+    fill: $white;
+  }
+
   .is-dropdown-submenu-parent {
     position: static; // fixing drilldown
   }
@@ -200,7 +143,23 @@
 }
 
 @include breakpoint(medium) {
+  .headroom {
+    position: static !important;
+    height: auto;
+  }
+
+  .title-bar {
+    background: $body-background !important;
+  }
+
   .title-bar-right {
     padding: 1rem;
+  }
+
+  .logo {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    width: 280px;
+    height: 100%;
   }
 }

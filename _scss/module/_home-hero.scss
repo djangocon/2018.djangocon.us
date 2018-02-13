@@ -1,5 +1,4 @@
 .header {
-  position: relative;
   padding: 6rem 0 3rem;
 
   h1 {
@@ -33,7 +32,7 @@
   }
 
   @include breakpoint(medium) {
-    padding-top: 4rem;
+    padding-top: 2rem;
     padding-bottom: 0;
 
     .subhead {

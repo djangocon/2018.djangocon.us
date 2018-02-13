@@ -133,16 +133,16 @@ layout: base
   </div>
 </section>
 
-<section class="news-section section-pad">
+<section class="news-section section-pad theme-light-gray">
   <div class="row column v-pad-bottom">
     <h2 class="text-center">Latest News</h2>
   </div>
 
   <div class="news row">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:12 %}
       {% unless post.hidden %}
       <article class="news-title medium-4 column">
-        <div class="card {% if post.category == "Sponsorship" %}card-theme-teal{% else %}card-theme-green{% endif %}">
+        <div class="card {% if post.category == "Sponsorship" %}card-theme-violetred{% else %}card-theme-shakespeare{% endif %}">
           <div class="card-section">
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h3>

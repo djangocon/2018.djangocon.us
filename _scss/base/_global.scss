@@ -52,7 +52,12 @@ iframe,
 }
 
 .callout-dark {
-  @include callout-style(darken(get-color(primary), 5%));
+  @include callout-style(darken($orchid, 5%));
+}
+
+.back {
+  position: relative;
+  z-index: -10;
 }
 
 // Ensure we have space for anchors and the header does not cover them.

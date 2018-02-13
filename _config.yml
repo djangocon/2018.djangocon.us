@@ -46,8 +46,6 @@ exclude:
   # TODO: As we bring pages live, we need to revisit this section...
   - coc.md
   - _pages/landing-page.html
-  - _posts
-  - _schedule
   - static/2018-logos
 
 

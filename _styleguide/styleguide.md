@@ -44,7 +44,7 @@ Each year, there will be a set of colors that match the DjangoCon location and
 theme for the year. For 2017, the color palette is as follows:
 
 <ul class="colors">
-  <li class="color theme-dark-green">Dark Green<br />#0A402B</li>
+  <li class="color theme-orchid">Dark Green<br />#0A402B</li>
   <li class="color theme-green">Green<br/>#0C4B33</li>
   <li class="color theme-light-green">Light Green<br/>#20C989</li>
   <li class="color theme-teal">Teal<br/>#3B928F</li>
@@ -167,9 +167,9 @@ applied to the text within.
     <h2 class="text-center">Headline</h2>
     <p class="text-center">This section has `theme-green` applied.</p>
 </section>
-<section class="section-pad theme-dark-green">
+<section class="section-pad theme-orchid">
   <h2 class="text-center">Headline</h2>
-  <p class="text-center">This section has `theme-dark-green` applied.</p>
+  <p class="text-center">This section has `theme-orchid` applied.</p>
 </section>
 <section class="section-pad theme-light-green">
   <h2 class="text-center">Headline</h2>

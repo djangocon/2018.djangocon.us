@@ -144,7 +144,7 @@
 
 @include breakpoint(medium) {
   .headroom {
-    position: static !important;
+    position: relative !important;
     height: auto;
   }
 

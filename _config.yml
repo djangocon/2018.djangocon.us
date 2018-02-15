@@ -29,18 +29,21 @@ plugins:
 exclude:
   - .editorconfig
   - .gitignore
+  - .surgeignore
+  - bower_components
+  - CNAME
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - deploy_surge.sh
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Rakefile
-  - bower_components
-  - deploy_surge.sh
   - gulpfile.js
+  - LICENSE
   - node_modules
   - package.json
+  - Procfile
+  - Rakefile
+  - README.md
   - vendor
 
   # TODO: As we bring pages live, we need to revisit this section...

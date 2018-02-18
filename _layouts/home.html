@@ -23,10 +23,9 @@ layout: base
     </div>
     <div class="column small-12 medium-6 text-center">
       <img
-        src="{{ "/static/img/beach.svg" | relative_url }}"
-        alt="A beach scene featuring a crab, surfboard, umbrella, and more"
-        width="380"
-        />
+        data-interchange="[{{ "/static/img/beach-small.svg" | relative_url }}, small], [{{ "/static/img/beach.svg" | relative_url }}, medium]"
+        alt="A beach scene featuring a crab and umbrella."
+        class="header-img" width="380" />
     </div>
   </div>
 </header>
@@ -77,11 +76,6 @@ layout: base
           <p>Team up to work on Django!</p>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="row column v-pad-top">
-    <div class="medium-4 medium-centered column">
-      <a class="button secondary expanded" href="#">See full schedule</a>
     </div>
   </div>
 </section>

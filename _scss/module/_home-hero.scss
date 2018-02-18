@@ -31,6 +31,10 @@
     font-size: rem-calc(22);
   }
 
+  .header-img {
+    max-width: 280px;
+  }
+
   @include breakpoint(medium) {
     padding-top: 2rem;
     padding-bottom: 0;
@@ -51,6 +55,10 @@
       padding-top: 0;
       border-left: 6px solid $violetred;
       text-align: left;
+    }
+
+    .header-img {
+      max-width: 380px;
     }
   }
 

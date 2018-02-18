@@ -35,10 +35,6 @@
   }
 }
 
-// If you want to only have the transparent-at-top option on the homepage
-// instead of site-wide,  prepend every instance of .headroom--top with
-// .home-title-wrap in this file.
-
 .headroom--top .menu .menu,
 .menu .menu { // subnav menu, with the headroom class added so it doesn't change
   text-align: left;

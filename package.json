@@ -5,7 +5,6 @@
   "main": "gulpfile.js",
   "devDependencies": {
     "all-contributors-cli": "^4.0.1",
-    "gulp": "^3.9.1",
     "gulp-load-plugins": "^1.1.0",
     "gulp-sass": "^2.1.0",
     "style-sherpa": "^1.0.2"

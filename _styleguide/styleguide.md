@@ -51,7 +51,7 @@ theme for the year. For 2017, the color palette is as follows:
   <li class="color theme-light-blue">Light Blue<br/>#84D3D5</li>
   <li class="color theme-orange">Orange<br/>#D66315</li>
   <li class="color theme-beige">Off-white<br/>#F1DFC7</li>
-  <li class="color theme-dark-gray">Dark Beige<br/>#E5D4BD</li>
+  <li class="color theme-medium-gray">Dark Beige<br/>#E5D4BD</li>
 </ul>
 
 
@@ -187,9 +187,9 @@ applied to the text within.
   <h2 class="text-center">Headline</h2>
   <p class="text-center">This section has `theme-beige` applied.</p>
 </section>
-<section class="section-pad theme-dark-gray">
+<section class="section-pad theme-medium-gray">
   <h2 class="text-center">Headline</h2>
-  <p class="text-center">This section has `theme-dark-gray` applied.</p>
+  <p class="text-center">This section has `theme-medium-gray` applied.</p>
 </section>
 <section class="section-pad theme-light-gray">
   <h2 class="text-center">Headline</h2>

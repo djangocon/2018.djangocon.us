@@ -817,7 +817,7 @@ li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{mar
 }.header{padding:6rem 0 3rem}.header h1{text-align:center;color:#1e1e1e}.header .subhead{max-width:660px;text-align:center;color:#1e1e1e}
 .header .home-eventinfo{margin-bottom:1rem;text-align:center}@media screen and (max-width:55.5625em){.header .datesyear-year{display:none !important}
 }.header .subhead strong{display:block;font-weight:700}.header .subheading{margin-bottom:.5rem;font-size:1.05769rem}
-.header .header-img{max-width:280px}@media print,screen and (min-width:55.625em){.header{padding-top:2rem;padding-bottom:0}
+.header .header-img{max-width:280px}@media print,screen and (min-width:55.625em){.header{padding-top:2rem}
 .header .subhead{text-align:right}.header .subheading{margin-bottom:0}.header .datesyear{text-align:right}
 .header .location{padding-top:0;border-left:6px solid #ea5397;text-align:left}.header .header-img{max-width:380px}
 }@media print,screen and (min-width:64em){.header .header-text{padding-top:5.5rem}

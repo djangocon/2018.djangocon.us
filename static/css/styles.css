@@ -708,6 +708,9 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:#6d0f84;color:
 .tint-light-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-light-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#f7f8f9;content:"";opacity:.8}
 }.theme-medium-gray{background-color:#cacaca}.theme-medium-gray .theme-color{color:#cacaca}
 .tint-medium-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-medium-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#cacaca;content:"";opacity:.8}
+}.theme-dark-gray{background-color:#555;color:#fff}.theme-dark-gray a,.theme-dark-gray a:hover{color:#fff}
+.theme-dark-gray .theme-color{color:#555}.tint-dark-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-dark-gray,.tint-dark-gray blockquote,.tint-dark-gray blockquote p,.tint-dark-gray cite{color:#fff}
+.tint-dark-gray a,.tint-dark-gray a:hover{color:#fff}.tint-dark-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#555;content:"";opacity:.8}
 }.swatch-color-eminence{color:#6d0f84}.card-theme-eminence{border:0;border-top:8px solid #6d0f84}
 .card-theme-eminence h1,.card-theme-eminence h2,.card-theme-eminence .partner-footer h3,.partner-footer .card-theme-eminence h3,.card-theme-eminence h3,.card-theme-eminence h4,.card-theme-eminence h5,.card-theme-eminence h6,.card-theme-eminence a{color:#6d0f84}
 .card-theme-eminence a:hover{color:#620e77}.card-theme-eminence .theme-color{color:#6d0f84}
@@ -752,6 +755,10 @@ a.thumbnail image{box-shadow:none}.title-bar{padding:0;background:#6d0f84;color:
 .card-theme-medium-gray h1,.card-theme-medium-gray h2,.card-theme-medium-gray .partner-footer h3,.partner-footer .card-theme-medium-gray h3,.card-theme-medium-gray h3,.card-theme-medium-gray h4,.card-theme-medium-gray h5,.card-theme-medium-gray h6,.card-theme-medium-gray a{color:#cacaca}
 .card-theme-medium-gray a:hover{color:#b6b6b6}.card-theme-medium-gray .theme-color{color:#cacaca}
 .card-theme-medium-gray .theme-bg{background-color:#cacaca;color:#fff}.card-theme-medium-gray path{fill:#cacaca}
+.swatch-color-dark-gray{color:#555}.card-theme-dark-gray{border:0;border-top:8px solid #555}
+.card-theme-dark-gray h1,.card-theme-dark-gray h2,.card-theme-dark-gray .partner-footer h3,.partner-footer .card-theme-dark-gray h3,.card-theme-dark-gray h3,.card-theme-dark-gray h4,.card-theme-dark-gray h5,.card-theme-dark-gray h6,.card-theme-dark-gray a{color:#555}
+.card-theme-dark-gray a:hover{color:#4d4d4d}.card-theme-dark-gray .theme-color{color:#555}
+.card-theme-dark-gray .theme-bg{background-color:#555;color:#fff}.card-theme-dark-gray path{fill:#555}
 .bottomless>*:last-child{margin-bottom:0}.v-pad-bottom{padding-bottom:1rem}@media print,screen and (min-width:55.625em){.v-pad-bottom{padding-bottom:2rem}
 }.v-pad-top{padding-top:1rem}@media print,screen and (min-width:55.625em){.v-pad-top{padding-top:2rem}
 }.section-pad{padding-top:1rem;padding-bottom:1rem}@media print,screen and (min-width:55.625em){.section-pad{padding-top:4rem;padding-bottom:4rem}
@@ -770,10 +777,10 @@ li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{mar
 .button.hollow.theme-willow:before{background-color:#b7db53}.button.hollow.theme-violetred:before{background-color:#ea5397}
 .button.hollow.theme-sienna:before{background-color:#fc7e56}.button.hollow.theme-festival:before{background-color:#f9cc12}
 .button.hollow.theme-yellow:before{background-color:#ffe363}.button.hollow.theme-light-gray:before{background-color:#f7f8f9}
-.button.hollow.theme-medium-gray:before{background-color:#cacaca}.event-page h1{margin-bottom:.5rem}
-.off-canvas .menu a,.title-bar .menu a{text-decoration:none;color:#1e1e1e}.off-canvas .menu a{color:#fff}
-.off-canvas .menu li,.dropdown .menu li{margin-bottom:0}.title-bar .button.hollow{padding:.85em 1em}
-.off-canvas .menu .button.hollow{margin-right:10px;margin-left:10px;border:2px solid #fff;color:#fff}
+.button.hollow.theme-medium-gray:before{background-color:#cacaca}.button.hollow.theme-dark-gray:before{background-color:#555}
+.event-page h1{margin-bottom:.5rem}.off-canvas .menu a,.title-bar .menu a{text-decoration:none;color:#1e1e1e}
+.off-canvas .menu a{color:#fff}.off-canvas .menu li,.dropdown .menu li{margin-bottom:0}
+.title-bar .button.hollow{padding:.85em 1em}.off-canvas .menu .button.hollow{margin-right:10px;margin-left:10px;border:2px solid #fff;color:#fff}
 .off-canvas .menu .button.hollow:before{display:none}.headroom--top .menu .menu,.menu .menu{text-align:left}
 .headroom--top .menu .menu a,.menu .menu a{color:#fff}.headroom--top .menu .navbar-button,.navbar-button{text-align:center}
 .headroom--top .menu .navbar-button small,.navbar-button small{font-size:.76923rem}
@@ -789,10 +796,9 @@ li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{mar
 .is-dropdown-submenu-parent{position:static}.menu>li>a{padding:.7rem}}@media print,screen and (min-width:55.625em){.headroom{position:relative !important;height:auto}
 .title-bar{background:#fff !important}.title-bar-right{padding:1rem}.logo{margin-top:1rem;margin-left:1rem;width:280px;height:100%}
 }.home-content{position:relative;z-index:2}.home-content>:last-child{padding-bottom:3rem}
-.subpage-content{padding-bottom:100px}.subpage-content .section-pad:first-child{padding-top:0}
-.subpage-header{position:relative;padding:3rem 0 40px;text-align:center}.subpage-header a{text-decoration:none}
-.footer{padding-top:2rem;padding-bottom:2rem;background:#6d0f84}.footer p,.footer a,.footer small{color:#fff}
-.footer a,.footer svg,.footer path,.footer polygon,.footer rect,.footer g{transition:all 400ms ease}
+.subpage-content .section-pad:first-child{padding-top:0}.subpage-header{position:relative;padding:3rem 0 40px;text-align:center}
+.subpage-header a{text-decoration:none}.footer{padding-top:2rem;padding-bottom:2rem;background:#6d0f84}
+.footer p,.footer a,.footer small{color:#fff}.footer a,.footer svg,.footer path,.footer polygon,.footer rect,.footer g{transition:all 400ms ease}
 .footer .legal{display:block}.footer-logo{position:relative;z-index:2;display:block;margin:0 auto 1.5em;width:240px}
 .footer-logo svg{max-width:100%;height:auto}.footer-logo path{fill:#fff}.footer-nav{margin:0;padding:0;font-size:1.15385rem;font-weight:bold;list-style:none}
 .footer-nav a{display:block;padding:.25em .5em;color:#fff}@media print,screen and (min-width:55.625em){.footer-nav{text-align:center}

@@ -27,7 +27,7 @@ description: DjangoCon US is only possible through the support of various organi
 
   {% for level in site.data.sponsors.levels %}
     {% if level.sponsors %}
-      <div class="section-pad {% cycle 'theme-light-gray', 'theme-dark-gray', 'theme-medium-gray' %}">
+      <div class="section-pad {% cycle 'theme-light-gray', 'theme-medium-gray', 'theme-white' %}">
         <h2 class="text-center v-pad-bottom">{{ level.name }}</h2>
         {% for sponsor in level.sponsors %}
           {% unless sponsor.hidden %}

@@ -79,15 +79,6 @@
   transition: all 200ms ease;
   will-change: transform;
 
-  a,
-  svg,
-  path,
-  polygon,
-  rect,
-  g {
-    transition: all 400ms ease;
-  }
-
   &,
   .hamburger {
     height: 60px;

@@ -11,10 +11,8 @@ $hamburger-types: (spin);
   padding: 16px 15px 10px;
 }
 
-.headroom--top {
-  .hamburger-inner,
-  .hamburger-inner:before,
-  .hamburger-inner:after {
-    background-color: $black;
-  }
+.hamburger-inner,
+.hamburger-inner:before,
+.hamburger-inner:after {
+  background-color: $white;
 }

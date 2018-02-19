@@ -35,7 +35,6 @@
   }
 }
 
-.headroom--top .menu .menu,
 .menu .menu { // subnav menu, with the headroom class added so it doesn't change
   text-align: left;
 
@@ -95,51 +94,12 @@
   }
 }
 
-// change visual styles
-.headroom--top {
-  background-color: transparent;
-
-  .top-bar-title {
-    color: $primary-color;
-  }
-
-  .menu {
-    a {
-      color: $body-font-color;
-    }
-
-    li.is-dropdown-submenu-parent > a::after { // override arrow color
-      border-color: $black transparent transparent;
-    }
-
-    li li.is-dropdown-submenu-parent > a::after { // override arrow color
-      border-color: $body-background transparent transparent;
-      opacity: 1;
-    }
-
-    .menu {
-      a {
-        color: $white;
-      }
-
-      a:hover {
-        background: get-color(secondary);
-      }
-    }
-  }
-}
-
-
 // tightening drop-down arrows on navigaiton parent elements
 .dropdown.menu > li.is-dropdown-submenu-parent > a {
   padding-right: 1.1rem;
 }
 
 @include breakpoint(smedium down) {
-  .headroom--not-top .logo path {
-    fill: $white;
-  }
-
   .is-dropdown-submenu-parent {
     position: static; // fixing drilldown
   }
@@ -149,7 +109,13 @@
   }
 }
 
-@include breakpoint(medium) {
+@include breakpoint(medium down) {
+  .logo path {
+    fill: $white;
+  }
+}
+
+@include breakpoint(large) {
   .headroom {
     position: relative !important;
     height: auto;

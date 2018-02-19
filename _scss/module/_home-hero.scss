@@ -35,8 +35,12 @@
     max-width: 280px;
   }
 
-  @include breakpoint(medium) {
+  @include breakpoint(large) {
     padding-top: 2rem;
+
+    .header-text {
+      padding-top: 5.5rem;
+    }
 
     .subhead {
       text-align: right;
@@ -58,12 +62,6 @@
 
     .header-img {
       max-width: 380px;
-    }
-  }
-
-  @include breakpoint(large) {
-    .header-text {
-      padding-top: 5.5rem;
     }
   }
 }

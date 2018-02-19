@@ -438,7 +438,7 @@ $form-button-radius: $global-radius;
 // 20. Label
 // ---------
 
-$label-background: $primary-color;
+$label-background: get-color(primary);
 $label-color: $white;
 $label-color-alt: $white;
 $label-palette: $foundation-palette;

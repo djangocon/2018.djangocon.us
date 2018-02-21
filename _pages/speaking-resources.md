@@ -3,7 +3,7 @@ layout: default
 title: Speaker Resources
 heading: Speaker Resources
 permalink: /speaking/speaker-resources/
-description: Resources to support DjangoCon 2017 speakers
+description: Resources to support DjangoCon 2018 speakers
 ---
 
 {% comment %}

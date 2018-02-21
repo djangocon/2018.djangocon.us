@@ -1,7 +1,23 @@
 .subpage-header {
   position: relative;
-  padding: 6rem 0 40px;
+  padding: 6rem 0 4rem;
   text-align: center;
+}
+
+.subpage-header h1 {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.subpage-header h1:after {
+  position: relative;
+  bottom: -.8rem;
+  left: calc(50% - 1.5rem);
+  display: block;
+  width: 3rem;
+  height: 4px;
+  background: $sienna;
+  content: "";
 }
 
 .subpage-header a {

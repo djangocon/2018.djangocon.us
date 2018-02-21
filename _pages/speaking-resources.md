@@ -30,7 +30,7 @@ We’re open to all kinds of ideas, especially ones we haven’t thought of! Tec
 {% comment %}
 <div class="row">
     <div class="column">
-        <a class="button secondary" href="https://www.papercall.io/djangocon-us-2017">Apply today!</a>
+        <a class="button hollow theme-shakespeare" href="https://www.papercall.io/djangocon-us-2017">Apply today!</a>
     </div>
 </div>
 {% endcomment %}

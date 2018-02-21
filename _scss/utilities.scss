@@ -26,6 +26,10 @@
 }
 
 .section-pad {
+  // TODO: 2018: Makes hollow buttons work
+  position: relative;
+  z-index: 0;
+
   padding-top: 1rem;
   padding-bottom: 1rem;
 

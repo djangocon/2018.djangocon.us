@@ -56,6 +56,11 @@
     text-decoration: none;
   }
 
+  .location,
+  a:hover {
+    color: $black;
+  }
+
   a:hover .event-title {
     color: $secondary-color;
   }
@@ -96,42 +101,26 @@
 // Handle variations
 .event.loc-main {
   @extend %has-bg;
-  border-top: 8px solid $secondary-color;
+  border-top: 8px solid $festival;
 }
 
 .event.loc-main .location {
   background: $light-gray;
-  color: $secondary-color;
 }
 
 .event.loc-alt {
   @extend %has-bg;
-  border-top: 8px solid $medium-gray;
-
-  .location,
-  a:hover {
-    color: $medium-gray;
-  }
+  border-top: 8px solid $orchid;
 }
 
 .event.loc-alt-2 {
   @extend %has-bg;
-  border-top: 8px solid $black;
-
-  .location,
-  a:hover {
-    color: $black;
-  }
+  border-top: 8px solid $violetred;
 }
 
 .event.loc-alt-3 {
   @extend %has-bg;
-  border-top: 8px solid $black;
-
-  .location,
-  a:hover {
-    color: $black;
-  }
+  border-top: 8px solid $sienna;
 }
 
 .event.loc-main,

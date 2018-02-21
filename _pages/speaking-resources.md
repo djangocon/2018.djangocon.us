@@ -30,14 +30,14 @@ We’re open to all kinds of ideas, especially ones we haven’t thought of! Tec
 {% comment %}
 <div class="row">
     <div class="column">
-        <a class="button secondary" href="https://www.papercall.io/djangocon-us-2017">Apply today!</a>
+        <a class="button hollow theme-shakespeare" href="https://www.papercall.io/djangocon-us-2017">Apply today!</a>
     </div>
 </div>
 {% endcomment %}
 
-## Information for Speakers 
+## Information for Speakers
 * The Speaker Green Room will be in Willow II on Sunday-Wednesday. Please be in the Green Room at least 10 minutes before your talk to meet your session runner, who will escort you to your presentation room.  
-* The Quiet Room will be in Willow I on all conference days. 
+* The Quiet Room will be in Willow I on all conference days.
 
 ## Need some help with your {% comment %}proposal or {% endcomment %}talk?
 
@@ -69,4 +69,3 @@ Presenters, regardless of experience, sometimes want a little help. If you’d l
 * Consider publishing your slides after your talk (on the platform of your choice) and tweeting the link with the #djangocon hashtag.
 
 Thanks to [AlterConf](https://www.alterconf.com/speak) for their amazing speaking recommendations!
-

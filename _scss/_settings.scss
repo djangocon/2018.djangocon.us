@@ -85,8 +85,8 @@ $foundation-palette: (
 @include add-foundation-colors;
 
 $light-gray: #F7F8F9;
-$medium-gray: #cacaca;
-$dark-gray: #555555;
+$medium-gray: #E9E9E9;
+$dark-gray: #CACACA;
 $black: #1E1E1E;
 $white: #FFFFFF;
 
@@ -319,15 +319,15 @@ $buttongroup-radius-on-each: true;
 // 13. Callout
 // -----------
 
-$callout-background: $light-gray;
+$callout-background: transparent;
 $callout-background-fade: 0;
-$callout-border: 1px solid rgba($black, 0.25);
+$callout-border: 4px solid $violetred;
 $callout-margin: 0 0 1rem 0;
-$callout-padding: 1rem;
+$callout-padding: 1.5rem;
 $callout-font-color: $body-font-color;
-$callout-font-color-alt: $body-background;
+$callout-font-color-alt: $body-font-color;
 $callout-radius: $global-radius;
-$callout-link-tint: 30%;
+$callout-link-tint: 0%;
 
 // 14. Card
 // --------
@@ -442,7 +442,7 @@ $label-background: get-color(primary);
 $label-color: $white;
 $label-color-alt: $white;
 $label-palette: $foundation-palette;
-$label-font-size: 0.65rem;
+$label-font-size: 0.8rem;
 $label-padding: 0.3333em 0.5em;
 $label-radius: 4px;
 

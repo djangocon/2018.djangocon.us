@@ -68,6 +68,17 @@
   }
 }
 
+.title-bar {
+  .logo {
+    width: 200px;
+  }
+
+  .menu > li > a {
+    padding: .6rem;
+    font-size: .8rem;
+  }
+}
+
 // change appearance on scroll.
 .headroom {
   position: fixed;
@@ -94,10 +105,6 @@
   .is-dropdown-submenu-parent {
     position: static; // fixing drilldown
   }
-
-  .menu > li > a {
-    padding: .7rem;
-  }
 }
 
 @include breakpoint(medium down) {
@@ -114,16 +121,36 @@
 
   .title-bar {
     background: $body-background !important;
+
+    .logo {
+      margin-top: $global-margin;
+      margin-left: $global-margin;
+      width: 240px;
+      height: 100%;
+    }
+
+    .menu > li > a {
+      font-size: .9rem;
+    }
   }
 
   .title-bar-right {
     padding: 1rem;
   }
+}
 
-  .logo {
-    margin-top: 1rem;
-    margin-left: 1rem;
-    width: 280px;
-    height: 100%;
+@include breakpoint(xlarge) {
+  .title-bar {
+    .logo {
+      margin-top: $global-margin;
+      margin-left: $global-margin;
+      width: 280px;
+      height: 100%;
+    }
+
+    .menu > li > a {
+      padding: 1rem;
+      font-size: 1rem;
+    }
   }
 }

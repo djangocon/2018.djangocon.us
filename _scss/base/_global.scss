@@ -22,6 +22,10 @@ li {
   margin-bottom: 1.5rem;
 }
 
+.lead:last-child {
+  margin-bottom: 0;
+}
+
 .demp {
   font-weight: 600;
 }
@@ -51,10 +55,6 @@ iframe,
   }
 }
 
-.callout-dark {
-  @include callout-style(darken($orchid, 5%));
-}
-
 .back {
   position: relative;
   z-index: -10;
@@ -71,4 +71,18 @@ iframe,
     margin-top: -110px;
     height: 110px;
   }
+}
+
+.media-object img {
+  min-width: 100px;
+}
+
+.label.box {
+  border-radius: 0;
+  font-weight: $global-weight-bold;
+}
+
+.section-heading {
+  margin-bottom: $global-margin * 3;
+  text-align: center;
 }

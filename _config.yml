@@ -46,10 +46,6 @@ exclude:
   - README.md
   - vendor
 
-  # TODO: As we bring pages live, we need to revisit this section...
-  - coc.md
-  - static/2018-logos
-
 
 # We need `future` to allow our schedule to work :/
 future: true

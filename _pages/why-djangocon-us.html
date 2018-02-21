@@ -20,7 +20,7 @@ description: |
       <p>We bring your favorite project maintainers, leading teams, passionate researchers, and creative hobbyists under one roof for a jam-packed week of knowledge sharing. The opportunities to learn and connect are endless!</p>
     </div>
     <div class="column small-12 medium-5">
-      <blockquote>
+      <blockquote class="callout">
         <p>DjangoCon provides a great opportunity for Django enthusiasts and experts to meet [...]. The quantity of training sessions mixed with case studies and networking opportunities provides a huge ROI for employers who want to help employees improve their technical chops quickly and efficiently.</p>
         <cite>Rikki Endsley<br>
           Coommunity Manager & Tech Journalist<br>
@@ -31,7 +31,7 @@ description: |
   </div>
 </div>
 
-<div class="section-pad">
+<div class="section-pad theme-light-gray">
   <h2 class="section-heading">A hundred other reasons and counting ...</h2>
   <div class="row small-up-1 medium-up-2">
     <section class="column column-block">
@@ -133,7 +133,7 @@ description: |
   </div>
 </div>
 
-<div class="section-pad theme-light-gray">
+<div class="section-pad theme-medium-gray">
   <div class="row">
     <div class="column small-12 medium-6">
       <h2>Experience a high quality assortment of content created, selected, and produced by the community.</h2>
@@ -146,7 +146,7 @@ description: |
           <iframe width="640" height="385" src="https://www.youtube.com/embed/BRCx6lSA0fM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
         <h3 class="video-card-title">Butter smooth, interactive applications with Django and Websockets</h3>
-        <h4 class="vide-card-presenter">by Ganesh Swami</h4>
+        <h4 class="video-card-presenter">by Ganesh Swami</h4>
       </section>
     </div>
   </div>
@@ -161,8 +161,12 @@ description: |
     <div class="column column-block">
 
     </div>
-    <div class="column column-block">
-      <h3 class="demp">Looking for something hands-on?</h3>
+    <div class="column column-block tutorials-block">
+      <img
+        src="{{ "/static/img/cap.svg" | relative_url }}"
+        alt="A graduation cap"
+        class="media-icon">
+      <h3 class="tutorials-block-heading">Looking for something hands-on?</h3>
       <p>Tutorials are only <strong>$150 each</strong> and are a great way for teams to deep-dive new concepts.</p>
     </div>
     <div class="column column-block">
@@ -202,7 +206,9 @@ description: |
 <div class="section-pad">
   <div class="row">
     <div class="column small-12 medium-6">
-
+      <img
+        src="{{ "/static/img/bug.svg" | relative_url }}"
+        alt="A bug depicted on a desktop monitor">
     </div>
     <div class="column small-12 medium-6">
       <h2>Stay for the FREE post- conference, two-day sprints and collaborate with Django enthusiasts.</h2>

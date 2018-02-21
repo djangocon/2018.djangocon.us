@@ -17,7 +17,7 @@ As part of our commitment to diversity, we are thrilled to announce that we will
 <div class="row column">
     <div class="medium-5 medium-centered column">
         <div class="button-group expanded">
-            <a class="button secondary" href="{{ site.financial_aid_application }}">Apply for Financial Aid</a>
+            <a class="button hollow theme-shakespeare" href="{{ site.financial_aid_application }}">Apply for Financial Aid</a>
         </div>
     </div>
 </div>

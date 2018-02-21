@@ -800,7 +800,8 @@ li{margin-bottom:.85rem}.lead{margin-bottom:2.5rem;font-weight:400}.lead.min{mar
 .footer .legal{display:block}.footer-logo{position:relative;z-index:2;display:block;margin:0 auto 1.5em;width:240px}
 .footer-logo svg{max-width:100%;height:auto}.footer-logo path{fill:#fff}.footer-nav{margin:0;padding:0;font-size:1.15385rem;font-weight:bold;list-style:none}
 .footer-nav a{display:block;padding:.25em .5em;color:#fff}@media print,screen and (min-width:55.625em){.footer-nav{text-align:center}
-.footer-nav li{display:inline-block;vertical-align:baseline}}.partner-cta-box h2,.partner-cta-box .partner-footer h3,.partner-footer .partner-cta-box h3{margin-bottom:.5rem;font-size:1.34615rem}
+.footer-nav li{display:inline-block;vertical-align:baseline}}.footer .social-icons{text-align:center}
+.partner-cta-box h2,.partner-cta-box .partner-footer h3,.partner-footer .partner-cta-box h3{margin-bottom:.5rem;font-size:1.34615rem}
 .schedule-page .subpage-content{padding-bottom:0}.attraction-name{margin-bottom:.5rem}
 .attraction-location{font-size:.8rem}.attraction-location .label{margin-right:1rem;font-size:.8em;font-weight:700}
 .attraction-description{max-width:24em;font-size:.9rem}@media print,screen and (min-width:64em){.attraction-list .column,.attraction-list .columns{margin-bottom:2.5rem}

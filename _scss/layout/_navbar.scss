@@ -21,7 +21,12 @@
 }
 
 .title-bar .button.hollow {
-  padding: $button-padding;
+  padding: .65rem .5rem;
+  font-size: .85rem;
+
+  small {
+    font-size: .65rem;
+  }
 }
 
 .off-canvas .menu .button.hollow {
@@ -125,7 +130,7 @@
     .logo {
       margin-top: $global-margin;
       margin-left: $global-margin;
-      width: 240px;
+      width: 194px;
       height: 100%;
     }
 

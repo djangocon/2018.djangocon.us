@@ -780,7 +780,8 @@ blockquote cite{font-size:.67308rem;color:#1e1e1e}.button{text-decoration:none}.
 .button.hollow.theme-medium-gray:before{background-color:#e9e9e9}.button.hollow.theme-dark-gray:before{background-color:#cacaca}
 .event-page h1{margin-bottom:.5rem}.off-canvas .menu a,.title-bar .menu a{text-decoration:none;color:#1e1e1e}
 .off-canvas .menu a{color:#fff}.off-canvas .menu li,.dropdown .menu li{margin-bottom:0}
-.title-bar .button.hollow{padding:.85em 1em}.off-canvas .menu .button.hollow{margin-right:10px;margin-left:10px;border:2px solid #fff;color:#fff}
+.title-bar .button.hollow{padding:.65rem .5rem;font-size:.85rem}.title-bar .button.hollow small{font-size:.65rem}
+.off-canvas .menu .button.hollow{margin-right:10px;margin-left:10px;border:2px solid #fff;color:#fff}
 .off-canvas .menu .button.hollow:before{display:none}.menu .menu{text-align:left}
 .menu .menu a{color:#fff}.headroom--top .menu .navbar-button,.navbar-button{text-align:center}
 .headroom--top .menu .navbar-button small,.navbar-button small{font-size:.76923rem}
@@ -790,7 +791,7 @@ blockquote cite{font-size:.67308rem;color:#1e1e1e}.button{text-decoration:none}.
 .headroom,.headroom .hamburger{height:60px}.dropdown.menu>li.is-dropdown-submenu-parent>a{padding-right:1.1rem}
 @media screen and (max-width:55.5625em){.is-dropdown-submenu-parent{position:static}
 }@media screen and (max-width:63.9375em){.logo path{fill:#fff}}@media print,screen and (min-width:64em){.headroom{position:relative !important;height:auto}
-.title-bar{background:#fff !important}.title-bar .logo{margin-top:1rem;margin-left:1rem;width:240px;height:100%}
+.title-bar{background:#fff !important}.title-bar .logo{margin-top:1rem;margin-left:1rem;width:194px;height:100%}
 .title-bar .menu>li>a{font-size:.9rem}.title-bar-right{padding:1rem}}@media screen and (min-width:75em){.title-bar .logo{margin-top:1rem;margin-left:1rem;width:280px;height:100%}
 .title-bar .menu>li>a{padding:1rem;font-size:1rem}}.home-content{position:relative;z-index:2}
 .home-content>:last-child{padding-bottom:3rem}.video-card .label{float:right;margin-right:10px;border-radius:4px 4px 0 0;font-weight:700}

@@ -4,19 +4,18 @@
   .hero-content {
     position: relative;
     z-index: 2;
-    background: $body-background;
     padding-top: rem-calc(10);
+    background: $body-background;
 
     .column {
       @include bottomless;
     }
-
   }
 
-  blockquote{
-    font-size: rem-calc(32);
-    border: none;
+  blockquote {
     padding: 0;
+    border: none;
+    font-size: rem-calc(26);
   }
 
   cite {
@@ -28,8 +27,8 @@
     padding-bottom: 16vh;
 
     .hero-content {
-      background: transparent;
       padding-top: 0;
+      background: transparent;
     }
   }
 }

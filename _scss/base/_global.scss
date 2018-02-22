@@ -77,11 +77,6 @@ iframe,
   min-width: 100px;
 }
 
-.label.box {
-  border-radius: 0;
-  font-weight: $global-weight-bold;
-}
-
 .section-heading {
   margin-bottom: $global-margin * 3;
   text-align: center;
@@ -91,45 +86,5 @@ blockquote {
   cite {
     font-size: rem-calc(14px);
     color: $body-font-color;
-  }
-}
-
-
-.video-card {
-  .label {
-    float: right;
-  }
-
-  .responsive-embed {
-    clear: both;
-  }
-
-  &-title,
-  &-presenter {
-    font-family: $body-font-family;
-  }
-
-  &-title {
-    margin-bottom: .5rem;
-    font-size: rem-calc(24px);
-  }
-
-  &-presenter {
-    font-size: rem-calc(20px);
-    font-weight: $global-weight-normal;
-  }
-}
-
-.tutorials-block {
-  .media-icon {
-    float: left;
-    margin-right: 1rem;
-    width: 74px;
-    height: 74px;
-  }
-
-  .tutorials-block-heading {
-    font-size: rem-calc(24px);
-    font-weight: 600;
   }
 }

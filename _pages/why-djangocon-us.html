@@ -22,7 +22,7 @@ description: |
     <div class="column small-12 medium-5">
       <blockquote class="callout">
         <p>DjangoCon provides a great opportunity for Django enthusiasts and experts to meet [...]. The quantity of training sessions mixed with case studies and networking opportunities provides a huge ROI for employers who want to help employees improve their technical chops quickly and efficiently.</p>
-        <cite>Rikki Endsley<br>
+        <cite><strong>Rikki Endsley</strong><br>
           Coommunity Manager & Tech Journalist<br>
           Opensource.com
         </cite>
@@ -152,14 +152,34 @@ description: |
   </div>
 </div>
 
-<div class="v-pad-top theme-light-gray">
+<div class="section-pad theme-light-gray">
   <h2 class="section-heading">A sampling of popular sessions from past years</h2>
-  <div class="row small-up-1 medium-up-3">
+  <div
+    class="row small-up-1 medium-up-3"
+    data-equalizer data-equalize-on="medium">
     <div class="column column-block">
-
+      <section class="event boxed" data-equalizer-watch>
+        <a href="#" class="event-content">
+          <h3 class="event-title">Using Django, Docker, and Scikit-learn to Bootstrap Your Machine Learning Project</h3>
+          <span class="label" aria-label="Session type:">Talk</span>
+          <span class="label" aria-label="Audience level:">Intermediate</span>
+          <p class="event-byline">
+            By Lorena Mesa
+          </p>
+        </a>
+      </section>
     </div>
     <div class="column column-block">
-
+      <section class="event boxed" data-equalizer-watch>
+        <a href="#" class="event-content">
+          <h3 class="event-title">From 0 to 100 in Django</h3>
+          <span class="label" aria-label="Session type:">Tutorial</span>
+          <span class="label" aria-label="Audience level:">Beginner</span>
+          <p class="event-byline">
+            By Jeremy Spencer
+          </p>
+        </a>
+      </section>
     </div>
     <div class="column column-block tutorials-block">
       <img
@@ -170,13 +190,41 @@ description: |
       <p>Tutorials are only <strong>$150 each</strong> and are a great way for teams to deep-dive new concepts.</p>
     </div>
     <div class="column column-block">
-
+      <section class="event boxed" data-equalizer-watch>
+        <a href="#" class="event-content">
+          <h3 class="event-title">Build a GraphQL API Using
+Django</h3>
+          <span class="label" aria-label="Session type:">Tutorial</span>
+          <span class="label" aria-label="Audience level:">Intermediate</span>
+          <p class="event-byline">
+            By Murange James
+          </p>
+        </a>
+      </section>
     </div>
     <div class="column column-block">
-
+      <section class="event boxed" data-equalizer-watch>
+        <a href="#" class="event-content">
+          <h3 class="event-title">Write an API for Almost Anything (or The Amazing Power and Flexibility of Django Rest Framework</h3>
+          <span class="label" aria-label="Session type:">Talk</span>
+          <span class="label" aria-label="Audience level:">All Levels</span>
+          <p class="event-byline">
+            By Charlotte Mays
+          </p>
+        </a>
+      </section>
     </div>
     <div class="column column-block">
-
+      <section class="event boxed" data-equalizer-watch>
+        <a href="#" class="event-content">
+          <h3 class="event-title">Files in Django</h3>
+          <span class="label" aria-label="Session type:">Talk</span>
+          <span class="label" aria-label="Audience level:">Beginner</span>
+          <p class="event-byline">
+            By Josh Schneier
+          </p>
+        </a>
+      </section>
     </div>
   </div>
 </div>
@@ -205,10 +253,11 @@ description: |
 
 <div class="section-pad">
   <div class="row">
-    <div class="column small-12 medium-6">
+    <div class="column small-12 medium-6 text-center">
       <img
         src="{{ "/static/img/bug.svg" | relative_url }}"
-        alt="A bug depicted on a desktop monitor">
+        alt="A bug depicted on a desktop monitor"
+        class="sprints-img">
     </div>
     <div class="column small-12 medium-6">
       <h2>Stay for the FREE post- conference, two-day sprints and collaborate with Django enthusiasts.</h2>
@@ -216,3 +265,25 @@ description: |
     </div>
   </div>
 </div>
+
+<section
+  class="
+    photo-hero
+    tint-eminence
+    why-quote"
+  data-interchange="[/static/img/about.jpg, medium]"
+  >
+  <img class="hide-for-medium" src="/static/img/about-mobile.jpg">
+  <div class="row hero-content">
+    <div
+      class="column medium-8 medium-centered text-center">
+        <blockquote>
+          <p>The biggest obvious benefit to employees is being exposed to the conference material. The larger, but less obvious, benefit is the community interactions and connections your employees will make. Have a problem with a library? It's possible your employee knows one of the core maintainers or someone else who uses it and can reach out for some quick advice that simply isn't possible without the human connection.</p>
+          <cite>Frank Wiles<br>
+            DSF President and Founder of REVSYS
+          </cite>
+        </blockquote>
+        <a href="#" class="button hollow theme-willow">Join Frank. Buy your ticket</a>
+      </div>
+  </div>
+</section>

@@ -93,6 +93,22 @@
   }
 }
 
+// Fallback style, mostly used on Why DjangoCon US?
+.event.boxed {
+  padding: $global-margin;
+  border: 1px solid $medium-gray;
+  background: $white;
+
+  .event-content {
+    display: block;
+  }
+
+  .event-byline {
+    margin-top: $global-margin;
+    padding-top: 0;
+  }
+}
+
 .event-title {
   margin-bottom: .5rem;
   font-size: rem-calc(24px);

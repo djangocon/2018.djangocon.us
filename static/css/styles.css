@@ -712,51 +712,51 @@ a.thumbnail{transition:none}a.thumbnail:hover,a.thumbnail:focus{box-shadow:none}
 .tint-dark-gray a,.tint-dark-gray a:hover{color:#fff}.tint-dark-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#979797;content:"";opacity:.8}
 }.swatch-color-eminence{color:#6d0f84}.card-theme-eminence{border:0;border-top:8px solid #6d0f84}
 .card-theme-eminence h1,.card-theme-eminence h2,.card-theme-eminence .partner-footer h3,.partner-footer .card-theme-eminence h3,.card-theme-eminence h3,.card-theme-eminence h4,.card-theme-eminence h5,.card-theme-eminence h6,.card-theme-eminence a{color:#6d0f84}
-.card-theme-eminence a:hover{color:#620e77}.card-theme-eminence .theme-color{color:#6d0f84}
+.card-theme-eminence a:hover{color:#4c0b5c}.card-theme-eminence .theme-color{color:#6d0f84}
 .card-theme-eminence .theme-bg{background-color:#6d0f84;color:#fff}.card-theme-eminence path{fill:#6d0f84}
 .swatch-color-orchid{color:#b52bc9}.card-theme-orchid{border:0;border-top:8px solid #b52bc9}
 .card-theme-orchid h1,.card-theme-orchid h2,.card-theme-orchid .partner-footer h3,.partner-footer .card-theme-orchid h3,.card-theme-orchid h3,.card-theme-orchid h4,.card-theme-orchid h5,.card-theme-orchid h6,.card-theme-orchid a{color:#b52bc9}
-.card-theme-orchid a:hover{color:#a327b5}.card-theme-orchid .theme-color{color:#b52bc9}
+.card-theme-orchid a:hover{color:#7f1e8d}.card-theme-orchid .theme-color{color:#b52bc9}
 .card-theme-orchid .theme-bg{background-color:#b52bc9;color:#fff}.card-theme-orchid path{fill:#b52bc9}
 .swatch-color-shakespeare{color:#05b4dd}.card-theme-shakespeare{border:0;border-top:8px solid #05b4dd}
 .card-theme-shakespeare h1,.card-theme-shakespeare h2,.card-theme-shakespeare .partner-footer h3,.partner-footer .card-theme-shakespeare h3,.card-theme-shakespeare h3,.card-theme-shakespeare h4,.card-theme-shakespeare h5,.card-theme-shakespeare h6,.card-theme-shakespeare a{color:#05b4dd}
-.card-theme-shakespeare a:hover{color:#05a2c7}.card-theme-shakespeare .theme-color{color:#05b4dd}
+.card-theme-shakespeare a:hover{color:#047e9b}.card-theme-shakespeare .theme-color{color:#05b4dd}
 .card-theme-shakespeare .theme-bg{background-color:#05b4dd;color:#fff}.card-theme-shakespeare path{fill:#05b4dd}
 .swatch-color-viking{color:#07c8e8}.card-theme-viking{border:0;border-top:8px solid #07c8e8}
 .card-theme-viking h1,.card-theme-viking h2,.card-theme-viking .partner-footer h3,.partner-footer .card-theme-viking h3,.card-theme-viking h3,.card-theme-viking h4,.card-theme-viking h5,.card-theme-viking h6,.card-theme-viking a{color:#07c8e8}
-.card-theme-viking a:hover{color:#06b4d1}.card-theme-viking .theme-color{color:#07c8e8}
+.card-theme-viking a:hover{color:#058ca2}.card-theme-viking .theme-color{color:#07c8e8}
 .card-theme-viking .theme-bg{background-color:#07c8e8;color:#fff}.card-theme-viking path{fill:#07c8e8}
 .swatch-color-willow{color:#b7db53}.card-theme-willow{border:0;border-top:8px solid #b7db53}
 .card-theme-willow h1,.card-theme-willow h2,.card-theme-willow .partner-footer h3,.partner-footer .card-theme-willow h3,.card-theme-willow h3,.card-theme-willow h4,.card-theme-willow h5,.card-theme-willow h6,.card-theme-willow a{color:#b7db53}
-.card-theme-willow a:hover{color:#a5c54b}.card-theme-willow .theme-color{color:#b7db53}
+.card-theme-willow a:hover{color:#80993a}.card-theme-willow .theme-color{color:#b7db53}
 .card-theme-willow .theme-bg{background-color:#b7db53;color:#fff}.card-theme-willow path{fill:#b7db53}
 .swatch-color-violetred{color:#ea5397}.card-theme-violetred{border:0;border-top:8px solid #ea5397}
 .card-theme-violetred h1,.card-theme-violetred h2,.card-theme-violetred .partner-footer h3,.partner-footer .card-theme-violetred h3,.card-theme-violetred h3,.card-theme-violetred h4,.card-theme-violetred h5,.card-theme-violetred h6,.card-theme-violetred a{color:#ea5397}
-.card-theme-violetred a:hover{color:#d34b88}.card-theme-violetred .theme-color{color:#ea5397}
+.card-theme-violetred a:hover{color:#a43a6a}.card-theme-violetred .theme-color{color:#ea5397}
 .card-theme-violetred .theme-bg{background-color:#ea5397;color:#fff}.card-theme-violetred path{fill:#ea5397}
 .swatch-color-sienna{color:#fc7e56}.card-theme-sienna{border:0;border-top:8px solid #fc7e56}
 .card-theme-sienna h1,.card-theme-sienna h2,.card-theme-sienna .partner-footer h3,.partner-footer .card-theme-sienna h3,.card-theme-sienna h3,.card-theme-sienna h4,.card-theme-sienna h5,.card-theme-sienna h6,.card-theme-sienna a{color:#fc7e56}
-.card-theme-sienna a:hover{color:#e3714d}.card-theme-sienna .theme-color{color:#fc7e56}
+.card-theme-sienna a:hover{color:#b0583c}.card-theme-sienna .theme-color{color:#fc7e56}
 .card-theme-sienna .theme-bg{background-color:#fc7e56;color:#fff}.card-theme-sienna path{fill:#fc7e56}
 .swatch-color-festival{color:#f9cc12}.card-theme-festival{border:0;border-top:8px solid #f9cc12}
 .card-theme-festival h1,.card-theme-festival h2,.card-theme-festival .partner-footer h3,.partner-footer .card-theme-festival h3,.card-theme-festival h3,.card-theme-festival h4,.card-theme-festival h5,.card-theme-festival h6,.card-theme-festival a{color:#f9cc12}
-.card-theme-festival a:hover{color:#e0b810}.card-theme-festival .theme-color{color:#f9cc12}
+.card-theme-festival a:hover{color:#ae8f0d}.card-theme-festival .theme-color{color:#f9cc12}
 .card-theme-festival .theme-bg{background-color:#f9cc12;color:#fff}.card-theme-festival path{fill:#f9cc12}
 .swatch-color-yellow{color:#ffe363}.card-theme-yellow{border:0;border-top:8px solid #ffe363}
 .card-theme-yellow h1,.card-theme-yellow h2,.card-theme-yellow .partner-footer h3,.partner-footer .card-theme-yellow h3,.card-theme-yellow h3,.card-theme-yellow h4,.card-theme-yellow h5,.card-theme-yellow h6,.card-theme-yellow a{color:#ffe363}
-.card-theme-yellow a:hover{color:#e6cc59}.card-theme-yellow .theme-color{color:#ffe363}
+.card-theme-yellow a:hover{color:#b39f45}.card-theme-yellow .theme-color{color:#ffe363}
 .card-theme-yellow .theme-bg{background-color:#ffe363;color:#fff}.card-theme-yellow path{fill:#ffe363}
 .swatch-color-light-gray{color:#f7f8f9}.card-theme-light-gray{border:0;border-top:8px solid #f7f8f9}
 .card-theme-light-gray h1,.card-theme-light-gray h2,.card-theme-light-gray .partner-footer h3,.partner-footer .card-theme-light-gray h3,.card-theme-light-gray h3,.card-theme-light-gray h4,.card-theme-light-gray h5,.card-theme-light-gray h6,.card-theme-light-gray a{color:#f7f8f9}
-.card-theme-light-gray a:hover{color:#dedfe0}.card-theme-light-gray .theme-color{color:#f7f8f9}
+.card-theme-light-gray a:hover{color:#adaeae}.card-theme-light-gray .theme-color{color:#f7f8f9}
 .card-theme-light-gray .theme-bg{background-color:#f7f8f9;color:#fff}.card-theme-light-gray path{fill:#f7f8f9}
 .swatch-color-medium-gray{color:#e9e9e9}.card-theme-medium-gray{border:0;border-top:8px solid #e9e9e9}
 .card-theme-medium-gray h1,.card-theme-medium-gray h2,.card-theme-medium-gray .partner-footer h3,.partner-footer .card-theme-medium-gray h3,.card-theme-medium-gray h3,.card-theme-medium-gray h4,.card-theme-medium-gray h5,.card-theme-medium-gray h6,.card-theme-medium-gray a{color:#e9e9e9}
-.card-theme-medium-gray a:hover{color:#d2d2d2}.card-theme-medium-gray .theme-color{color:#e9e9e9}
+.card-theme-medium-gray a:hover{color:#a3a3a3}.card-theme-medium-gray .theme-color{color:#e9e9e9}
 .card-theme-medium-gray .theme-bg{background-color:#e9e9e9;color:#fff}.card-theme-medium-gray path{fill:#e9e9e9}
 .swatch-color-dark-gray{color:#cacaca}.card-theme-dark-gray{border:0;border-top:8px solid #cacaca}
 .card-theme-dark-gray h1,.card-theme-dark-gray h2,.card-theme-dark-gray .partner-footer h3,.partner-footer .card-theme-dark-gray h3,.card-theme-dark-gray h3,.card-theme-dark-gray h4,.card-theme-dark-gray h5,.card-theme-dark-gray h6,.card-theme-dark-gray a{color:#cacaca}
-.card-theme-dark-gray a:hover{color:#b6b6b6}.card-theme-dark-gray .theme-color{color:#cacaca}
+.card-theme-dark-gray a:hover{color:#8d8d8d}.card-theme-dark-gray .theme-color{color:#cacaca}
 .card-theme-dark-gray .theme-bg{background-color:#cacaca;color:#fff}.card-theme-dark-gray path{fill:#cacaca}
 .bottomless>*:last-child{margin-bottom:0}.v-pad-bottom{padding-bottom:1rem}@media print,screen and (min-width:55.625em){.v-pad-bottom{padding-bottom:2rem}
 }.v-pad-top{padding-top:1rem}@media print,screen and (min-width:55.625em){.v-pad-top{padding-top:2rem}

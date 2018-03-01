@@ -30,6 +30,15 @@ li {
   font-weight: 600;
 }
 
+// For patching headers
+.contrast-fix {
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: .35em;
+  background: get-color(primary);
+}
+
 iframe,
 .highlighter-rouge {
   margin-bottom: $global-margin;

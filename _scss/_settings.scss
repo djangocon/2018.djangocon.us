@@ -325,7 +325,13 @@ $callout-border: 4px solid $violetred;
 $callout-margin: 0 0 1rem 0;
 $callout-padding: 1.5rem;
 $callout-font-color: $body-font-color;
+/*
+// Disabled to quell contrast errors.
+// Setting these does not seem to work.
+// See globals for actual font color.
 $callout-font-color-alt: $body-font-color;
+*/
+
 $callout-radius: $global-radius;
 $callout-link-tint: 0%;
 
@@ -440,7 +446,7 @@ $form-button-radius: $global-radius;
 
 $label-background: get-color(primary);
 $label-color: $white;
-$label-color-alt: $white;
+$label-color-alt: $black;
 $label-palette: $foundation-palette;
 $label-font-size: 0.8rem;
 $label-padding: 0.3333em 0.5em;

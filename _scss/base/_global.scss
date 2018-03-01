@@ -91,6 +91,10 @@ iframe,
   text-align: center;
 }
 
+.callout {
+  color: $callout-font-color;
+}
+
 blockquote {
   cite {
     font-size: rem-calc(14px);

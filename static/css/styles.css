@@ -677,39 +677,39 @@ a.thumbnail{transition:none}a.thumbnail:hover,a.thumbnail:focus{box-shadow:none}
 .short-delay{animation-delay:300ms !important}.long-delay{animation-delay:700ms !important}
 .theme-eminence{background-color:#6d0f84;color:#fff}.theme-eminence a,.theme-eminence a:hover{color:#fff}
 .theme-eminence .theme-color{color:#6d0f84}.tint-eminence{position:relative}@media print,screen and (min-width:55.625em){.tint-eminence,.tint-eminence blockquote,.tint-eminence blockquote p,.tint-eminence cite{color:#fff}
-.tint-eminence a,.tint-eminence a:hover{color:#fff}.tint-eminence:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#6d0f84;content:"";opacity:.8}
+.tint-eminence a,.tint-eminence a:hover{color:#fff}.tint-eminence:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#210528;content:"";opacity:.8}
 }.theme-orchid{background-color:#b52bc9;color:#fff}.theme-orchid a,.theme-orchid a:hover{color:#fff}
 .theme-orchid .theme-color{color:#b52bc9}.tint-orchid{position:relative}@media print,screen and (min-width:55.625em){.tint-orchid,.tint-orchid blockquote,.tint-orchid blockquote p,.tint-orchid cite{color:#fff}
-.tint-orchid a,.tint-orchid a:hover{color:#fff}.tint-orchid:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#b52bc9;content:"";opacity:.8}
+.tint-orchid a,.tint-orchid a:hover{color:#fff}.tint-orchid:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#691975;content:"";opacity:.8}
 }.theme-shakespeare{background-color:#05b4dd;color:#fff}.theme-shakespeare a,.theme-shakespeare a:hover{color:#fff}
 .theme-shakespeare .theme-color{color:#05b4dd}.tint-shakespeare{position:relative}
 @media print,screen and (min-width:55.625em){.tint-shakespeare,.tint-shakespeare blockquote,.tint-shakespeare blockquote p,.tint-shakespeare cite{color:#fff}
-.tint-shakespeare a,.tint-shakespeare a:hover{color:#fff}.tint-shakespeare:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#05b4dd;content:"";opacity:.8}
+.tint-shakespeare a,.tint-shakespeare a:hover{color:#fff}.tint-shakespeare:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#036379;content:"";opacity:.8}
 }.theme-viking{background-color:#07c8e8;color:#fff}.theme-viking a,.theme-viking a:hover{color:#fff}
 .theme-viking .theme-color{color:#07c8e8}.tint-viking{position:relative}@media print,screen and (min-width:55.625em){.tint-viking,.tint-viking blockquote,.tint-viking blockquote p,.tint-viking cite{color:#fff}
-.tint-viking a,.tint-viking a:hover{color:#fff}.tint-viking:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#07c8e8;content:"";opacity:.8}
+.tint-viking a,.tint-viking a:hover{color:#fff}.tint-viking:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#047385;content:"";opacity:.8}
 }.theme-willow{background-color:#b7db53;color:#fff}.theme-willow a,.theme-willow a:hover{color:#fff}
 .theme-willow .theme-color{color:#b7db53}.tint-willow{position:relative}@media print,screen and (min-width:55.625em){.tint-willow,.tint-willow blockquote,.tint-willow blockquote p,.tint-willow cite{color:#fff}
-.tint-willow a,.tint-willow a:hover{color:#fff}.tint-willow:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#b7db53;content:"";opacity:.8}
+.tint-willow a,.tint-willow a:hover{color:#fff}.tint-willow:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#83a523;content:"";opacity:.8}
 }.theme-violetred{background-color:#ea5397;color:#fff}.theme-violetred a,.theme-violetred a:hover{color:#fff}
 .theme-violetred .theme-color{color:#ea5397}.tint-violetred{position:relative}@media print,screen and (min-width:55.625em){.tint-violetred,.tint-violetred blockquote,.tint-violetred blockquote p,.tint-violetred cite{color:#fff}
-.tint-violetred a,.tint-violetred a:hover{color:#fff}.tint-violetred:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#ea5397;content:"";opacity:.8}
+.tint-violetred a,.tint-violetred a:hover{color:#fff}.tint-violetred:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#c01763;content:"";opacity:.8}
 }.theme-sienna{background-color:#fc7e56;color:#fff}.theme-sienna a,.theme-sienna a:hover{color:#fff}
 .theme-sienna .theme-color{color:#fc7e56}.tint-sienna{position:relative}@media print,screen and (min-width:55.625em){.tint-sienna,.tint-sienna blockquote,.tint-sienna blockquote p,.tint-sienna cite{color:#fff}
-.tint-sienna a,.tint-sienna a:hover{color:#fff}.tint-sienna:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#fc7e56;content:"";opacity:.8}
+.tint-sienna a,.tint-sienna a:hover{color:#fff}.tint-sienna:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#e83b04;content:"";opacity:.8}
 }.theme-festival{background-color:#f9cc12;color:#fff}.theme-festival a,.theme-festival a:hover{color:#fff}
 .theme-festival .theme-color{color:#f9cc12}.tint-festival{position:relative}@media print,screen and (min-width:55.625em){.tint-festival,.tint-festival blockquote,.tint-festival blockquote p,.tint-festival cite{color:#fff}
-.tint-festival a,.tint-festival a:hover{color:#fff}.tint-festival:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#f9cc12;content:"";opacity:.8}
+.tint-festival a,.tint-festival a:hover{color:#fff}.tint-festival:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#a18204;content:"";opacity:.8}
 }.theme-yellow{background-color:#ffe363;color:#fff}.theme-yellow a,.theme-yellow a:hover{color:#fff}
 .theme-yellow .theme-color{color:#ffe363}.tint-yellow{position:relative}@media print,screen and (min-width:55.625em){.tint-yellow,.tint-yellow blockquote,.tint-yellow blockquote p,.tint-yellow cite{color:#fff}
-.tint-yellow a,.tint-yellow a:hover{color:#fff}.tint-yellow:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#ffe363;content:"";opacity:.8}
+.tint-yellow a,.tint-yellow a:hover{color:#fff}.tint-yellow:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#fccf00;content:"";opacity:.8}
 }.theme-light-gray{background-color:#f7f8f9}.theme-light-gray .theme-color{color:#f7f8f9}
-.tint-light-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-light-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#f7f8f9;content:"";opacity:.8}
+.tint-light-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-light-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#bdc5cd;content:"";opacity:.8}
 }.theme-medium-gray{background-color:#e9e9e9}.theme-medium-gray .theme-color{color:#e9e9e9}
-.tint-medium-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-medium-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#e9e9e9;content:"";opacity:.8}
+.tint-medium-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-medium-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#b6b6b6;content:"";opacity:.8}
 }.theme-dark-gray{background-color:#cacaca;color:#fff}.theme-dark-gray a,.theme-dark-gray a:hover{color:#fff}
 .theme-dark-gray .theme-color{color:#cacaca}.tint-dark-gray{position:relative}@media print,screen and (min-width:55.625em){.tint-dark-gray,.tint-dark-gray blockquote,.tint-dark-gray blockquote p,.tint-dark-gray cite{color:#fff}
-.tint-dark-gray a,.tint-dark-gray a:hover{color:#fff}.tint-dark-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#cacaca;content:"";opacity:.8}
+.tint-dark-gray a,.tint-dark-gray a:hover{color:#fff}.tint-dark-gray:after{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#979797;content:"";opacity:.8}
 }.swatch-color-eminence{color:#6d0f84}.card-theme-eminence{border:0;border-top:8px solid #6d0f84}
 .card-theme-eminence h1,.card-theme-eminence h2,.card-theme-eminence .partner-footer h3,.partner-footer .card-theme-eminence h3,.card-theme-eminence h3,.card-theme-eminence h4,.card-theme-eminence h5,.card-theme-eminence h6,.card-theme-eminence a{color:#6d0f84}
 .card-theme-eminence a:hover{color:#620e77}.card-theme-eminence .theme-color{color:#6d0f84}

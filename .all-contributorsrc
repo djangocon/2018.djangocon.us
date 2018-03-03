@@ -4,7 +4,10 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
+  "contributorsPerLine": 9,
+  "badgeTemplate": "We have <%= contributors.length %> contributors",
+  "contributorTemplate": "<img src='<%= contributor.avatar_url %>' width='<%= options.imageSize %>px;'/>",
+  "imageSize": 72,
   "commit": false,
   "contributors": [
     {
@@ -187,6 +190,13 @@
       "name": "Arianne",
       "avatar_url": "https://avatars2.githubusercontent.com/u/2425730?v=4",
       "profile": "https://github.com/ariannedee",
+      "contributions": []
+    },
+    {
+      "login": "ana-balica",
+      "name": "Ana Balica",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2039122?v=4",
+      "profile": "http://ana-balica.github.io/",
       "contributions": []
     }
   ]

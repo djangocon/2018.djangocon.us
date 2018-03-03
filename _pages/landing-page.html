@@ -151,7 +151,16 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
       text-decoration: none;
     }
 
+    .feature-icon {
+      display: inline-block;
+      margin: 0 auto;
+      width: 140px;
+      max-width: 240px;
+    }
+
     .feature h3 {
+      font-size: 1.2rem;
+      text-align: center;
       color: var(--color-primary);
     }
 
@@ -166,7 +175,7 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
     }
 
     .spBlock {
-      padding: 2.5rem 1.25rem;
+      padding: 3rem 1.25rem;
       background: black url('{% link static/img/landing-page/people.jpg %}') no-repeat;
       background-size: cover;
       font-size: 1.4rem;
@@ -255,12 +264,17 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
       }
 
       .featuresBlock {
+        justify-content: space-between;
         margin-left: -1.5rem;
         margin-right: -1.5rem;
       }
 
+      .feature {
+        width: calc(33.33% - 1rem);
+      }
+
       .spBlock {
-        padding: 2rem;
+        padding: 4rem 2rem;
       }
     }
   </style>
@@ -280,16 +294,29 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
     <main class="siteMain">
       <div class="featuresBlock">
         <section class="feature">
+          <img
+            src="{{ "/static/img/cap.svg" | relative_url }}"
+            alt="A graduation cap"
+            class="feature-icon">
           <h3>Learn from Django's Brightest</h3>
           <p>Every conference is packed with talks and workshops by Django veterans and enthusiastic first-time presenters.</p>
           <a href="https://2017.djangocon.us/schedule/" class="cta">See last year's schedule</a>
         </section>
         <section class="feature">
+          <img
+            src="{{ "/static/img/hands.svg" | relative_url }}"
+            alt="Two hands interlocked"
+            class="feature-icon"
+            />
           <h3>Let's Grow Together&mdash;Organize DjangoCon US</h3>
           <p>Help make the conference happen by taking a leadership role on the organizing team, or volunteering to help out over the next several months.</p>
           <a href="mailto:hello@djangocon.us?subject=Organizing DjangoCon US 2018" class="cta">Contact us to volunteer</a>
         </section>
         <section class="feature">
+          <img
+            src="{{ "/static/img/list-color.svg" | relative_url }}"
+            alt="Several lines stacked vertically with minimal spacing."
+            class="feature-icon">
           <h3>Code of Conduct</h3>
           <p>Participants are expected to be respectful to each other. DjangoCon US is a welcoming environment.</p>
 

@@ -4,7 +4,7 @@
   "description": "Basic template for a new Foundation for Sites project.",
   "main": "gulpfile.js",
   "devDependencies": {
-    "all-contributors-cli": "^4.0.1",
+    "all-contributors-cli": "^4.11.0",
     "gulp-load-plugins": "^1.1.0",
     "gulp-sass": "^2.1.0",
     "style-sherpa": "^1.0.2"

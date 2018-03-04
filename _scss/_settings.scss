@@ -103,7 +103,8 @@ $djangocon-palette: (
   yellow: $yellow,
   light-gray: $light-gray,
   medium-gray: $medium-gray,
-  dark-gray: $dark-gray
+  dark-gray: $dark-gray,
+  black: $black
 );
 
 
@@ -614,14 +615,14 @@ $show-header-for-stacked: false;
 // 33. Tabs
 // --------
 
-$tab-margin: 0 0 3em 0;
+$tab-margin: 0;
 $tab-background: rgba(255,255,255,0.3);
-$tab-color: $primary-color;
-$tab-background-active: $secondary-color;
-$tab-active-color: $primary-color;
+$tab-color: get-color(primary);
+$tab-background-active: get-color(secondary);
+$tab-active-color: $white;
 $tab-item-font-size: rem-calc(20);
 $tab-item-background-hover: $white;
-$tab-item-padding: 20px 10px;
+$tab-item-padding: .8rem 1rem;
 $tab-expand-max: 6;
 $tab-content-background: $body-background;
 $tab-content-border: transparent;

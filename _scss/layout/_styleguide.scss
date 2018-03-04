@@ -1,0 +1,85 @@
+/* This styles code blocks used for examples. */
+.ss-code {
+  background: $light-gray;
+}
+
+.ss-code,
+.ss-code-live {
+  margin-bottom: 1.5rem;
+}
+
+.ss-code code {
+  display: block;
+  padding: 1rem;
+  font-size: 0.7em;
+  overflow: auto;
+}
+
+.styleguide-logo {
+  display: block;
+  margin: 2rem auto;
+  max-width: 400px;
+}
+
+.tabs-title a {
+  font-size: .9rem;
+  font-weight: $global-weight-bold;
+  text-decoration: none;
+}
+
+/* This styles the color blocks used in the color documentation. */
+.colors {
+  margin: 1em 0;
+  padding: 0;
+  list-style: none;
+}
+
+.color {
+  display: inline-block;
+  margin: 10px;
+  padding-top: 84px;
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.logo-set-wrap {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.logo-set {
+  margin-bottom: 2em;
+}
+
+.logo-set img {
+  display: block;
+  margin: 0 auto 1em;
+  max-width: 80%;
+}
+
+.download-links {
+  margin: 0.5em 0;
+  font-size: 0.8rem;
+  text-align: center;
+  list-style: none;
+}
+
+.download-links li {
+  display: inline-block;
+  padding: 0 6px;
+  vertical-align: baseline;
+}
+
+.styleguide-add-max-width {
+  max-width: 1200px;
+}
+
+.styleguide-content {
+  margin-top: 80px;
+}

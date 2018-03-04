@@ -1,6 +1,3 @@
----
-sitemap: false
----
 # Introduction
 
 The DjangoCon website was built using several Open Source technologies. Below is
@@ -21,133 +18,102 @@ from year-to-year. However, the goal with this logo is to highlight the casual,
 friendly, professional atmosphere of the conference and can be used for subsequent
 years with minimal alterations.
 
-The typeface used for the secondary elements ("2017 Spokane") is
-[Program OT, found on Typekit](https://typekit.com/fonts/program). If you decide
-to keep with this style in the future you will need this font, which is also used
-throughout the 2017 website.
+<img class="styleguide-logo" src="/static/brand/logo/logo.svg" alt="DjangoCon US logo">
 
-Most designers will have a typekit subscription, where this font can be synced
-locally using Adobe Creative Cloud for desktop use in order to edit the logo in
-the future. If you choose to buy the font license, you can do so at
-[Emigree.com](http://www.emigre.com/EF.php?fid=219).
+### Typefaces
 
-<img class="styleguide-logo" src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.svg">
-
-
+* [Signika](https://fonts.google.com/specimen/Signika) - Secondary typeface for logo
+* [Soure Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) - Used in body copy throughout website
 
 
 
 
 # Color guide
 
-Each year, there will be a set of colors that match the DjangoCon location and
-theme for the year. For 2017, the color palette is as follows:
-
 <ul class="colors">
-  <li class="color theme-orchid">Dark Green<br />#0A402B</li>
-  <li class="color theme-green">Green<br/>#0C4B33</li>
-  <li class="color theme-light-green">Light Green<br/>#20C989</li>
-  <li class="color theme-teal">Teal<br/>#3B928F</li>
-  <li class="color theme-light-blue">Light Blue<br/>#84D3D5</li>
-  <li class="color theme-orange">Orange<br/>#D66315</li>
-  <li class="color theme-beige">Off-white<br/>#F1DFC7</li>
-  <li class="color theme-medium-gray">Dark Beige<br/>#E5D4BD</li>
+  <!-- Darks -->
+  <li class="color theme-eminence">Eminence<br />#6D0F84</li>
+  <li class="color theme-orchid">Orchid<br/>#B52BC9</li>
+  <li class="color theme-shakespeare">shakespeare<br/>#05B4DD</li>
+
+  <!-- Brights -->
+  <li class="color theme-viking">Viking<br/>#07C8E8</li>
+  <li class="color theme-willow">Willow<br/>#B7DB53</li>
+  <li class="color theme-violetred">Violet Red<br/>#EA5397</li>
+  <li class="color theme-sienna">Sienna<br/>#FC7E56</li>
+  <li class="color theme-festival">Festival<br/>#F9CC12</li>
+  <li class="color theme-yellow">Yellow<br/>#FFE363</li>
+
+  <!-- Black, White, & Gray -->
+  <li class="color theme-light-gray">Light Gray<br/>#F7F8F9</li>
+  <li class="color theme-medium-gray">Medium Gray<br/>#E9E9E9</li>
+  <li class="color theme-dark-gray">Dark Gray<br/>#CACACA</li>
+  <li class="color theme-black">Black<br/>#191919</li>
 </ul>
 
 
 
 # Logo files
 
-### [Download all source files, including the Illustrator source file](/static/2017-logos.zip)
+[Download all brand files](/static/brand/brand.zip)
 
 <div class="row logo-set-wrap">
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.jpg" download>black-knockout.jpg</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.pdf" download>black-knockout.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.png" download>black-knockout.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-knockout.svg" download>black-knockout.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.jpg" download>black-with-opacity.jpg</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.pdf" download>black-with-opacity.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.png" download>black-with-opacity.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black-with-opacity.svg" download>black-with-opacity.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.jpg" download>black.jpg</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.pdf" download>black.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.png" download>black.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-black.svg" download>black.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.jpg" download>color-with-background.jpg</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.pdf" download>color-with-background.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.png" download>color-with-background.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-color-with-background.svg" download>color-with-background.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.jpg" download>green.jpg</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.pdf" download>green.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.png" download>green.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-green.svg" download>green.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.jpg" download>knockout.jpg</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.pdf" download>knockout.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.png" download>knockout.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-knockout.svg" download>knockout.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.jpg" download>no-bg.jpg</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.pdf" download>no-bg.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.png" download>no-bg.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-no-bg.svg" download>no-bg.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.pdf" download>white-with-opacity.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.png" download>white-with-opacity.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white-with-opacity.svg" download>white-with-opacity.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.png">
-  <ul class="download-links">
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.pdf" download>white.pdf</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.png" download>white.png</a></li>
-    <li><a href="https://djangocon.github.io/resources/us-2017/DjangoCon-2017-white.svg" download>white.svg</a></li>
-  </ul>
-</div>
-<div class="logo-set column small-6 medium-4">
-  <img src="https://djangocon.github.io/resources/us-2017/squares-and-social/djangocon-square.png">
-  <ul class="download-links">
-  <li><a href="https://djangocon.github.io/resources/us-2017/squares-and-social/djangocon-square.png" download>djangocon-square.png</a></li>
-  <li><a href="https://djangocon.github.io/resources/us-2017/squares-and-social/djangocon-square.psd" download>djangocon-square.psd</a></li>
-  <li><a href="https://djangocon.github.io/resources/us-2017/squares-and-social/trees-background.jpg" download>trees-background.jpg</a></li>
-  </ul>
-</div>
+  <section class="logo-set column small-6 medium-4">
+    <img src="/static/brand/logo/logo.svg" alt="DjangoCon US Logo">
+    <ul class="download-links">
+      <li><a href="/static/brand/logo/logo.svg" download>logo-color.svg</a></li>
+      <li><a href="/static/brand/logo/logo.png" download>logo-color.svg</a></li>
+      <li><a href="/static/brand/logo/logo.pdf" download>logo-color.pdf</a></li>
+    </ul>
+  </section>
+  <section class="logo-set column small-6 medium-4">
+    <img src="/static/brand/logo/logo-black.svg" alt="DjangoCon US Logo in Black">
+    <ul class="download-links">
+      <li><a href="/static/brand/logo/logo-black.svg" download>logo-black.svg</a></li>
+      <li><a href="/static/brand/logo/logo-black.png" download>logo-black.svg</a></li>
+      <li><a href="/static/brand/logo/logo-black.pdf" download>logo-black.pdf</a></li>
+
+      <li><a href="/static/brand/logo/logo-white.svg" download>logo-white.svg</a></li>
+      <li><a href="/static/brand/logo/logo-white.png" download>logo-white.png</a></li>
+      <li><a href="/static/brand/logo/logo-white.pdf" download>logo-white.pdf</a></li>
+    </ul>
+  </section>
+  <section class="logo-set column small-6 medium-4">
+    <img src="/static/brand/favicon/favicon.svg" alt="DjangoCon US Favicon">
+    <ul class="download-links">
+      <li><a href="/static/brand/favicon/favicon.svg" download>favicon.svg</a></li>
+      <li><a href="/static/brand/favicon/favicon.png" download>favicon.png</a></li>
+      <li><a href="/static/brand/favicon/favicon.pdf" download>favicon.pdf</a></li>
+    </ul>
+  </section>
+  <section class="logo-set column small-6 medium-4">
+    <img src="/static/brand/favicon/favicon-black.svg" alt="DjangoCon US Favicon in Black">
+    <ul class="download-links">
+      <li><a href="/static/brand/favicon/favicon-black.svg" download>favicon-black.svg</a></li>
+      <li><a href="/static/brand/favicon/favicon-black.png" download>favicon-black.png</a></li>
+      <li><a href="/static/brand/favicon/favicon-black.pdf" download>favicon-black.pdf</a></li>
+    </ul>
+  </section>
+  <section class="logo-set column small-6 medium-4">
+    <img src="/static/brand/supportive/small-beach.svg" alt="Crab pinching an umbrella">
+    <ul class="download-links">
+      <li><a href="/static/brand/supportive/small-beach.svg" download>small-beach.svg</a></li>
+      <li><a href="/static/brand/supportive/small-beach.png" download>small-beach.png</a></li>
+      <li><a href="/static/brand/supportive/small-beach.pdf" download>small-beach.pdf</a></li>
+    </ul>
+  </section>
+  <section class="logo-set column small-6 medium-4">
+    <img src="/static/brand/supportive/small-beach-black.svg" alt="Crab pinching an umbrella in black">
+    <ul class="download-links">
+      <li><a href="/static/brand/supportive/small-beach-black.svg" download>small-beach-black.svg</a></li>
+      <li><a href="/static/brand/supportive/small-beach-black.png" download>small-beach-black.png</a></li>
+      <li><a href="/static/brand/supportive/small-beach-black.pdf" download>small-beach-black.pdf</a></li>
+
+      <li><a href="/static/brand/supportive/small-beach-white.svg" download>small-beach-white.svg</a></li>
+      <li><a href="/static/brand/supportive/small-beach-white.png" download>small-beach-white.png</a></li>
+      <li><a href="/static/brand/supportive/small-beach-white.pdf" download>small-beach-white.pdf</a></li>
+    </ul>
+  </section>
 </div>
 
 
@@ -163,49 +129,65 @@ applied to the text within.
 
 
 ```html_example
-<section class="section-pad theme-green">
+<section class="section-pad theme-eminence">
     <h2 class="text-center">Headline</h2>
-    <p class="text-center">This section has `theme-green` applied.</p>
+    <p class="text-center">This section has `theme-eminence` applied.</p>
 </section>
 <section class="section-pad theme-orchid">
   <h2 class="text-center">Headline</h2>
   <p class="text-center">This section has `theme-orchid` applied.</p>
 </section>
-<section class="section-pad theme-light-green">
+<section class="section-pad theme-shakespeare">
   <h2 class="text-center">Headline</h2>
-  <p class="text-center">This section has `theme-light-green` applied.</p>
+  <p class="text-center">This section has `theme-shakespeare` applied.</p>
 </section>
-<section class="section-pad theme-orange">
+<section class="section-pad theme-viking">
   <h2 class="text-center">Headline</h2>
-  <p class="text-center">This section has `theme-orange` applied.</p>
+  <p class="text-center">This section has `theme-viking` applied.</p>
 </section>
-<section class="section-pad theme-teal">
+<section class="section-pad theme-willow">
   <h2 class="text-center">Headline</h2>
-  <p class="text-center">This section has `theme-teal` applied.</p>
+  <p class="text-center">This section has `theme-willow` applied.</p>
 </section>
-<section class="section-pad theme-beige">
+<section class="section-pad theme-violetred">
   <h2 class="text-center">Headline</h2>
-  <p class="text-center">This section has `theme-beige` applied.</p>
+  <p class="text-center">This section has `theme-violetred` applied.</p>
 </section>
-<section class="section-pad theme-medium-gray">
+<section class="section-pad theme-sienna">
   <h2 class="text-center">Headline</h2>
-  <p class="text-center">This section has `theme-medium-gray` applied.</p>
+  <p class="text-center">This section has `theme-sienna` applied.</p>
+</section>
+<section class="section-pad theme-festival">
+  <h2 class="text-center">Headline</h2>
+  <p class="text-center">This section has `theme-festival` applied.</p>
+</section>
+<section class="section-pad theme-yellow">
+  <h2 class="text-center">Headline</h2>
+  <p class="text-center">This section has `theme-yellow` applied.</p>
 </section>
 <section class="section-pad theme-light-gray">
   <h2 class="text-center">Headline</h2>
   <p class="text-center">This section has `theme-light-gray` applied.</p>
 </section>
+<section class="section-pad theme-medium-gray">
+  <h2 class="text-center">Headline</h2>
+  <p class="text-center">This section has `theme-medium-gray` applied.</p>
+</section>
+<section class="section-pad theme-dark-gray">
+  <h2 class="text-center">Headline</h2>
+  <p class="text-center">This section has `theme-dark-gray` applied.</p>
+</section>
+<section class="section-pad theme-black">
+  <h2 class="text-center">Headline</h2>
+  <p class="text-center">This section has `theme-black` applied.</p>
+</section>
 ```
-
-
-
-
 
 
 # Card themes
 The following pattern can be used with an icon or without. Themes may be applied
 to individual cards with the named colors listed in `_settings.scss` using the
-class name pattern here: `<div class="card card-theme-teal">`. SVG icons in these
+class name pattern here: `<div class="card card-theme-eminence">`. SVG icons in these
 tiles will inherit the color of the card theme if there is no `fill` specified
 in the SVG file itself.
 
@@ -314,7 +296,7 @@ element.
 
   ```html_example
   <section
-    class="photo-hero tint-green"
+    class="photo-hero tint-eminence"
     data-interchange="[/static/img/home-testimonial.jpg, medium]"
     >
     <img class="hide-for-medium" src="/static/img/home-testimonial-mobile.jpg">
@@ -326,7 +308,7 @@ element.
           Director, Application Development PonyCorp
         </cite>
       </blockquote>
-      <a href="#TODO" class="button secondary">Join Rory. Buy your ticket</a>
+      <a href="#TODO" class="button hollow theme-willow">Join Rory. Buy your ticket</a>
     </div>
 
     </div>
@@ -335,7 +317,7 @@ element.
 <hr>
 
   <section
-    class="photo-hero tint-orange"
+    class="photo-hero tint-orchid"
     data-interchange="[/static/img/about.jpg, medium]"
     >
     <img class="hide-for-medium" src="/static/img/about-mobile.jpg">
@@ -347,7 +329,7 @@ element.
           Director, Application Development PonyCorp
         </cite>
       </blockquote>
-      <a href="#TODO" class="button">Join Rory. Buy your ticket</a>
+      <a href="#TODO" class="button hollow theme-yellow">Join Rory. Buy your ticket</a>
     </div>
 
     </div>
@@ -356,10 +338,10 @@ element.
   <hr>
 
   <section
-    class="photo-hero tint-teal"
-    data-interchange="[/static/img/about.jpg, medium]"
+    class="photo-hero tint-eminence"
+    data-interchange="[/static/img/crowd.jpg, medium]"
     >
-    <img class="hide-for-medium" src="/static/img/about-mobile.jpg">
+    <img class="hide-for-medium" src="/static/img/crowd-mobile.jpg">
     <div class="row hero-content">
       <div class="column medium-6 medium-offset-6">
       <blockquote>
@@ -368,7 +350,7 @@ element.
           Director, Application Development PonyCorp
         </cite>
       </blockquote>
-      <a href="#TODO" class="button secondary">Join Rory. Buy your ticket</a>
+      <a href="#TODO" class="button hollow theme-festival">Join Rory. Buy your ticket</a>
     </div>
 
     </div>

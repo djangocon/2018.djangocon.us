@@ -27,7 +27,7 @@ gulp.task('sass', function() {
 
 gulp.task('styleguide', function() {
   sherpa('_styleguide/styleguide.md', {
-    output: 'styleguide/index.html',
+    output: '_pages/styleguide.html',
     template: '_styleguide/template.hbs'
   });
 });

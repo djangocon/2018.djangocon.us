@@ -8,6 +8,7 @@
 
   p {
     margin-bottom: 0;
+    font-size: .85rem;
     line-height: 1.25;
   }
 
@@ -20,18 +21,20 @@
   .month {
     display: block;
     padding: .2em;
-    background-color: $secondary-color;
-    color: $white;
+    background-color: get-color(primary);
     font-size: 1rem;
+    font-weight: $global-weight-bold;
+    color: $white;
   }
 
   .days {
     display: block;
     padding-top: .5rem;
     padding-bottom: .5rem;
+    border: 4px solid;
     background-color: $white;
-    font-size: rem-calc(40);
-    color: $secondary-color;
+    font-size: 1.4rem;
+    color: get-color(primary);
   }
 
   @include breakpoint(large) {

@@ -29,49 +29,22 @@ plugins:
 exclude:
   - .editorconfig
   - .gitignore
+  - .surgeignore
+  - bower_components
+  - CNAME
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - deploy_surge.sh
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Rakefile
-  - bower_components
-  - deploy_surge.sh
   - gulpfile.js
+  - LICENSE
   - node_modules
   - package.json
+  - Procfile
+  - Rakefile
+  - README.md
   - vendor
-
-  # TODO: As we bring pages live, we need to revisit this section...
-  - coc.md
-  - _pages/404.md
-  - _pages/about.html
-  - _pages/coc.html
-  - _pages/demo-schedule.html
-  - _pages/event.md
-  - _pages/faqs.html
-  - _pages/financial-aid.md
-  - _pages/homepage-full.md
-  - _pages/homepage.md
-  - _pages/news.md
-  - _pages/organizers.html
-  - _pages/room-sharing.md
-  - _pages/schedule.html
-  - _pages/slack.html
-  - _pages/speaking-resources.md
-  - _pages/speaking.md
-  - _pages/sponsors-information.md
-  - _pages/sponsors.html
-  - _pages/sprints.html
-  - _pages/talks.html
-  - _pages/tickets.html
-  - _pages/tutorials.html
-  - _pages/venue.html
-  - _pages/why-djangocon-us.html
-  - _posts
-  - _schedule
-  - static/2018-logos
 
 
 # We need `future` to allow our schedule to work :/
@@ -91,7 +64,7 @@ twitter:
 
 # This is the default logo that people see with opengraph
 # logo: /static/2018-logos/squares-and-social/djangocon-square.png
-logo: /static/img/landing-page/logo.svg
+logo: /static/brand/social/avatar-main.png
 
 
 # Frontmatter fallback settings
@@ -100,8 +73,7 @@ defaults:
   - scope:
       path: ""
     values:
-      # image: /static/2018-logos/squares-and-social/djangocon-square.png
-      image: /static/img/landing-page/logo.png
+      image: /static/brand/social/avatar-main.png
 
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"

@@ -8,7 +8,7 @@ description: Become a Sponsor
 
 ## What Is DjangoCon US?
 
-This August, more than 500 people from the Django community will descend upon Spokane for six days of tutorials, talks, and code sprints. There is no better place to recruit Django developers than at DjangoCon US!
+This October, more than 500 people from the Django community will descend upon San Diego for six days of tutorials, talks, and code sprints. There is no better place to recruit Django developers than at DjangoCon US!
 
 Sponsoring DjangoCon US can help you:
 
@@ -18,7 +18,7 @@ Sponsoring DjangoCon US can help you:
 
 Because the conference is organized by [DEFNA](https://www.defna.org/), a non-profit 501(c)(3) organization, your sponsorship is tax-deductible!
 
-<a href="mailto:{{site.sponsors_email}}" class="button secondary">Want to know more about sponsorship? Contact us today.</a>
+<a href="mailto:{{site.sponsors_email}}" class="button hollow theme-sienna">Want to know more about sponsorship? Contact us today.</a>
 
 ## Sponsorship Levels
 
@@ -74,4 +74,3 @@ Interested in another sponsorship opportunity? Get in touch and we’ll do our b
 {% comment %}
 #### Booth info
 {% endcomment %}
-

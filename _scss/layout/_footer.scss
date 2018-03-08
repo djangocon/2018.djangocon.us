@@ -1,7 +1,7 @@
 .footer {
-  background: $secondary-color;
-  padding-top: 1px;
+  padding-top: 2rem;
   padding-bottom: 2rem;
+  background: get-color(primary);
 
   p,
   a,
@@ -24,55 +24,34 @@
 }
 
 .footer-logo {
-  width: 240px;
-  display: block;
-  margin: -36px auto 2em;
   position: relative;
   z-index: 2;
+  display: block;
+  margin: 0 auto 1.5em;
+  width: 240px;
 
   svg {
     max-width: 100%;
     height: auto;
   }
 
-  .background-field{
-    fill: $green;
-  }
-
-  .djangocon {
-    fill: $body-background;
-  }
-
-  .location {
-    fill:$orange;
-  }
-
-  &:hover {
-    .background-field {
-      fill: $body-background;
-    }
-
-    .djangocon {
-      fill: $green;
-    }
-  }
-
-  @include breakpoint(medium) {
-    margin-top: -44px;
+  path {
+    fill: $white;
   }
 }
 
 .footer-nav {
-  list-style: none;
   margin: 0;
   padding: 0;
-  font-weight: bold;
+
   font-size: rem-calc(24);
+  font-weight: bold;
+  list-style: none;
 
   a {
-    color: $white;
     display: block;
     padding: 0.25em 0.5em;
+    color: $white;
   }
 
   @include breakpoint(medium) {
@@ -83,4 +62,8 @@
       vertical-align: baseline;
     }
   }
+}
+
+.footer .social-icons {
+  text-align: center;
 }

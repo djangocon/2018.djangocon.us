@@ -5,8 +5,6 @@ heading: Sponsors
 description: DjangoCon US is only possible through the support of various organizations.
 ---
 
-{% include titlebar.html %}
-
 <header class="subpage-header">
   <h1>{{ page.heading }}</h1>
 </header>
@@ -19,17 +17,17 @@ description: DjangoCon US is only possible through the support of various organi
       </p>
     </div>
     <div class="medium-5 large-4 column">
-      <div class="callout callout-dark text-center partner-cta-box">
+      <div class="callout text-center partner-cta-box">
         <h2>Sponsor DjangoCon US</h2>
         <p>By supporting the community who builds and supports the software you use, you help ensure its happiness, health, and productivity.</p>
-        <a href="/sponsors/information/" class="button secondary">Become a Sponsor</a>
+        <a href="/sponsors/information/" class="button hollow theme-shakespeare">Become a Sponsor</a>
       </div>
     </div>
   </div>
 
   {% for level in site.data.sponsors.levels %}
     {% if level.sponsors %}
-      <div class="section-pad {% cycle 'theme-light-beige', 'theme-dark-beige', 'theme-medium-beige' %}">
+      <div class="section-pad {% cycle 'theme-light-gray', 'theme-medium-gray', 'theme-white' %}">
         <h2 class="text-center v-pad-bottom">{{ level.name }}</h2>
         {% for sponsor in level.sponsors %}
           {% unless sponsor.hidden %}

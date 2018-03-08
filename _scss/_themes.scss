@@ -29,7 +29,7 @@
     .theme-#{$name} {
       background-color: $color;
 
-      @if not index(($light-beige, $dark-beige), $color) {
+      @if not index(($light-gray, $medium-gray), $color) {
         color: $white;
 
         a,
@@ -47,7 +47,7 @@
       position: relative;
 
       @include breakpoint(medium) {
-        @if not index(($light-beige, $dark-beige), $color) {
+        @if not index(($light-gray, $medium-gray), $color) {
           &,
           & blockquote,
           & blockquote p,
@@ -67,7 +67,7 @@
           right: 0;
           bottom: 0;
           left: 0;
-          background-color: $color;
+          background-color: darken($color, 20%);
           content: "";
           opacity: 0.8;
         }
@@ -112,7 +112,7 @@
         }
 
         a:hover {
-          color: mix(black, $color, 10%);
+          color: mix(black, $color, 30%);
         }
 
         .theme-color {
@@ -121,7 +121,7 @@
 
         .theme-bg {
           background-color: $color;
-          color: #fff;
+          color: $white;
         }
 
         path {

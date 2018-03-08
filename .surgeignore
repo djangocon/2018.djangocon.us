@@ -1,5 +1,6 @@
 .zip
 bower_components
 CNAME
+Makefile
 node_modules
 static/2017-logos

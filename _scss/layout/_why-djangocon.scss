@@ -1,0 +1,59 @@
+.video-card {
+  .label {
+    float: right;
+    margin-right: 10px;
+    border-radius: $label-radius $label-radius 0 0;
+    font-weight: $global-weight-bold;
+  }
+
+  .responsive-embed {
+    clear: both;
+  }
+
+  &-title,
+  &-presenter {
+    font-family: $body-font-family;
+  }
+
+  &-title {
+    margin-bottom: .5rem;
+    font-size: rem-calc(24px);
+  }
+
+  &-presenter {
+    font-size: rem-calc(20px);
+    font-weight: $global-weight-normal;
+  }
+}
+
+.tutorials-block {
+  padding: 1rem;
+  
+  .media-icon {
+    float: left;
+    margin-right: 1rem;
+    width: 74px;
+    height: 74px;
+  }
+
+  .tutorials-block-heading {
+    font-size: rem-calc(24px);
+    font-weight: 600;
+  }
+}
+
+// TODO: 2018 specific
+.sprints-img {
+  display: inline-block;
+  margin: 0 auto $global-margin;
+  max-width: 75%;
+}
+
+// TODO: 2018 specific
+.why-quote {
+  margin-bottom: 100px;
+
+  @include breakpoint(medium) {
+    margin-bottom: 0;
+  }
+}

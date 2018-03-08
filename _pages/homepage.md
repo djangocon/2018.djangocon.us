@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DjangoCon US 2017 • August 13-18, 2017 • Spokane, WA United States
+title: DjangoCon US 2018 • October 14-19, 2018 • San Diego, CA United States
 permalink: /
 description: |
     Six days of talks, sprints, and tutorials by the community for the community.

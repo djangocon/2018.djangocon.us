@@ -26,8 +26,8 @@ Need help with your talk?{% comment %}Need help with your proposal?{% endcomment
 <div class="row column v-pad-top">
     <div class="medium-5 medium-centered column">
         <div class="button-group expanded">
-            <a class="button secondary" href="https://www.papercall.io/djangocon-us-2017">Submit a Talk</a>
-            <a class="button secondary" href="/financial-aid/">Apply for Financial Aid</a>
+            <a class="button hollow theme-violetred" href="https://www.papercall.io/djangocon-us-2017">Submit a Talk</a>
+            <a class="button hollow theme-willow" href="/financial-aid/">Apply for Financial Aid</a>
         </div>
     </div>
 </div>

@@ -1,5 +1,5 @@
 %has-bg {
-  background: $light-beige;
+  background: $light-gray;
 
   .location {
     position: absolute;
@@ -56,6 +56,11 @@
     text-decoration: none;
   }
 
+  .location,
+  a:hover {
+    color: $black;
+  }
+
   a:hover .event-title {
     color: $secondary-color;
   }
@@ -88,6 +93,22 @@
   }
 }
 
+// Fallback style, mostly used on Why DjangoCon US?
+.event.boxed {
+  padding: $global-margin;
+  border: 1px solid $medium-gray;
+  background: $white;
+
+  .event-content {
+    display: block;
+  }
+
+  .event-byline {
+    margin-top: $global-margin;
+    padding-top: 0;
+  }
+}
+
 .event-title {
   margin-bottom: .5rem;
   font-size: rem-calc(24px);
@@ -96,42 +117,26 @@
 // Handle variations
 .event.loc-main {
   @extend %has-bg;
-  border-top: 8px solid $secondary-color;
+  border-top: 8px solid $festival;
 }
 
 .event.loc-main .location {
-  background: $light-beige;
-  color: $secondary-color;
+  background: $light-gray;
 }
 
 .event.loc-alt {
   @extend %has-bg;
-  border-top: 8px solid $teal;
-
-  .location,
-  a:hover {
-    color: $teal;
-  }
+  border-top: 8px solid $orchid;
 }
 
 .event.loc-alt-2 {
   @extend %has-bg;
-  border-top: 8px solid $light-green;
-
-  .location,
-  a:hover {
-    color: $light-green;
-  }
+  border-top: 8px solid $violetred;
 }
 
 .event.loc-alt-3 {
   @extend %has-bg;
-  border-top: 8px solid $green;
-
-  .location,
-  a:hover {
-    color: $green;
-  }
+  border-top: 8px solid $sienna;
 }
 
 .event.loc-main,
@@ -174,6 +179,7 @@
 
   .time {
     margin-bottom: 0;
+    font-size: rem-calc(18px);
     text-align: right;
 
     .muted {

@@ -64,7 +64,7 @@ twitter:
 
 # This is the default logo that people see with opengraph
 # logo: /static/2018-logos/squares-and-social/djangocon-square.png
-logo: /static/img/landing-page/logo.svg
+logo: /static/brand/social/avatar-main.png
 
 
 # Frontmatter fallback settings
@@ -73,8 +73,7 @@ defaults:
   - scope:
       path: ""
     values:
-      # image: /static/2018-logos/squares-and-social/djangocon-square.png
-      image: /static/img/landing-page/logo.png
+      image: /static/brand/social/avatar-main.png
 
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"

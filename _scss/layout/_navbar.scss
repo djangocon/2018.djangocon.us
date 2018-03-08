@@ -11,6 +11,11 @@
   color: $black;
 }
 
+.title-bar .menu {
+  // Trick Safari into hardware acceleration
+  transform: translate3d(0,0,0);
+}
+
 .off-canvas .menu a {
   color: $white;
 }

@@ -67,6 +67,8 @@ iframe,
 .back {
   position: relative;
   z-index: -10;
+  // Trick Safari into hardware acceleration
+  transform: translate3d(0,0,0);
 }
 
 // Ensure we have space for anchors and the header does not cover them.

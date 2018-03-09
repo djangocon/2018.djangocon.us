@@ -77,7 +77,8 @@ defaults:
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"
 financial_aid_application: "https://goo.gl/forms/Uu3gr1ltLbSR7SxM2"
-hotel_reservation_link: http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=DjangoCon%20US%202018%5Esanmv%60djcdjca%60169.00%60USD%60false%604%6010/13/18%6010/20/18%609/13/18&app=resvlink&stop_mobi=yes
+hotel_reservation_link: "http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=DjangoCon%20US%202018%5Esanmv%60djcdjca%60169.00%60USD%60false%604%6010/13/18%6010/20/18%609/13/18&app=resvlink&stop_mobi=yes"
+ticket_link: "https://ti.to/defna/djangocon-us-2017"
 
 github: [metadata]
 facebook:

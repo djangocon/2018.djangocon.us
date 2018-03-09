@@ -14,7 +14,6 @@ visa_email: "visas@djangocon.us"
 
 include:
   - _pages
-  - .surgeignore
 
 # Build settings
 markdown: kramdown
@@ -40,7 +39,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - node_modules
-  - package.json
+  - package*.json
   - Procfile
   - Rakefile
   - README.md

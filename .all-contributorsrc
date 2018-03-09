@@ -4,7 +4,7 @@
   "files": [
     "README.md"
   ],
-  "contributorsPerLine": 9,
+  "contributorsPerLine": 8,
   "badgeTemplate": "We have <%= contributors.length %> contributors",
   "contributorTemplate": "<img src='<%= contributor.avatar_url %>' width='<%= options.imageSize %>px;'/>",
   "imageSize": 72,
@@ -197,6 +197,13 @@
       "name": "Ana Balica",
       "avatar_url": "https://avatars3.githubusercontent.com/u/2039122?v=4",
       "profile": "http://ana-balica.github.io/",
+      "contributions": []
+    },
+    {
+      "login": "jonitrythall",
+      "name": "Joni Trythall ",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5723303?v=4",
+      "profile": "http://jonibologna.com/",
       "contributions": []
     }
   ]

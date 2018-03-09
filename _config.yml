@@ -7,10 +7,6 @@ description: |
 enforce_ssl: "2018.djangocon.us"
 relative_permalinks: false
 permalink: news/:title/  # permalink: date
-contact_us_email: "hello@djangocon.us"
-sponsors_email: "sponsors@djangocon.us"
-coc_email: "coc@djangocon.us"
-visa_email: "visas@djangocon.us"
 
 include:
   - _pages
@@ -73,6 +69,14 @@ defaults:
       path: ""
     values:
       image: /static/brand/social/avatar-main.png
+
+# Our DjangoCon US settings...
+conduct_email: "conduct@djangocon.us"
+contact_us_email: "hello@djangocon.us"
+financial_aid_email: "financialaid@djangocon.us"
+program_team_email: "program@djangocon.us"
+sponsors_email: "sponsors@djangocon.us"
+visa_email: "visas@djangocon.us"
 
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"

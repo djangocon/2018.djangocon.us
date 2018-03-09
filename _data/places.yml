@@ -1,145 +1,83 @@
-# places around spokane data
+# places around San Diego data
 
 places:
 
-  - name: "Atticus Coffee & Gifts"
+  - name: "In-n-Out Burger"
     hidden: false
-    photo_url: "/static/img/places/atticus.jpg"
-    location: "222 N Howard St"
-    distance: ".5mi away"
-    map: "https://goo.gl/maps/FQhZQ6YKMkv"
-    website: "https://www.facebook.com/AtticusCoffee/"
-    description: |
-        Cozy, brick-walled coffee & gift shop with cafe fare, local roasts & loose teas sold in bulk.
-
-  - name: "The Blackbird"
-    hidden: true
-    photo_url: "/static/img/places/blackbird.jpg"
-    location: "905 N Washington St"
-    distance: "390 ft"
-    map: "https://goo.gl/maps/v2en64QvP8s"
-    website: "http://theblackbirdspokane.com"
-    description: |
-        Modern gastropub serving New American eats such as duck sliders, plus cocktails & tap beer & wine.
-
-  - name: "Clinkerdagger"
-    hidden: false
-    photo_url: "/static/img/places/clinkerdagger.jpg"
-    location: "621 W. Mallon Street"
-    distance: ".4mi away"
-    map: "https://goo.gl/maps/RyNebuPnip22"
-    website: "http://clinkerdagger.com/"
-    description: |
-        Old-school steakhouse opened in 1974 overlooking the Spokane River, with skyline views & deck.
-
-  - name: "Indaba Coffee"
-    hidden: false
-    photo_url: "/static/img/places/indaba.jpg"
-    location: "210 N Howard St"
-    distance: ".5mi away"
-    map: "https://goo.gl/maps/jHEYaYeaACA2"
-    website: "http://indabacoffee.com"
-    description: |
-        Where hospitality meets great coffee. Love people <3 love coffee
-
-  - name: "Italian Kitchen"
-    hidden: false
-    photo_url: "/static/img/places/italiankitchen.jpg"
-    location: "113 N Bernard St"
-    distance: ".8mi away"
-    map: "https://goo.gl/maps/iaGjnZtGBZ32"
-    website: "http://www.italiankitchenspokane.com/"
-    description: |
-        Familiar Italian dishes served in a classic wood-heavy setting, plus many Italian & regional wines.
-
-  - name: "Method Juice Cafe Downtown"
-    hidden: false
-    photo_url: "/static/img/places/method.jpg"
-    location: "718 W Riverside Ave #101"
-    distance: ".7mi away"
-    map: "https://goo.gl/maps/kNRhDUNw1uy"
-    website: "http://www.methodjuicecafe.com/"
-    description: |
-        Method Juice Cafe in Spokane offers flavorful eats and tasty desserts. Parents, bring your kids along to a family-friendly menu and ambience.
-
-  - name: "Sante Restaurant & Charcuterie"
-    hidden: false
-    photo_url: "/static/img/places/sante.jpg"
-    location: "404 W Main Ave"
+    photo_url: "/static/img/places/in-n-out.jpg"
+    location: "2005 Camino Del Este"
     distance: ".6mi away"
-    map: "https://goo.gl/maps/yoPBcsc8Gr42"
-    website: "http://santespokane.com/"
+    map: "https://goo.gl/maps/AX7GbT2X4Zx"
+    website: "http://www.in-n-out.com"
     description: |
-        Hip New American eatery & market offering 3 meals daily plus housemade sausage & salami to go.
+        The classic California no frills burger drive thru. Open until at least 1am.
 
-  - name: "Sushi.Com"
+  - name: "The Kebab Shop"
     hidden: false
-    photo_url: "/static/img/places/sushi.jpg"
-    location: "430 W Main Ave"
-    distance: ".6mi away"
-    map: "https://goo.gl/maps/4rHYceeE9542"
-    website: "https://sites.google.com/site/sushicom75//home"
+    photo_url: "/static/img/places/kebabshop.jpg"
+    location: "1570 Camino De La Reina"
+    distance: ".9mi away"
+    map: "https://goo.gl/maps/TCwYH1PkvuE2"
+    website: "http://www.thekebabshop.com/"
     description: |
-        Japanese bistro dishing inventive sushi, hot dishes & sakes in airy digs with Asian decor touches.
- 
-  # Something seems to have happened with their website? It's full of spam if you look close. 
-  # - name: "Madeleine's Cafe & Patisserie"
-  #   hidden: false
-  #   photo_url: "/static/img/places/placeholder.jpg"
-  #   location: "103 W Main Ave"
-  #   distance: ".6mi away"
-  #   map: "https://goo.gl/maps/5aGYq2dr6fq"
-  #   website: "http://www.madeleines-spokane.com/"
-  #   description: |
-  #       Busy spot with Provencal & factory-chic design offers French pastries, sandwiches, coffee & a patio.
+        A San Diego take on Mediterranean comfort food.
 
-  # Don't want to have too much of an emphasis on alcohol, so am limiting the wine bars/pubs/etc. 
-  # - name: "LeftBank Wine Bar"
-  #   hidden: false
-  #   photo_url: "/static/img/places/placeholder.jpg"
-  #   location: "108 N Washington St # 105"
-  #   distance: ".7mi away"
-  #   map: "https://goo.gl/maps/rnXddeGFnEr"
-  #   website: "http://www.leftbankwinebar.com/"
-  #   description: |
-  #       Cozy, unpretentious spot for wine, thin-crust pizza, small plates, local craft beers & live music.
+  - name: "Lestat's Coffee House"
+    hidden: false
+    photo_url: "/static/img/places/lestats.jpg"
+    location: "3343 Adams Ave"
+    distance: "2.2mi away"
+    map: "https://goo.gl/maps/sc4fmwpueEH2"
+    website: "http://www.lestats.com/"
+    description: |
+        A 24-hour coffee shop in the Normal Heights neighborhood of San Diego
 
-  # - name: "Garageland"
-  #   hidden: false
-  #   photo_url: "/static/img/places/placeholder.jpg"
-  #   location: "230 W Riverside Ave"
-  #   distance: ".3mi away"
-  #   map: "https://goo.gl/maps/93ayfXfHTiN2"
-  #   website: "https://www.facebook.com/garagelandspokane/"
-  #   description: |
-  #       Restaurant, bar, and record store.
+  - name: "Broken Yolk Cafe"
+    hidden: false
+    photo_url: "/static/img/places/brokenyolk.jpg"
+    location: "1760 Camino Del Rio N"
+    distance: ".6mi away"
+    map: "https://goo.gl/maps/jVkV8JW2zmq"
+    website: "https://www.thebrokenyolkcafe.com/mission-valley/"
+    description: |
+        A San Diego all-day breakfast spot known for high quality and large portions.
 
-    # - name: "Brooklyn Deli"
-  #   hidden: false
-  #   photo_url: "/static/img/places/placeholder.jpg"
-  #   location: "1001 W 1st Ave"
-  #   distance: "1.1mi away"
-  #   map: "https://goo.gl/maps/6g8KMfp8HRx"
-  #   website: "https://brooklyndelispokane.com/"
-  #   description: |
-  #       Award winning food in a friendly dining and drinking atmosphere. Twelve beers on tap and a thorough selection of wines and liquors.
+  - name: "Pizzeria Luigi"
+    hidden: false
+    photo_url: "/static/img/places/pizzerialuigi.jpg"
+    location: "2121 El Cajon Blvd"
+    distance: "1.6mi away"
+    map: "https://goo.gl/maps/rGmY7ukodrL2"
+    website: "http://pizzerialuigi.com/"
+    description: |
+        New York style pizza available by the slice. Eat in or have it delivered.
 
-  # - name: "Ruins"
-  #   hidden: false
-  #   photo_url: "/static/img/places/placeholder.jpg"
-  #   location: "825 N Monroe St"
-  #   distance: ".6mi away"
-  #   map: "https://goo.gl/maps/2gMjcbBLxkR2"
-  #   website: "https://www.facebook.com/ruins.spokane/"
-  #   description: |
-  #       Comfy, casual nook pairing craft cocktails with a rotating menu of creative, eclectic bar fare.
+  - name: "Streetcar Merchants"
+    hidden: false
+    photo_url: "/static/img/places/streetcar.jpg"
+    location: "4002 30th St"
+    distance: "2.3mi away"
+    map: "https://goo.gl/maps/k2WfHXkZ6p32"
+    website: "http://www.streetcarmerchants.com/"
+    description: |
+        A Louisiana style fried chicken, doughnuts, and coffee shop in the trendy North Park neighborhood.
 
-  # - name: "Mizuna Restaurant and Wine Bar"
-  #   hidden: false
-  #   photo_url: "/static/img/places/placeholder.jpg"
-  #   location: "214 N Howard St"
-  #   distance: ".5mi away"
-  #   map: "https://goo.gl/maps/64bBkfDvVXo"
-  #   website: "http://www.mizuna.com/"
-  #   description: |
-  #       Upscale-casual, globally inspired eatery using local & organic ingredients, offering vegan options.
+  - name: "Modern Times Beer"
+    hidden: false
+    photo_url: "/static/img/places/moderntimes.jpg"
+    location: "3000 Upas St"
+    distance: "2.9mi away"
+    map: "https://goo.gl/maps/gqtth8X6FyS2"
+    website: "http://www.moderntimesbeer.com"
+    description: |
+        One of San Diego's best breweries with two tasting rooms in North Park and Point Loma.
+
+  - name: "Lucha Libre Taco Shop"
+    hidden: false
+    photo_url: "/static/img/places/luchalibre.jpg"
+    location: "3016 University Ave"
+    distance: "2.5mi away"
+    map: "https://goo.gl/maps/QiB5WpVaUFv"
+    website: "https://www.luchalibretacoshop.com/"
+    description: |
+        A taco shop featuring Mexican wrestling, monster burritos and an attitude with two nearby locations.

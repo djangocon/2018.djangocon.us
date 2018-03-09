@@ -6,7 +6,7 @@
   ],
   "contributorsPerLine": 8,
   "badgeTemplate": "We have <%= contributors.length %> contributors",
-  "contributorTemplate": "<img src='<%= contributor.avatar_url %>' width='<%= options.imageSize %>px;'/>",
+  "contributorTemplate": "<a href='<%= contributor.profile %>'><img src='<%= contributor.avatar_url %>' width='<%= options.imageSize %>px;'/></a>",
   "imageSize": 72,
   "commit": false,
   "contributors": [

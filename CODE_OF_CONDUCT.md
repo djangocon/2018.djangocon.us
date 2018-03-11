@@ -1,46 +1,98 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+DjangoCon US is dedicated to providing a fun harassment-free conference experience for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, or religion.
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Be kind to others. Do not insult or put down other attendees. Behave professionally. 
 
-## Our Standards
+Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for DjangoCon US. 
 
-Examples of behavior that contributes to creating a positive environment include:
+Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers. 
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+Thank you for helping make this a welcoming, friendly event for all.
 
-Examples of unacceptable behavior by participants include:
+## Full Code of Conduct
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+_To make clear what is expected, all delegates/attendees, speakers,
+exhibitors, organizers and volunteers at any DjangoCon US event are required
+to conform to the following Code of Conduct. Organizers will enforce this code
+throughout the event._
 
-## Our Responsibilities
+### What the conference is
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+DjangoCon US is a community conference intended for networking and
+collaboration in the developer community.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+We value the participation of each member of the Django community and want all
+attendees to have an enjoyable and fulfilling experience. Accordingly, all
+attendees are expected to show respect and courtesy to other attendees
+throughout the conference, at all conference events, and in all conference
+online spaces (such as Slack), whether officially sponsored by DjangoCon US or
+not.
 
-## Scope
+### Be Kind To Others
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Do not insult or put down other attendees. Behave professionally. Remember
+that harassment and sexist, racist, or exclusionary jokes are not appropriate
+for DjangoCon US. Attendees violating these rules may be asked to leave the
+conference without a refund at the sole discretion of the conference
+organizers.
 
-## Enforcement
+### Be Respectful
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at conduct@djangocon.us. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Not all of us will agree all the time, but disagreement is no excuse for poor
+behavior and poor manners. We do not tolerate harassment of conference
+participants in any form.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Harassment includes: offensive verbal comments related to gender, gender
+identity, sexual orientation, disability, physical appearance, body size,
+race, religion; sexual images in public spaces; deliberate intimidation,
+stalking, or following; harassing photography or recording; sustained
+disruption of talks or other events; inappropriate physical contact; and
+unwelcome sexual attention.
 
-## Attribution
+## Choose Your Words
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+Be careful in the words that you choose. Remember that sexist, racist, and
+other exclusionary jokes can be offensive to those around you. Excessive
+swearing and offensive jokes are not appropriate for DjangoCon US. We are all
+adults, capable of having adult conversations. Preface your presentation with
+appropriate Trigger/Content Warnings, if necessary.
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+All communication should be appropriate for a professional audience including
+people of many different backgrounds. Sexual language and imagery is not
+appropriate for any conference venue, including talks.
+
+Participants asked to stop any harassing behavior are expected to comply
+immediately.
+
+Exhibitors in the expo hall, sponsor or vendor booths, or similar activities
+are also subject to the anti-harassment policy. In particular, exhibitors
+should not use sexualized images, activities, or other material. Booth staff
+(including volunteers) should not use sexualized clothing/uniforms/costumes,
+or otherwise create a sexualized environment.
+
+## Photography
+
+In order to make DjangoCon US 2018 a great experience for everyone, do not
+photograph, video, or audio record anyone at DjangoCon without their express
+permission, sought in advance. If someone does not want to be photographed,
+video or audio recorded, please respect their wishes.
+
+Crowd shots are permitted, but when only the faces of a few people are
+visible, permission should be sought from all of those individuals.
+
+_If a participant engages in behavior that violates this code of conduct, the
+conference organizers may take any action they deem appropriate, including
+warning the offender or expulsion from the conference with no refund._
+
+## License
+
+This Code of Conduct was forked from the example policy from the [Geek
+Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-
+harassment/Policy), created by the Ada Initiative and other volunteers. which
+is under a Creative Commons Zero license.
+
+Conference Code of Conduct by
+[2018.djangocon.us/coc/](https://2018.djangocon.us/coc/) is licensed under a
+[Creative Commons Attribution 3.0 Unported
+License](http://creativecommons.org/licenses/by/3.0/).

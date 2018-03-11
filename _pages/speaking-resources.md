@@ -7,27 +7,6 @@ description: Resources to support DjangoCon 2018 speakers
 ---
 
 {% comment %}
-##  Talks
-
-Length: (20-25 minutes) or (40-45 minutes)
-
-We are looking for original and interesting talks that can benefit the diverse interests of our audience. Don’t feel boxed into Django-centric themes; we also love talks about community, web development, user experience, and more. If you’re a first timer - don’t fret! We would love to be remembered as the conference where you started your speaking career.
-
-Here are some examples of what has been accepted over the last couple of years:
-
-* [DjangoCon US 2016 Talks](https://2016.djangocon.us/schedule/general-sessions/)
-* [DjangoCon US 2015 Talks](https://2015.djangocon.us/schedule/general-sessions/)
-
-##  Tutorials
-
-Length: ~3 - 3.5 hours
-
-We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level, just be sure to indicate clearly what you expect your students to already know or have experience with{% comment %}in your proposal{% endcomment %}.
-{% endcomment %}
-
-{% comment %}Still unsure if you should submit? Not only will we cover your DjangoCon US ticket, but tutorials are compensated.{% endcomment %}
-
-{% comment %}
 <div class="row">
     <div class="column">
         <a class="button hollow theme-shakespeare" href="https://www.papercall.io/djangocon-us-2017">Apply today!</a>
@@ -35,13 +14,16 @@ We’re open to all kinds of ideas, especially ones we haven’t thought of! Tec
 </div>
 {% endcomment %}
 
+{% comment %}
 ## Information for Speakers
-* The Speaker Green Room will be in Willow II on Sunday-Wednesday. Please be in the Green Room at least 10 minutes before your talk to meet your session runner, who will escort you to your presentation room.  
+* The Speaker Green Room will be in Willow II on Sunday-Wednesday. Please be in the Green Room at least 10 minutes before your talk to meet your session runner, who will escort you to your presentation room.
 * The Quiet Room will be in Willow I on all conference days.
+{% endcomment %}
 
-## Need some help with your {% comment %}proposal or {% endcomment %}talk?
+{% comment %}
+## Need some help with your proposal?
 
-Presenters, regardless of experience, sometimes want a little help. If you’d like any help in {% comment %}proposing, {% endcomment %}preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
+Presenters, regardless of experience, sometimes want a little help. If you’d like any help in proposing, preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
 
 * [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, DjangoCon US and Django Girls Atlanta organizer, Your Django Story leader.
 * [Aisha Bello](mailto:aishabello2050@gmail.com), DjangoGirls Lagos organizer, a Python community enthusiastic with a lot of passion for women tech education in Africa.
@@ -52,6 +34,7 @@ Presenters, regardless of experience, sometimes want a little help. If you’d l
 * [Kojo Idrissa](mailto:kojo.idrissa@gmail.com), DjangoCon US organizer, Code Newbie, author.
 * [Dr Russell Keith-Magee](mailto:russell@keith-magee.com) is a 11 year veteran of the Django core team, and for 5 years, was President of the Django Software Foundation. He’s also the founder of the BeeWare project, developing GUI tools to support the development of Python software. When he’s not contributing to open source, he does freelance web development from his home in Perth, Western Australia.
 * [Sebastian Vetter](mailto:seb@roadsi.de), Vancouver Python Organizer, Senior Engineer @ Eventbase, Conference Enthusiast.
+{% endcomment %}
 
 ## Slide Guidelines
 

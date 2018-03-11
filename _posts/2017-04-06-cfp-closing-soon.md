@@ -17,7 +17,7 @@ We want to hear about your experience with and around Django. Remember, we encou
 
 The conference isn't until August, so if you have a kernel of an idea, please submit it!
 
-You've never spoken before? Not a problem! Our [speaker mentors](/speaking/speaker-resources/#need-some-help-with-your-talk) are here to help you. Is cost a concern? Not a problem! We have [financial aid](/financial-aid/) (deadline is also April 10th).
+You've never spoken before? Not a problem! Our [speaker mentors](/speaking/speaker-resources/) are here to help you. Is cost a concern? Not a problem! We have [financial aid](/financial-aid/) (deadline is also April 10th).
 
 There is no reason not to apply! Here are two articles to get you started:
 

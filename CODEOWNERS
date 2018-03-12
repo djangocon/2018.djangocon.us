@@ -1,0 +1,13 @@
+# These owners will be the default owners for everything in the repo.
+*       @KatherineMichel @jefftriplett
+
+# These owners will be the default page owners based on their role.
+# _pages/news.md			@rebkin05
+# _pages/sponsors-information.md	@daheats
+# _pages/sponsors.html			@daheats
+# _data/sponsors.yml			@daheats
+# _pages/financial-aid.md 		@raiderrobert
+# _pages/schedule.html			@deatonjm
+# _pages/talks.html			@deatonjm
+# _pages/tutorials.html			@deatonjm
+# _pages/sprints.html	 		@kojoidrissa

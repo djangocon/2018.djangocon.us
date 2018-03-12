@@ -5,7 +5,6 @@ _site
 .jekyll-metadata
 Gemfile.lock
 npm-debug.log
-CODEOWNERS
 
 bower_components/
 node_modules/

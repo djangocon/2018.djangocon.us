@@ -6,5 +6,5 @@ role: "Conference Chair"
 photo_url: "/static/img/organizers/kenneth.jpg"
 github: "kennethlove"
 twitter: "kennethlove"
-website: ""
+website: "https://thekennethlove.com"
 ---

@@ -2,7 +2,7 @@
 *       @KatherineMichel @jefftriplett
 
 # These owners will be the default page owners based on their role.
-# _pages/news.md			        @rebkin05
+# _posts/*			                @rebkin05
 # _pages/sponsors-information.md	@daheats
 # _pages/sponsors.html			    @daheats
 # _data/sponsors.yml			    @daheats

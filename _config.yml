@@ -51,6 +51,9 @@ collections:  # process the _data folder
   schedule:
     output: true
     permalink: /:collection/:name/
+  organizers:
+    output: false
+    permalink: /:collection/
 
 # SEO Plugin settings
 

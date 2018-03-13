@@ -16,11 +16,11 @@ description: Meet the people who made DjangoCon US 2018 possible.
   <section class="section-pad">
     <div class="row column">
       <p class="lead">
-        There is no "I" in DjangoCon US. Thank you to all our volunteers who make DjangoCon US happen. We couldn't do it without your hard work!
+        There is no "I" in DjangoCon US. Thank you to all our volunteers who make DjangoCon US happen!
       </p>
       <div
         class="row small-up-1 smedium-up-2 medium-up-3 large-up-4 organizers">
-      {% for organizer in site.data.organizers.organizers %}
+      {% for organizer in site.organizers %}
         {% unless organizer.hidden %}
           <div
             class="column column-block">

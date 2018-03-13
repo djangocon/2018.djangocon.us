@@ -35,12 +35,12 @@ exclude:
   - gulpfile.js
   - LICENSE
   - node_modules
+  - NOTES.md
   - package*.json
   - Procfile
   - Rakefile
   - README.md
   - vendor
-
 
 # We need `future` to allow our schedule to work :/
 future: true

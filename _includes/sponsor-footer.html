@@ -1,11 +1,13 @@
 <div class="partner-footer section-pad">
   <h3 class="v-pad-bottom text-center">Our Sponsors</h3>
 
-  {% for level in site.data.sponsors.levels %}
-    {% if level.sponsors %}
+  {% assign sponsors_by_level = site.sponsors | group_by: "level" %}
+
+  {% for level in sponsors_by_level %}
+    {% if level.items %}
       <h4 class="lead min text-center swatch-color-teal">{{ level.name }}</h4>
       <div class="row partner-list">
-        {% for sponsor in level.sponsors %}
+        {% for sponsor in level.items %}
           {% unless sponsor.hidden %}
             <div class="partner-block text-center">
               <a href="{{ sponsor.url }}">

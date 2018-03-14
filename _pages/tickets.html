@@ -16,19 +16,18 @@ description: Information about buying tickets to DjangoCon US
       <h2>What ticket should I buy?</h2>
       <p>If you are a student, unemployed, on a lower income, or feel you would benefit from a reduced-priced ticket, please pick the student/diversity rate. If your employer is paying your way then please pick the corporate rate. If you work for a small company, or the corporate rate is not reasonable for your company, then please pick the individual rate. State or government institutions and non-profit organizations should use the corporate rate if they are able.</p>
 
+      {% comment %}
       <a
         class="button hollow theme-willow"
         href="{{ site.ticket_link }}" target="_blank">Buy Tickets Now</a>
+      {% endcomment %}
     </div>
     <div class="show-for-medium column medium-5" aria-hidden="true">
       <div class="callout">
         <h3>Don't Forget!</h3>
         <ul>
-          <li>Early bird tickets are sold until 6/1/2018</li>
+          <li>Early bird tickets on sale until they're gone</li>
           <li>If your employee is paying, please use the corporate rate.</li>
-          <li>Third bullet point here</li>
-          <li>One more because this is important</li>
-          <li>No more than 5</li>
         </ul>
       </div>
     </div>
@@ -37,15 +36,16 @@ description: Information about buying tickets to DjangoCon US
 
 <div class="section-pad theme-medium-gray">
   <div class="row column small-12">
-   <h2>Ticket Prices</h2>
-    <p><strong>Individual ($345 early bird (sold out), $445 regular)</strong>: If your company has 5 or fewer employees, or if you’re purchasing your own ticket without any help from your employer.</p>
-    <p><strong>Corporate ($545 early bird (sold out), $645 regular)</strong>: If your employer (with more than 5 employees) is paying for your ticket. State or government institutions and non-profit organizations should use the corporate rate if they are able.</p>
-    <p><strong>Student/Diversity ($245)</strong>: If you’re unemployed, on a lower income, are a member of an underrepresented group, or would benefit from a lower-priced ticket for another reason.</p>
-    <p><strong>Tutorials ($150)</strong>: They are a separate cost from your conference ticket. You can register for a tutorial without registering for the conference itself. You must register for a specific tutorial.</p>
-    <p><strong>Sprints (free)</strong>: The ticket is free, but we ask you to register so we can buy you lunch. You do not have to register for the conference itself to register for sprints.</p>
+   <h2>Ticket Types</h2>
+    <p><strong>Individual:</strong> If your company has 5 or fewer employees, or if you’re purchasing your own ticket without any help from your employer.</p>
+    <p><strong>Corporate:</strong> If your employer (with more than 5 employees) is paying for your ticket. State or government institutions and non-profit organizations should use the corporate rate if they are able.</p>
+    <p><strong>Student/Diversity:</strong> If you’re unemployed, on a lower income, are a member of an underrepresented group, or would benefit from a lower-priced ticket for another reason. <strong>If your company is paying for your ticket, you are not eligible for this ticket type.</strong></p>
+    <p><strong>Tutorials ($150):</strong> They are a separate cost from your conference ticket. You can register for a tutorial without registering for the conference itself. You must register for a specific tutorial.</p>
+    <p><strong>Sprints (free):</strong> The ticket is free, but we ask you to register so we can buy you lunch. You do not have to register for the conference itself to register for sprints.</p>
   </div>
 </div>
 
+{% comment %}
 <div class="section-pad">
   <div class="row column small-12">
    <h2>What is the refund policy?</h2>
@@ -63,3 +63,4 @@ description: Information about buying tickets to DjangoCon US
     <p>We hope to see you in San Diego!</p>
   </div>
 </div>
+{% endcomment %}

@@ -57,6 +57,9 @@ collections:  # process the _data folder
   sponsors:
     output: false
     permalink: /:collection/
+  places:
+    output: false
+    permalink: /:collection/
 
 # SEO Plugin settings
 

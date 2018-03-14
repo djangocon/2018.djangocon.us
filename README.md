@@ -127,7 +127,7 @@ $ npm run add -- <username>
 hit enter twice
 ```
 
-To generate a README list from the .all-contributorsrc file
+To generate a README list from the `.all-contributorsrc` file
 
 ```bash
 $ npm run generate

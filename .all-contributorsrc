@@ -211,8 +211,35 @@
       "name": "Lindsey",
       "avatar_url": "https://avatars0.githubusercontent.com/u/11346889?v=4",
       "profile": "http://lmdragun.github.io",
-      "contributions": [
-      ]
+      "contributions": []
+    },
+    {
+      "login": "davidfischer",
+      "name": "David Fischer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/185043?v=4",
+      "profile": "https://www.davidfischer.name/",
+      "contributions": []
+    },
+    {
+      "login": "fcurella",
+      "name": "Flavio Curella",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/89607?v=4",
+      "profile": "https://github.com/fcurella",
+      "contributions": []
+    },
+    {
+      "login": "kennethlove",
+      "name": "Kenneth Love",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11908?v=4",
+      "profile": "http://thekennethlove.com",
+      "contributions": []
+    },
+    {
+      "login": "katialira",
+      "name": "Katia Lira",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8711200?v=4",
+      "profile": "https://github.com/katialira",
+      "contributions": []
     }
   ]
 }

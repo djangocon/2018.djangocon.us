@@ -30,27 +30,24 @@ Django and the Python community at large pride themselves on their commitment to
 
 The following a la carte offerings are available to increase visibility on site.
 
-|                                                                                    | Bronze<br> $1,125  | Silver<br> $2,250  | Gold<br> $4,500                                         | Platinum<br> $9,000 | Diamond<br> $18,000 |
-| ---------------------------------------------------------------------------------- | :----------------: | :----------------: | :-----------------------------------------------------: | :-----------------: | :-----------------: |
-| Free Sponsor Registrations                                                         |         1          |         2          |                            4                            |          8          |          8          |
-| Diversity<br> (Can be added to any tier)                                           |     :moneybag:     |     :moneybag:     |                       :moneybag:                        |     :moneybag:      |     :moneybag:      |
-| Profile in conference app<br> (Logo & text description)                            | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
-| Tote bag insert<br> (Provided by Sponsor)                                          | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
-| Logo in video rotation                                                             | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
-| Name in press release and mailings                                                 | :white_check_mark: | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
-| Sponsor link on website                                                            |    Bronze link     |    Silver link     |                        Gold link                        |    Platinum link    |     Preeminent      |
-| Social Media<br> Twitter & Facebook posts                                          |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
-| Booth Space                                                                        |                    |                    |                      Maximum of 12                      | :white_check_mark:  |     Preeminent      |
-| Logo on a banner carousel in conference app                                        |                    | :white_check_mark: |                   :white_check_mark:                    | :white_check_mark:  | :white_check_mark:  |
-| Banner Stands for Keynote and Speaking Rooms<br> (Max of two; provided by sponsor) |                    |                    | Keynote Room<br> - Speaking Room<br> (Space permitting) | :white_check_mark:  |     Preeminent      |
-| Logo on conference app menu                                                        |                    |                    |                                                         | :white_check_mark:  | :white_check_mark:  |
-| Logo featured in post conference videos                                            |                    |                    |                                                         | :white_check_mark:  | :white_check_mark:  |
-| Logo on tote bags                                                                  |                    |                    |                                                         |                     | :white_check_mark:  |
-| 1 push notification to attendees during conference                                 |                    |                    |                                                         |                     | :white_check_mark:  |
-
-#### Lanyard $3,000 (Limit 1)
-
-Lanyard sponsors enjoy having their logo visible to all attendees during the conference on the lanyards for the badges in which they’re sponsoring.
+|                                                                                    | Diamond<br> $18,000 | Platinum<br> $9,000 | Gold<br> $4,500                                         | Silver<br> $2,250  | Bronze<br> $1,125  |
+| ---------------------------------------------------------------------------------- | :-----------------: | :-----------------: | :-----------------------------------------------------: | :----------------: | :----------------: |
+| Free Sponsor Registrations                                                         |          8          |          8          |                            4                            |         2          |         1          |
+| 10% Discount on extra conference tickets (corporate rate)                          |          8          |          8          |                            4                            |         2          |         1          |
+| Diversity<br> (Can be added to any tier)                                           |     :moneybag:      |     :moneybag:      |                       :moneybag:                        |     :moneybag:     |     :moneybag:     |
+| Profile in conference app<br> (Logo & text description)                            | :heavy_check_mark:  | :heavy_check_mark:  |                   :heavy_check_mark:                    | :heavy_check_mark: | :heavy_check_mark: |
+| Tote bag insert<br> (Provided by Sponsor)                                          | :heavy_check_mark:  | :heavy_check_mark:  |                   :heavy_check_mark:                    | :heavy_check_mark: | :heavy_check_mark: |
+| Logo in video rotation                                                             | :heavy_check_mark:  | :heavy_check_mark:  |                   :heavy_check_mark:                    | :heavy_check_mark: | :heavy_check_mark: |
+| Name in press release and mailings                                                 | :heavy_check_mark:  | :heavy_check_mark:  |                   :heavy_check_mark:                    | :heavy_check_mark: | :heavy_check_mark: |
+| Sponsor link on website                                                            | :heavy_check_mark:  | :heavy_check_mark:  |                   :heavy_check_mark:                    | :heavy_check_mark: | :heavy_check_mark: |
+| Social Media<br> Twitter & Facebook posts                                          | :heavy_check_mark:  | :heavy_check_mark:  |                   :heavy_check_mark:                    | :heavy_check_mark: |                    |
+| Booth Space                                                                        | :heavy_check_mark:  | :heavy_check_mark:  |            :heavy_check_mark: <br>Space permitting      |                    |                    |
+| Logo on a banner carousel in conference app                                        | :heavy_check_mark:  | :heavy_check_mark:  |                   :heavy_check_mark:                    | :heavy_check_mark: |                    |
+| Banner Stands for Keynote and Speaking Rooms<br> (Max of two; provided by sponsor) | :heavy_check_mark:  | :heavy_check_mark:  |            :heavy_check_mark: <br>Space permitting      |                    |                    |
+| Logo on conference app menu                                                        | :heavy_check_mark:  | :heavy_check_mark:  |                                                         |                    |                    |
+| Logo featured in post conference videos                                            | :heavy_check_mark:  | :heavy_check_mark:  |                         $1,000                          |      $1,000        |      $1,000        |
+| Logo on tote bags                                                                  | :heavy_check_mark:  |                     |                                                         |                    |                    |
+| 1 push notification to attendees during conference                                 | :heavy_check_mark:  |                     |                                                         |                    |                    |
 
 #### Refreshments $2,000 (Limit 3)
 
@@ -69,7 +66,7 @@ Interested in another sponsorship opportunity? Get in touch and we’ll do our b
 
 ## Interested in Sponsoring?
 
-<strong><a href="mailto:sponsors@djangocon.us">Send us an email!</a></strong> We're here to help make the process of becoming a sponsor as easy as we can!
+<strong><a href="mailto:{{site.sponsors_email}}">Send us an email!</a></strong> We're here to help make the process of becoming a sponsor as easy as we can!
 
 {% comment %}
 #### Booth info

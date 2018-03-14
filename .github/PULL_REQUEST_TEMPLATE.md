@@ -2,7 +2,7 @@
 
 When submitting a pull request to the DjangoCon US website repo, please follow these guidelines:
 
-- ✅ Please review the [Contribution Guidelines](CONTRIBUTING.md) if you have not already
+- [ ] Please review the [Contribution Guidelines](CONTRIBUTING.md) if you have not already
 - [ ] If you are closing an outstanding issue, tag the issue in your pull request comment
 - [ ] Follow the [Git Commit Message StyleGuide](https://github.com/slashsBin/styleguide-git-commit-message) when possible
 - [ ] Include a description of your commits

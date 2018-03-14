@@ -2,7 +2,7 @@
 
 When submitting an issue to the DjangoCon US website repo, please follow these guidelines:
 
-- ✅ Please review the [Contribution Guidelines](CONTRIBUTING.md) if you have not already
+- [ ] Please review the [Contribution Guidelines](CONTRIBUTING.md) if you have not already
 - [ ] Review existing open issues to ensure that your issue hasn't already been reported
 - [ ] For bug reports:
   - [ ] Provide as much relevant detail as possible, including:

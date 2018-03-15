@@ -49,6 +49,10 @@ The following a la carte offerings are available to increase visibility on site.
 | Logo on tote bags                                                                  | :heavy_check_mark:  |                     |                                                         |                    |                    |
 | 1 push notification to attendees during conference                                 | :heavy_check_mark:  |                     |                                                         |                    |                    |
 
+#### <del>Lanyard $2,000 (Limit 1)</del> SOLD!
+
+Lanyard sponsors enjoy having their logo visible to all attendees during the conference on the lanyards for the badges in which they’re sponsoring.
+
 #### Refreshments $2,000 (Limit 3)
 
 Conference organizers will recognize refreshment sponsors prior to each break and ensure your company’s name and logo are displayed on the refreshment stands.

@@ -20,20 +20,22 @@ description: Resources to support DjangoCon 2018 speakers
 * The Quiet Room will be in Willow I on all conference days.
 {% endcomment %}
 
-{% comment %}
 ## Need some help with your proposal?
 
 Presenters, regardless of experience, sometimes want a little help. If you’d like any help in proposing, preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
 
-* [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, DjangoCon US and Django Girls Atlanta organizer, Your Django Story leader.
-* [Aisha Bello](mailto:aishabello2050@gmail.com), DjangoGirls Lagos organizer, a Python community enthusiastic with a lot of passion for women tech education in Africa.
+* [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, DjangoCon US and Django Girls Atlanta organizer.
 * [Anna Ossowski](mailto:ossanna16@gmx.de), PSF and DSF member, PyCon US and DjangoCon US organizer, PyLadies Remote group leader.
-* [Frank Wiles](mailto:frank@revsys.com), President of the Board, Django Software Foundation, Founder, RevSys.
-* [Jacob Kaplan-Moss](mailto:jacob@jacobian.org), Former Django BDFL and current Core Contributor. Employed at 18F, partner at RevSys. Jacob would love to work with non-native English speakers.
+* [Frank Wiles](mailto:frank@revsys.com), President of the Board, Django Software Foundation, Founder, REVSYS.
+* [Josue Balandrano Coronel](mailto:josuebc@defna.org), DEFNA board member and software engineer at the Texas Advanced Computing Center.
+* [Katia Lira](mailto:katialira@defna.org), Full-stack dev and DEFNA Board Member. I gave a tutorial last year overcoming my nerves and fear and you can too!
 * [Katie McLaughlin](mailto:katie@glasnt.com), PyCon AU and DjangoCon AU Organiser, PSF Contributing Member.
-* [Kojo Idrissa](mailto:kojo.idrissa@gmail.com), DjangoCon US organizer, Code Newbie, author.
-* [Dr Russell Keith-Magee](mailto:russell@keith-magee.com) is a 11 year veteran of the Django core team, and for 5 years, was President of the Django Software Foundation. He’s also the founder of the BeeWare project, developing GUI tools to support the development of Python software. When he’s not contributing to open source, he does freelance web development from his home in Perth, Western Australia.
+* [Philip James](mailto:pjj@philipjohnjames.com), Core Contributor to the BeeWare project and Senior Software Engineer at Patreon. Philip has spoken at a number of DjangoCons and PyCons around the world.
+* [Dr. Russell Keith-Magee](mailto:russell@keith-magee.com), 11 year veteran of the Django core team, former President of the Django Software Foundation, founder of the BeeWare project, developing GUI tools to support the development of Python software. When he’s not contributing to open source, he does freelance web development from his home in Perth, Western Australia.
 * [Sebastian Vetter](mailto:seb@roadsi.de), Vancouver Python Organizer, Senior Engineer @ Eventbase, Conference Enthusiast.
+{% comment %}
+* [Aisha Bello](mailto:aishabello2050@gmail.com), DjangoGirls Lagos organizer, a Python community enthusiastic with a lot of passion for women tech education in Africa.
+* [Kojo Idrissa](mailto:kojo.idrissa@gmail.com), DjangoCon US organizer, Code Newbie, author.
 {% endcomment %}
 
 ## Slide Guidelines

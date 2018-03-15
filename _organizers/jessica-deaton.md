@@ -2,7 +2,7 @@
 layout: base
 
 name: 'Jessica "Deatz" Deaton'
-role: "Program Committee"
+role: "Program Team"
 photo_url: "/static/img/organizers/deatz.jpg"
 github: "deatonjm"
 twitter: "__deatz__"

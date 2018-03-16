@@ -3,8 +3,8 @@ layout: base
 
 name: "Flavio Curella"
 role: "Swag Co-Chair"
-photo_url: "/static/brand/social/avatar-main.png"
-github: ""
-twitter: ""
+photo_url: "/static/img/organizers/flavio.jpg"
+github: "fcurella"
+twitter: "fcurella"
 website: ""
 ---

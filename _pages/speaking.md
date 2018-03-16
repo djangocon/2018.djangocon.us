@@ -54,7 +54,7 @@ Here are some examples of what has been accepted over the last couple of years:
 
 Length: 3-3.5 hours
 
-We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level, just be sure to indicate clearly what you expect your students to already know or have experience with.
+We’re open to all kinds of ideas, especially ones we haven’t thought of! Technical tutorials tend to be more popular, but we welcome all topics. Tutorials can be targeted at any experience level &mdash; just be sure to indicate clearly what you expect your students to already know or have experience with.
 
 Still unsure if you should submit? Not only will we cover your DjangoCon US ticket, but tutorials are compensated.
 

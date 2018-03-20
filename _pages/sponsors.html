@@ -26,8 +26,9 @@ description: DjangoCon US is only possible through the support of various organi
   </div>
 
 {% assign sponsors_by_level = site.sponsors | group_by: "level" %}
+{% assign sponsors = sponsors_by_level | reverse %}
 
-{% for level in sponsors_by_level %}
+{% for level in sponsors %}
     <div class="section-pad {% cycle 'theme-light-gray', 'theme-medium-gray', 'theme-white' %}">
       <h2 class="text-center v-pad-bottom">{{ level.name }}</h2>
       {% for sponsor in level.items %}

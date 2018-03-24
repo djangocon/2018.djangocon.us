@@ -23,7 +23,8 @@ As part of our commitment to diversity, we are thrilled to announce that we will
 </div>
 {% endcomment %}
 
-[Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. {% comment %}If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.{% endcomment %}
+{% comment %}
+[Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.{% endcomment %}
 
 In addition, speakers will be provided with free conference tickets.
 
@@ -33,7 +34,7 @@ You can apply for financial aid by filling out [the application]({{ site.financi
 
 ## Diversity Sponsorships
 
-Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship prospectus]({{ site.sponsorship_prospectus }}) for more information.
+Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship information page](/sponsors/information/) for more information.
 
 ## Frequently Asked Questions
 

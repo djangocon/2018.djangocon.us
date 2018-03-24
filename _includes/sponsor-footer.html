@@ -10,7 +10,7 @@
         {% for sponsor in level.items %}
           {% unless sponsor.hidden %}
             <div class="partner-block text-center">
-              <a href="{{ sponsor.url }}">
+              <a href="{{ sponsor.url_target }}">
                 <img
                   class="partner-logo {{ sponsor.logo_orientation }}"
                   src="{{ sponsor.logo }}"

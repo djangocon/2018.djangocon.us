@@ -5,7 +5,7 @@ level: 'Silver'
 name: "JamBon Software"
 logo: "/static/img/sponsors/jambonlogo.png"
 logo_orientation: "landscape"
-url: "http://www.jambonsw.com/"
+url_target: "http://www.jambonsw.com/"
 url_friendly: "www.jambonsw.com/"
 description: |
       JamBon Software is a software consultancy that specializes

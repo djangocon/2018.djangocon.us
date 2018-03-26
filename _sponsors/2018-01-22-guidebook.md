@@ -5,7 +5,7 @@ level: 'Gold'
 name: "Guidebook"
 logo: "/static/img/sponsors/Guidebook640.png"
 logo_orientation: landscape
-url: "https://guidebook.com/"
+url_target: "https://guidebook.com/"
 url_friendly: "guidebook.com"
 description: |
     Guidebook is a simple yet powerful mobile application builder

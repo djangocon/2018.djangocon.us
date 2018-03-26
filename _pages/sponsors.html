@@ -35,7 +35,7 @@ description: DjangoCon US is only possible through the support of various organi
         {% unless sponsor.hidden %}
           <div class="row partner">
             <div class="column medium-4 text-center">
-              <a href="{{ sponsor.url }}">
+              <a href="{{ sponsor.url_target }}">
                 <img
                   class="partner-logo {{ sponsor.logo_orientation }}"
                   src="{{ sponsor.logo }}"
@@ -43,7 +43,7 @@ description: DjangoCon US is only possible through the support of various organi
               </a>
             </div>
             <div class="column medium-8">
-              <h3 class="partner-name"><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></h3>
+              <h3 class="partner-name"><a href="{{ sponsor.url_target }}">{{ sponsor.name }}</a></h3>
               {% capture sponsor_description %}{{ sponsor.description }}{: .partner-description }{% endcapture %}
               {{ sponsor_description | markdownify }}
             </div>

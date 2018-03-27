@@ -3,10 +3,10 @@ layout: base
 
 level: 'Bronze'
 name: "Ken Whitesell"
-hidden: true
-logo: ""
+logo: "/static/img/sponsors/ken-whitesell.jpg"
 logo_orientation: "landscape"
-url_target: ""
-url_friendly: ""
-description: ""
+url: https://twitter.com/KenWhitesell
+url_friendly: "@KenWhitesell"
+description: |
+    A friend and supporter of DjangoCon US.
 ---

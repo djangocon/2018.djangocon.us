@@ -6,7 +6,7 @@ layout: post
 image:
 title: "Ready, Set, Here We Go!"
 ---
-Hello everyone! We are very excited to announce that the website for DjangoCon US 2018 is [live](2018.djangocon.us). Many thanks to [YupGup](http://yupgup.com/) for the website. It looks amazing!
+Hello everyone! We are very excited to announce that the website for DjangoCon US 2018 is [live](https://2018.djangocon.us). Many thanks to [YupGup](http://yupgup.com/) for the website. It looks amazing!
 
 This year the conference will be October 14-19.
 

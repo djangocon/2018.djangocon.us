@@ -25,13 +25,12 @@ description: DjangoCon US is only possible through the support of various organi
     </div>
   </div>
 
-{% assign sponsors_by_level = site.sponsors | group_by: "level" %}
-{% assign sponsors = sponsors_by_level | reverse %}
-
-{% for level in sponsors %}
-    <div class="section-pad {% cycle 'theme-light-gray', 'theme-medium-gray', 'theme-white' %}">
-      <h2 class="text-center v-pad-bottom">{{ level.name }}</h2>
-      {% for sponsor in level.items %}
+{% assign sponsors_by_level = "Gold|Silver|Bronze" | split: "|" %}
+{% for level in sponsors_by_level %}
+  <div class="section-pad {% cycle 'theme-light-gray', 'theme-medium-gray', 'theme-white' %}">
+    <h2 class="text-center v-pad-bottom">{{ level }}</h2>
+    {% for sponsor in site.sponsors %}
+      {% if sponsor.level == level %}
         {% unless sponsor.hidden %}
           <div class="row partner">
             <div class="column medium-4 text-center">
@@ -49,8 +48,9 @@ description: DjangoCon US is only possible through the support of various organi
             </div>
           </div>
         {% endunless %}
-      {% endfor %}
-    </div>
-  {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endfor %}
 
 </div>

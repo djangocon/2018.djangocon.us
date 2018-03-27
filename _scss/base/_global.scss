@@ -22,8 +22,21 @@ li {
   margin-bottom: 1.5rem;
 }
 
+.lead:last-child {
+  margin-bottom: 0;
+}
+
 .demp {
-  font-weight: $global-weight-normal;
+  font-weight: 600;
+}
+
+// For patching headers
+.contrast-fix {
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: .35em;
+  background: get-color(primary);
 }
 
 iframe,
@@ -51,8 +64,11 @@ iframe,
   }
 }
 
-.callout-dark {
-  @include callout-style(darken($dark-green, 5%));
+.back {
+  position: relative;
+  z-index: -10;
+  // Trick Safari into hardware acceleration
+  transform: translate3d(0,0,0);
 }
 
 // Ensure we have space for anchors and the header does not cover them.
@@ -65,5 +81,25 @@ iframe,
   @include breakpoint(medium) {
     margin-top: -110px;
     height: 110px;
+  }
+}
+
+.media-object img {
+  min-width: 100px;
+}
+
+.section-heading {
+  margin-bottom: $global-margin * 3;
+  text-align: center;
+}
+
+.callout {
+  color: $callout-font-color;
+}
+
+blockquote {
+  cite {
+    font-size: rem-calc(14px);
+    color: $body-font-color;
   }
 }

@@ -1,10 +1,13 @@
 {
-  "projectName": "2017.djangocon.us",
+  "projectName": "2018.djangocon.us",
   "projectOwner": "djangocon",
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
+  "contributorsPerLine": 8,
+  "badgeTemplate": "We have <%= contributors.length %> contributors",
+  "contributorTemplate": "<a href='<%= contributor.profile %>'><img src='<%= contributor.avatar_url %>' width='<%= options.imageSize %>px;'/></a>",
+  "imageSize": 72,
   "commit": false,
   "contributors": [
     {
@@ -187,6 +190,62 @@
       "name": "Arianne",
       "avatar_url": "https://avatars2.githubusercontent.com/u/2425730?v=4",
       "profile": "https://github.com/ariannedee",
+      "contributions": []
+    },
+    {
+      "login": "ana-balica",
+      "name": "Ana Balica",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2039122?v=4",
+      "profile": "http://ana-balica.github.io/",
+      "contributions": []
+    },
+    {
+      "login": "jonitrythall",
+      "name": "Joni Trythall ",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5723303?v=4",
+      "profile": "http://jonibologna.com/",
+      "contributions": []
+    },
+    {
+      "login": "lmdragun",
+      "name": "Lindsey",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11346889?v=4",
+      "profile": "http://lmdragun.github.io",
+      "contributions": []
+    },
+    {
+      "login": "davidfischer",
+      "name": "David Fischer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/185043?v=4",
+      "profile": "https://www.davidfischer.name/",
+      "contributions": []
+    },
+    {
+      "login": "fcurella",
+      "name": "Flavio Curella",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/89607?v=4",
+      "profile": "https://github.com/fcurella",
+      "contributions": []
+    },
+    {
+      "login": "kennethlove",
+      "name": "Kenneth Love",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11908?v=4",
+      "profile": "http://thekennethlove.com",
+      "contributions": []
+    },
+    {
+      "login": "katialira",
+      "name": "Katia Lira",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8711200?v=4",
+      "profile": "https://github.com/katialira",
+      "contributions": []
+    },
+    {
+      "login": "emullaney",
+      "name": "Erin Mullaney",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11393311?v=4",
+      "profile": "https://emullaney.github.io",
       "contributions": []
     }
   ]

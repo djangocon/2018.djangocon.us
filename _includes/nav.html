@@ -4,12 +4,15 @@
     <li><a href="/about/">About DjangoCon US</a></li>
     <li><a href="/tickets/">Tickets</a></li>
     <li><a href="/faq/">FAQ</a></li>
-    <li><a href="/coc/">Code of Conduct</a></li>
+    <li><a href="/conduct/">Code of Conduct</a></li>
+    {% comment %}
     <li><a href="/financial-aid/">Financial Aid</a></li>
+    {% endcomment %}
     <li><a href="/why-djangocon-us/">Why DjangoCon US?</a></li>
     <li><a href="/organizers/">Organizers</a></li>
   </ul>
 </li>
+{% comment %}
 <li class="is-dropdown-submenu-parent">
   <a href="/schedule/">Schedule</a>
   <ul class="menu vertical nested">
@@ -19,12 +22,13 @@
     <li><a href="/sprints/">Sprints Schedule</a></li>
   </ul>
 </li>
+{% endcomment %}
 <li class="is-dropdown-submenu-parent">
   <a href="/venue/">Venue</a>
   <ul class="menu vertical nested">
-    <li><a href="/venue/#welcome">Welcome to Spokane!</a></li>
-    <li><a href="/venue/#hotel">Staying at Hotel RL</a></li>
-    <li><a href="/venue/#places">Around Spokane</a></li>
+    <li><a href="/venue/#welcome">Welcome to San Diego!</a></li>
+    <li><a href="/venue/#hotel">Staying at San Diego Marriott</a></li>
+    <li><a href="/venue/#places">Around San Diego</a></li>
     <li><a href="/venue/#accessibility">Accessibility</a></li>
     <li><a href="/room-sharing/">Room Sharing</a></li>
   </ul>
@@ -46,10 +50,9 @@
 </li>
 <li><a href="/news/">News</a></li>
 <li class="has-button">
-  <a class="navbar-button" href="https://ti.to/defna/djangocon-us-2017">
-    <strong>Buy Tickets</strong><br>
-    {% comment %}
+  <a class="button hollow theme-festival" href="{{ site.ticket_link }}">
+    Tickets On Sale Soon
+    <br/>
     <small>Early Bird Pricing Available</small>
-    {% endcomment %}
   </a>
 </li>

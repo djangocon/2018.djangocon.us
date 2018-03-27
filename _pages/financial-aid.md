@@ -17,25 +17,24 @@ As part of our commitment to diversity, we are thrilled to announce that we will
 <div class="row column">
     <div class="medium-5 medium-centered column">
         <div class="button-group expanded">
-            <a class="button secondary" href="{{ site.financial_aid_application }}">Apply for Financial Aid</a>
+            <a class="button hollow theme-shakespeare" href="{{ site.financial_aid_application }}">Apply for Financial Aid</a>
         </div>
     </div>
 </div>
 {% endcomment %}
 
-[Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. {% comment %}If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.{% endcomment %}
+{% comment %}
+[Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.{% endcomment %}
 
-In addition, this year, speakers will be provided with free conference tickets to encourage wider participation from the Django community.
+In addition, speakers will be provided with free conference tickets.
 
 {% comment %}
 You can apply for financial aid by filling out [the application]({{ site.financial_aid_application }}). You’ll need to provide your name, the amount you’re requesting, and some information about why you’re requesting funding.  Applications need to be submitted by April 10th in order to be considered.
 {% endcomment %}
 
-More details about our financial aid process can be found on our Financial Aid F.A.Q.
-
 ## Diversity Sponsorships
 
-Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship prospectus]({{ site.sponsorship_prospectus }}) for more information.
+Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship information page](/sponsors/information/) for more information.
 
 ## Frequently Asked Questions
 
@@ -49,7 +48,7 @@ Financial aid is paid to the recipient at the conference or shortly after.
 
 ### How will I receive my aid?
 
-Financial aid is paid to the recipient in the form of a check for US account holders. A bank transfer is used for non US account holders. We typically use TransferWise for international payments, but have used other services for currencies they do not support.
+Financial aid is paid to the recipient in the form of a check for US account holders. A bank transfer is used for non-US account holders. We typically use TransferWise for international payments, but have used other services for currencies they do not support.
 
 We require receipts for the items that the financial aid was spent on.
 
@@ -67,6 +66,6 @@ If you are denied entry to the US with a valid visa, we will pay your non-refund
 
 ### How To Donate
 
-[Become a Sponsor!](/sponsors/information/) You or your company can sponsor at a specific level, or can sponsor a particular need, such as wifi, meals, or sprints. Contact our <a href="mailto:{{site.sponsors_email}}">sponsorship chair</a> directly to find out how you can sponsor us.
+[Become a Sponsor](/sponsors/information/)! You or your company can sponsor at a specific level or can sponsor a particular need, such as wifi, meals, or sprints. Contact our <a href="mailto:{{site.sponsors_email}}">sponsorship chair</a> directly to find out how you can sponsor us.
 
-Donate directly! When you purchase your ticket, you can either purchase an extra ticket for an attendee who couldn’t otherwise afford it, or you can add a dollar amount of your choosing.
+When you purchase your ticket, you may also donate directly to the financial aid fund by purchasing an extra ticket for an attendee who couldn’t otherwise afford it, or you can add a dollar amount of your choosing.

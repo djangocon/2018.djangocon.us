@@ -7,14 +7,9 @@ description: |
 enforce_ssl: "2018.djangocon.us"
 relative_permalinks: false
 permalink: news/:title/  # permalink: date
-contact_us_email: "hello@djangocon.us"
-sponsors_email: "sponsors@djangocon.us"
-coc_email: "coc@djangocon.us"
-visa_email: "visas@djangocon.us"
 
 include:
   - _pages
-  - .surgeignore
 
 # Build settings
 markdown: kramdown
@@ -29,50 +24,23 @@ plugins:
 exclude:
   - .editorconfig
   - .gitignore
+  - .surgeignore
+  - bower_components
+  - CNAME
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - deploy_surge.sh
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Rakefile
-  - bower_components
-  - deploy_surge.sh
   - gulpfile.js
+  - LICENSE
   - node_modules
-  - package.json
+  - NOTES.md
+  - package*.json
+  - Procfile
+  - Rakefile
+  - README.md
   - vendor
-
-  # TODO: As we bring pages live, we need to revisit this section...
-  - coc.md
-  - _pages/404.md
-  - _pages/about.html
-  - _pages/coc.html
-  - _pages/demo-schedule.html
-  - _pages/event.md
-  - _pages/faqs.html
-  - _pages/financial-aid.md
-  - _pages/homepage-full.md
-  - _pages/homepage.md
-  - _pages/news.md
-  - _pages/organizers.html
-  - _pages/room-sharing.md
-  - _pages/schedule.html
-  - _pages/slack.html
-  - _pages/speaking-resources.md
-  - _pages/speaking.md
-  - _pages/sponsors-information.md
-  - _pages/sponsors.html
-  - _pages/sprints.html
-  - _pages/talks.html
-  - _pages/tickets.html
-  - _pages/tutorials.html
-  - _pages/venue.html
-  - _pages/why-djangocon-us.html
-  - _posts
-  - _schedule
-  - static/2018-logos
-
 
 # We need `future` to allow our schedule to work :/
 future: true
@@ -83,6 +51,15 @@ collections:  # process the _data folder
   schedule:
     output: true
     permalink: /:collection/:name/
+  organizers:
+    output: false
+    permalink: /:collection/
+  sponsors:
+    output: false
+    permalink: /:collection/
+  places:
+    output: false
+    permalink: /:collection/
 
 # SEO Plugin settings
 
@@ -91,7 +68,7 @@ twitter:
 
 # This is the default logo that people see with opengraph
 # logo: /static/2018-logos/squares-and-social/djangocon-square.png
-logo: /static/img/landing-page/logo.svg
+logo: /static/img/social/avatar-main.png
 
 
 # Frontmatter fallback settings
@@ -100,12 +77,22 @@ defaults:
   - scope:
       path: ""
     values:
-      # image: /static/2018-logos/squares-and-social/djangocon-square.png
-      image: /static/img/landing-page/logo.png
+      image: /static/img/social/avatar-main.png
+
+# Our DjangoCon US settings...
+conduct_email: "conduct@djangocon.us"
+contact_us_email: "hello@djangocon.us"
+financial_aid_email: "financialaid@djangocon.us"
+program_team_email: "program@djangocon.us"
+sponsors_email: "sponsors@djangocon.us"
+visa_email: "visas@djangocon.us"
 
 # Our DjangoCon US links
 sponsorship_prospectus: "https://drive.google.com/file/d/1gPE-iGJVJjglf-1o5wVV_qnfVgVt6Gb-/view"
-financial_aid_application: "https://goo.gl/forms/Uu3gr1ltLbSR7SxM2"
+financial_aid_application: "/financial-aid"
+hotel_reservation_link: "http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=DjangoCon%20US%202018%5Esanmv%60djcdjca%60169.00%60USD%60false%604%6010/13/18%6010/20/18%609/13/18&app=resvlink&stop_mobi=yes"
+ticket_link: "/tickets/"
+slack_link: ""
 
 github: [metadata]
 facebook:

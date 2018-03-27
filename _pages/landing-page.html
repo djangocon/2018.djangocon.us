@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /landing/
 description: DjangoCon US 2018 conference will take place in San Diego, California from October 14-19, 2018!
 title: DjangoCon US 2018 conference will take place in San Diego, California from October 14-19, 2018!
 ---
@@ -10,26 +10,28 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% seo %}
-  <link href="{% link static/img/landing-page/favicon.ico %}" rel=icon type="image/x-icon">
-  <link href="{% link static/img/landing-page/favicon.png %}" rel=icon type="image/png">
+  <link href="{% link static/icons/favicon.ico %}" rel=icon type="image/x-icon">
+  <link href="{% link static/icons/favicon.png %}" rel=icon type="image/png">
 
   <!-- Begin page styles -->
   <style>
     /* Config */
     :root {
-      --green  : #2C4837;
-      --leaf   : #78B291;
-      --padua  : #AFEAC6;
-      --grape  : #5E4CA4;
-      --lilac  : #9870CF;
-      --chalk  : #DFD0E8;
-      --blue   : #2E6FB3;
-      --orange : #E16C40;
+      --color-primary   : #6D0F84;
+      --color-secondary : #EA5397;
+      --color-highlight : #FC7E56;
+      --color-background: #E9E9E9;
+      --color-logo      : #B52BC9;
+      --color-font      : #1E1E1E;
+
+      --color-feature-bg : #05B4DD;
 
       /* Typography */
+      --font-family: 'Source Sans Pro', Helvetica, sans-serif;
+      --header-family: 'Signika', Helvetica, sans-serif;
       --font-size  : 15px;
       --normal     : 400;
-      --bold       : 500;
+      --bold       : 700;
     }
 
     /* Begin reset */
@@ -61,17 +63,18 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
     /* Begin base styles */
     body {
       padding: 0;
-      background-color: #EEE7E5;
-      font-family: "program",Helvetica,sans-serif;
+      background-color: var(--color-background);
+      font-family: var(--font-family);
       line-height: 1.5;
-      color: #111111;
+      color: var(--color-font);
     }
 
     h1,
     h2,
     h3 {
       margin-bottom: 1rem;
-      font-weight: 500;
+      font-family: var(--header-family);
+      font-weight: var(--bold);
       line-height: 1.2;
     }
 
@@ -87,16 +90,16 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
       display: inline-flex;
       justify-content: center;
       align-items: center;
-      border-radius: 10px;
+      border-radius: 4px;
       padding: .5em 1em;
-      background: var(--orange);
+      background: var(--color-primary);
       font-weight: var(--bold);
       text-decoration: none;
       color: white;
     }
-    
+
     .button:hover {
-      /* TODO: a11y hover */
+      background: var(--color-secondary);
     }
 
     .siteUpper {
@@ -112,36 +115,53 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
 
     .logo {
       width: 25rem;
-      color: var(--green);
+      color: var(--color-logo);
     }
 
     .conf-locdate {
       font-size: 2.5rem;
-      font-weight: 400;
+      font-weight: var(--bold);
     }
 
     .conf-description {
       margin: 0 auto;
       max-width: 20em; /* Change depending on text length */
+      font-family: var(--font-family);
       font-size: 2rem;
-      font-weight: var(--bold);
+      font-weight: var(--normal);
     }
 
     .featuresBlock {
       display: flex;
       flex-flow: row wrap;
+      padding: 2rem;
+      background: var(--color-feature-bg);
     }
 
     .feature {
       display: flex;
       flex-direction: column;
-      flex: 1 0 300px;
-      padding: 2rem;
-      background: var(--green);
+      margin-bottom: 1rem;
+      padding: 1.5rem;
+      width: 100%;
+      border-top: 8px solid var(--color-primary);
+      background: white;
       font-size: 1.2rem;
       line-height: 1.35;
       text-decoration: none;
-      color: white;
+    }
+
+    .feature-icon {
+      display: inline-block;
+      margin: 0 auto;
+      width: 140px;
+      max-width: 240px;
+    }
+
+    .feature h3 {
+      font-size: 1.2rem;
+      text-align: center;
+      color: var(--color-primary);
     }
 
     .feature p {
@@ -149,46 +169,38 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
       margin-bottom: 1.5rem;
     }
 
-    .feature .cta {
-      text-decoration: underline;
-    }
-
-    .feature:hover .cta {
-      text-decoration: none;
-    }
-
-    .feature:nth-child(2) {
-      background: var(--blue);
-    }
-
-    .feature:last-child {
-      background: var(--grape);
+    .feature a {
+      font-weight: var(--bold);
+      color: var(--color-primary);
     }
 
     .spBlock {
-      padding: 2rem 1.25rem;
+      padding: 3rem 1.25rem;
       background: black url('{% link static/img/landing-page/people.jpg %}') no-repeat;
       background-size: cover;
       font-size: 1.4rem;
       line-height: 1.3;
+      text-align: center;
       color: white;
     }
 
     .spBlock p {
+      margin-right: auto;
+      margin-left: auto;
       max-width: 30em;
     }
 
     .spBlock p:last-of-type {
       margin-bottom: 0;
     }
-    
+
     .spBlock .button:first-of-type {
       margin-bottom: 1rem;
     }
 
     .siteFooter {
       padding: 3rem;
-      background: var(--green);
+      background: var(--color-primary);
       text-align: center;
       color: white;
     }
@@ -198,7 +210,7 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
     }
 
     .siteFooter a:hover {
-      color: var(--orange);
+      color: var(--color-highlight);
     }
 
     .socialIcons {
@@ -215,7 +227,7 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
 
     .socialIcons a {
       display: inline-flex;
-      color: var(--leaf);
+      color: white;
     }
 
     .socialIcon {
@@ -228,42 +240,46 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
       display: inline-block;
       margin-bottom: 1.5rem;
       font-size: 1.5rem;
-      font-weight: 500;
+      font-weight: var(--normal);
     }
 
     .legal {
       font-size: 1.1rem;
     }
-    
+
     @media (min-width: 520px) {
       :root {
         --font-size  : 17px;
       }
-      
+
       .spBlock .button:first-child {
         margin-right: 1rem;
       }
     }
-    
+
     @media (min-width: 720px) {
       .siteUpper {
         margin: 2rem auto;
         width: 90%;
       }
-      
+
       .featuresBlock {
+        justify-content: space-between;
         margin-left: -1.5rem;
         margin-right: -1.5rem;
       }
-      
+
+      .feature {
+        width: calc(33.33% - 1rem);
+      }
+
       .spBlock {
-        padding: 2rem;
+        padding: 4rem 2rem;
       }
     }
   </style>
 
-  <script src="https://use.typekit.net/dvm6jjh.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700|Signika:700" rel="stylesheet">
 </head>
 
 <body>
@@ -271,28 +287,41 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
 <div class="page">
   <div class="siteUpper">
     <header class="siteHeader">
-      <svg class="logo"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg>
+      <svg class="logo"><title>DjangoCon.US</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg>
       <h1 class="conf-locdate">San Diego, CA &ndash; Oct 14-19, 2018</h1>
       <h2 class="conf-description">Join us for six days of inspiration, education, and networking opportunities.</h2>
     </header>
     <main class="siteMain">
       <div class="featuresBlock">
-        <a href="https://2017.djangocon.us/schedule/" class="feature">
+        <section class="feature">
+          <img
+            src="{{ "/static/img/cap.svg" | relative_url }}"
+            alt="A graduation cap"
+            class="feature-icon">
           <h3>Learn from Django's Brightest</h3>
           <p>Every conference is packed with talks and workshops by Django veterans and enthusiastic first-time presenters.</p>
-          <span class="cta">See last year's schedule</span>
-        </a>
-        <a href="mailto:hello@djangocon.us?subject=Organizing DjangoCon US 2018" class="feature">
+          <a href="https://2017.djangocon.us/schedule/" class="cta">See last year's schedule</a>
+        </section>
+        <section class="feature">
+          <img
+            src="{{ "/static/img/hands.svg" | relative_url }}"
+            alt="Two hands interlocked"
+            class="feature-icon"
+            />
           <h3>Let's Grow Together&mdash;Organize DjangoCon US</h3>
           <p>Help make the conference happen by taking a leadership role on the organizing team, or volunteering to help out over the next several months.</p>
-          <span class="cta">Contact us to volunteer</span>
-        </a>
-        <a href="https://github.com/djangocon/2018.djangocon.us/blob/master/coc.md" class="feature">
+          <a href="mailto:hello@djangocon.us?subject=Organizing DjangoCon US 2018" class="cta">Contact us to volunteer</a>
+        </section>
+        <section class="feature">
+          <img
+            src="{{ "/static/img/list-color.svg" | relative_url }}"
+            alt="Several lines stacked vertically with minimal spacing."
+            class="feature-icon">
           <h3>Code of Conduct</h3>
           <p>Participants are expected to be respectful to each other. DjangoCon US is a welcoming environment.</p>
 
-          <span class="cta">See our code of conduct</span>
-        </a>
+          <a href="https://github.com/djangocon/2018.djangocon.us/blob/master/coc.md" class="cta">See our code of conduct</a>
+        </section>
       </div>
       <section class="spBlock">
         <h2 class="spBlock-title">Sponsor DjangoCon US</h2>
@@ -314,17 +343,17 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
     <ul class="socialIcons">
       <li>
         <a class="twitter" href="https://twitter.com/djangocon" target="_blank">
-          <svg class="socialIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter-icon"></use></svg>
+          <svg class="socialIcon"><title>Twitter</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter-icon"></use></svg>
         </a>
       </li>
       <li>
         <a class="github" href="https://github.com/djangocon/" target="_blank">
-          <svg class="socialIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#github-icon"></use></svg>
+          <svg class="socialIcon"><title>Github</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#github-icon"></use></svg>
         </a>
       </li>
       <li>
         <a class="facebook" href="https://www.facebook.com/djangoconus/" target="_blank">
-          <svg class="socialIcon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook-icon"></use></svg>
+          <svg class="socialIcon"><title>Facebook</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook-icon"></use></svg>
         </a>
       </li>
     </ul>
@@ -340,33 +369,29 @@ title: DjangoCon US 2018 conference will take place in San Diego, California fro
 </div>
 
 {% comment %}
-  To add SVGs to the sprite, simply add them in via <symbol>. 
+  To add SVGs to the sprite, simply add them in via <symbol>.
   Be sure to condense your SVG code via something like SVGO online:
   https://jakearchibald.github.io/svgomg/
-  
+
   You'll also need:
-  
+
   1. A unique idea
   2. Add: fill="currentColor" to any paths or objects so color may be used
   3. A descriptive <title> for accessibility
-    
+
   See the <svg><use ..> pattern above for reference on adding to the page.
 {% endcomment %}
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
   <symbol id="github-icon" viewBox="0 0 32.58 31.77">
-    <title>Github</title>
-      <path fill="currentColor"  d="M16.29,0a16.29,16.29,0,0,0-5.15,31.75c.81.15,1.11-.35,1.11-.79s0-1.41,0-2.77C7.7,29.18,6.74,26,6.74,26a4.31,4.31,0,0,0-1.81-2.38c-1.48-1,.11-1,.11-1a3.42,3.42,0,0,1,2.5,1.68,3.47,3.47,0,0,0,4.74,1.35,3.48,3.48,0,0,1,1-2.18C9.7,23.08,5.9,21.68,5.9,15.44a6.3,6.3,0,0,1,1.68-4.37,5.86,5.86,0,0,1,.16-4.31s1.37-.44,4.48,1.67a15.44,15.44,0,0,1,8.16,0c3.11-2.11,4.48-1.67,4.48-1.67A5.85,5.85,0,0,1,25,11.07a6.29,6.29,0,0,1,1.67,4.37c0,6.26-3.81,7.63-7.44,8a3.89,3.89,0,0,1,1.11,3c0,2.18,0,3.93,0,4.47s.29.94,1.12.78A16.29,16.29,0,0,0,16.29,0Z"/>
+    <path fill="currentColor"  d="M16.29,0a16.29,16.29,0,0,0-5.15,31.75c.81.15,1.11-.35,1.11-.79s0-1.41,0-2.77C7.7,29.18,6.74,26,6.74,26a4.31,4.31,0,0,0-1.81-2.38c-1.48-1,.11-1,.11-1a3.42,3.42,0,0,1,2.5,1.68,3.47,3.47,0,0,0,4.74,1.35,3.48,3.48,0,0,1,1-2.18C9.7,23.08,5.9,21.68,5.9,15.44a6.3,6.3,0,0,1,1.68-4.37,5.86,5.86,0,0,1,.16-4.31s1.37-.44,4.48,1.67a15.44,15.44,0,0,1,8.16,0c3.11-2.11,4.48-1.67,4.48-1.67A5.85,5.85,0,0,1,25,11.07a6.29,6.29,0,0,1,1.67,4.37c0,6.26-3.81,7.63-7.44,8a3.89,3.89,0,0,1,1.11,3c0,2.18,0,3.93,0,4.47s.29.94,1.12.78A16.29,16.29,0,0,0,16.29,0Z"/>
   </symbol>
   <symbol id="twitter-icon" viewBox="0 0 32.804 26.499">
-    <title>Twitter</title>
     <path fill="currentColor" d="M32.804 3.055c-.887 1.28-1.971 2.462-3.35 3.447v.887c0 3.054-.689 6.107-2.167 8.964-1.379 2.856-3.645 5.221-6.601 7.191-2.955 1.97-6.402 2.955-10.343 2.955-3.842 0-7.29-.985-10.344-2.955.296 0 .887.099 1.675.099 3.152 0 5.911-.985 8.373-2.857-1.478 0-2.758-.492-3.94-1.379s-1.97-1.97-2.363-3.349c.196.098.689.098 1.28.098s1.182-.098 1.772-.196c-1.575-.296-2.856-1.084-3.841-2.364-.985-1.281-1.479-2.66-1.479-4.236v-.1c.887.493 1.872.788 2.956.887-1.971-1.379-2.956-3.25-2.956-5.614 0-1.183.296-2.266.887-3.35 3.646 4.433 8.274 6.797 13.89 6.994a5.95 5.95 0 0 1-.197-1.478c0-1.872.69-3.448 1.971-4.729S20.982 0 22.854 0c1.97 0 3.546.69 4.826 2.069 1.379-.296 2.857-.788 4.236-1.576-.493 1.576-1.478 2.758-2.955 3.743 1.38-.296 2.66-.689 3.843-1.181z"/>
   </symbol>
   <symbol id="facebook-icon" viewBox="0 0 42 42">
-    <title>Facebook</title>
     <path fill="currentColor"  d="M39.68,0H2.32A2.32,2.32,0,0,0,0,2.32V39.68A2.32,2.32,0,0,0,2.32,42H22.43V25.74H17V19.4h5.47V14.72c0-5.42,3.31-8.38,8.15-8.38a44.91,44.91,0,0,1,4.89.25v5.67H32.12c-2.63,0-3.14,1.25-3.14,3.09v4h6.28l-.82,6.34H29V42h10.7A2.32,2.32,0,0,0,42,39.68V2.32A2.32,2.32,0,0,0,39.68,0Z"/>
   </symbol>
   <symbol id="logo" viewBox="0 0 310 58.9">
-    <title>DjangoCon.US</title>
     <path fill="currentColor" d="M34.9.1h9.3v9.5h-9.3zM29.4 0h-9.3v14.1c-1.3-.3-2.7-.5-4.1-.5-9.7 0-16 6.1-16 15.5C0 38.9 5.9 43.9 17.3 44c4.1 0 8.1-.4 12.1-1.2V0zm-9.3 36.3c-1.1.2-2.1.2-3.2.2-4.8 0-7.4-2.7-7.4-7.6s2.7-7.9 7.4-7.9c1.1 0 2.1.1 3.1.5l.1 14.8z"/><path fill="currentColor" d="M34.9 32.4c0 8-.4 11.1-1.8 13.7s-3.3 4.3-7.4 6.2l8.6 4.1c4.1-2 6.1-3.9 7.6-6.8s2.2-6.6 2.2-14V14.2h-9.3v18.2zM62.1 13.6c-4.3 0-8.5.9-12.3 2.8v7.1c3.4-1.8 7.1-2.7 10.9-2.8 2.3 0 3.2.6 3.2 2.3v2c-11.4 1-16.1 3.9-16.1 10.4 0 6 3.5 8.7 11.3 8.7 4.4 0 8.9-.4 13.3-1V24.3c0-3.8-.2-5.6-1-7-1.4-2.5-4.5-3.7-9.3-3.7zm2.3 23.6c-1.5.3-3 .4-4.5.4-2.5 0-3.7-.8-3.7-2.6 0-2.4 2-3.4 8.2-4v6.2zM154.8 44.4c9.4 0 15.4-6 15.4-15.7 0-9.4-5.7-15.2-15-15.2-9.5 0-15.4 6-15.4 15.7 0 9.4 5.7 15.2 15 15.2zm.3-23.5c3.6 0 5.6 3 5.6 8s-2.1 8-5.7 8-5.7-2.9-5.7-8 2.1-8 5.8-8zM140.8 15c-4-.9-8.1-1.3-12.1-1.3-13.6 0-21.3 5.9-21.3 16.4 0 8.4 5.2 13.8 13.3 13.8 2.1.1 4.1-.4 6-1.3v.2c0 5.9-2.6 8.3-8.7 8.3-3.5 0-6.9-.8-10-2.4v8.5c3.2 1.2 6.6 1.8 10 1.8 4.9 0 8.8-1.1 11.7-3.2.5-.3 1-.7 1.4-1.1.8-.7 1.4-1.5 2-2.4 2-3.1 2.7-6.8 2.7-14.7V35c-.1-1.3-.1-2.5-.1-3.8l-.1-5-.1-3.9v-1c1.9.2-.4-.2 2.1.2l3.2-6.5zm-14 20.1v.7c-1.1.4-2.3.6-3.5.6-4.1 0-6.4-2.6-6.4-7.2 0-3.2 1.2-5.5 3.4-6.8 1.6-.9 3.5-1.4 5.4-1.3h1v.7l.1 3 .1 4.2c0 1.3.1 2.5.1 3.5l-.2 2.6zM91.6 13.6c-4.9.1-9.9.8-14.6 2.1v27.9h9.3V21.7c1.4-.4 2.8-.7 4.3-.7 3.3 0 4.5 1.3 4.5 4.9v17.7h9.3V25.5c0-4.6-.6-6.8-2.5-8.7s-5.5-3.2-10.3-3.2zM231.6 29.2c0-9.4-5.7-15.2-15-15.2-9.5 0-15.4 6-15.4 15.7 0 9.3 5.7 15.2 15.1 15.2s15.3-6 15.3-15.7zm-20.9.2c0-5.1 2.1-8 5.8-8s5.6 3 5.6 8-2.1 8-5.7 8-5.7-2.8-5.7-8zM252.5 26.4v17.7h9.3V26c0-4.6-.6-6.8-2.5-8.7s-5.5-3.2-10.3-3.2c-4.9.1-9.9.8-14.6 2.1v27.9h9.3V22.2c1.4-.4 2.8-.7 4.3-.6 3.3 0 4.5 1.3 4.5 4.8zM291 43.4c1.3-1.4 1.8-2.9 1.8-6.1V24.7h-6.5V37c0 2.5-.8 3.4-3.1 3.4-1 0-2-.2-3-.5V24.7h-6.4v19.4c3.3.9 6.7 1.4 10.2 1.4 3.2.1 5.6-.7 7-2.1zM177.8 40.6c3 2.8 8.5 3.8 12.2 3.7 2.9 0 5.8-.7 8.4-2.1v-7.4c-2 1-4.2 1.6-6.4 1.6-3.6 0-9.3-1.4-9.3-7.8s5.7-7.8 9.3-7.8c2.2 0 4.3.7 6.2 1.8v-7.5c-2.5-1.2-5.3-1.8-8.1-1.8-3.7 0-8.8 1.1-11.8 4-3.2 2.9-5.1 7-5.1 11.3-.3 4.5 1.4 8.9 4.6 12zM302.7 32.3c-1.5-.7-1.4-1.5-1.4-1.5s0-1.3 2.6-1.3c1.9 0 3.7.5 5.4 1.3v-4.9c-2-1-4.3-1.4-6.6-1.2-7.5.3-7.4 6-7.4 6-.2 1.5.4 3 1.4 4.2 1.6 1.3 3.4 2.3 5.3 3 1.4.5 1.9 1.2 1.9 1.5s.2 1.4-2.6 1.4c-2.1-.1-4.1-.7-6-1.6v5.1c2.8 1.1 5.9 1.5 8.8 1.1 2.8-.5 5.6-1.4 5.9-5.9.3-4.4-4.1-5.8-7.3-7.2zM264.1 36.7h7.4v7.4h-7.4z"/>
   </symbol>
 </svg>

@@ -8,6 +8,15 @@
 .off-canvas .menu a,
 .title-bar .menu a {
   text-decoration: none;
+  color: $black;
+}
+
+.title-bar .menu {
+  // Trick Safari into hardware acceleration
+  transform: translate3d(0,0,0);
+}
+
+.off-canvas .menu a {
   color: $white;
 }
 
@@ -16,81 +25,67 @@
   margin-bottom: 0;
 }
 
-// If you want to only have the transparent-at-top option on the homepage
-// instead of site-wide,  prepend every instance of .headroom--top with
-// .home-title-wrap in this file.
+.title-bar .button.hollow {
+  padding: .65rem .5rem;
+  font-size: .85rem;
 
-.headroom--top .menu .menu,
+  small {
+    font-size: .65rem;
+  }
+}
+
+.off-canvas .menu .button.hollow {
+  margin-right: 10px;
+  margin-left: 10px;
+  border: 2px solid $white;
+  color: $white;
+
+  &:before {
+    display: none;
+  }
+}
+
 .menu .menu { // subnav menu, with the headroom class added so it doesn't change
   text-align: left;
 
   a {
     color: $white;
   }
-
-  a:hover {
-    background: $secondary-color;
-  }
-
 }
-
 
 .headroom--top .menu .navbar-button,
 .navbar-button {
-  background: $orange;
   text-align: center;
-  color: $white;
 
   small {
     font-size: rem-calc(16);
   }
+}
 
-  &:hover {
-    background: mix(black, $orange, 10%);
-  }
+.headroom .menu .menu a {
+  font-size: rem-calc(18);
 }
 
 .logo {
   display: block;
   margin: 10px 0 -20px 10px;
-  width: 160px;
-  height: 53px; // for IE
+  width: 147px;
+  height: 40px; // for IE
 
   svg {
     max-width: 100%;
     height: 100%;
   }
-
-  .background-field {
-    fill: $green;
-  }
-
-  .djangocon {
-    fill: $body-background;
-  }
-
-  .location {
-    fill: $orange;
-  }
 }
 
-@include breakpoint(medium) {
+.title-bar {
   .logo {
-    margin: 10px 0 -60px 10px;
-    width: 140px;
-    height: auto;
+    width: 200px;
   }
-}
 
-@include breakpoint(large) {
-  .logo {
-    width: 270px;
-  }
-}
-
-@include breakpoint(xlarge) {
-  .logo {
-    width: 300px;
+  .menu > li > a {
+    padding: .6rem;
+    font-size: .8rem;
   }
 }
 
@@ -101,110 +96,15 @@
   right: 0;
   left: 0;
   z-index: 10;
+
   transition: all 200ms ease;
   will-change: transform;
 
-  a,
-  svg,
-  path,
-  polygon,
-  rect,
-  g {
-    transition: all 400ms ease;
+  &,
+  .hamburger {
+    height: 60px;
   }
 }
-
-@include breakpoint(small only) { // hide header when scrolling down on mobile
-  .headroom--pinned {
-    transform: translateY(0%);
-  }
-
-  .headroom--unpinned {
-    transform: translateY(-130%);
-  }
-}
-
-// change visual styles
-.headroom--top {
-  background-color: transparent;
-
-  .logo {
-    width: 160px;
-    height: auto;
-
-    .background-field {
-      fill: transparent;
-    }
-
-    .djangocon {
-      fill: $green;
-    }
-
-    .location {
-      fill: $orange;
-    }
-  }
-
-  .top-bar-title {
-    color: $primary-color;
-  }
-
-  .menu {
-    a {
-      color: $green;
-    }
-
-    li.is-dropdown-submenu-parent > a::after { // override arrow color
-      border-color: $green transparent transparent;
-    }
-
-    li li.is-dropdown-submenu-parent > a::after { // override arrow color
-      border-color: $body-background transparent transparent;
-      opacity: 1;
-    }
-
-    .menu {
-      a {
-        color: $white;
-      }
-
-      a:hover {
-        background: $primary-color;
-      }
-    }
-
-    li:not(.has-button) {
-      &:hover {
-        > a,
-        > a:hover {
-          color: $orange;
-        }
-      }
-    }
-  }
-
-  @include breakpoint(medium) {
-    .logo {
-      width: 140px;
-      //height: 46px;
-    }
-  }
-
-  @include breakpoint(large) {
-    .logo {
-      width: 265px;
-      //height: 88px;
-    }
-  }
-
-  @include breakpoint(xlarge) {
-    .logo {
-      width: 360px;
-      //height: 118px;
-    }
-  }
-}
-
 
 // tightening drop-down arrows on navigaiton parent elements
 .dropdown.menu > li.is-dropdown-submenu-parent > a {
@@ -215,8 +115,52 @@
   .is-dropdown-submenu-parent {
     position: static; // fixing drilldown
   }
+}
 
-  .menu>li>a {
-    padding: .7rem;
+@include breakpoint(medium down) {
+  .logo path {
+    fill: $white;
+  }
+}
+
+@include breakpoint(large) {
+  .headroom {
+    position: relative !important;
+    height: auto;
+  }
+
+  .title-bar {
+    background: $body-background !important;
+
+    .logo {
+      margin-top: $global-margin;
+      margin-left: $global-margin;
+      width: 194px;
+      height: 100%;
+    }
+
+    .menu > li > a {
+      font-size: .9rem;
+    }
+  }
+
+  .title-bar-right {
+    padding: 1rem;
+  }
+}
+
+@include breakpoint(xlarge) {
+  .title-bar {
+    .logo {
+      margin-top: $global-margin;
+      margin-left: $global-margin;
+      width: 280px;
+      height: 100%;
+    }
+
+    .menu > li > a {
+      padding: 1rem;
+      font-size: 1rem;
+    }
   }
 }

@@ -13,7 +13,6 @@ description: |
 
 As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US.
 
-{% comment %}
 <div class="row column">
     <div class="medium-5 medium-centered column">
         <div class="button-group expanded">
@@ -21,7 +20,6 @@ As part of our commitment to diversity, we are thrilled to announce that we will
         </div>
     </div>
 </div>
-{% endcomment %}
 
 {% comment %}
 [Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.{% endcomment %}

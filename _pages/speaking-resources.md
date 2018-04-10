@@ -7,14 +7,6 @@ description: Resources to support DjangoCon 2018 speakers
 ---
 
 {% comment %}
-<div class="row">
-    <div class="column">
-        <a class="button hollow theme-shakespeare" href="https://www.papercall.io/djangocon-us-2017">Apply today!</a>
-    </div>
-</div>
-{% endcomment %}
-
-{% comment %}
 ## Information for Speakers
 * The Speaker Green Room will be in Willow II on Sunday-Wednesday. Please be in the Green Room at least 10 minutes before your talk to meet your session runner, who will escort you to your presentation room.
 * The Quiet Room will be in Willow I on all conference days.
@@ -37,6 +29,15 @@ Presenters, regardless of experience, sometimes want a little help. If you’d l
 * [Aisha Bello](mailto:aishabello2050@gmail.com), DjangoGirls Lagos organizer, a Python community enthusiastic with a lot of passion for women tech education in Africa.
 * [Kojo Idrissa](mailto:kojo.idrissa@gmail.com), DjangoCon US organizer, Code Newbie, author.
 {% endcomment %}
+
+<div class="row column v-pad-top">
+    <div class="medium-5 medium-centered column">
+        <div class="button-group expanded">
+            <a class="button hollow theme-violetred" href="{{site.cfp_application}}">Submit a Talk</a>
+            <a class="button hollow theme-willow" href="{{site.financial_aid_application}}">Apply for Financial Aid</a>
+        </div>
+    </div>
+</div>
 
 ## Slide Guidelines
 

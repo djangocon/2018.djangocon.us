@@ -6,7 +6,7 @@ permalink: /speaking/
 description: Information about submitting a proposal to speak at DjangoCon US
 ---
 
-Our [Call for Proposals]({{site.cfp_application}}) (CFP) is now open! Submit your talk or tutorial proposal by June 3 ([AoE](https://time.is/compare/0000_03_Jun_2018_in_Anywhere_on_Earth)), and encourage your friends and colleagues to do the same.
+Our [Call for Proposals]({{site.cfp_application}}) (CFP) is now open! Submit your talk or tutorial proposal by June 3 ([AoE](https://time.is/compare/0000_03_Jun_2018_in_Anywhere_on_Earth)), and encourage your friends and colleagues to do the same. Decision notifications will be sent by July 9th, 2018.
 
 Need help with your proposal? We’ve got mentors and helpful tips on our [Speaker Resources](/speaking/speaker-resources/) page!
 
@@ -33,7 +33,7 @@ Need help with your proposal? We’ve got mentors and helpful tips on our [Speak
 
 ### Selection process
 
-We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will review anonymized submissions and collectively decide which ones to accept. {% comment %}**Submissions for DjangoCon US 2017 are closed as of April 11, 2017 07:00 CDT.** We will notify those who have been accepted by **May 15, 2017**. We’ll publish the list of selected talks as soon as we can after the deadline. {% endcomment %}
+We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will review anonymized submissions and collectively decide which ones to accept.
 
 ### Talks (October 15th, 16th, &amp; 17th)
 

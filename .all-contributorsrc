@@ -247,6 +247,28 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/11393311?v=4",
       "profile": "https://emullaney.github.io",
       "contributions": []
+    },
+    {
+      "login": "adamfast",
+      "name": "Adam Fast",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/135851?v=4",
+      "profile": "http://www.adamfast.com",
+      "contributions": []
+    },
+    {
+      "login": "raiderrobert",
+      "name": "Robert Roskam",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/806571?v=4",
+      "profile": "http://robertroskam.com",
+      "contributions": []
+    },
+    {
+      "login": "xirdneh",
+      "name": "Josue Balandrano Coronel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4007280?v=4",
+      "profile": "http://www.rmcomplexity.com",
+      "contributions": []
     }
-  ]
+  ],
+  "repoType": "github"
 }

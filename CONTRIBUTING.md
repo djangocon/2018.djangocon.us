@@ -1,8 +1,8 @@
-# Contributing to DjangoCon US 2017
+# Contributing to DjangoCon US 2018
 
 :thumbsup: :tada: Thank you so much for taking the time to contribute! :tada: :thumbsup: 
 
-The following is a set of guidelines for contributing to DjangoCon US 2017.
+The following is a set of guidelines for contributing to DjangoCon US 2018.
 
 
 ## How Can I Help?

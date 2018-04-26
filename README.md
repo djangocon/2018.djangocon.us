@@ -21,7 +21,7 @@ Get started contributing by reading our [Contributing](CONTRIBUTING.md) guidelin
 
 3. For changes that do not need to be tested locally, the change can be made and submitted in the browser.
 
-4. Within your forked repo, make sure the "Branch" tab is set to the `develop` branch.
+4. Within your forked repo, make sure the "Branch" tab is set to the `master` branch.
 
 5. Once you are on the correct branch, navigate to the file you intend to change and click the pencil icon to open it. Make the change and click the "Commit changes" button.
 

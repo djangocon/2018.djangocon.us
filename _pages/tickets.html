@@ -14,13 +14,11 @@ description: Information about buying tickets to DjangoCon US
   <div class="row" id="welcome">
     <div class="column small-12 medium-6">
       <h2>What ticket should I buy?</h2>
-      <p>If you are a student, unemployed, on a lower income, or feel you would benefit from a reduced-priced ticket, please pick the student/diversity rate. If your employer is paying your way then please pick the corporate rate. If you work for a small company, or the corporate rate is not reasonable for your company, then please pick the individual rate. State or government institutions and non-profit organizations should use the corporate rate if they are able.</p>
+      <p>If your employer is paying your way then please pick the <strong>Corporate</strong> or <strong>Corporate Patron</strong> rate. State or government institutions and non-profit organizations should use the corporate rate if they are able. If you work for a small company, or the corporate rate is not reasonable for your company, then please pick the <strong>Individual</strong> rate. If you are a student, unemployed, on a lower income, or feel you would benefit from a reduced-priced ticket, please pick the <strong>Student/Diversity</strong> rate.</p>
 
-      {% comment %}
       <a
         class="button hollow theme-willow"
-        href="{{ site.ticket_link }}" target="_blank">Buy Tickets Now</a>
-      {% endcomment %}
+        href="{{ site.ticket_link }}" target="_blank">Buy Your Ticket Now</a>
     </div>
     <div class="show-for-medium column medium-5" aria-hidden="true">
       <div class="callout">
@@ -28,6 +26,7 @@ description: Information about buying tickets to DjangoCon US
         <ul>
           <li>Early bird tickets on sale until they're gone</li>
           <li>If your employer is paying, please use the corporate rate.</li>
+          <li>Buying a Corporate ticket and planning on attending tutorials? Check out the <strong>Corporate Conference Package</strong>!</li>
         </ul>
       </div>
     </div>
@@ -36,31 +35,47 @@ description: Information about buying tickets to DjangoCon US
 
 <div class="section-pad theme-medium-gray">
   <div class="row column small-12">
-   <h2>Ticket Types</h2>
-    <p><strong>Individual:</strong> If your company has 5 or fewer employees, or if you’re purchasing your own ticket without any help from your employer.</p>
-    <p><strong>Corporate:</strong> If your employer (with more than 5 employees) is paying for your ticket. State or government institutions and non-profit organizations should use the corporate rate if they are able.</p>
-    <p><strong>Student/Diversity:</strong> If you’re unemployed, on a lower income, are a member of an underrepresented group, or would benefit from a lower-priced ticket for another reason. <strong>If your company is paying for your ticket, you are not eligible for this ticket type.</strong></p>
-    <p><strong>Tutorials (TBD):</strong> They are a separate cost from your conference ticket. You can register for a tutorial without registering for the conference itself. You must register for a specific tutorial.</p>
-    <p><strong>Sprints (free):</strong> The ticket is free, but we ask you to register so we can buy you lunch. You do not have to register for the conference itself to register for sprints.</p>
+   <h2>Ticket Prices</h2>
+    <ul>
+      <li><strong>Early Bird Corporate Rate:</strong> $695 (will increase to $795 once early bird tickets sell out)</li>
+      <li><strong>Corporate Patron Rate:</strong> $995</li>
+      <li><strong>Corporate Conference Package</strong> (Ticket + 2 Tutorials): $1,285</li>
+      <li><strong>Early Bird Individual Rate:</strong> $495 (will increase to $595 once early bird tickets sell out)</li>
+      <li><strong>Student/Diversity Rate:</strong> $295</li>
+      <li><strong>Tutorials:</strong> $195 per session</li>
+      <li><strong>Sprints:</strong> Free</li>
+
+    </ul>
   </div>
 </div>
 
-{% comment %}
-<div class="section-pad">
+<div class="section-pad theme-light-gray">
+  <div class="row column small-12">
+   <h2>Ticket Types</h2>
+   <p><strong>Corporate ($695 Early Bird, then $795):</strong> If your employer (with more than 5 employees) is paying for your ticket. State or government institutions and non-profit organizations should use the corporate rate if they are able.</p>
+   <p><strong>Corporate Patron ($995):</strong> Every year, particularly generous attendees ask how they can pay extra for their ticket to help us expand our mission. This year, we're introducing this ticket type just for you. The cost difference will be put toward conference expenses that increase access to the conference, such as the financial aid fund and video captioning. Ticket holders of this type receive all the benefits of a corporate ticket, and will also be invited to a special "thank you" event at the conference.</p>
+   <p><strong>Corporate Conference Package ($1,285):</strong> If your company prefers to purchase several tickets and tutorial sessions at once and register the names of the people attending at a later date, this ticket is for you. It includes a corporate-level ticket + two tutorial sessions. You can give us the name(s) of who is attending the conference, as well as the tutorials they would like to attend, at a later date.* We will also send you a paper invoice for record-keeping if you need.</p>
+    <p><strong>Individual ($495 Early Bird, then $595):</strong> If your company has 5 or fewer employees, or if you’re purchasing your own ticket without any help from your employer.</p>
+    <p><strong>Student/Diversity ($295):</strong> If you’re unemployed, on a lower income, are a member of an underrepresented group, or would benefit from a lower-priced ticket for another reason. <strong>If your company is paying for your ticket, you are not eligible for this ticket type.</strong></p>
+    <p><strong>Tutorials ($195):</strong> They are a separate cost from your conference ticket. You can register for a tutorial without registering for the conference itself. You must register for a specific tutorial.</p>
+    <p><strong>Sprints (free):</strong> The ticket is free, but we ask you to register so we can buy you lunch. You do not have to register for the conference itself to register for sprints.</p>
+    <br />
+    <p><em>*We encourage you to claim your tutorial slot soon after tutorials are announced; if a tutorial sells out before you claim your slot, we cannot guarantee you a spot in that session. But we'll do our best to send you lots of reminders.</em></p>
+  </div>
+</div>
+
+<div class="section-pad theme-medium-gray">
   <div class="row column small-12">
    <h2>What is the refund policy?</h2>
-   <p>DjangoCon US has the following tiered refund policy:</p>
+   <p>We would hate for you to miss the conference! But we know things come up, so here's our refund policy:</p>
    <ul>
-      <li>Refunds requested before July 31, 2017, incur a 10% cancellation fee.</li>
-      <li>Refunds requested between August 1 and August 6, 2017, incur a 25% cancellation fee.</li>
-      <li>Refunds requested between August 7 and August 12, 2017, incur a 50% cancellation fee.</li>
-      <li>Tickets may be transferred to someone else at no charge by August 12, 2017, for tutorials and August 13 for the conference.</li>
+      <li>Refunds requested by September 30, 2018 incur a 10% cancellation fee.</li>
+      <li>Between October 1 and October 7, 2018,, the cancellation fee is 25%.</li>
+      <li>Between October 8 and October 13, 2018, the cancellation fee is 50%.</li>
+      <li>Tickets may be transferred to someone else at no charge by October 13, 2018, for tutorials and October 14 for the conference.</li>
     </ul>
     <p>For all dates the cutoff is on or before 5:00 PM PDT per the time stamp on DEFNA’s servers.</p>
-
-    <p>DjangoCon US has sold out the past two years, so buy your ticket soon!</p>
 
     <p>We hope to see you in San Diego!</p>
   </div>
 </div>
-{% endcomment %}

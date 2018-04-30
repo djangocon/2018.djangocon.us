@@ -15,8 +15,8 @@ Here's what you need to know:
 - Early Bird Individual Rate: $495 (will increase to $595 once early bird tickets sell out)
 - Early Bird Corporate Rate: $695 (will increase to $795 once early bird tickets sell out)
 - **New Ticket** &mdash; Patron Rate: $995
-- **New Ticket** &mdash; Corporate Concierge Service: $995 per ticket (will not change)
-- Discounted Rate: $295 (will not change)
+- **New Ticket** &mdash; Corporate Concierge Service: $995 per ticket
+- Discounted Rate: $295
 - Tutorials: $195 per session
 
 **Patron:** Every year, particularly generous attendees ask how they can pay extra for their ticket to help us expand our mission. This year, we're introducing a ticket type just for you: the Patron ticket. The cost difference will be put toward conference expenses that increase access to the conference, such as the financial aid fund and video captioning. Ticket holders of this type receive all the benefits of a corporate ticket, and will also be invited to a special "thank you" event at the conference.

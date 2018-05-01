@@ -28,6 +28,8 @@ In addition, speakers will be provided with free conference tickets.
 
 You can apply for financial aid by filling out [the application]({{ site.financial_aid_application }}). You’ll need to provide your name, the amount you’re requesting, and some information about why you’re requesting funding. Applications need to be submitted by June 3rd in order to be considered. Decision notifications will be sent by July 9th, 2018.
 
+If you have any questions, feel free to reach out to the financial aid team at [{{ site.financial_aid_email }}](mailto:{{ site.financial_aid_email }}).
+
 ## Diversity Sponsorships
 
 Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship information page](/sponsors/information/) for more information.

@@ -3,7 +3,7 @@ author: Lacey Williams Henschel
 category: General
 date: 2018-05-02 06:00:00
 layout: post
-image:
+image: /static/img/blog/tickets_on_sale.png
 title: "Catch That Worm! Early Bird Tickets On Sale Now"
 ---
 We know you're as excited as we are to get your DjangoCon US ticket, and your wait is over! Tickets are [on sale now]({{site.ticket_link}}) and more information is available on our [tickets](/tickets/) page.

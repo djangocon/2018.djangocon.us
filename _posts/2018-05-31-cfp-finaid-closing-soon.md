@@ -3,11 +3,11 @@ author: Lacey Williams Henschel
 category: General
 date: 2018-05-30 06:00:00
 layout: post
-image: /static/img/blog/tickets_on_sale.png
+image: /static/img/blog/cfp-closing-soon.png
 title: "CFP and Financial Aid Closing Soon!"
 ---
 
-Don't miss out on your chance to speak at DjangoCon US or get some financial help with attending the conference! Our Call for Proposals and applications for financial aid both close on June 3, 2018, AoE (anywhere on earth).
+Don't miss out on your chance to speak at DjangoCon US or get some financial help with attending the conference! Our Call for Proposals and applications for financial aid both close on June 3, 2018, [AoE](https://www.timeanddate.com/time/zones/aoe) (anywhere on earth).
 
 <div class="row column">
     <div class="medium-5 medium-centered column">

@@ -17,8 +17,9 @@ description: Resources to support DjangoCon 2018 speakers
 Presenters, regardless of experience, sometimes want a little help. If you’d like any help in proposing, preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
 
 * [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, DjangoCon US and Django Girls Atlanta organizer.
-* [Anna Ossowski](mailto: annabell.ossowski@gmail.com), Developer Relations at Elastic, speaker, mentor, PyCon Open Spaces advisor, DjangoCon Diversity Chair, Django Girls Omaha and San Francisco organizer, PyLadies Remote co-lead.
+* [Anna Ossowski](mailto:annabell.ossowski@gmail.com), Developer Relations at Elastic, speaker, mentor, PyCon Open Spaces advisor, DjangoCon Diversity Chair, Django Girls Omaha and San Francisco organizer, PyLadies Remote co-lead.
 * [Frank Wiles](mailto:frank@revsys.com), President of the Board, Django Software Foundation, Founder, REVSYS.
+* [Jacinda Shelly](mailto:jacinda.shelly@gmail.com). Jacinda nurtured an early love of sharing knowledge by recording books on cassette for her brothers to listen to as bedtime stories. She has spoken at multiple technical conferences, including PyCon and DjangoCon US. She works for Doctor On Demand and lives in San Francisco with her husband and daughter.
 * [Josue Balandrano Coronel](mailto:josuebc@defna.org), DEFNA board member and software engineer at the Texas Advanced Computing Center.
 * [Katia Lira](mailto:katialira@defna.org), Full-stack dev and DEFNA Board Member. I gave a tutorial last year overcoming my nerves and fear and you can too!
 * [Katie McLaughlin](mailto:katie@glasnt.com), PyCon AU and DjangoCon AU Organiser, DSF Director, PSF Contributing Member.
@@ -30,15 +31,6 @@ Presenters, regardless of experience, sometimes want a little help. If you’d l
 * [Aisha Bello](mailto:aishabello2050@gmail.com), DjangoGirls Lagos organizer, a Python community enthusiastic with a lot of passion for women tech education in Africa.
 * [Kojo Idrissa](mailto:kojo.idrissa@gmail.com), DjangoCon US organizer, Code Newbie, author.
 {% endcomment %}
-
-<div class="row column v-pad-top">
-    <div class="medium-5 medium-centered column">
-        <div class="button-group expanded">
-            <a class="button hollow theme-violetred" href="{{site.cfp_application}}">Submit a Talk</a>
-            <a class="button hollow theme-willow" href="{{site.financial_aid_application}}">Apply for Financial Aid</a>
-        </div>
-    </div>
-</div>
 
 ## Slide Guidelines
 

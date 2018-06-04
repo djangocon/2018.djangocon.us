@@ -6,9 +6,7 @@ permalink: /speaking/
 description: Information about submitting a proposal to speak at DjangoCon US
 ---
 
-Our [Call for Proposals]({{site.cfp_application}}) (CFP) is now open! Submit your talk or tutorial proposal by June 3 ([AoE](https://time.is/compare/0000_03_Jun_2018_in_Anywhere_on_Earth)), and encourage your friends and colleagues to do the same. Decision notifications will be sent by July 9th, 2018.
-
-Need help with your proposal? We’ve got mentors and helpful tips on our [Speaker Resources](/speaking/speaker-resources/) page!
+Our Call for Proposals is now closed. Decision notifications will be sent by July 9th, 2018.
 
 ## Why speak at DjangoCon US?
 
@@ -19,15 +17,6 @@ Need help with your proposal? We’ve got mentors and helpful tips on our [Speak
 - Expand your technical, professional, and personal networks.
 - Share your discoveries with a large audience.
 - Give back to the Django community!
-
-<div class="row column v-pad-top">
-    <div class="medium-5 medium-centered column">
-        <div class="button-group expanded">
-            <a class="button hollow theme-violetred" href="{{site.cfp_application}}">Submit a Talk</a>
-            <a class="button hollow theme-willow" href="{{site.financial_aid_application}}">Apply for Financial Aid</a>
-        </div>
-    </div>
-</div>
 
 ## Proposing to DjangoCon US
 

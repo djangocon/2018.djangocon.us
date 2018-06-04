@@ -9,24 +9,7 @@ description: |
     As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US
 ---
 
-## Apply for Financial Aid!
-
-As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US.
-
-<div class="row column">
-    <div class="medium-5 medium-centered column">
-        <div class="button-group expanded">
-            <a class="button hollow theme-shakespeare" href="{{ site.financial_aid_application }}">Apply for Financial Aid</a>
-        </div>
-    </div>
-</div>
-
-{% comment %}
-[Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.{% endcomment %}
-
-In addition, speakers will be provided with free conference tickets.
-
-You can apply for financial aid by filling out [the application]({{ site.financial_aid_application }}). You’ll need to provide your name, the amount you’re requesting, and some information about why you’re requesting funding. Applications need to be submitted by June 3rd in order to be considered. Decision notifications will be sent by July 9th, 2018.
+Our financial aid application is now closed. Decision notifications will be sent by July 9th, 2018.
 
 If you have any questions, feel free to reach out to the financial aid team at [{{ site.financial_aid_email }}](mailto:{{ site.financial_aid_email }}).
 

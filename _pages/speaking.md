@@ -10,7 +10,7 @@ Our Call for Proposals is now closed. Decision notifications will be sent by Jul
 
 ## Why speak at DjangoCon US?
 
-- Presenters receive a free ticket to DjangoCon US! (Travel costs are not included, but potential speakers are encouraged [apply for financial aid]({{site.financial_aid_application}}).)
+- Presenters receive a free ticket to DjangoCon US! (Travel costs are not included, but potential speakers were encouraged apply for financial aid. Financial aid decision notifications will be sent by July 9th, 2018.)
 - Professionally produced video of your talk published to our YouTube channel. (You may opt out of this.)
 - Professional photographer on hand to photograph your talk. (Also optional.)
 - Expose the Django community to new tools, practices, or ideas.
@@ -22,7 +22,7 @@ Our Call for Proposals is now closed. Decision notifications will be sent by Jul
 
 ### Selection process
 
-We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will review anonymized submissions and collectively decide which ones to accept.
+We’ll choose a selection of talks and tutorials that we feel add up to the most enjoyable and engaging program for our attendees. Volunteers from the Django community are invited to help us pick talks, and we rely heavily on them to help us select ones that are interesting and beneficial to our attendees. Community volunteers and conference organizers will review anonymized submissions and collectively decide which ones to accept. We will notify you by July 9th, 2018 of whether your proposal was accepted.
 
 ### Talks (October 15th, 16th, &amp; 17th)
 

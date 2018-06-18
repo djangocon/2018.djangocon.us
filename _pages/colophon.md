@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Colophon
-heading: Coplophon
+heading: Colophon
 permalink: /colophon/
 description: Thank you to those who have inspired us
 ---

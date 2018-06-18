@@ -29,13 +29,13 @@ Who needs it:
 
 How to buy it:
 - Using our [tickets]({{site.ticket_link}}) page
-- Emailing [{{site.contact_email}}]({{site.contact_us_email}})
+- Emailing [{{ site.contact_us_email }}](mailto:{{ site.contact_us_email }})
 
 Every year, some larger organizations contact us because they want to buy several tickets, but they won't know who they are sending to the conference until closer to the conference dates. Because our ticketing service wants to know the names of the attendees at the time of purchase, this is difficult to do online.
 
 This year, we created a special ticket option for those companies: the **Corporate Concierge Service**. This ticket enables you to buy several tickets all at once without knowing who you will be sending to the conference. We'll help you assign those tickets to specific people, so we can prepare their badges, whenever you're ready.
 
-This ticket is also useful for organizations that need to pay by purchase order or with a check. Traditionally, we've added an administrative fee to that process because of the manual work involved in processing purchase orders and assigning those tickets. The Corporate Concierge Service allows those companies to pay by purchase order or with a check without incurring an additional administrative cost. [Contact us]({{site.contact_us_email}}) today to set up your purchase order!
+This ticket is also useful for organizations that need to pay by purchase order or with a check. Traditionally, we've added an administrative fee to that process because of the manual work involved in processing purchase orders and assigning those tickets. The Corporate Concierge Service allows those companies to pay by purchase order or with a check without incurring an additional administrative cost. [Contact us](mailto:{{ site.contact_us_email }}) today to set up your purchase order!
 
 ---
 

@@ -32,7 +32,7 @@ This website is based on free and open source software, and was designed by our 
 
 <div class="partner-footer section-pad">
   <h3 class="v-pad-bottom text-left">Our Sponsors</h3>
-{% assign sponsors_by_level = "Gold|Silver|Bronze|Diversity & Inclusion" | split: "|" %}
+{% assign sponsors_by_level = "Gold|Silver|Bronze|Diversity & Inclusion|Community" | split: "|" %}
 {% for level in sponsors_by_level %}
   <h4 class="lead min text-center swatch-color-teal">{{ level }}</h4>
   <div class="row partner-list">

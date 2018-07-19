@@ -40,8 +40,8 @@ If you're a Pythonista or Djangonaut with a module, function, or even a small co
 
 Some things we’ll cover:
 
-- Installing Cookiecutter and use it to generate Python package boilerplate.
-- Adding Python code into the package and add at least two useful tests.
+- Installing Cookiecutter and using it to generate Python package boilerplate.
+- Adding Python code into the package and adding at least two useful tests.
 - Creating an account on PyPI and uploading the Python package.
 - Using Tox to test the project against multiple versions of Python.
 - Implementing continuous integration: running tests via Travis CI and uploading documentation into Read the Docs.

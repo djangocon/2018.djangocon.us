@@ -1,5 +1,5 @@
 ---
-abstract: "Django comes with a robust templating system, but more and more web applications are focusing on it's API abilities.
+abstract: "Django comes with a robust templating system, but more and more web applications are focusing on its API abilities.
 
 In this tutorial, we'll take advantage of Django and django-rest-framework. You'll come away knowing how to get a rich API and a frontend prototype out of single Django views."
 accepted: true

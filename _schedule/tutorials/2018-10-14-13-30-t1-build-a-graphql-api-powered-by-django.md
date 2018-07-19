@@ -49,7 +49,7 @@ We'll start with a quick intro to get acquainted with GraphQL and some basic con
   - GraphQL: the spec
   - GraphQL vs REST
 - Graphene and Django
-  - Installing graphene
+  - Installing Graphene
   - Write your first resolver
   - Exploring your API with GraphiQL
 - Queries: exposing our data via GraphQL

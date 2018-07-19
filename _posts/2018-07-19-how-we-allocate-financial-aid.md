@@ -24,4 +24,4 @@ We score each application from 1 to 5 based on the following criteria:
 
 We look for concrete ideas and commitments in applications. We try to ensure that speakers are able to attend while also giving opportunities to non-speakers, attendees who are new to the Django community, and those whose lives and careers will most be affected by attending DjangoCon US. As you can imagine, the choice is not easy. Thank you to the team members who scored financial aid applications.
 
-*Our selection criteria and process are modified from one suggested in the [Django Girls Organizer’s Manual](https://organize.djangogirls.org/application_form/selection.html) and suggested by Daniele Procida.*
+*Our selection criteria and process are modified from one suggested in the [Django Girls Organizer’s Manual](https://organize.djangogirls.org/application_form/selection.html).*

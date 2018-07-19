@@ -27,7 +27,7 @@ track: ''
 video_url: ''
 ---
 
-As the web continues to evolve, the demand for data-driven backends matched with rich frontend experiences grows every day. Django comes with a robust templating system and rendering engine, but more and more web applications using Django are just focusing on it’s API abilities.
+As the web continues to evolve, the demand for data-driven backends matched with rich frontend experiences grows every day. Django comes with a robust templating system and rendering engine, but more and more web applications using Django are just focusing on its API abilities.
 
 What if we could have the best of both worlds? What if we could use Django and django-rest-framework to write views that let us prototype quickly using the Django templating system, and have those same views return API responses to rich clients?
 

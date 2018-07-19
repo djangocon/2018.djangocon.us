@@ -40,7 +40,7 @@ We all know we should be testing our applications, but testing is hard and great
 
 Take a deep dive into what types of things to test and how to approach testing them in your Django apps, plus learn how to leverage modern headless browser libraries and automated visual diff-ing to get (and keep) pixel-perfect apps.
 
-We'll cover types of testing as a whole, plus practical applications and deep dives for testing in Django and visual regression testing with Javascript (whether for templates rendered by Django or for a standalone Javascript client application).
+We'll cover types of testing as a whole, plus practical applications and deep dives for testing in Django and visual regression testing with JavaScript (whether for templates rendered by Django or for a standalone JavaScript client application).
 
 ## Tutorial Outline
 
@@ -64,7 +64,7 @@ We'll cover types of testing as a whole, plus practical applications and deep di
     * Visual Regression Testing Is Easier In 2018!
 * Walkthrough - Regression Testing in Django (1 hr, 1.75 hr total)
   * From a carefully crafted starter application, we'll walk through the important aspects of our application that must, could and should be tested. We'll also cover tips for scoping out areas that are more likely to have bugs introduced, ways to separate your code appropriately for the best testing approaches, and best practices for what and how to mock.
-* Walkthrough - Visual Regression Testing Powered By Javascript (45 mins, 2.5 hrs total)
+* Walkthrough - Visual Regression Testing Powered By JavaScript (45 mins, 2.5 hrs total)
   * From our same carefully crafter starter app, we'll add visual regression tests using my test runner, test assertion, web driver, and image diff libraries of choice. (Yes, you CAN use Python for this, but there are some awesome JS libraries that make our lives even easier).
 * Flex Time (remainder of time left)
   * Additional time for breaking things and putting them back together, questions, helping each other, etc.
@@ -73,4 +73,4 @@ We'll cover types of testing as a whole, plus practical applications and deep di
 
 ## Audience Expectations
 
-A foundational knowledge of Python and a web framework of choice is beneficial, as we'll dive right into testing an existing application. Starter code and code progressions will be provided, so you don't have to be a Django expert to grasp the content! Whether you love, hate, or have never used Javascript, you'll feel at home; our use of JS will be limited to leveraging libraries to gather data and screenshots for visual regression testing, whether for a JS client or a Django web app.
+A foundational knowledge of Python and a web framework of choice is beneficial, as we'll dive right into testing an existing application. Starter code and code progressions will be provided, so you don't have to be a Django expert to grasp the content! Whether you love, hate, or have never used JavaScript, you'll feel at home; our use of JS will be limited to leveraging libraries to gather data and screenshots for visual regression testing, whether for a JS client or a Django web app.

@@ -30,10 +30,11 @@ Please be sure to review the criteria for [B-1 Temporary Visa](https://www.uscis
 Make sure to review the criteria for any other type of visa necessary for your home country nationals. There is more information in the [USCIS site](https://travel.state.gov/content/visas/en.html).
 Take into consideration the conference is in San Diego, CA. If traveling by land there are some extra formalities when traveling more than 100 mi into the US.
 
-Here is a list of Immigration Law Firms located in San Diego. 
+Here is a list of Immigration Law Firms located in San Diego:
+
 [Brian Johnson](https://www.bkjvisalaw.com/contact)
 750 B. Street, Suite 3220, San Diego, CA 92101
-o 619.961.4169 | f 619.961.4101| bkj@bkjvisalaw.com
+phone 619.961.4169 | fax 619.961.4101| bkj@bkjvisalaw.com
 
 * The law firms listed above are not supported in any way, shape or form to DEFNA or DjangoCon US. This list's purpose is merely informational in case any attendee needs a qualified contact.
 

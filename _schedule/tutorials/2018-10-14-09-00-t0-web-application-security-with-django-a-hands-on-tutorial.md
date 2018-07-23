@@ -8,11 +8,7 @@ layout: session-details
 permalink: /tutorial/web-application-security-with-django-a-hands-on-tutorial/
 presenters:
 - bio: Jacinda has been programming for over half her life and loves how special the
-    Python and Django communities have always felt. In addition to programming, Jacinda
-    enjoys spending time with her family, reading and learning new things, traveling
-    the world and sharing stories with others.  She has a passion for making technical
-    topics approachable and understandable.  She currently serves as the CTO at Doctor
-    On Demand, a video-based telemedicine practice.
+    Python and Django communities have always felt. In addition to programming, Jacinda enjoys spending time with her family, reading and learning new things, traveling the world and sharing stories with others.  She has a passion for making technical topics approachable and understandable.  She currently serves as the CTO at Doctor On Demand, a video-based telemedicine practice.
   company: Doctor On Demand
   github: ''
   name: Jacinda Shelly

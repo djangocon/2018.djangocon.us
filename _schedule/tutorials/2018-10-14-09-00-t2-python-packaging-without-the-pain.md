@@ -2,12 +2,14 @@
 abstract: Many of us have snippets of Python code we copy from project to project. Wouldn't it be nice if we could `pip install` them from PyPI instead of copy-pasting everywhere? But packaging has always been a complicated, scary task. We will take you from copy/paste to `pip install` in one tutorial!
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2018-10-14 09:00
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/python-packaging-without-the-pain/
 presenters:
-- bio: "Diane Chen has 20+ years of experience programming Engineering CAD/CAM software, has built a few websites and worked in hardware testing.\r\nEnamored with the Python programming language, she teaches Python at [UC San Diego Extension](http://bit.ly/UCSDPython), workshops and private courses.
+- bio: "Diane Chen has 20+ years of experience programming Engineering CAD/CAM software, has built a few websites and worked in hardware testing.
+
+Enamored with the Python programming language, she teaches Python at [UC San Diego Extension](http://bit.ly/UCSDPython), workshops and private courses.
 
 She is also an online coach for Two Scoops Press course [Creating and Distributing Python Packages](https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages).
 

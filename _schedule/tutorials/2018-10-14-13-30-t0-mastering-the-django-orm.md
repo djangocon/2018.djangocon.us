@@ -2,17 +2,12 @@
 abstract: Django's ORM is probably its most-used but also least-understood component. This tutorial will try to fix that, by teaching you about best practices for using the ORM, advanced features you might not have known about, and technical details of how it all works under the hood.
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2018-10-14 13:30
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/mastering-the-django-orm/
 presenters:
-- bio: James is a philosopher turned web geek who fell in love with Django very early
-    on. He picked up a commit bit while working at the Lawrence Journal-World and
-    was Django's release manager for several years. Now he serves on Django's security
-    team and the board of directors of the Django Software Foundation, and occasionally
-    rants about interviewing and other issues in the culture of the tech community.
-    He thinks you should be using Python 3.
+- bio: James is a philosopher turned web geek who fell in love with Django very early on. He picked up a commit bit while working at the Lawrence Journal-World and was Django's release manager for several years. Now he serves on Django's security team and the board of directors of the Django Software Foundation, and occasionally rants about interviewing and other issues in the culture of the tech community. He thinks you should be using Python 3.
   company: ''
   github: ''
   name: James Bennett

@@ -5,18 +5,14 @@ abstract: GraphQL is changing the way we develop APIs, and leading tech companie
   and feature-rich API, no experience with GraphQL required!
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2018-10-14 13:30
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/build-a-graphql-api-powered-by-django/
 presenters:
-- bio: "Hi, I'm Ed! I'm a full-stack web developer building fast, elegant sites with\
-    \ Python / Django. On the frontend, I love bringing beautiful designs to life\
-    \ using accessible and performant HTML, (S)CSS, and JavaScript. I'm passionate\
-    \ about helping others learn and master technology to solve problems and achieve\
-    \ their goals.\r\n\r\nI like to participate in communities built around open source\
-    \ software, both as an organizer in local meetups, and online via mailing lists\
-    \ and GitHub. "
+- bio: "Hi, I'm Ed! I'm a full-stack web developer building fast, elegant sites with Python / Django. On the frontend, I love bringing beautiful designs to life using accessible and performant HTML, (S)CSS, and JavaScript. I'm passionate about helping others learn and master technology to solve problems and achieve their goals.
+
+I like to participate in communities built around open source software, both as an organizer in local meetups, and online via mailing lists and GitHub."
   company: ''
   github: ''
   name: Ed Rivas

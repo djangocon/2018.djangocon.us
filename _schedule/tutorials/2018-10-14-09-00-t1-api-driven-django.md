@@ -4,7 +4,7 @@ abstract: "Django comes with a robust templating system, but more and more web a
 In this tutorial, we'll take advantage of Django and django-rest-framework. You'll come away knowing how to get a rich API and a frontend prototype out of single Django views."
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2018-10-14 09:00
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/api-driven-django/

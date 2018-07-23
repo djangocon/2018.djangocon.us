@@ -2,7 +2,7 @@
 abstract: "Too often, web security is treated as a something 'the framework takes care of.'  Not today! In this tutorial, we will use live Django instances that have some security flaws. We'll find the flaws, see the consequences, and learn how to fix and prevent these in our own applications."
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2018-10-14 09:00
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/web-application-security-with-django-a-hands-on-tutorial/

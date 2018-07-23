@@ -5,7 +5,7 @@ abstract: We all know we should be testing our applications, but testing is hard
   visual diff-ing to get (and keep) pixel-perfect apps.
 accepted: true
 category: tutorial
-date: 2016-07-18 09:00
+date: 2018-10-14 13:30
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/what-to-expect-when-youre-expecting-a-hands-on-guide-to-regression-testing/

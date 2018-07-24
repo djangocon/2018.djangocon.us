@@ -3,7 +3,7 @@ author: Rebecca Kindschi
 category: General
 date: 2018-07-24 09:00:00
 layout: post
-image: /static/img/blog/tutorial-announcement.png
+image: /static/img/blog/tutorial_announcement.png
 title: "Announcing Our Tutorials!"
 ---
 

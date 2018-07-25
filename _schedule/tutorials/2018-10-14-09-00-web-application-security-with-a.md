@@ -1,7 +1,7 @@
 ---
-abstract: "Too often, web security is treated as a something \u201Cthe framework takes\
-  \ care of.\u201D  Not today! In this tutorial, we will use live Django instances\
-  \ that have some security flaws. We\u2019ll find the flaws, see the consequences,\
+abstract: "Too often, web security is treated as a something 'the framework takes\
+  \ care of.'  Not today! In this tutorial, we will use live Django instances\
+  \ that have some security flaws. We'll find the flaws, see the consequences,\
   \ and learn how to fix and prevent these in our own applications."
 accepted: true
 category: tutorial

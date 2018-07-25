@@ -10,7 +10,7 @@ difficulty: Beginner
 layout: session-details
 permalink: /talk/whats-in-a-name-your-guide-to-the-wacky-world-of-dns/
 presenters:
-- bio: "I\u2019m a former Quality Assurance Analyst who got tired of waiting for developers to fix my bugs so I decided to fix them myself. After running away to the Pacific Northwest to pair program with an awesome group of women for six months, I came back to my hometown, Kansas City, to start my first job as a web developer on a Django website platform. Nearly three years and over 200 website launches later, I occasionally feel like I\u2019m starting to get the hang of this whole programming thing. When I\u2019m not living the startup life, I help organize Django Girls KC, a coding workshop for women to learn how to build a blog using Django. My role as attendee coordinator allows me to spread the word about Django Girls throughout KC and ensure that attendees have a wonderful experience during the workshop. "
+- bio: "I'm a former Quality Assurance Analyst who got tired of waiting for developers to fix my bugs so I decided to fix them myself. After running away to the Pacific Northwest to pair program with an awesome group of women for six months, I came back to my hometown, Kansas City, to start my first job as a web developer on a Django website platform. Nearly three years and over 200 website launches later, I occasionally feel like I'm starting to get the hang of this whole programming thing. When I'm not living the startup life, I help organize Django Girls KC, a coding workshop for women to learn how to build a blog using Django. My role as attendee coordinator allows me to spread the word about Django Girls throughout KC and ensure that attendees have a wonderful experience during the workshop. "
   company: Django Girls KC Attendee Coordinator
   github: ''
   name: Ashley Sullins
@@ -22,7 +22,7 @@ room: ''
 sitemap: true
 slides_url: ''
 summary: ''
-title: "What\u2019s in a Name? Your Guide to the Wacky World of DNS"
+title: "What's in a Name? Your Guide to the Wacky World of DNS"
 track: ''
 video_url: ''
 ---

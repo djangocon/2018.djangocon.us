@@ -1,6 +1,6 @@
 ---
 abstract: "Many of us have snippets of Python code we copy from project to project.\
-  \ Wouldn\u2019t it be nice if we could `pip install` them from PyPI instead of copy-pasting\
+  \ Wouldn't it be nice if we could `pip install` them from PyPI instead of copy-pasting\
   \ everywhere? But packaging has always been a complicated, scary task. We will take\
   \ you from copy/paste to `pip install` in one tutorial!"
 accepted: true
@@ -12,8 +12,7 @@ permalink: /tutorial/python-packaging-without-the-pain/
 presenters:
 - bio: "Diane Chen has 20+ years of experience programming Engineering CAD/CAM software, has built a few websites and worked in hardware testing.
 Enamored with the Python programming language, she teaches Python at [UC San Diego Extension](http://bit.ly/UCSDPython), workshops and private courses.
-She is also an online coach for Two Scoops Press course [Creating and Distributing Python Packages](https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages).\r\
-    \nAdditionally, she contributes to open source software, is active in the local Python and PyLadies user groups and is an organizer and coach for DjangoGirls workshops in the San Diego area."
+She is also an online coach for Two Scoops Press course [Creating and Distributing Python Packages](https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages).\r \nAdditionally, she contributes to open source software, is active in the local Python and PyLadies user groups and is an organizer and coach for DjangoGirls workshops in the San Diego area."
   company: ''
   github: ''
   name: Diane DeMers Chen

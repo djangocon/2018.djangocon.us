@@ -1,8 +1,8 @@
 ---
-abstract: "Interested in a totally different job but don\u2019t have the \u201Clegitimate\u201D\
+abstract: "Interested in a totally different job but don't have the 'legitimate'\
   \ experience to back it up? Join us for practical tips on how to identify, communicate,\
   \ and sell your transferable skills (from any job) at your next interview with confidence!\
-  \ We\u2019ll get specific on resume, interview, and prep tips."
+  \ We'll get specific on resume, interview, and prep tips."
 accepted: true
 category: talk
 date: 2018-10-15 09:00:00 -0500
@@ -18,8 +18,7 @@ Caroline Taylor, former Developer Manager / current Senior Product Owner
 
 Caroline supervised up-and-coming developers for 3 years at the University of Texas at Austin, and has hired developers with a range of experience from trainees with no coding background to devs with 2 years experience. She loves mentoring, particularly nontraditional tech professionals who are building their careers! 
 
-Pivoting from a career in environmental education to software development stretched Caroline\u2019\
-    s ability to advocate for her own nontraditional background. Since then, she has held an array of roles including Software Developer, Training Coordinator, Dev Manager, and most recently Product Owner. Caroline is an avid volunteer in the workplace and as a Texas Master Naturalist. She is excited to build the confidence of her peers, as they explore new career options that excite them."
+Pivoting from a career in environmental education to software development stretched Caroline' s ability to advocate for her own nontraditional background. Since then, she has held an array of roles including Software Developer, Training Coordinator, Dev Manager, and most recently Product Owner. Caroline is an avid volunteer in the workplace and as a Texas Master Naturalist. She is excited to build the confidence of her peers, as they explore new career options that excite them."
   company: ''
   github: ''
   name: Caroline Taylor

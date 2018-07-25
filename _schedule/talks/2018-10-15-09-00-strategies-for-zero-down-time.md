@@ -12,7 +12,8 @@ presenters:
 - bio: "Nick Humrich has been using Python professionally for over 3 years. He is\
     \ currently a DevOps engineer for Canopy, a software startup changing the US Tax\
     \ industry. Before Canopy, Nick was at Amazon Web Services working on the Elastic\
-    \ Beanstalk product.\r\nNick has a Bachelors Degree in Computer Science from Brigham\
+    \ Beanstalk product.
+Nick has a Bachelors Degree in Computer Science from Brigham\
     \ Young University."
   company: Canopy
   github: ''

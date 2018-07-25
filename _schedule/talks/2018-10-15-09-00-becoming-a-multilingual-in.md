@@ -13,11 +13,18 @@ difficulty: All
 layout: session-details
 permalink: /talk/becoming-a-multilingual-superhero-in-django/
 presenters:
-- bio: "- CPython contributor and bug triage access on bugs.python.org\r\n- GSoC 2018\
-    \ Mentor of Debian.\r\n- Mozilla Reps Mentor and contributor to Mozilla's GeckoEngine,\
-    \ addons, remo projects.\r\n- One of the very few people to be featured in Mozilla\
-    \ credits (http://mozilla.org/credits)\r\n- RGSoC Mentor in 2016.\r\n- Core-Organizer\
-    \ for PyCon India 2016 & PyCon India 2017.\r\n\r\nBlog: http://www.SanyamKhurana.com/blog\
+- bio: "- CPython contributor and bug triage access on bugs.python.org
+- GSoC 2018\
+    \ Mentor of Debian.
+- Mozilla Reps Mentor and contributor to Mozilla's GeckoEngine,\
+    \ addons, remo projects.
+- One of the very few people to be featured in Mozilla\
+    \ credits (http://mozilla.org/credits)
+- RGSoC Mentor in 2016.
+- Core-Organizer\
+    \ for PyCon India 2016 & PyCon India 2017.
+
+Blog: http://www.SanyamKhurana.com/blog\
     \ and medium.com/@CuriousLearner"
   company: ''
   github: ''

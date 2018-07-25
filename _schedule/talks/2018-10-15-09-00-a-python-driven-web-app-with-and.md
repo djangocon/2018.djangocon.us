@@ -15,7 +15,8 @@ presenters:
     \ understand their data and optimize their processes. Previously, Kendall was\
     \ a co-organizer at the San Diego Python Users Group, and has given several Python-related\
     \ workshops and tutorials. Henry has worked on Django projects for consulting\
-    \ firms and develops games in JavaScript on the side.\r\n"
+    \ firms and develops games in JavaScript on the side.
+"
   company: Ayasdi
   github: ''
   name: Kendall Chuang

@@ -11,9 +11,11 @@ layout: session-details
 permalink: /tutorial/python-packaging-without-the-pain/
 presenters:
 - bio: "Diane Chen has 20+ years of experience programming Engineering CAD/CAM software,\
-    \ has built a few websites and worked in hardware testing.\r\nEnamored with the\
+    \ has built a few websites and worked in hardware testing.
+Enamored with the\
     \ Python programming language, she teaches Python at [UC San Diego Extension](http://bit.ly/UCSDPython),\
-    \ workshops and private courses.\r\nShe is also an online coach for Two Scoops\
+    \ workshops and private courses.
+She is also an online coach for Two Scoops\
     \ Press course [Creating and Distributing Python Packages](https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages).\r\
     \nAdditionally, she contributes to open source software, is active in the local\
     \ Python and PyLadies user groups and is an organizer and coach for DjangoGirls\

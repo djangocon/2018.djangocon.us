@@ -10,7 +10,9 @@ difficulty: Beginner
 layout: session-details
 permalink: /talk/transfer-those-skills-how-to-identify-communicate-and-sell-your-transferable-skills-when-switching-careers/
 presenters:
-- bio: "Rebekah Post, Software Developer/Analyst\r\n\r\nRebekah has been working full\
+- bio: "Rebekah Post, Software Developer/Analyst
+
+Rebekah has been working full\
     \ time as a developer at the University of Texas at Austin for three years and\
     \ continues to find new ways in which her seemingly unrelated job experience and\
     \ training has been valuable in this field. Having worked in a variety of jobs,\
@@ -18,12 +20,18 @@ presenters:
     \ documentation, project management, public speaking, problem solving, and even\
     \ email-writing skills to her experience before moving to tech. She is very happy\
     \ to have made the career change and looks forward to helping others find career\
-    \ options that fit the lifestyle they are looking for.\r\n\r\nCaroline Taylor,\
-    \ former Developer Manager / current Senior Product Owner\r\n\r\nCaroline supervised\
+    \ options that fit the lifestyle they are looking for.
+
+Caroline Taylor,\
+    \ former Developer Manager / current Senior Product Owner
+
+Caroline supervised\
     \ up-and-coming developers for 3 years at the University of Texas at Austin, and\
     \ has hired developers with a range of experience from trainees with no coding\
     \ background to devs with 2 years experience. She loves mentoring, particularly\
-    \ nontraditional tech professionals who are building their careers! \r\n\r\nPivoting\
+    \ nontraditional tech professionals who are building their careers! 
+
+Pivoting\
     \ from a career in environmental education to software development stretched Caroline\u2019\
     s ability to advocate for her own nontraditional background. Since then, she has\
     \ held an array of roles including Software Developer, Training Coordinator, Dev\

@@ -17,7 +17,8 @@ presenters:
     \ sexy, I founded DjangoZoom to make it easy to get your Django apps running in\
     \ the cloud. Now I\u2019m leading the 20 person distributed team at Appsembler,\
     \ whose mission is to empower trainers and educators to create delightful online\
-    \ learning experiences.\r\n"
+    \ learning experiences.
+"
   company: Appsembler
   github: ''
   name: Nate Aune

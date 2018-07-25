@@ -13,9 +13,12 @@ presenters:
 - bio: "I work at the Alzheimer\u2019s Therapeutic Research Institute, University\
     \ of Southern California, as a programmer analyst, MS in Computer Science. I love\
     \ exploring cut-edge techniques and trying to integrate them with my current project.\r\
-    \n\r\nI have attended a lot of meetups related to Django in San Diego ([I saw\
+    \n
+I have attended a lot of meetups related to Django in San Diego ([I saw\
     \ one of the organizers giving the talk in last year DjangoCon](https://2017.djangocon.us/talks/stumbling-through-django-and-how-not-to/))\
-    \ which inspired me a lot and enhanced my technical skills.\r\n\r\nApart from\
+    \ which inspired me a lot and enhanced my technical skills.
+
+Apart from\
     \ being a programmer, I'm also learning aikido (Japanese martial arts) and Japanese\
     \ in my spare time."
   company: "Alzheimer\u2019s Therapeutic Research Institute, University of Southern\

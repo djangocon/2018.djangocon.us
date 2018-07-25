@@ -14,7 +14,9 @@ presenters:
     \ Python / Django. On the frontend, I love bringing beautiful designs to life\
     \ using accessible and performant HTML, (S)CSS, and JavaScript. I'm passionate\
     \ about helping others learn and master technology to solve problems and achieve\
-    \ their goals.\r\n\r\nI like to participate in communities built around open source\
+    \ their goals.
+
+I like to participate in communities built around open source\
     \ software, both as an organizer in local meetups, and online via mailing lists\
     \ and GitHub. "
   company: ''

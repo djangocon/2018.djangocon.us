@@ -15,7 +15,9 @@ presenters:
     \ building the companies core product. He is fiercely Fresno-proud and is actively\
     \ involved in building Fresno's technology scene; he is the founder and lead organizer\
     \ of Fresno Python, co-founder of Root Access Hackerspace, and a director at 59DaysOfCode,\
-    \ a non-profit aimed at growing tech in the San Joaquin Valley.\r\n\r\nHe's been\
+    \ a non-profit aimed at growing tech in the San Joaquin Valley.
+
+He's been\
     \ writing Python since 2006, has been using Django to build web stuff since version\
     \ 0.95, and has been a core contributor to Qtile."
   company: Root Access Hackerspace

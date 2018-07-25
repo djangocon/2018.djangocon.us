@@ -15,9 +15,12 @@ presenters:
     \ have contributed to the development of several applications that have been used\
     \ for Capture the Flag Contests inside and outside the organization. In addition,\
     \ I have extensive experience with integrating scanners, SAST and DAST toolsets\
-    \ into our Application Vulnerability Correlation and Aggregation product. \r\n\
-    \r\nI have over 7 years of development experience and continue to work as a full-stack\
-    \ developer.\r\n"
+    \ into our Application Vulnerability Correlation and Aggregation product. 
+\
+    
+I have over 7 years of development experience and continue to work as a full-stack\
+    \ developer.
+"
   company: we45
   github: ''
   name: Tilak T

@@ -2,7 +2,7 @@
 abstract: "You've finally built out a project that you'd like to share with the world.\
   \ That's amazing! Where do you host the thing? Enter Zappa. This framework on top\
   \ of AWS Lambda will allow you to bring your application to the masses with a light\
-  \ configuration and'if you're lucky'a light bottom line."
+  \ configuration and, if you're lucky, a light bottom line."
 accepted: true
 category: talk
 date: 2018-10-15 09:00:00 -0500

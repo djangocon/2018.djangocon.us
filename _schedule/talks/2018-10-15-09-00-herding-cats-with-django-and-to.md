@@ -1,7 +1,5 @@
 ---
-abstract: Django provides an easy way to create forms and manage users, but how do
-  you design your user experience to motivate users to actually provide information?
-  Creating a workflow to incentivize participation can be a bit like herding cats!
+abstract: Django provides an easy way to create forms and manage users, but how do you design your user experience to motivate users to actually provide information? Creating a workflow to incentivize participation can be a bit like herding cats!
 accepted: true
 category: talk
 date: 2018-10-15 09:00:00 -0500
@@ -11,13 +9,14 @@ permalink: /talk/herding-cats-with-django-technical-and-social-tools-to-incentiv
 presenters:
 - bio: "Sage Sharp is the founder of [Otter Tech](http://otter.technology), a diversity and inclusion consulting company focused on Code of Conduct incident response workshops.
 
-Sage is an open source developer, and has been running Debian-based Linux systems since 2003. They were a Linux kernel developer from 2006 to 2013. Sage is the original author of the Linux USB 3.0 xHCI host controller driver.\r \n
+Sage is an open source developer, and has been running Debian-based Linux systems since 2003. They were a Linux kernel developer from 2006 to 2013. Sage is the original author of the Linux USB 3.0 xHCI host controller driver.
+
 Since 2014, Sage has been a co-coordinator for [Outreachy](https://outreachy.org), a paid internship program for increasing diversity in open source communities. The internships are open to women (cis and trans), trans men, and genderqueer people, and United States residents of any gender who are Black/African American, Hispanic/Latin@, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.
 
 Speaking experience:
 
- * 2007: OSCON \"usbfs2: A new USB userspace to kernel interface\"
- * 2008: Ignite Portland [\"Open Source Rockets\"](https://www.youtube.com/watch?v=nYLIYab6-OY)
+* 2007: OSCON \"usbfs2: A new USB userspace to kernel interface\"
+* 2008: Ignite Portland [\"Open Source Rockets\"](https://www.youtube.com/watch?v=nYLIYab6-OY)
 * 2009: Open Source Bridge \"Advanced Git Tutorial\"
 * 2010: Linux Conf Australia \"Superspeed Me: USB 3.0 for Linux\"
 * 2010: Rencontres Mondiales du Logiciel Libre \" Intro to USB 3.0\"

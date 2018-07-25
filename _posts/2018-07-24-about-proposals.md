@@ -1,7 +1,7 @@
 ---
 author: Lacey Williams Henschel
 category: General
-date: 2018-07-24 06:00:00
+date: 2018-07-25 06:00:00
 layout: post
 image: /static/img/blog/about_proposals.png
 title: "About Our Proposals"

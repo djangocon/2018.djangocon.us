@@ -10,12 +10,7 @@ difficulty: All
 layout: session-details
 permalink: /talk/one-engineer-an-api-and-an-mvp-or-how-i-spent-one-hour-improving-hiring-data-at-my-company/
 presenters:
-- bio: "Nicole attended Hackbright Academy in 2012, and has been in love with python\
-    \ ever since. She can currently be found at Clover Health, tackling with glee\
-    \ data pipelines and APIs and human systems. In her free time, Nicole is an avid\
-    \ dancer and teacher, sci-fi book fanatic, soul and jazz aficionado, and cheese\
-    \ lover. She has an MA in English Literature and Women\u2019s Studies from the\
-    \ University of Liverpool."
+- bio: "Nicole attended Hackbright Academy in 2012, and has been in love with python ever since. She can currently be found at Clover Health, tackling with glee data pipelines and APIs and human systems. In her free time, Nicole is an avid dancer and teacher, sci-fi book fanatic, soul and jazz aficionado, and cheese lover. She has an MA in English Literature and Women\u2019s Studies from the University of Liverpool."
   company: Clover Health
   github: ''
   name: Nicole Zuckerman

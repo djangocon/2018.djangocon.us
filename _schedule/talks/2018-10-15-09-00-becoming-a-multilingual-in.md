@@ -14,18 +14,13 @@ layout: session-details
 permalink: /talk/becoming-a-multilingual-superhero-in-django/
 presenters:
 - bio: "- CPython contributor and bug triage access on bugs.python.org
-- GSoC 2018\
-    \ Mentor of Debian.
-- Mozilla Reps Mentor and contributor to Mozilla's GeckoEngine,\
-    \ addons, remo projects.
-- One of the very few people to be featured in Mozilla\
-    \ credits (http://mozilla.org/credits)
+- GSoC 2018 Mentor of Debian.
+- Mozilla Reps Mentor and contributor to Mozilla's GeckoEngine, addons, remo projects.
+- One of the very few people to be featured in Mozilla credits (http://mozilla.org/credits)
 - RGSoC Mentor in 2016.
-- Core-Organizer\
-    \ for PyCon India 2016 & PyCon India 2017.
+- Core-Organizer for PyCon India 2016 & PyCon India 2017.
 
-Blog: http://www.SanyamKhurana.com/blog\
-    \ and medium.com/@CuriousLearner"
+Blog: http://www.SanyamKhurana.com/blog and medium.com/@CuriousLearner"
   company: ''
   github: ''
   name: Sanyam Khurana

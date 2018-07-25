@@ -10,15 +10,8 @@ difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/what-to-expect-when-youre-expecting-a-hands-on-guide-to-regression-testing/
 presenters:
-- bio: "Emily Morehouse-Valcarcel is the Cofounder and Director of Engineering of\
-    \ Cuttlesoft, a digital product development agency focused on creating beautifully\
-    \ designed and highly scalable custom software. Her passion is driven by the unique\
-    \ blend of empathy, strategy, curiosity, and human-centered design. When she isn\u2019\
-    t leading Cuttlesoft, Emily is an avid Open Source Software contributor and constant\
-    \ learner with side projects focused on automating the mundane, improving daily\
-    \ life, and shedding light on the complexity of the human experience. A graduate\
-    \ of the Florida State University, Emily holds bachelor's degrees in Computer\
-    \ Science, Criminology, and Theatre."
+- bio: "Emily Morehouse-Valcarcel is the Cofounder and Director of Engineering of Cuttlesoft, a digital product development agency focused on creating beautifully designed and highly scalable custom software. Her passion is driven by the unique blend of empathy, strategy, curiosity, and human-centered design. When she isn\u2019\
+    t leading Cuttlesoft, Emily is an avid Open Source Software contributor and constant learner with side projects focused on automating the mundane, improving daily life, and shedding light on the complexity of the human experience. A graduate of the Florida State University, Emily holds bachelor's degrees in Computer Science, Criminology, and Theatre."
   company: Cuttlesoft
   github: ''
   name: Emily Morehouse-Valcarcel

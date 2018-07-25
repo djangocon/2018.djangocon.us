@@ -8,15 +8,8 @@ difficulty: All
 layout: session-details
 permalink: /talk/how-to-give-a-damn-and-stand-out/
 presenters:
-- bio: "Female Entrepreneur who never liked coloring inside of the lines as a kid,\
-    \ and still doesn't. At 23, she saw an opportunity to create something new and\
-    \ innovative, quit her job and started CandiDate. A company that finds tech folks\
-    \ jobs and/or dates. She built the company based on Maslow's Hierarchy of Needs,\
-    \ so her candidates can ultimately achieve everything they want in life, professionally\
-    \ and personally. 
-Known in the Philadelphia Tech Community as \"The Dev Whisperer\"\
-    \ she helps grow small to mid size tech eco-systems to be a place where people\
-    \ want to work, play, settle down and grow roots. "
+- bio: "Female Entrepreneur who never liked coloring inside of the lines as a kid, and still doesn't. At 23, she saw an opportunity to create something new and innovative, quit her job and started CandiDate. A company that finds tech folks jobs and/or dates. She built the company based on Maslow's Hierarchy of Needs, so her candidates can ultimately achieve everything they want in life, professionally and personally. 
+Known in the Philadelphia Tech Community as \"The Dev Whisperer\" she helps grow small to mid size tech eco-systems to be a place where people want to work, play, settle down and grow roots. "
   company: 'CandiDate '
   github: ''
   name: Amber Wanner

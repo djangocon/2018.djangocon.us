@@ -10,12 +10,8 @@ difficulty: Beginner
 layout: session-details
 permalink: /talk/pseu-pseu-pseudio-pseudonymization-in-django/
 presenters:
-- bio: "A born entrepreneur with over a decade of practical IT experience, Frank has\
-    \ helped lead Cuttlesoft, a Custom Software and Product Development agency, to\
-    \ two states and 10x growth in just 3 years. That doesn\u2019t mean that he doesn\u2019\
-    t get his hands dirty. As a fullstack developer and systems expert, this CEO likes\
-    \ to roll up his sleeves and get to work. His motto; \u201CIterate towards perfection\u201D\
-    \ is emblazoned on the company\u2019s masthead and in their team\u2019s minds."
+- bio: "A born entrepreneur with over a decade of practical IT experience, Frank has helped lead Cuttlesoft, a Custom Software and Product Development agency, to two states and 10x growth in just 3 years. That doesn\u2019t mean that he doesn\u2019\
+    t get his hands dirty. As a fullstack developer and systems expert, this CEO likes to roll up his sleeves and get to work. His motto; \u201CIterate towards perfection\u201D is emblazoned on the company\u2019s masthead and in their team\u2019s minds."
   company: Cuttlesoft
   github: ''
   name: Frank Valcarcel

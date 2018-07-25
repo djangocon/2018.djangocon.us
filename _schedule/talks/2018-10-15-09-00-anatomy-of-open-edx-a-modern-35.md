@@ -10,14 +10,7 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/anatomy-of-open-edx-a-modern-online-learning-platform-serving-over-35-million-users/
 presenters:
-- bio: "My first exposure to Python was in 2003 when I began using the Plone CMS,\
-    \ which is based on Zope. This ignited a lifelong love affair with Python. In\
-    \ 2004, I founded Jazkarta, a Boston-based web consultancy to build websites for\
-    \ organizations like Harvard, Oxfam and Smithsonian. Back when PaaS\u2019es were\
-    \ sexy, I founded DjangoZoom to make it easy to get your Django apps running in\
-    \ the cloud. Now I\u2019m leading the 20 person distributed team at Appsembler,\
-    \ whose mission is to empower trainers and educators to create delightful online\
-    \ learning experiences.
+- bio: "My first exposure to Python was in 2003 when I began using the Plone CMS, which is based on Zope. This ignited a lifelong love affair with Python. In 2004, I founded Jazkarta, a Boston-based web consultancy to build websites for organizations like Harvard, Oxfam and Smithsonian. Back when PaaS\u2019es were sexy, I founded DjangoZoom to make it easy to get your Django apps running in the cloud. Now I\u2019m leading the 20 person distributed team at Appsembler, whose mission is to empower trainers and educators to create delightful online learning experiences.
 "
   company: Appsembler
   github: ''

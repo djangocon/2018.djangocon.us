@@ -10,11 +10,7 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/javascript-for-python-developers/
 presenters:
-- bio: "I am a full stack web developer based in Slovenia. I\u2019ve done extensive\
-    \ work with Django and Python and in the recent years I've been doing more and\
-    \ more frontend work. When I\u2019m not coding, I\u2019m immersed in music, having\
-    \ a good beer or playing board games. Ask me about Louis Armstrong and I won't\
-    \ shut up for days."
+- bio: "I am a full stack web developer based in Slovenia. I\u2019ve done extensive work with Django and Python and in the recent years I've been doing more and more frontend work. When I\u2019m not coding, I\u2019m immersed in music, having a good beer or playing board games. Ask me about Louis Armstrong and I won't shut up for days."
   company: ''
   github: ''
   name: "\u017Dan Anderle"

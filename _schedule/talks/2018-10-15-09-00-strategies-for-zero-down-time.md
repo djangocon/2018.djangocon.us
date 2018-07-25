@@ -9,11 +9,8 @@ difficulty: All
 layout: session-details
 permalink: /talk/strategies-for-zero-down-time-frequent-deployments/
 presenters:
-- bio: "Nick Humrich has been using Python professionally for over 3 years. He is\
-    \ currently a DevOps engineer for Canopy, a software startup changing the US Tax\
-    \ industry. Before Canopy, Nick was at Amazon Web Services working on the Elastic\
-    \ Beanstalk product.\r\nNick has a Bachelors Degree in Computer Science from Brigham\
-    \ Young University."
+- bio: "Nick Humrich has been using Python professionally for over 3 years. He is currently a DevOps engineer for Canopy, a software startup changing the US Tax industry. Before Canopy, Nick was at Amazon Web Services working on the Elastic Beanstalk product.
+Nick has a Bachelors Degree in Computer Science from Brigham Young University."
   company: Canopy
   github: ''
   name: Nick Humrich

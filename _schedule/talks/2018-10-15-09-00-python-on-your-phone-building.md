@@ -10,14 +10,9 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/python-on-your-phone-building-mobile-apps-with-kivy/
 presenters:
-- bio: "Derek is the Director of Development at OrdrSlip, where he leads a team of\
-    \ developers -- the majority of whom are junior and under his mentorship -- in\
-    \ building the companies core product. He is fiercely Fresno-proud and is actively\
-    \ involved in building Fresno's technology scene; he is the founder and lead organizer\
-    \ of Fresno Python, co-founder of Root Access Hackerspace, and a director at 59DaysOfCode,\
-    \ a non-profit aimed at growing tech in the San Joaquin Valley.\r\n\r\nHe's been\
-    \ writing Python since 2006, has been using Django to build web stuff since version\
-    \ 0.95, and has been a core contributor to Qtile."
+- bio: "Derek is the Director of Development at OrdrSlip, where he leads a team of developers -- the majority of whom are junior and under his mentorship -- in building the company's core product. He is fiercely Fresno-proud and is actively involved in building Fresno's technology scene; he is the founder and lead organizer of Fresno Python, co-founder of Root Access Hackerspace, and a director at 59DaysOfCode, a non-profit aimed at growing tech in the San Joaquin Valley.
+
+He's been writing Python since 2006, has been using Django to build web stuff since version 0.95, and has been a core contributor to Qtile."
   company: Root Access Hackerspace
   github: ''
   name: Derek Payton
@@ -34,7 +29,7 @@ track: ''
 video_url: ''
 ---
 
-Many Django developers are familiar with building API's, but what about when you need to build a mobile client consume them? Wouldn't it be great if you could build a mobile application using the same language as your backend?
+Many Django developers are familiar with building APIs, but what about when you need to build a mobile client consume them? Wouldn't it be great if you could build a mobile application using the same language as your backend?
 
 Well, you can!
 

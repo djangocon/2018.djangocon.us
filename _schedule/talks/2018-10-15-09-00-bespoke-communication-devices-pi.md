@@ -9,13 +9,7 @@ difficulty: All
 layout: session-details
 permalink: /talk/bespoke-communication-devices-for-kids-with-autism-built-with-django-and-raspberry-pi/
 presenters:
-- bio: "Green first programmed in DOS at the age of 5 at a friend\u2019s house on\
-    \ the east coast. Growing up in rural Kansas, Green did not have more opportunities\
-    \ to explore programming until college. After three years of Management Information\
-    \ Systems coursework, Green made the interesting decision to switch to a Film\
-    \ major. Many years later, when Green\u2019s middle son got diagnosed with autism\
-    \ and prescribed a $6000 communication device, Green started programming again;\
-    \ this time with a mission to build affordable assistive tech."
+- bio: "Green first programmed in DOS at the age of 5 at a friend's house on the east coast. Growing up in rural Kansas, Green did not have more opportunities to explore programming until college. After three years of Management Information Systems coursework, Green made the interesting decision to switch to a Film major. Many years later, when Green's middle son got diagnosed with autism and prescribed a $6000 communication device, Green started programming again; this time with a mission to build affordable assistive tech."
   company: ''
   github: ''
   name: Muriel Green

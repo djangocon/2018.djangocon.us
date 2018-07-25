@@ -1,5 +1,5 @@
 ---
-abstract: "So you\u2019ve made it through the Django REST Framework tutorial. How\
+abstract: "So you've made it through the Django REST Framework tutorial. How\
   \ do you move from simple model serializers to making something front-end developers\
   \ can actually use? I'll show how to leverage DRF to deliver different serializers\
   \ and querysets to different users and actions to make happier users."

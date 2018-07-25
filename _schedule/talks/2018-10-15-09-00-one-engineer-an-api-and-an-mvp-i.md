@@ -2,7 +2,7 @@
 abstract: "This one quick trick will help you measure the diversity of your hiring\
   \ pipeline!\nIt's hard to improve diversity in a hiring pipeline without measuring\
   \ what exists in the first place. Using django, you can make this information visible.\
-  \ I\u2019ll cover how I made a big impact with very little work."
+  \ I'll cover how I made a big impact with very little work."
 accepted: true
 category: talk
 date: 2018-10-15 09:00:00 -0500
@@ -10,12 +10,7 @@ difficulty: All
 layout: session-details
 permalink: /talk/one-engineer-an-api-and-an-mvp-or-how-i-spent-one-hour-improving-hiring-data-at-my-company/
 presenters:
-- bio: "Nicole attended Hackbright Academy in 2012, and has been in love with python\
-    \ ever since. She can currently be found at Clover Health, tackling with glee\
-    \ data pipelines and APIs and human systems. In her free time, Nicole is an avid\
-    \ dancer and teacher, sci-fi book fanatic, soul and jazz aficionado, and cheese\
-    \ lover. She has an MA in English Literature and Women\u2019s Studies from the\
-    \ University of Liverpool."
+- bio: "Nicole attended Hackbright Academy in 2012, and has been in love with python ever since. She can currently be found at Clover Health, tackling with glee data pipelines and APIs and human systems. In her free time, Nicole is an avid dancer and teacher, sci-fi book fanatic, soul and jazz aficionado, and cheese lover. She has an MA in English Literature and Women's Studies from the University of Liverpool."
   company: Clover Health
   github: ''
   name: Nicole Zuckerman

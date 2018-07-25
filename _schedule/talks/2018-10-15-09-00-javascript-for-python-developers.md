@@ -1,7 +1,7 @@
 ---
 abstract: "Having a hard time keeping track of where the modern JavaScript is going?\
-  \ Are you familiar only with jQuery and you want to know more? Or maybe you\u2019\
-  re not familiar with JavaScript at all and want to learn it but you don\u2019t know\
+  \ Are you familiar only with jQuery and you want to know more? Or maybe you'\
+  re not familiar with JavaScript at all and want to learn it but you don't know\
   \ where to start? Then this talk is for you!"
 accepted: true
 category: talk
@@ -10,11 +10,7 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/javascript-for-python-developers/
 presenters:
-- bio: "I am a full stack web developer based in Slovenia. I\u2019ve done extensive\
-    \ work with Django and Python and in the recent years I've been doing more and\
-    \ more frontend work. When I\u2019m not coding, I\u2019m immersed in music, having\
-    \ a good beer or playing board games. Ask me about Louis Armstrong and I won't\
-    \ shut up for days."
+- bio: "I am a full stack web developer based in Slovenia. I've done extensive work with Django and Python and in the recent years I've been doing more and more frontend work. When I'm not coding, I'm immersed in music, having a good beer or playing board games. Ask me about Louis Armstrong and I won't shut up for days."
   company: ''
   github: ''
   name: "\u017Dan Anderle"

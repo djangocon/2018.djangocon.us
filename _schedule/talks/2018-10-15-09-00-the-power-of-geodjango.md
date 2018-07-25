@@ -10,14 +10,7 @@ difficulty: All
 layout: session-details
 permalink: /talk/the-power-of-geodjango/
 presenters:
-- bio: "Anna Kiefer is a software engineer at Kevala, Inc, an energy data and analytics\
-    \ startup in San Francisco. Anna has a penchant for developing tools and methodologies\
-    \ for social good projects, including those with energy, climate, and health impacts.\
-    \ At Kevala, she works across the stack helping develop the company\u2019s Django\
-    \ web applications, usually involving mapping and geospatial data. Prior to Kevala,\
-    \ she worked within World Wildlife Fund\u2019s Climate and Renewable Energy team\
-    \ growing its corporate carbon reduction and renewable energy programs. She is\
-    \ an avid long distance runner and crossword puzzle and calculus enthusiast. "
+- bio: "Anna Kiefer is a software engineer at Kevala, Inc, an energy data and analytics startup in San Francisco. Anna has a penchant for developing tools and methodologies for social good projects, including those with energy, climate, and health impacts. At Kevala, she works across the stack helping develop the company's Django web applications, usually involving mapping and geospatial data. Prior to Kevala, she worked within World Wildlife Fund's Climate and Renewable Energy team growing its corporate carbon reduction and renewable energy programs. She is an avid long distance runner and crossword puzzle and calculus enthusiast. "
   company: Kevala, Inc
   github: ''
   name: Anna Kiefer

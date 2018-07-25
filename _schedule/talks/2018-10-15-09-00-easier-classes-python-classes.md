@@ -9,11 +9,9 @@ difficulty: All
 layout: session-details
 permalink: /talk/easier-classes-python-classes-without-all-the-cruft/
 presenters:
-- bio: "Trey Hunner helps Python and Django teams on-board new developers through\
-    \ on-site team training and sends Python exercises to learners every week through\
-    \ Python Morsels.\r\n\r\nTrey is a director at the Python Software Foundation,\
-    \ a member of the Django Software Foundation, and is heavily involved with his\
-    \ local Python meetup group in San Diego."
+- bio: "Trey Hunner helps Python and Django teams on-board new developers through on-site team training and sends Python exercises to learners every week through Python Morsels.
+
+Trey is a director at the Python Software Foundation, a member of the Django Software Foundation, and is heavily involved with his local Python meetup group in San Diego."
   company: Truthful Technology, LLC
   github: ''
   name: Trey Hunner

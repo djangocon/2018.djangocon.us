@@ -10,10 +10,8 @@ difficulty: All
 layout: session-details
 permalink: /talk/normalize-until-it-hurts-denormalize-until-it-works-in-django/
 presenters:
-- bio: "I'm a software engineer from Brazil and partner at Vinta Software (www.vinta.com.br).\
-    \ At Vinta, we love beautiful high-quality products, from UX to code, and we will\
-    \ defend them against unreasonable deadlines and features. We use mostly React\
-    \ and Django.\r\n"
+- bio: "I'm a software engineer from Brazil and partner at Vinta Software (www.vinta.com.br). At Vinta, we love beautiful high-quality products, from UX to code, and we will defend them against unreasonable deadlines and features. We use mostly React and Django.
+"
   company: Vinta Software
   github: ''
   name: "Fl\xE1vio Juvenal"

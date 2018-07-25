@@ -1,6 +1,6 @@
 ---
 abstract: "GDPR went into effect on 5/25/18 and the management of personally identifiable\
-  \ information (PII) has changed dramatically. In this talk, we\u2019ll dive into\
+  \ information (PII) has changed dramatically. In this talk, we'll dive into\
   \ the practice of pseudonymization, a data management and de-identification procedure\
   \ that Django developers can leverage for GDPR compliance."
 accepted: true
@@ -10,12 +10,7 @@ difficulty: Beginner
 layout: session-details
 permalink: /talk/pseu-pseu-pseudio-pseudonymization-in-django/
 presenters:
-- bio: "A born entrepreneur with over a decade of practical IT experience, Frank has\
-    \ helped lead Cuttlesoft, a Custom Software and Product Development agency, to\
-    \ two states and 10x growth in just 3 years. That doesn\u2019t mean that he doesn\u2019\
-    t get his hands dirty. As a fullstack developer and systems expert, this CEO likes\
-    \ to roll up his sleeves and get to work. His motto; \u201CIterate towards perfection\u201D\
-    \ is emblazoned on the company\u2019s masthead and in their team\u2019s minds."
+- bio: "A born entrepreneur with over a decade of practical IT experience, Frank has helped lead Cuttlesoft, a Custom Software and Product Development agency, to two states and 10x growth in just 3 years. That doesn't mean that he doesn' t get his hands dirty. As a fullstack developer and systems expert, this CEO likes to roll up his sleeves and get to work. His motto; 'Iterate towards perfection' is emblazoned on the company's masthead and in their team's minds."
   company: Cuttlesoft
   github: ''
   name: Frank Valcarcel

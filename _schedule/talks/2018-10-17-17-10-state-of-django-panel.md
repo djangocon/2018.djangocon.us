@@ -3,7 +3,7 @@ layout: session-details
 category: talk
 permalink:
 accepted: true
-sitemap: false
+sitemap: true
 
 title: '"State of Django" Panel'
 

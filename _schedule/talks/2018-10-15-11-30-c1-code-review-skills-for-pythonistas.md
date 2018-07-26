@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Code Review Skills for Pythonistas
-track: ''
+track: c1
 video_url: ''
 ---
 

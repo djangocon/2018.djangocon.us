@@ -1,7 +1,7 @@
 ---
 author: Josue Balandrano Coronel and Lacey Williams Henschel
 category: General
-date: 2018-07-23 08:00:00
+date: 2018-07-25 08:00:00
 layout: post
 image: /static/img/blog/international_travel.png
 title: International Travel

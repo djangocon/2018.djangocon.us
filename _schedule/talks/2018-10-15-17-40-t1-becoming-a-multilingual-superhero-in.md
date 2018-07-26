@@ -11,16 +11,15 @@ category: talk
 date: 2018-10-15 17:40:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/becoming-a-multilingual-superhero-in-django/
+permalink: /talk/becoming-a-multilingual-superhero-in/
 presenters:
-- bio: "- CPython contributor and bug triage access on bugs.python.org
-- GSoC 2018 Mentor of Debian.
-- Mozilla Reps Mentor and contributor to Mozilla's GeckoEngine, addons, remo projects.
-- One of the very few people to be featured in Mozilla credits (http://mozilla.org/credits)
-- RGSoC Mentor in 2016.
-- Core-Organizer for PyCon India 2016 & PyCon India 2017.
+- bio: '- CPython contributor and bug triage access on bugs.python.org - GSoC 2018
+    Mentor of Debian. - Mozilla Reps Mentor and contributor to Mozilla''s GeckoEngine,
+    addons, remo projects. - One of the very few people to be featured in Mozilla
+    credits (http://mozilla.org/credits) - RGSoC Mentor in 2016. - Core-Organizer
+    for PyCon India 2016 & PyCon India 2017.
 
-Blog: http://www.SanyamKhurana.com/blog and medium.com/@CuriousLearner"
+    Blog: http://www.SanyamKhurana.com/blog and medium.com/@CuriousLearner'
   company: ''
   github: ''
   name: Sanyam Khurana
@@ -33,7 +32,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Becoming a Multilingual SuperHero in Django
-track: 't1'
+track: t1
 video_url: ''
 ---
 

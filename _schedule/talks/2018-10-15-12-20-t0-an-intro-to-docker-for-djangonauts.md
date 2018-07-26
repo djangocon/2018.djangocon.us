@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: 'An Intro to Docker for Djangonauts '
-track: 't0'
+track: t0
 video_url: ''
 ---
 

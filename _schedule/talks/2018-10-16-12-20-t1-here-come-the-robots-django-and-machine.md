@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-16 12:20:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/here-come-the-robots-django-and-machine-learning/
+permalink: /talk/here-come-the-robots-django-and-machine/
 presenters:
 - bio: I'm the technical director at Torchbox, a UK web agency. I also run the Wagtail
     CMS project. I wrote the theme tune to [Charlie and Lola](https://en.wikipedia.org/wiki/Charlie_and_Lola).
@@ -24,7 +24,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Here Come The Robots - Django and Machine Learning
-track: 't1'
+track: t1
 video_url: ''
 ---
 

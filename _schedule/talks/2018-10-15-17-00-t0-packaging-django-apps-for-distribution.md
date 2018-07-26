@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-15 17:00:00 -0500
 difficulty: Intermediate
 layout: session-details
-permalink: /talk/packaging-django-apps-for-distribution-on-pypi/
+permalink: /talk/packaging-django-apps-for-distribution/
 presenters:
 - bio: Laura Hampton is a Python developer living in New York City.
   company: ''
@@ -23,7 +23,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Packaging Django Apps for Distribution on PyPI
-track: 't0'
+track: t0
 video_url: ''
 ---
 

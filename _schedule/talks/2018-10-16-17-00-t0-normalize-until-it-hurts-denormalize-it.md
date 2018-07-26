@@ -8,10 +8,12 @@ category: talk
 date: 2018-10-16 17:00:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/normalize-until-it-hurts-denormalize-until-it-works-in-django/
+permalink: /talk/normalize-until-it-hurts-denormalize-it/
 presenters:
-- bio: "I'm a software engineer from Brazil and partner at Vinta Software (www.vinta.com.br). At Vinta, we love beautiful high-quality products, from UX to code, and we will defend them against unreasonable deadlines and features. We use mostly React and Django.
-"
+- bio: 'I''m a software engineer from Brazil and partner at Vinta Software (www.vinta.com.br).
+    At Vinta, we love beautiful high-quality products, from UX to code, and we will
+    defend them against unreasonable deadlines and features. We use mostly React and
+    Django. '
   company: Vinta Software
   github: ''
   name: "Fl\xE1vio Juvenal"
@@ -24,7 +26,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: '"Normalize until it hurts; denormalize until it works" in Django'
-track: 't0'
+track: t0
 video_url: ''
 ---
 

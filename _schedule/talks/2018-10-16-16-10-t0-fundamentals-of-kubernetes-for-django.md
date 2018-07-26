@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-16 16:10:00 -0500
 difficulty: Intermediate
 layout: session-details
-permalink: /talk/fundamentals-of-kubernetes-for-django-developers/
+permalink: /talk/fundamentals-of-kubernetes-for-django/
 presenters:
 - bio: Graham is the author of mod_wsgi, the Apache module for hosting of Python web
     applications using the WSGI interface, and wrapt a Python package for decorators
@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Fundamentals of Kubernetes for Django developers
-track: 't0'
+track: t0
 video_url: ''
 ---
 

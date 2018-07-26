@@ -28,7 +28,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: SIMPL framework, big impact!
-track: 't0'
+track: t0
 video_url: ''
 ---
 

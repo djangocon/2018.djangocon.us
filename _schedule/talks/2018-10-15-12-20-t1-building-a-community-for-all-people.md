@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Building a Community for All People
-track: 't1'
+track: t1
 video_url: ''
 ---
 

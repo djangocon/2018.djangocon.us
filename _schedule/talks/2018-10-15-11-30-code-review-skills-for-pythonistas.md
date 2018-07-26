@@ -16,7 +16,7 @@ presenters:
     and HBO. In her spare time, she enjoys snowboarding, hiking, and riding her bike
     in her home base in Portland, OR.
   company: Microsoft
-  github: 't1'
+  github: t1
   name: Nina Zakharenko
   photo_url: ''
   twitter: nnja

@@ -9,9 +9,14 @@ category: talk
 date: 2018-10-15 15:10:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/autonomous-vehicles-intelligent-transportation-systems-and-yes-django/
+permalink: /talk/autonomous-vehicles-intelligent-systems/
 presenters:
-- bio: "Ken Whitesell is a software developer with 40 years experience scattered among just about any platform you care to name. He has been working with Django for about 5 years now, mostly on very narrowly-targeted internal applications for the companies in which he has been employed. Ken is currently a Senior Application Developer with WSP, in the GeoSpatial and Advanced Technology group, working on projects involving \"Vehicle Fleet Management\" and \"Traffic Control\" systems."
+- bio: Ken Whitesell is a software developer with 40 years experience scattered among
+    just about any platform you care to name. He has been working with Django for
+    about 5 years now, mostly on very narrowly-targeted internal applications for
+    the companies in which he has been employed. Ken is currently a Senior Application
+    Developer with WSP, in the GeoSpatial and Advanced Technology group, working on
+    projects involving "Vehicle Fleet Management" and "Traffic Control" systems.
   company: WSP
   github: ''
   name: Ken Whitesell
@@ -24,7 +29,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Autonomous Vehicles, Intelligent Transportation Systems, and yes, Django!
-track: 't1'
+track: t1
 video_url: ''
 ---
 

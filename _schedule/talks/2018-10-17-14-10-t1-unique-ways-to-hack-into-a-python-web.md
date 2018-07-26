@@ -8,12 +8,17 @@ category: talk
 date: 2018-10-17 14:10:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/unique-ways-to-hack-into-a-python-web-service/
+permalink: /talk/unique-ways-to-hack-into-a-python-web/
 presenters:
-- bio: "I work at an Application Security company (we45) and have a unique perspective of developing secure and deliberately insecure apps in Python and NodeJS. I have contributed to the development of several applications that have been used for Capture the Flag Contests inside and outside the organization. In addition, I have extensive experience with integrating scanners, SAST and DAST toolsets into our Application Vulnerability Correlation and Aggregation product.
+- bio: 'I work at an Application Security company (we45) and have a unique perspective
+    of developing secure and deliberately insecure apps in Python and NodeJS. I have
+    contributed to the development of several applications that have been used for
+    Capture the Flag Contests inside and outside the organization. In addition, I
+    have extensive experience with integrating scanners, SAST and DAST toolsets into
+    our Application Vulnerability Correlation and Aggregation product.
 
-I have over 7 years of development experience and continue to work as a full-stack developer.
-"
+    I have over 7 years of development experience and continue to work as a full-stack
+    developer. '
   company: we45
   github: ''
   name: Tilak T
@@ -26,7 +31,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Unique ways to Hack into a Python Web Service
-track: 't1'
+track: t1
 video_url: ''
 ---
 

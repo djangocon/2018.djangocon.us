@@ -7,10 +7,12 @@ category: talk
 date: 2018-10-17 14:10:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/strategies-for-zero-down-time-frequent-deployments/
+permalink: /talk/strategies-for-zero-down-time-frequent/
 presenters:
-- bio: "Nick Humrich has been using Python professionally for over 3 years. He is currently a DevOps engineer for Canopy, a software startup changing the US Tax industry. Before Canopy, Nick was at Amazon Web Services working on the Elastic Beanstalk product.
-Nick has a Bachelors Degree in Computer Science from Brigham Young University."
+- bio: Nick Humrich has been using Python professionally for over 3 years. He is currently
+    a DevOps engineer for Canopy, a software startup changing the US Tax industry.
+    Before Canopy, Nick was at Amazon Web Services working on the Elastic Beanstalk
+    product. Nick has a Bachelors Degree in Computer Science from Brigham Young University.
   company: Canopy
   github: ''
   name: Nick Humrich
@@ -23,7 +25,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Strategies for Zero Down Time, Frequent Deployments
-track: 't0'
+track: t0
 video_url: ''
 ---
 

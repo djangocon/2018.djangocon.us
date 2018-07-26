@@ -1,8 +1,8 @@
 ---
-abstract: "You've finally built out a project that you'd like to share with the world.\
-  \ That's amazing! Where do you host the thing? Enter Zappa. This framework on top\
-  \ of AWS Lambda will allow you to bring your application to the masses with a light\
-  \ configuration and, if you're lucky, a light bottom line."
+abstract: You've finally built out a project that you'd like to share with the world.
+  That's amazing! Where do you host the thing? Enter Zappa. This framework on top
+  of AWS Lambda will allow you to bring your application to the masses with a light
+  configuration and, if you're lucky, a light bottom line.
 accepted: true
 category: talk
 date: 2018-10-16 15:10:00 -0500
@@ -10,7 +10,11 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/serverless-django-with-zappa/
 presenters:
-- bio: "I like leveraging software development skills for good. During my short career I've had a chance to work in the fields of counterterrorism, cancer research, and education. I'm an unrepentant foodie'read more at the upcoming [Piquant](https://piquantmag.com/about) if you like. [I made an album](https://www.littleleviathan.com) once and [I make fashion and portraiture photography](https://www.danehillard.com) here and there."
+- bio: I like leveraging software development skills for good. During my short career
+    I've had a chance to work in the fields of counterterrorism, cancer research,
+    and education. I'm an unrepentant foodie'read more at the upcoming [Piquant](https://piquantmag.com/about)
+    if you like. [I made an album](https://www.littleleviathan.com) once and [I make
+    fashion and portraiture photography](https://www.danehillard.com) here and there.
   company: ITHAKA
   github: ''
   name: Dane Hillard
@@ -23,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Serverless Django with Zappa
-track: 't0'
+track: t0
 video_url: ''
 ---
 

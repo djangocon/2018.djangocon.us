@@ -10,7 +10,10 @@ difficulty: Beginner
 layout: session-details
 permalink: /talk/data-internationalization-in-django/
 presenters:
-- bio: "I'm a software developer working with the web for more than ten years and with Python and Django for over four years. I work as a freelancer and maintain multiple open source projects. The most notable Django-based one is pretix, a full-featured and free conference ticketing software."
+- bio: I'm a software developer working with the web for more than ten years and with
+    Python and Django for over four years. I work as a freelancer and maintain multiple
+    open source projects. The most notable Django-based one is pretix, a full-featured
+    and free conference ticketing software.
   company: rami.io Software development
   github: ''
   name: Raphael Michel
@@ -23,7 +26,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Data internationalization in Django
-track: 't0'
+track: t0
 video_url: ''
 ---
 

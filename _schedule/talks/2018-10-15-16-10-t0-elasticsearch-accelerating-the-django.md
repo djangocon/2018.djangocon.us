@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-15 16:10:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/elasticsearch-accelerating-the-django-admin/
+permalink: /talk/elasticsearch-accelerating-the-django/
 presenters:
 - bio: Kate Kligman is a senior software engineer on the platform team at Grove Collaborative,
     a B-Corp and digital-first consumer products brand with a mission to help families
@@ -29,7 +29,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: 'Elasticsearch: Accelerating the Django Admin'
-track: 't0'
+track: t0
 video_url: ''
 ---
 

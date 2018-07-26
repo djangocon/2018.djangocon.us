@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-15 11:00:00 -0500
 difficulty: Beginner
 layout: session-details
-permalink: /talk/wagtail-cms-making-django-more-user-and-developer-friendly/
+permalink: /talk/wagtail-cms-making-django-more-user-and/
 presenters:
 - bio: Sara Heins is a self-taught developer, Program Director of Django Girls - Kansas
     City and has spoken on how to get more women into tech at DjangoCon EU 2018. When
@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Wagtail CMS - Making Django More User (and Developer) Friendly
-track: 't1'
+track: t1
 video_url: ''
 ---
 

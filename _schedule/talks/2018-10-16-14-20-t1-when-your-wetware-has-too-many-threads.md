@@ -8,9 +8,12 @@ category: talk
 date: 2018-10-16 14:20:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/when-your-wetware-has-too-many-threads-tips-from-an-adhder-on-how-to-improve-your-focus/
+permalink: /talk/when-your-wetware-has-too-many-threads/
 presenters:
-- bio: "I'm a senior software engineer _(15 years experience)_ turned developer advocate at [Nexmo](https://twitter.com/nexmodev). I'm a bit of a tinkerer, always creating new things with code or electronics. But generally, I make cool stuff and help other people make **unbelievably** cool stuff \U0001F525\U0001F525\U0001F389"
+- bio: "I'm a senior software engineer _(15 years experience)_ turned developer advocate\
+    \ at [Nexmo](https://twitter.com/nexmodev). I'm a bit of a tinkerer, always creating\
+    \ new things with code or electronics. But generally, I make cool stuff and help\
+    \ other people make **unbelievably** cool stuff \U0001F525\U0001F525\U0001F389"
   company: Nexmo
   github: ''
   name: Aaron Bassett
@@ -24,7 +27,7 @@ slides_url: ''
 summary: ''
 title: When your wetware has too many threads - Tips from an ADHDer on how to improve
   your focus
-track: 't1'
+track: t1
 video_url: ''
 ---
 

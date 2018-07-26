@@ -23,7 +23,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Introduction to Django and GraphQL
-track: 't0'
+track: t0
 video_url: ''
 ---
 

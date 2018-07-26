@@ -8,14 +8,19 @@ category: talk
 date: 2018-10-15 11:00:00 -0500
 difficulty: Intermediate
 layout: session-details
-permalink: /talk/bdd-behavior-driven-development-testing-for-django-apps/
+permalink: /talk/bdd-behavior-driven-development-testing/
 presenters:
-- bio: "I work at the Alzheimer's Therapeutic Research Institute, University of Southern California, as a programmer analyst, MS in Computer Science. I love exploring cut-edge techniques and trying to integrate them with my current project.
+- bio: 'I work at the Alzheimer''s Therapeutic Research Institute, University of Southern
+    California, as a programmer analyst, MS in Computer Science. I love exploring
+    cut-edge techniques and trying to integrate them with my current project.
 
-I have attended a lot of meetups related to Django in San Diego ([I saw one of the organizers giving the talk in last year DjangoCon](https://2017.djangocon.us/talks/stumbling-through-django-and-how-not-to/)) which inspired me a lot and enhanced my technical skills.
+    I have attended a lot of meetups related to Django in San Diego ([I saw one of
+    the organizers giving the talk in last year DjangoCon](https://2017.djangocon.us/talks/stumbling-through-django-and-how-not-to/))
+    which inspired me a lot and enhanced my technical skills.
 
-Apart from being a programmer, I'm also learning aikido (Japanese martial arts) and Japanese in my spare time."
-  company: "Alzheimer's Therapeutic Research Institute, University of Southern California"
+    Apart from being a programmer, I''m also learning aikido (Japanese martial arts)
+    and Japanese in my spare time.'
+  company: Alzheimer's Therapeutic Research Institute, University of Southern California
   github: ''
   name: Le Xiao
   photo_url: ''
@@ -27,7 +32,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: BDD (Behavior Driven Development) Testing for Django Apps
-track: 't0'
+track: t0
 video_url: ''
 ---
 

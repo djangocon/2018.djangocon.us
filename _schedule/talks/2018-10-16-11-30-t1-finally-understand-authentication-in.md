@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-16 11:30:00 -0500
 difficulty: Intermediate
 layout: session-details
-permalink: /talk/finally-understand-authentication-in-django-rest-framework/
+permalink: /talk/finally-understand-authentication-in/
 presenters:
 - bio: 'William Vincent is a freelance software developer and the author of two books:
     [Django for Beginners](https://djangoforbeginners.com/) and [REST APIs with Django](https://restapiswithdjango.com/).
@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: 'Finally Understand Authentication in Django REST Framework '
-track: 't1'
+track: t1
 video_url: ''
 ---
 

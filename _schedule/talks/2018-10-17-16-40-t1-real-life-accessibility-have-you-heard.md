@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-17 16:40:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/real-life-accessibility-have-you-heard-your-site/
+permalink: /talk/real-life-accessibility-have-you-heard/
 presenters:
 - bio: I've been in the web development business since 2003, when the web was still
     shiny and new and full of tables with rounded edges. I like fractals, tap dancing,
@@ -25,7 +25,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: 'Real Life Accessibility: Have you HEARD your site?'
-track: 't1'
+track: t1
 video_url: ''
 ---
 

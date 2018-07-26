@@ -1,14 +1,14 @@
 ---
-abstract: "So you've made it through the Django REST Framework tutorial. How\
-  \ do you move from simple model serializers to making something front-end developers\
-  \ can actually use? I'll show how to leverage DRF to deliver different serializers\
-  \ and querysets to different users and actions to make happier users."
+abstract: So you've made it through the Django REST Framework tutorial. How do you
+  move from simple model serializers to making something front-end developers can
+  actually use? I'll show how to leverage DRF to deliver different serializers and
+  querysets to different users and actions to make happier users.
 accepted: true
 category: talk
 date: 2018-10-17 11:30:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/django-rest-framework-moving-past-the-tutorial-to-production/
+permalink: /talk/django-rest-framework-moving-past-the-to/
 presenters:
 - bio: Drew is a software engineer currently Huntsville, Alabama, USA. He has experience
     working in various industries including IoT, defense, advertising, and cloud hosting.
@@ -27,7 +27,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: 'Django REST Framework: Moving Past the Tutorial to Production'
-track: 't0'
+track: t0
 video_url: ''
 ---
 

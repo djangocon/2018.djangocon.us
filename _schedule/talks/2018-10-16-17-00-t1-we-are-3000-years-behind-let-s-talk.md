@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-16 17:00:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/we-are-3000-years-behind-let-s-talk-about-engineering-ethics/
+permalink: /talk/we-are-3000-years-behind-let-s-talk/
 presenters:
 - bio: 'Hayley Denbraver is a web developer in San Diego, California. She is a career
     switcher who used to work as a licensed civil engineer. Her civil engineering
@@ -32,7 +32,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: 'We Are 3000 Years Behind: Let''s Talk About Engineering Ethics'
-track: 't1'
+track: t1
 video_url: ''
 ---
 

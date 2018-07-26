@@ -13,9 +13,10 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/building-workflows-with-celery/
 presenters:
-- bio: "Josue Balandrano Coronel trabaja en el Texas Advanced Computing Center como Ingeniero en Software ayudando a desarrollar Science Gateways.
-Estas Science Gateways son usadas por diferentes investigadores a trav\xE9s de EUA para colaborar y utilizar sistemas de High Performance Computing (HPC).
-"
+- bio: "Josue Balandrano Coronel trabaja en el Texas Advanced Computing Center como\
+    \ Ingeniero en Software ayudando a desarrollar Science Gateways. Estas Science\
+    \ Gateways son usadas por diferentes investigadores a trav\xE9s de EUA para colaborar\
+    \ y utilizar sistemas de High Performance Computing (HPC). "
   company: Texas Advanced Computing Center
   github: ''
   name: Josue Balandrano Coronel
@@ -28,7 +29,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: Building Workflows With Celery
-track: 't0'
+track: t0
 video_url: ''
 ---
 

@@ -8,7 +8,7 @@ category: talk
 date: 2018-10-15 17:00:00 -0500
 difficulty: All
 layout: session-details
-permalink: /talk/a-bossy-sort-of-voice-uncovering-gender-bias-in-harry-potter-with-python/
+permalink: /talk/a-bossy-sort-of-voice-uncovering-gender/
 presenters:
 - bio: Eleanor Stribling is a product manager and developer with a passion for using
     software to help solve difficult human problems. Her interests are around using
@@ -32,7 +32,7 @@ sitemap: true
 slides_url: ''
 summary: ''
 title: 'A Bossy Sort of Voice: Uncovering gender bias in Harry Potter with Python'
-track: 't1'
+track: t1
 video_url: ''
 ---
 

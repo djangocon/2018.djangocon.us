@@ -9,7 +9,8 @@ difficulty: All
 layout: session-details
 permalink: /talk/herding-cats-with-django-technical-and/
 presenters:
-- bio: 'Sage Sharp is the founder of [Otter Tech](http://otter.technology), a diversity
+- bio: |
+    Sage Sharp is the founder of [Otter Tech](http://otter.technology), a diversity
     and inclusion consulting company focused on Code of Conduct incident response
     workshops.
 
@@ -34,9 +35,9 @@ presenters:
     - 2013: Keynote panel at LinuxCon North America "Linux Kernel Developer Roundtable"
     - 2014: Linux Conf Australia "Vampire Mice: How USB power management impacts you"
     - 2014: Moderator for panel at LinuxCon North America "Linux Kernel Internship Report Out"
-    - 2014: Presented to students at University of Waterloo ''Breaking into Open Source and Linux: A USB 3.0 Success Story''
-    - 2016: Keynote at SCALE ["Improving Diversity with Maslow''s Hierarchy of Needs" ](https://www.youtube.com/watch?v=ZCvK_7FagGE)
-    - 2017: Presented ["So you have a Code of Conduct... Now what?"](https://www.youtube.com/watch?v=DMQ0UaNb4KA) at DevXCon 2017'
+    - 2014: Presented to students at University of Waterloo 'Breaking into Open Source and Linux: A USB 3.0 Success Story'
+    - 2016: Keynote at SCALE ["Improving Diversity with Maslow's Hierarchy of Needs" ](https://www.youtube.com/watch?v=ZCvK_7FagGE)
+    - 2017: Presented ["So you have a Code of Conduct... Now what?"](https://www.youtube.com/watch?v=DMQ0UaNb4KA) at DevXCon 2017
   company: Outreachy
   github: ''
   name: Sage Sharp

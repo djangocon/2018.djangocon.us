@@ -1,5 +1,5 @@
 ---
-accepted: true
+accepted: false
 category: talk
 date: 2018-10-16 19:00:00 -0500
 end_date: 2018-10-16 21:30:00 -0500

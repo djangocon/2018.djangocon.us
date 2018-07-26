@@ -22,6 +22,13 @@ presenters:
   photo_url: ''
   twitter: skemojoe
   website: http://simulations.wharton.upenn.edu
+- bio: ''
+  company: The Wharton School, University of Pennsylvania
+  github: ''
+  name: Jane Eisenstein
+  photo_url: ''
+  twitter: JaneEisenstein
+  website: http://simulations.wharton.upenn.edu
 published: true
 room: ''
 sitemap: true

@@ -10,10 +10,15 @@ title: International Travel
 Are you attending DjangoCon US 2018 in San Diego, California, but you are not from US and need some travel information? Here are some things to consider when planning your trip.
 
 - **Visa Invitation Letter**: If you need a visa invitation letter, please contact [visas@djangocon.us](mailto:visas@djangocon.us) to request one.
+
 - **Visa**: Check the [State Department’s website](https://travel.state.gov/content/visas/en.html) for information about US visas. You may be eligible for a visa waiver program (which is an online form—no embassy visit required) or you may need to apply for a visa at the [US consulate](https://www.usembassy.gov/) in your country or neighboring country.
+
 - **Valid Passport**: A passport which will expire in a minimum of six months before the date of departure is highly recommended. However, your embassy will have more up-to-date information on this.
+
 - **Accommodation**: If you are staying in the conference hotel, [book your room here](https://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=DjangoCon%20US%202018%5Esanmv%60djcdjca%60169.00%60USD%60false%604%6010/13/18%6010/20/18%609/13/18&app=resvlink&stop_mobi=yes). Our conference rate expires on Sept. 13, 2018.
+
 - **Money Conversion**: Most places in the US will take major credit cards, such as Visa and Mastercard. You can withdraw local currency from your bank account using an ATM if you need cash while you are in the United States.
+
 - **Travel Paperwork**: It is a good idea to bring as much evidence as possible to show **the reason** of your visit to the US, **where** is the conference going to take place, **when** are you going to go back to your home country and **what** you do in your home country. Please bring this paperwork with you. These documents can be helpful when going through US Customs and Border Protection:
 
   - Printout of your invitation letter.

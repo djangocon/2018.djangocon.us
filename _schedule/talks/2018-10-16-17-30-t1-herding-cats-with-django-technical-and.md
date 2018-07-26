@@ -25,19 +25,18 @@ presenters:
 
     Speaking experience:
 
-    * 2007: OSCON "usbfs2: A new USB userspace to kernel interface" * 2008: Ignite
-    Portland ["Open Source Rockets"](https://www.youtube.com/watch?v=nYLIYab6-OY)
-    * 2009: Open Source Bridge "Advanced Git Tutorial" * 2010: Linux Conf Australia
-    "Superspeed Me: USB 3.0 for Linux" * 2010: Rencontres Mondiales du Logiciel Libre
-    " Intro to USB 3.0" * 2011: Linux Conf Australia "Growing Food with Open Source"
+    * 2007: OSCON "usbfs2: A new USB userspace to kernel interface"
+    * 2008: Ignite Portland ["Open Source Rockets"](https://www.youtube.com/watch?v=nYLIYab6-OY)
+    * 2009: Open Source Bridge "Advanced Git Tutorial"
+    * 2010: Linux Conf Australia "Superspeed Me: USB 3.0 for Linux"
+    * 2010: Rencontres Mondiales du Logiciel Libre" Intro to USB 3.0"
+    * 2011: Linux Conf Australia "Growing Food with Open Source"
     * 2013: Keynote panel at LinuxCon North America "Linux Kernel Developer Roundtable"
     * 2014: Linux Conf Australia "Vampire Mice: How USB power management impacts you"
-    * 2014: Moderator for panel at LinuxCon North America "Linux Kernel Internship
-    Report Out" * 2014: Presented to students at University of Waterloo ''Breaking
-    into Open Source and Linux: A USB 3.0 Success Story'' * 2016: Keynote at SCALE
-    ["Improving Diversity with Maslow''s Hierarchy of Needs" ](https://www.youtube.com/watch?v=ZCvK_7FagGE)
-    * 2017: Presented ["So you have a Code of Conduct... Now what?"](https://www.youtube.com/watch?v=DMQ0UaNb4KA)
-    at DevXCon 2017'
+    * 2014: Moderator for panel at LinuxCon North America "Linux Kernel Internship Report Out"
+    * 2014: Presented to students at University of Waterloo ''Breaking into Open Source and Linux: A USB 3.0 Success Story''
+    * 2016: Keynote at SCALE ["Improving Diversity with Maslow''s Hierarchy of Needs" ](https://www.youtube.com/watch?v=ZCvK_7FagGE)
+    * 2017: Presented ["So you have a Code of Conduct... Now what?"](https://www.youtube.com/watch?v=DMQ0UaNb4KA) at DevXCon 2017'
   company: Outreachy
   github: ''
   name: Sage Sharp

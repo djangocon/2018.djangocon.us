@@ -30,7 +30,7 @@ presenters:
   twitter: ipmb
   website: https://lincolnloop.com/team/peter-baumgartner/
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

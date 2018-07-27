@@ -21,7 +21,7 @@ presenters:
   twitter: _rami_
   website: https://www.raphaelmichel.de
 published: true
-room: ''
+room: 'Salon A - E'
 sitemap: true
 slides_url: ''
 summary: ''

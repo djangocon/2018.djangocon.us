@@ -30,7 +30,7 @@ presenters:
   twitter: JaneEisenstein
   website: http://simulations.wharton.upenn.edu
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

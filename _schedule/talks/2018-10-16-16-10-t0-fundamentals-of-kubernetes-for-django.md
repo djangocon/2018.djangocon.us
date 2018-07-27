@@ -22,7 +22,7 @@ presenters:
   twitter: GrahamDumpleton
   website: http://blog.dscpl.com.au
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

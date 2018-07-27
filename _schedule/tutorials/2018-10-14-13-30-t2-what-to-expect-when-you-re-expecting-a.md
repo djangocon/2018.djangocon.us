@@ -5,12 +5,20 @@ abstract: We all know we should be testing our applications, but testing is hard
   visual diff-ing to get (and keep) pixel-perfect apps.
 accepted: true
 category: tutorial
-date: 2018-10-14 13:30
+date: 2018-10-14 13:30:00 -0500
 difficulty: Intermediate
 layout: session-details
-permalink: /tutorial/what-to-expect-when-youre-expecting-a-hands-on-guide-to-regression-testing/
+permalink: /tutorial/what-to-expect-when-you-re-expecting-a/
 presenters:
-- bio: "Emily Morehouse-Valcarcel is the Cofounder and Director of Engineering of Cuttlesoft, a digital product development agency focused on creating beautifully designed and highly scalable custom software. Her passion is driven by the unique blend of empathy, strategy, curiosity, and human-centered design. When she isn't leading Cuttlesoft, Emily is an avid Open Source Software contributor and constant learner with side projects focused on automating the mundane, improving daily life, and shedding light on the complexity of the human experience. A graduate of the Florida State University, Emily holds bachelor's degrees in Computer Science, Criminology, and Theatre."
+- bio: Emily Morehouse-Valcarcel is the Cofounder and Director of Engineering of Cuttlesoft,
+    a digital product development agency focused on creating beautifully designed
+    and highly scalable custom software. Her passion is driven by the unique blend
+    of empathy, strategy, curiosity, and human-centered design. When she isn't leading
+    Cuttlesoft, Emily is an avid Open Source Software contributor and constant learner
+    with side projects focused on automating the mundane, improving daily life, and
+    shedding light on the complexity of the human experience. A graduate of the Florida
+    State University, Emily holds bachelor's degrees in Computer Science, Criminology,
+    and Theatre.
   company: Cuttlesoft
   github: ''
   name: Emily Morehouse-Valcarcel
@@ -18,12 +26,12 @@ presenters:
   twitter: emilyemorehouse
   website: http://emilyemorehouse.com
 published: true
-room: ''
+room: Cabrillo 1
 sitemap: true
 slides_url: ''
 summary: ''
-title: "What To Expect When You're Expecting: A Hands-On Guide to Regression Testing"
-track: ''
+title: 'What To Expect When You''re Expecting: A Hands-On Guide to Regression Testing'
+track: t2
 video_url: ''
 ---
 

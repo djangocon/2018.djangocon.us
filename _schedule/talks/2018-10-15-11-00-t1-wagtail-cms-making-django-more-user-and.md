@@ -22,7 +22,7 @@ presenters:
   twitter: Heins
   website: https://github.com/sheins
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

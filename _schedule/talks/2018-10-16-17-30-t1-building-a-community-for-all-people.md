@@ -22,7 +22,7 @@ presenters:
   twitter: jenkoni
   website: http://www.jenniferkonikowski.com
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

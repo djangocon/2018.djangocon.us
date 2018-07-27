@@ -23,7 +23,7 @@ presenters:
   twitter: candidatephilly
   website: http://www.candidatephilly.com/
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

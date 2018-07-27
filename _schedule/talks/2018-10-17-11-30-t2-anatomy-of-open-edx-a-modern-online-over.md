@@ -24,7 +24,7 @@ presenters:
   twitter: natea
   website: https://appsembler.com/blog
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

@@ -23,7 +23,7 @@ presenters:
   twitter: treyhunner
   website: http://treyhunner.com
 published: true
-room: ''
+room: 'Salon A - E'
 sitemap: true
 slides_url: ''
 summary: ''

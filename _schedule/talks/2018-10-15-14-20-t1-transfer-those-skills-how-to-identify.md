@@ -23,8 +23,8 @@ presenters:
     of her peers, as they explore new career options that excite them.'
   company: ''
   github: ''
-  name: Caroline Taylor and Rebekah Post
-  photo_url: '/static/img/speakers/caroline-taylor-and-rebekah-post.jpg'
+  name: Caroline Taylor
+  photo_url: '/static/img/speakers/caroline-taylor.jpg'
   twitter: ''
   website: ''
 - bio: 'Rebekah has been working full time as a developer at the University of Texas at
@@ -37,7 +37,7 @@ presenters:
     others find career options that fit the lifestyle they are looking for.'
   company: ''
   name: Rebekah Post
-  photo_url: ''
+  photo_url: '/static/img/speakers/rebekah-post.jpg'
   twitter: Chocotiere
   website: ''
 published: true

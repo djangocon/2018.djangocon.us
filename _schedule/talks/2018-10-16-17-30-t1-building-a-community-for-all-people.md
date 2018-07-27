@@ -5,7 +5,7 @@ abstract: How do you foster new developers within the community? How do you ensu
   where women felt welcome.
 accepted: true
 category: talk
-date: 2018-10-15 12:20:00 -0500
+date: 2018-10-16 17:30:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/building-a-community-for-all-people/

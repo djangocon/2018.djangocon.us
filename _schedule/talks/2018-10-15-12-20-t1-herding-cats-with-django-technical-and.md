@@ -4,7 +4,7 @@ abstract: Django provides an easy way to create forms and manage users, but how 
   Creating a workflow to incentivize participation can be a bit like herding cats!
 accepted: true
 category: talk
-date: 2018-10-16 17:30:00 -0500
+date: 2018-10-15 12:20:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/herding-cats-with-django-technical-and/

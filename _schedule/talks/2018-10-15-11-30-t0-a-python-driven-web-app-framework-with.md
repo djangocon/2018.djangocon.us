@@ -24,6 +24,7 @@ presenters:
   name: Henry Olson
   twitter: ''
   website: https://www.ayasdi.com/
+  photo_url: '/static/img/speakers/henry-olson.jpg'
 published: true
 room: 'Salon A-E'
 sitemap: true

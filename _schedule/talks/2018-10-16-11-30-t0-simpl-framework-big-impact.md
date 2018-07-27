@@ -18,15 +18,15 @@ presenters:
     the learning experience for both teacher and student.  '
   company: The Wharton School, University of Pennsylvania
   github: ''
-  name: Joseph Lee and Jane Eisenstein
-  photo_url: '/static/img/speakers/joseph-lee-jane-eisenstein.jpg'
+  name: Joseph Lee
+  photo_url: '/static/img/speakers/joseph-lee.jpg'
   twitter: skemojoe
   website: http://simulations.wharton.upenn.edu
 - bio: ''
   company: The Wharton School, University of Pennsylvania
   github: ''
   name: Jane Eisenstein
-  photo_url: ''
+  photo_url: '/static/img/speakers/jane-eisenstein.jpg'
   twitter: JaneEisenstein
   website: http://simulations.wharton.upenn.edu
 published: true

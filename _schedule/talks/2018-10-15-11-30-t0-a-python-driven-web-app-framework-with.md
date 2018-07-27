@@ -29,7 +29,7 @@ presenters:
   twitter: ''
   website: https://www.ayasdi.com/
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

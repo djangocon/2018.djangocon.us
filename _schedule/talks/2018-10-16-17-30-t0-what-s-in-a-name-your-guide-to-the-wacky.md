@@ -27,7 +27,7 @@ presenters:
   twitter: ''
   website: http://ashleysullins.github.io/
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

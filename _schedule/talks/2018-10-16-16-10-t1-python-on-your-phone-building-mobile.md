@@ -26,7 +26,7 @@ presenters:
   twitter: dmpayton
   website: http://rootaccess.space
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

@@ -22,7 +22,7 @@ presenters:
   twitter: laceynwilliams
   website: https://www.laceyhenschel.com/
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

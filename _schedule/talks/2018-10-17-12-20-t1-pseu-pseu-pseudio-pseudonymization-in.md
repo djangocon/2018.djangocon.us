@@ -23,7 +23,7 @@ presenters:
   twitter: fmdfrank
   website: https://www.cuttlesoft.com
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

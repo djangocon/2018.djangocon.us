@@ -21,7 +21,7 @@ presenters:
   twitter: flaviojuvenal
   website: https://www.vinta.com.br/
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

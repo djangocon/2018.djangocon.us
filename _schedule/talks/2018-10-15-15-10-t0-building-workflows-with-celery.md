@@ -24,7 +24,7 @@ presenters:
   twitter: rmcomplexity
   website: https://rmcomplexity.com
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

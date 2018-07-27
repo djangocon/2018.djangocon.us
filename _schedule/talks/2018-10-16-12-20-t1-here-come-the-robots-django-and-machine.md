@@ -19,7 +19,7 @@ presenters:
   twitter: tomd
   website: https://torchbox.com
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

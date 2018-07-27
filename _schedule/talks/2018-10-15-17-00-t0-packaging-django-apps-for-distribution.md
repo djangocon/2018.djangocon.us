@@ -18,7 +18,7 @@ presenters:
   twitter: 'incunabulista '
   website: http://www.laura-hampton.com
 published: true
-room: ''
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

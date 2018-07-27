@@ -22,7 +22,7 @@ presenters:
   twitter: hops_and_smoke
   website: ''
 published: true
-room: ''
+room: 'Salon A - E'
 sitemap: true
 slides_url: ''
 summary: ''

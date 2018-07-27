@@ -7,7 +7,7 @@ difficulty: All
 layout: session-details
 permalink: /talk/opening-and-keynote/
 presenters: null
-room: Ballrooms B and C
+room: Salon A - E 
 sitemap: true
 talk_slot: full
 title: Opening and Keynote

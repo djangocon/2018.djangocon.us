@@ -27,7 +27,7 @@ presenters:
   twitter: ErSanyamKhurana
   website: http://www.SanyamKhurana.com/blog
 published: true
-room: ''
+room: 'Salon F-H'
 sitemap: true
 slides_url: ''
 summary: ''

@@ -1,11 +1,8 @@
 ---
-abstract: 'Django''s ORM is probably its most-used but also least-understood
-
-  component. This tutorial will try to fix that, by teaching you about
-
-  best practices for using the ORM, advanced features you might not have
-
-  known about, and technical details of how it all works under the hood.'
+abstract: Django's ORM is probably its most-used but also least-understood component.
+  This tutorial will try to fix that, by teaching you about best practices for using
+  the ORM, advanced features you might not have known about, and technical details
+  of how it all works under the hood.
 accepted: true
 category: tutorial
 date: 2018-10-14 13:30:00 -0500

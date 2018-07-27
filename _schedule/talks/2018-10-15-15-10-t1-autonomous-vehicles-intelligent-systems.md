@@ -20,7 +20,7 @@ presenters:
   company: WSP
   github: ''
   name: Ken Whitesell
-  photo_url: ''
+  photo_url: '/static/img/speakers/ken-whitesell.jpg'
   twitter: KenWhitesell
   website: ''
 published: true

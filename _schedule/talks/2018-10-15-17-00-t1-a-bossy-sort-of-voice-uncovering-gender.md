@@ -23,7 +23,7 @@ presenters:
   company: Microsoft
   github: ''
   name: Eleanor Stribling
-  photo_url: ''
+  photo_url: '/static/img/speakers/eleanor-stribling.jpg'
   twitter: eleanorstrib
   website: http://eleanorstrib.com
 published: true

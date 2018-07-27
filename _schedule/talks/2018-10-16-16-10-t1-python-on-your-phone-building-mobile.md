@@ -22,7 +22,7 @@ presenters:
   company: Root Access Hackerspace
   github: ''
   name: Derek Payton
-  photo_url: ''
+  photo_url: '/static/img/speakers/derek-payton.jpg'
   twitter: dmpayton
   website: http://rootaccess.space
 published: true

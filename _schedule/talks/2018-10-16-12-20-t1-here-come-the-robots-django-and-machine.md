@@ -15,7 +15,7 @@ presenters:
   company: Torchbox and Wagtail
   github: ''
   name: Tom Dyson
-  photo_url: ''
+  photo_url: '/static/img/speakers/tom-dyson.jpg'
   twitter: tomd
   website: https://torchbox.com
 published: true

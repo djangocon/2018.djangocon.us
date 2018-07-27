@@ -25,7 +25,7 @@ presenters:
   company: ''
   github: ''
   name: Diane DeMers Chen
-  photo_url: ''
+  photo_url: '/static/img/speakers/diane-demers-chen.jpg'
   twitter: purplediane88
   website: http://purplediane.github.io/
 published: true

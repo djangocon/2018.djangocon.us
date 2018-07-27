@@ -21,7 +21,7 @@ presenters:
   company: Kevala, Inc
   github: ''
   name: Anna Kiefer
-  photo_url: ''
+  photo_url: '/static/img/speakers/anna-kiefer.jpg'
   twitter: ''
   website: http://www.annaskiefer.com
 published: true

@@ -20,7 +20,7 @@ presenters:
   company: Texas Advanced Computing Center
   github: ''
   name: Josue Balandrano Coronel
-  photo_url: ''
+  photo_url: '/static/img/speakers/josue-balandrano-coronel.jpg'
   twitter: rmcomplexity
   website: https://rmcomplexity.com
 published: true

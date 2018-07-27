@@ -18,7 +18,7 @@ presenters:
   company: Rackspace
   github: ''
   name: Drew Winstel
-  photo_url: ''
+  photo_url: '/static/img/speakers/drew-winstel.jpg'
   twitter: hops_and_smoke
   website: ''
 published: true

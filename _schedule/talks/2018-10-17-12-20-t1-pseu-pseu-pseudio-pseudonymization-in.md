@@ -19,7 +19,7 @@ presenters:
   company: Cuttlesoft
   github: ''
   name: Frank Valcarcel
-  photo_url: ''
+  photo_url: '/static/img/speakers/frank-valcarcel.jpg'
   twitter: fmdfrank
   website: https://www.cuttlesoft.com
 published: true

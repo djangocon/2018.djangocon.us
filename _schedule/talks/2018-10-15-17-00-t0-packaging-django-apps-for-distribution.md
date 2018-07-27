@@ -14,7 +14,7 @@ presenters:
   company: ''
   github: ''
   name: 'Laura Hampton '
-  photo_url: ''
+  photo_url: '/static/img/speakers/laura-hampton.jpg'
   twitter: 'incunabulista '
   website: http://www.laura-hampton.com
 published: true

@@ -20,7 +20,7 @@ presenters:
   company: Appsembler
   github: ''
   name: Nate Aune
-  photo_url: ''
+  photo_url: '/static/img/speakers/nate-aune.jpg'
   twitter: natea
   website: https://appsembler.com/blog
 published: true

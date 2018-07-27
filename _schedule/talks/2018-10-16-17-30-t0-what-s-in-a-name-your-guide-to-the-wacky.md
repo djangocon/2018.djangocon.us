@@ -23,7 +23,7 @@ presenters:
   company: Django Girls KC Attendee Coordinator
   github: ''
   name: Ashley Sullins
-  photo_url: ''
+  photo_url: '/static/img/speakers/ashley-sullins.jpg'
   twitter: ''
   website: http://ashleysullins.github.io/
 published: true

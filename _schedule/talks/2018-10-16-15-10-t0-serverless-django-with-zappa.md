@@ -18,7 +18,7 @@ presenters:
   company: ITHAKA
   github: ''
   name: Dane Hillard
-  photo_url: ''
+  photo_url: '/static/img/speakers/dane-hillard.jpg'
   twitter: easyaspython
   website: https://easyaspython.com
 published: true

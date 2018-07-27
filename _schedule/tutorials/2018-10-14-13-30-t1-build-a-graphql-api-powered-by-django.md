@@ -21,7 +21,7 @@ presenters:
   company: ''
   github: ''
   name: Ed Rivas
-  photo_url: ''
+  photo_url: '/static/img/speakers/ed-rivas.jpg'
   twitter: je92rivas
   website: https://jerivas.com
 published: true

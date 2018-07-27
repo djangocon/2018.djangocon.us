@@ -23,7 +23,7 @@ presenters:
   company: ''
   github: ''
   name: Sanyam Khurana
-  photo_url: ''
+  photo_url: '/static/img/speakers/sanyam-khurana.jpg'
   twitter: ErSanyamKhurana
   website: http://www.SanyamKhurana.com/blog
 published: true

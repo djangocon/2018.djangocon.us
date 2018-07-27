@@ -14,7 +14,7 @@ presenters:
   company: Stink Studios
   github: ''
   name: Patrick Arminio
-  photo_url: ''
+  photo_url: '/static/img/speakers/patrick-arminio.jpg'
   twitter: patrick91
   website: https://patrick.wtf
 published: true

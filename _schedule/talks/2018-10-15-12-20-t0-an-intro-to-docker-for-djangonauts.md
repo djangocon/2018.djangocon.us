@@ -10,15 +10,11 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/an-intro-to-docker-for-djangonauts/
 presenters:
-- bio: Lacey Williams Henschel is a developer with REVSYS and part of the organizing
-    team for DjangoCon US. In the past, she's chaired DjangoCon US, organized several
-    Django Girls workshops, taught courses for Treehouse, and written about accessibility
-    at tech events. Previously, she's spoken at DjangoCon Europe, DjangoCon US, Postgres
-    Open, ACT-W, PyDX, and Django Birthday.
+- bio: Lacey Williams Henschel is a developer with REVSYS and part of the organizing team for DjangoCon US. In the past, she's chaired DjangoCon US, organized several Django Girls workshops, taught courses for Treehouse, and written about accessibility at tech events. Previously, she's spoken at DjangoCon Europe, DjangoCon US, Postgres Open, ACT-W, PyDX, and Django Birthday.
   company: REVSYS
   github: ''
   name: Lacey Williams Henschel
-  photo_url: ''
+  photo_url: '/static/img/speakers/lacey-williams-henschel.jpg'
   twitter: laceynwilliams
   website: https://www.laceyhenschel.com/
 published: true

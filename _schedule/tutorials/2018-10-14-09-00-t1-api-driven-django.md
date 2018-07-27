@@ -16,7 +16,7 @@ presenters:
   company: ''
   github: ''
   name: Philip James
-  photo_url: ''
+  photo_url: '/static/img/speakers/philip-james.jpg'
   twitter: phildini
   website: http://phildini.net
 published: true

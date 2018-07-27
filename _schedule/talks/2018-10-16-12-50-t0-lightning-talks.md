@@ -11,6 +11,6 @@ presenters:
 difficulty:
 
 date: 2018-10-16 12:50:00 -0500
-room: Salon A - E
+room: Salon A-E
 ---
-Salon A - E
+Salon A-E

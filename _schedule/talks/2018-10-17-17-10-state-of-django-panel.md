@@ -11,4 +11,4 @@ presenters:
 date: 2018-10-17 17:10:00 -0500
 room: full
 ---
-Salon A - E
+Salon A-E

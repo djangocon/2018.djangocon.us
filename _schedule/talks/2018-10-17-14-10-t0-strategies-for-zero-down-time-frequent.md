@@ -20,7 +20,7 @@ presenters:
   twitter: nhumrich
   website: http://blog.humrich.us
 published: true
-room: 'Salon A - E'
+room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''

@@ -27,9 +27,10 @@ presenters:
   photo_url: https://pbs.twimg.com/profile_images/1825623146/Self_400x400.jpg
   twitter: KenWhitesell
   website: ''
-room: full
+room: Salon A-E
 sitemap: true
+talk_slot: full
 title: Board Game Night
 ---
 
-Ballroom B
+Salon A-E

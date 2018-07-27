@@ -20,7 +20,7 @@ presenters:
   company: Grove Collaborative
   github: ''
   name: Kate Kligman
-  photo_url: ''
+  photo_url: '/static/img/speakers/kate-kligman.jpg'
   twitter: KateKligman
   website: https://www.katekligman.com
 published: true

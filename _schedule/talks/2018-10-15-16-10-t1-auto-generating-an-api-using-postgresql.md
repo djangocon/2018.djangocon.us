@@ -24,7 +24,7 @@ presenters:
   company: Stepwise Real Estate Analytics
   github: ''
   name: Mjumbe Poe
-  photo_url: ''
+  photo_url: '/static/img/speakers/mjumbe-poe.jpg'
   twitter: mjumbewu
   website: ''
 published: true

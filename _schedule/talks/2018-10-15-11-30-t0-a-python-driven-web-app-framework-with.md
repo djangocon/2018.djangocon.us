@@ -10,15 +10,11 @@ difficulty: Advanced
 layout: session-details
 permalink: /talk/a-python-driven-web-app-framework-with/
 presenters:
-- bio: 'Henry and Kendall have been developing Python and Django applications at Ayasdi
-    for the past two years. Ayasdi is a machine intelligence company helping businesses
-    understand their data and optimize their processes. Previously, Kendall was a
-    co-organizer at the San Diego Python Users Group, and has given several Python-related
-    workshops and tutorials.'
+- bio: 'Henry and Kendall have been developing Python and Django applications at Ayasdi for the past two years. Ayasdi is a machine intelligence company helping businesses understand their data and optimize their processes. Previously, Kendall was a co-organizer at the San Diego Python Users Group, and has given several Python-related workshops and tutorials.'
   company: Ayasdi
   github: ''
   name: Kendall Chuang
-  photo_url: ''
+  photo_url: '/static/img/speakers/kendall-chuang.jpg'
   twitter: kendallchuang
   website: https://www.ayasdi.com/
 - bio: 'Henry has worked on Django projects for consulting firms

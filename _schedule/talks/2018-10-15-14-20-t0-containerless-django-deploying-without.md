@@ -26,7 +26,7 @@ presenters:
   company: Lincoln Loop
   github: ''
   name: Peter Baumgartner
-  photo_url: ''
+  photo_url: '/static/img/speakers/peter-baumgartner.jpg'
   twitter: ipmb
   website: https://lincolnloop.com/team/peter-baumgartner/
 published: true

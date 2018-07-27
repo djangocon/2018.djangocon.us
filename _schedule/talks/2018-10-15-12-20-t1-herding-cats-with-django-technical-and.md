@@ -41,7 +41,7 @@ presenters:
   company: Outreachy
   github: ''
   name: Sage Sharp
-  photo_url: ''
+  photo_url: '/static/img/speakers/sage-sharp.jpg'
   twitter: _sagesharp_
   website: https://outreachy.org
 published: true

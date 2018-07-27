@@ -18,7 +18,7 @@ presenters:
   company: '1990'
   github: ''
   name: Sara Heins
-  photo_url: ''
+  photo_url: '/static/img/speakers/sara-heins.jpg'
   twitter: Heins
   website: https://github.com/sheins
 published: true

@@ -23,12 +23,12 @@ presenters:
   twitter: ubernostrum
   website: http://www.b-list.org/
 published: true
-room: ''
+room: Balboa I & II
 sitemap: true
 slides_url: ''
 summary: ''
 title: Mastering the Django ORM
-track: ''
+track: t0
 video_url: ''
 ---
 

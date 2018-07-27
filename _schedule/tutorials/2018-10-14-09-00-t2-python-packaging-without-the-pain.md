@@ -29,12 +29,12 @@ presenters:
   twitter: purplediane88
   website: http://purplediane.github.io/
 published: true
-room: ''
+room: Cabrillo 1
 sitemap: true
 slides_url: ''
 summary: ''
 title: Python Packaging without the Pain
-track: ''
+track: t2
 video_url: ''
 ---
 

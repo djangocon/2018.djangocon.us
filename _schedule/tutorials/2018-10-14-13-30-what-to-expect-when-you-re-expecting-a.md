@@ -26,12 +26,12 @@ presenters:
   twitter: emilyemorehouse
   website: http://emilyemorehouse.com
 published: true
-room: ''
+room: Cabrillo 1
 sitemap: true
 slides_url: ''
 summary: ''
 title: 'What To Expect When You''re Expecting: A Hands-On Guide to Regression Testing'
-track: ''
+track: t2
 video_url: ''
 ---
 

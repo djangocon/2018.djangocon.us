@@ -20,12 +20,12 @@ presenters:
   twitter: phildini
   website: http://phildini.net
 published: true
-room: ''
+room: Sierra 5
 sitemap: true
 slides_url: ''
 summary: ''
 title: API-Driven Django
-track: ''
+track: t1
 video_url: ''
 ---
 

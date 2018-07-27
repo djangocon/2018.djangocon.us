@@ -23,12 +23,12 @@ presenters:
   twitter: jacindashelly
   website: https://github.com/jacinda
 published: true
-room: ''
+room: Balboa I & II
 sitemap: true
 slides_url: ''
 summary: ''
 title: 'Web Application Security with Django: A Hands-On Tutorial'
-track: ''
+track: t0
 video_url: ''
 ---
 

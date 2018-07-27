@@ -18,7 +18,7 @@ presenters:
   company: ''
   github: ''
   name: William S. Vincent
-  photo_url: ''
+  photo_url: '/static/img/speakers/william-s-vincent.jpg'
   twitter: wsv3000
   website: https://wsvincent.com/
 published: true

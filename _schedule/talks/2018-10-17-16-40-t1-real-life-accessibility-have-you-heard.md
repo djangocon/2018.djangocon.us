@@ -16,7 +16,7 @@ presenters:
   company: American Well
   github: ''
   name: Mike Herring
-  photo_url: ''
+  photo_url: '/static/img/speakers/mike-herring.jpg'
   twitter: ''
   website: ''
 published: true

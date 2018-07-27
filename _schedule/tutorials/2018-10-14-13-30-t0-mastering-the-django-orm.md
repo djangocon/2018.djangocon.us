@@ -19,7 +19,7 @@ presenters:
   company: ''
   github: ''
   name: James Bennett
-  photo_url: ''
+  photo_url: '/static/img/speakers/james-bennett.jpg'
   twitter: ubernostrum
   website: http://www.b-list.org/
 published: true

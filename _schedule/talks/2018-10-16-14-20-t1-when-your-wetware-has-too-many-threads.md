@@ -17,7 +17,7 @@ presenters:
   company: Nexmo
   github: ''
   name: Aaron Bassett
-  photo_url: ''
+  photo_url: '/static/img/speakers/aaron-bassett.jpg'
   twitter: aaronbassett
   website: http://lookasquirrel.co/
 published: true

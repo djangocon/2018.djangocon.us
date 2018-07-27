@@ -19,7 +19,7 @@ presenters:
   company: Truthful Technology, LLC
   github: ''
   name: Trey Hunner
-  photo_url: ''
+  photo_url: '/static/img/speakers/trey-hunner.jpg'
   twitter: treyhunner
   website: http://treyhunner.com
 published: true

@@ -22,7 +22,7 @@ presenters:
   company: we45
   github: ''
   name: Tilak T
-  photo_url: ''
+  photo_url: '/static/img/speakers/tilak-t.jpg'
   twitter: ti1lakt
   website: ''
 published: true

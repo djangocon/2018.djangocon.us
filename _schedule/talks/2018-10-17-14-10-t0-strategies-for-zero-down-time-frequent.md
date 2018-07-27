@@ -16,7 +16,7 @@ presenters:
   company: Canopy
   github: ''
   name: Nick Humrich
-  photo_url: ''
+  photo_url: '/static/img/speakers/nick-humrich.jpg'
   twitter: nhumrich
   website: http://blog.humrich.us
 published: true

@@ -21,7 +21,7 @@ presenters:
   company: Clover Health
   github: ''
   name: Nicole Zuckerman
-  photo_url: ''
+  photo_url: '/static/img/speakers/nicole-zuckerman.jpg'
   twitter: zuckerpunch
   website: ''
 published: true

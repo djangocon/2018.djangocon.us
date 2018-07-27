@@ -17,7 +17,7 @@ presenters:
   company: Vinta Software
   github: ''
   name: "Fl\xE1vio Juvenal"
-  photo_url: ''
+  photo_url: '/static/img/speakers/flavio-juvenal.jpg'
   twitter: flaviojuvenal
   website: https://www.vinta.com.br/
 published: true

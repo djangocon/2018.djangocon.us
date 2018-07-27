@@ -19,7 +19,7 @@ presenters:
   company: Doctor On Demand
   github: ''
   name: Jacinda Shelly
-  photo_url: ''
+  photo_url: '/static/img/speakers/jacinda-shelly.jpg'
   twitter: jacindashelly
   website: https://github.com/jacinda
 published: true

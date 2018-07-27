@@ -23,7 +23,7 @@ presenters:
   company: ''
   github: ''
   name: Hayley Denbraver
-  photo_url: ''
+  photo_url: '/static/img/speakers/hayley-denbraver.jpg'
   twitter: hayleydenb
   website: ''
 published: true

@@ -17,7 +17,7 @@ presenters:
   company: rami.io Software development
   github: ''
   name: Raphael Michel
-  photo_url: ''
+  photo_url: '/static/img/speakers/raphael-michel.jpg'
   twitter: _rami_
   website: https://www.raphaelmichel.de
 published: true

@@ -22,7 +22,7 @@ presenters:
   company: Cuttlesoft
   github: ''
   name: Emily Morehouse-Valcarcel
-  photo_url: ''
+  photo_url: '/static/img/speakers/emily-morehouse-valcarcel.jpg'
   twitter: emilyemorehouse
   website: http://emilyemorehouse.com
 published: true

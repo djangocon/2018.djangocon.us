@@ -17,7 +17,7 @@ presenters:
   company: ''
   github: ''
   name: "\u017Dan Anderle"
-  photo_url: ''
+  photo_url: '/static/img/speakers/zan-anderle.jpg'
   twitter: z_anderle
   website: http://zanderle.com
 published: true

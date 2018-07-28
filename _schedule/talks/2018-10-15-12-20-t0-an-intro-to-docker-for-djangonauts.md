@@ -34,35 +34,3 @@ In this talk, you will find that middle ground: a talk that doesn't assume you'r
 Audience: Djangonauts who are curious about Docker, need to learn to use it for work or personal projects, or who seek a better understanding of containers in general. Audience members might be beginners to Python/Django or not, but they are definitely beginners to containerizing all the things.
 
 The audience should be familiar with basic Python concepts such as variables and running things from the command line. Some basic familiarity with Django would be helpful, but beginner Djangonauts will be able to follow along.
-
-
-## Outline
-
-1. Introduction - Who am I?
-2. What is Docker? Why use it?
-    - Eliminates "it works on my machine" problems
-    - Never install anything globally ever again
-    - Great for working with teams
-3. Docker definitions
-    - Image
-    - Container
-    - Dockerfile
-    - Where do virtual environments fit in?
-4. Dockerfile
-    - Go through parts: Python image, setting environment variables, dealing with `requirements.txt`, set working directory, expose port
-5. Docker Compose
-    - Allows you to run more than one container in a Docker application
-    - Useful for running multiple services like your web server, database, Redis, etc. in separate containers as part of one Docker application
-   - `docker-compose.yml`
-    - Version
-    - Define services
-    - Explain volumes
-    - Run commands from services, like `runserver`
-    - Define dependencies
-6. Docker on the Command Line
-    - `docker-compose up`
-    - `manage.py` commands (`docker-compose run web ./manage.py [command]`)
-    - running tests (`docker-compose run web py.test` [or `./runtests.py`])
-    - opening a shell (`docker-compose run web bash`)
-    - viewing containers (`docker ps`) and entering a container
-    - `docker-compose down`

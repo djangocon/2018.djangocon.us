@@ -9,7 +9,7 @@ description: |
     As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US
 ---
 
-Our financial aid application is now closed. Decision notifications will be sent by July 9th, 2018.
+Our financial aid application is now closed and all decision notifications have been sent.
 
 If you have any questions, feel free to reach out to the financial aid team at [{{ site.financial_aid_email }}](mailto:{{ site.financial_aid_email }}).
 
@@ -25,7 +25,7 @@ Your organization can help increase diversity at DjangoCon US by contributing to
 
 ### When will I find out whether I've received financial aid?
 
-We will let you know by July 9th, 2018.
+You should have received your notification. If you haven't, please email the financial aid team at [{{ site.financial_aid_email }}](mailto:{{ site.financial_aid_email }}).
 
 ### Do I need to be a speaker, first time attendee, or a member of an underrepresented group to receive aid?
 

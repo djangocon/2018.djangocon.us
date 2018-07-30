@@ -9,7 +9,7 @@ title: "The schedule is live!"
 
 :tada: It's finally here! We're thrilled to present our <a href="/schedule">conference schedule</a>.
 
-We will release the program on [Guidebook](https://guidebook.com/) closer to the conference, but in the meantime you should take a peak and the amazing talks, thrilling deep-dives, thought-provoking tutorials, and generally magnificent presentations we have in store for you this year.
+We will release the program on [Guidebook](https://guidebook.com/) closer to the conference, but in the meantime you should take a peek and the amazing talks, thrilling deep-dives, thought-provoking tutorials, and generally magnificent presentations we have in store for you this year.
 
 Once you've picked out the talks you just can't miss and the tutorials that will help you solve the programmatic mysteries that have been plaguing you, head over to [buy your ticket]({{ site.tickets_link }}) before they're all gone!
 

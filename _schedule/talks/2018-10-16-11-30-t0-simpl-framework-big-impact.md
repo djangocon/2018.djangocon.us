@@ -1,5 +1,5 @@
 ---
-abstract: SIMPL is the first of its kind, open source simulation platform.  Our platform
+abstract: Simpl is the first of its kind, open source simulation platform.  Our platform
   has lowered the barrier of entry for schools to create their own interactive and
   compelling educational experiences.  Learn about what we did, why it matters, and
   how this will change the higher ed simulation field.
@@ -34,7 +34,7 @@ room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''
-title: SIMPL framework, big impact!
+title: Simpl framework, big impact!
 track: t0
 video_url: ''
 ---
@@ -43,7 +43,7 @@ Drawing upon decades of simulation and higher education experience, the Alfred W
 
 Simpl‘s server side is built on Python/Django and open source WAMP technologies. On the front end, Simpl uses JavaScript frameworks including React, Redux, and Autobahn. Combined, these constitute a framework for developing single and multiplayer simulations.
 
-In this talk you will learn about simulations in the higher education space, how we developed and implemented SIMPL, a demo of our first SIMPL simulation, and why we think this Python/Django fueled simulation platform will have a seismic impact on the burgeoning edtech field.
+In this talk you will learn about simulations in the higher education space, how we developed and implemented Simpl, a demo of our first Simpl simulation, and why we think this Python/Django fueled simulation platform will have a seismic impact on the burgeoning edtech field.
 
 Tentative outline of talk:
 

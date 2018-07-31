@@ -1,5 +1,5 @@
 ---
-abstract: Simpl is the first of its kind, open source simulation platform.  Our platform
+abstract: SIMPL is the first of its kind, open source simulation platform.  Our platform
   has lowered the barrier of entry for schools to create their own interactive and
   compelling educational experiences.  Learn about what we did, why it matters, and
   how this will change the higher ed simulation field.
@@ -34,24 +34,24 @@ room: 'Salon A-E'
 sitemap: true
 slides_url: ''
 summary: ''
-title: Simpl framework, big impact!
+title: SIMPL Framework, Big Impact!
 track: t0
 video_url: ''
 ---
 
-Drawing upon decades of simulation and higher education experience, the Alfred West Jr. Learning Lab at the Wharton School set out to create it's own in-house developed simulation platform to accelerate our simulation delivery capabilities.  However, what began as a white boarding session two years ago, morphed into the first of its kind open source simulation platform.  Simpl will not only fuel the next generation of simulations written at the Wharton School, but it is our hope it will serve the foundation for countless other simulations at other schools around the world.  Our open source platform puts tools in the hands of any developer who has the curiosity to create a simulation, tools that were previously unobtainable due to cost.  The Learning Lab partnered with RevSys, and relying upon Python/Django and a slew of other open source tools, we were able to deliver our first simulation written in Simpl in November of 2017.
+Drawing upon decades of simulation and higher education experience, the Alfred West Jr. Learning Lab at the Wharton School set out to create it's own in-house developed simulation platform to accelerate our simulation delivery capabilities.  However, what began as a white boarding session two years ago, morphed into the first of its kind open source simulation platform.  SIMPL will not only fuel the next generation of simulations written at the Wharton School, but it is our hope it will serve the foundation for countless other simulations at other schools around the world.  Our open source platform puts tools in the hands of any developer who has the curiosity to create a simulation, tools that were previously unobtainable due to cost.  The Learning Lab partnered with RevSys, and relying upon Python/Django and a slew of other open source tools, we were able to deliver our first simulation written in SIMPL in November of 2017.
 
-Simpl‘s server side is built on Python/Django and open source WAMP technologies. On the front end, Simpl uses JavaScript frameworks including React, Redux, and Autobahn. Combined, these constitute a framework for developing single and multiplayer simulations.
+SIMPL's server side is built on Python/Django and open source WAMP technologies. On the front end, SIMPL uses JavaScript frameworks including React, Redux, and Autobahn. Combined, these constitute a framework for developing single and multiplayer simulations.
 
-In this talk you will learn about simulations in the higher education space, how we developed and implemented Simpl, a demo of our first Simpl simulation, and why we think this Python/Django fueled simulation platform will have a seismic impact on the burgeoning edtech field.
+In this talk you will learn about simulations in the higher education space, how we developed and implemented SIMPL, a demo of our first SIMPL simulation, and why we think this Python/Django fueled simulation platform will have a seismic impact on the burgeoning edtech field.
 
 Tentative outline of talk:
 
 * About the Learning Lab and simulations
 * The barrier to develop simulations
-* Why we chose to develop Simpl and make it open source
-* Simpl design process
-* Experience writing first Simpl simulation
+* Why we chose to develop SIMPL and make it open source
+* SIMPL design process
+* Experience writing first SIMPL simulation
 * Technical deep dive
-* Demo of first Simpl sim
+* Demo of first SIMPL sim
 * Where we are, next steps

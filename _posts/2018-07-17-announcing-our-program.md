@@ -55,7 +55,7 @@ Congratulations to the presenters of the 6 tutorials and 40 talks below!
 - Python on your phone: Building mobile apps with Kivy (Derek Payton)
 - Real Life Accessibility: Have you HEARD your site? (Mike Herring)
 - Serverless Django with Zappa (Dane Hillard)
-- SIMPL framework, big impact! (Joseph Lee & Jane Eisenstein)
+- Simpl framework, big impact! (Joseph Lee & Jane Eisenstein)
 - Strategies for Zero Down Time, Frequent Deployments (Nick Humrich)
 - Transfer those Skills! How to Identify, Communicate, and Sell your Transferable Skills when Switching Careers (Caroline Taylor & Rebekah Post)
 - Unique ways to Hack into a Python Web Service (Tilak T)

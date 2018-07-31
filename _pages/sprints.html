@@ -11,11 +11,6 @@ sitemap: true
 <section class="section-pad schedule">
   <div class="row column">
     <h2 class="day">Sprints: Thursday, October 18</h2>
-    {% comment %}
-    <p class="lead">
-      Tutorials are a separate registration and are TBD per session. Buy tutorial tickets before they sell out!
-    </p>
-    {% endcomment %}
     <ul class="schedule">
       {% for post in site.schedule %}
         {% capture day %}{{ post.date | date: "%A" }}{% endcapture %}

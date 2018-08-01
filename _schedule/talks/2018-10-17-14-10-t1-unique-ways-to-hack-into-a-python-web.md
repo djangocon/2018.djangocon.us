@@ -23,7 +23,7 @@ presenters:
   github: ''
   name: Tilak T
   photo_url: '/static/img/speakers/tilak-t.jpg'
-  twitter: ti1lakt
+  twitter: ti1akt
   website: ''
 published: true
 room: 'Salon F-H'

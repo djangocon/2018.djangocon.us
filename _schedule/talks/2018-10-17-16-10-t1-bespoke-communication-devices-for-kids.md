@@ -38,11 +38,11 @@ This talk will detail my experience building an Augmentative Alternative Communi
 I want to give this talk to inspire other developers to try their hand at building bespoke assistive devices. Commercially available medical assistive devices are expensive partly because they try to be everything to everybody. What if instead, we made products that do one thing for one specific user very well?
 
 This outline shows what I will cover in my talk:
-Find a need and fill it
-Django on Linux
-Interface prototyping
-Gesture recognition for touchscreen
-Custom enclosures with NO 3D printing
-Everyone needs to become an inventor
+* Find a need and fill it
+* Django on Linux
+* Interface prototyping
+* Gesture recognition for touchscreen
+* Custom enclosures with NO 3D printing
+* Everyone needs to become an inventor
 
 This talk is for people who are curious about running Django in an embedded system (development server as the production environment). People who are interested in Debian Linux will also find this talk interesting. I would love to reach the autism community and people who want to build assistive technology. To get the most out of this talk, attendees should have a basic knowledge of how to perform a command line Django installation and what a raspberry pi is.

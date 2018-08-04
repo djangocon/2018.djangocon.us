@@ -1,10 +1,11 @@
 <li
   class="event
-  {% if post.room == "Audobon" %}loc-alt
-  {% elsif post.room == "Ballrooms B and C" %}loc-alt
-  {% elsif post.room == "Manito" %}loc-alt-2
-  {% elsif post.room == "Ballroom A" %}loc-alt-2
-  {% elsif post.room == "Ballroom B" %}loc-alt-3
+  {% if post.room == "Salon A-E" %}loc-main
+  {% elsif post.room == "Salon F-H" %}loc-alt-3
+  {% elsif post.room == "Rio Vista Pavilion" %}loc-alt
+  {% elsif post.room == "Balboa I & II" %}loc-main
+  {% elsif post.room == "Sierra 5" %}loc-alt-3
+  {% elsif post.room == "Cabrillo 1" %}loc-alt-2
   {% else %}loc-main
   {% endif %}
 

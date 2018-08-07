@@ -5,7 +5,7 @@ abstract: "Microservices are taking over the world. Rest-framework is accelerati
   \ which leads to compromised and exploited applications."
 accepted: true
 category: talk
-date: 2018-10-17 14:10:00 -0500
+date: 2018-10-17 14:20:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/unique-ways-to-hack-into-a-python-web/

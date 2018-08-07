@@ -4,7 +4,7 @@ abstract: Deploying without any downtime, allows you to deploy more often, which
   more often, more comfortably, without taking any downtime.
 accepted: true
 category: talk
-date: 2018-10-17 14:10:00 -0500
+date: 2018-10-17 14:20:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/strategies-for-zero-down-time-frequent/

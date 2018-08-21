@@ -7,7 +7,7 @@ image: /static/img/blog/chloe_keynote.png
 title: "Announcing Our Keynotes: Chloe Condon"
 ---
 
-We are so excited to announce our next keynote speaker for DjangoCon US 2018: Chloe Condon!
+We are so excited to announce our first keynote speaker for DjangoCon US 2018: Chloe Condon!
 
 <img src="/static/img/blog/chloe_keynote.png" alt="Photo of Chloe Condon" style="width:45%; display:block; float:right;" />
 

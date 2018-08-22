@@ -12,9 +12,9 @@ description: Resources to support DjangoCon 2018 speakers
 * The Quiet Room will be in Willow I on all conference days.
 {% endcomment %}
 
-## Need some help with your proposal?
+## Need some help with your presentation?
 
-Presenters, regardless of experience, sometimes want a little help. If you’d like any help in proposing, preparing, or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
+Presenters, regardless of experience, sometimes want a little help. If you’d like any help in preparing or presenting your talk, some awesome members of our community have volunteered to be speaker mentors. A mentor is an experienced presenter who has volunteered to help other presenters. For first-time presenters, non-native English speakers, under-confident or uncertain speakers, or anyone who would just appreciate another set of eyes, our mentors will be here to help. You’ll get the best results by forming a relationship with one mentor, rather than contacting several.
 
 * [Adrienne Lowe](mailto:adrienne@djangoproject.com), DSF Director of Advancement, DjangoCon US and Django Girls Atlanta organizer.
 * [Anna Ossowski](mailto:annabell.ossowski@gmail.com), Developer Relations at Elastic, speaker, mentor, PyCon Open Spaces advisor, DjangoCon Diversity Chair, Django Girls Omaha and San Francisco organizer, PyLadies Remote co-lead.

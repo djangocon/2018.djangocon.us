@@ -1,7 +1,7 @@
 ---
 layout: base
 
-level: 'Gold'
+level: 'Silver'
 name: "Caktus Group"
 logo: "/static/img/sponsors/caktuslogo.png"
 logo_orientation: landscape

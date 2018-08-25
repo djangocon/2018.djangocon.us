@@ -3,7 +3,7 @@ layout: base
 
 level: 'Bronze'
 name: "Eastridge Workforce Solutions"
-logo: "/static/img/sponsors/Eastridge_Workforce_Solutions.eps"
+logo: "/static/img/sponsors/EastridgeWFSolutions.png"
 logo_orientation: "landscape"
 url_target: "http://www.eastridge.com/"
 url_friendly: "www.eastridge.com"

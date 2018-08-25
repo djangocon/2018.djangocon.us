@@ -9,34 +9,23 @@ description: |
     As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US
 ---
 
-## Apply for Financial Aid!
+Our financial aid application is now closed and all decision notifications have been sent.
 
-As part of our commitment to diversity, we are thrilled to announce that we will be supporting individuals who need financial assistance to attend DjangoCon US.
+If you have any questions, feel free to reach out to the financial aid team at [{{ site.financial_aid_email }}](mailto:{{ site.financial_aid_email }}).
 
-{% comment %}
-<div class="row column">
-    <div class="medium-5 medium-centered column">
-        <div class="button-group expanded">
-            <a class="button hollow theme-shakespeare" href="{{ site.financial_aid_application }}">Apply for Financial Aid</a>
-        </div>
-    </div>
-</div>
-{% endcomment %}
-
-{% comment %}
-[Django Events Foundation North America (DEFNA)](http://www.defna.org/), [The Django Software Foundation](https://www.djangoproject.com/foundation/), and the [Python Software Foundation](https://www.python.org/psf/) have each donated to help meet the cost of tickets, travel, and accommodation for attendees who need financial support. If you will not be able to attend DjangoCon US without financial help, we strongly encourage you to apply for financial aid.{% endcomment %}
-
-In addition, speakers will be provided with free conference tickets.
-
-{% comment %}
-You can apply for financial aid by filling out [the application]({{ site.financial_aid_application }}). You’ll need to provide your name, the amount you’re requesting, and some information about why you’re requesting funding.  Applications need to be submitted by April 10th in order to be considered.
-{% endcomment %}
+<br>
 
 ## Diversity Sponsorships
 
 Your organization can help increase diversity at DjangoCon US by contributing to the Financial Aid fund. Please check out our [sponsorship information page](/sponsors/information/) for more information.
 
+<br>
+
 ## Frequently Asked Questions
+
+### When will I find out whether I've received financial aid?
+
+You should have received your notification. If you haven't, please email the financial aid team at [{{ site.financial_aid_email }}](mailto:{{ site.financial_aid_email }}).
 
 ### Do I need to be a speaker, first time attendee, or a member of an underrepresented group to receive aid?
 

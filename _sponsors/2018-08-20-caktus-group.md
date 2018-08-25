@@ -8,12 +8,14 @@ logo_orientation: landscape
 url_target: "https://www.caktusgroup.com/"
 url_friendly: "caktusgroup.com"
 description: |
-    Caktus is a leading web development firm in the US, building custom
-    web applications and mobile tools for businesses and social good.
-    Major projects include the development of Libya's SMS voter
-    registration system, the first of its kind in the world, and a
-    digital archiving system for the world’s largest on-demand video
-    provider, iN DEMAND. Past and current clients include UNICEF,
-    Discovery Communications, the University of North Carolina, the
-    Specialty Food Association, and Mozilla.
+    Caktus has grown sharp web and SMS applications for business, 
+    higher education, and social good since 2007. Our award-winning, 
+    Agile teams focus on developing for impact and scalability. 
+    We specialize in custom Django apps, but also offer discovery 
+    workshops, best practices consulting, and team augmentation. As a 
+    full-service shop, Caktus commits to maintaining each project with 
+    managed hosting and ongoing Django upgrades. Past and current 
+    clients include Mozilla, UChicago, PBS, Discovery Communications 
+    and others in media, travel, education, finance, and health 
+    research.
 ---

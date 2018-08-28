@@ -17,7 +17,7 @@ presenters:
     two dogs, and one cat as well as brewing beer, hiking, cooking, and
     watching various sports.
   company: Rackspace
-  github: ''
+  github: drewbrew
   name: Drew Winstel
   photo_url: '/static/img/speakers/drew-winstel.jpg'
   twitter: hops_and_smoke

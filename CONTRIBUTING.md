@@ -1,6 +1,6 @@
 # Contributing to DjangoCon US 2018
 
-:thumbsup: :tada: Thank you so much for taking the time to contribute! :tada: :thumbsup: 
+:thumbsup: :tada: Thank you so much for taking the time to contribute! :tada: :thumbsup:
 
 The following is a set of guidelines for contributing to DjangoCon US 2018.
 
@@ -20,17 +20,17 @@ Here's a quick guide to help you understand what the different difficulty labels
 
 ## Reporting bugs
 
-If you find any bugs, it would be great if you would let us know so we can look into it. You can do so by creating an issue. If you don't know how to create an issue, please follow [these instructions](https://help.github.com/articles/creating-an-issue/). Screenshots and notes for how you encountered the bug are really helpful when reporting bugs! 
+If you find any bugs, it would be great if you would let us know so we can look into it. You can do so by creating an issue. If you don't know how to create an issue, please follow [these instructions](https://help.github.com/articles/creating-an-issue/). Screenshots and notes for how you encountered the bug are really helpful when reporting bugs!
 
 
 ## Creating Pull Requests
 
-After you've created a patch that fixes an issue, please submit a pull request for it. If you're not sure how to create a pull request, please follow [these instructions](https://help.github.com/articles/creating-a-pull-request/). In general we'd like to ask you to please target the **development** branch with your pull requests.
+After you've created a patch that fixes an issue, please submit a pull request for it. If you're not sure how to create a pull request, please follow [these instructions](https://help.github.com/articles/creating-a-pull-request/). In general we'd like to ask you to please target the master branch with your pull requests.
 
 
 ## Reviewing Issues and Pull Requests
 
-You're welcome to review issues and pull requests, provide feedback, and answer questions. Please remember to be friendly and respectful when commenting on issues or pull requests, and always follow our [Code of Conduct](https://www.djangoproject.com/conduct/). It's okay for people to make mistakes and ask questions! 
+You're welcome to review issues and pull requests, provide feedback, and answer questions. Please remember to be friendly and respectful when commenting on issues or pull requests, and always follow our [Code of Conduct](https://www.djangoproject.com/conduct/). It's okay for people to make mistakes and ask questions!
 
 
 ## How Can I Get Help?

@@ -10,7 +10,7 @@ difficulty: Intermediate
 layout: session-details
 permalink: /talk/packaging-django-apps-for-distribution/
 presenters:
-- bio: Laura Hampton is a Python developer living in New York City.
+- bio: Laura Hampton is a Solutions Engineer at Datadog, and lives in New York City.
   company: ''
   github: ''
   name: 'Laura Hampton '

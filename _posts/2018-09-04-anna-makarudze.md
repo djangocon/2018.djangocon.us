@@ -15,4 +15,4 @@ Anna is currently the Fundraising Coordinator for the [Django Girls Foundation](
 
 Anna's keynote will dive into her journey with coding, what got her interested in programming and why she chose Python despite the language not being popular in her region. She will also talk about her journey learning to code in Python and how her involvement in the Python community as a beginner has helped her grow and develop her coding skills. She will share what mentorship means to her and how positive mentorship can impact the lives of many beginner coders.
 
-Don't miss Anna's keynote! [Buy your ticket]({{ site.tickets_link }}) today!
+Don't miss Anna's keynote! [Buy your ticket]({{site.tickets_link}}) today!

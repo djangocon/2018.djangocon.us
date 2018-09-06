@@ -13,7 +13,7 @@ Are you attending DjangoCon US 2018 in San Diego, California, but you are not fr
 
 - **Visa**: Check the [State Department’s website](https://travel.state.gov/content/visas/en.html) for information about US visas. You may be eligible for a visa waiver program (which is an online form—no embassy visit required) or you may need to apply for a visa at the [US consulate](https://www.usembassy.gov/) in your country or neighboring country.
 
-- **Valid Passport**: A passport which will expire in a minimum of six months before the date of departure is highly recommended. However, your embassy will have more up-to-date information on this.
+- **Valid Passport**: A passport which will expire in a minimum of six months after the date of departure is highly recommended. However, your embassy will have more up-to-date information on this.
 
 - **Accommodation**: If you are staying in the conference hotel, [book your room here](https://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=DjangoCon%20US%202018%5Esanmv%60djcdjca%60169.00%60USD%60false%604%6010/13/18%6010/20/18%609/13/18&app=resvlink&stop_mobi=yes). Our conference rate expires on Sept. 13, 2018.
 

@@ -11,29 +11,39 @@
 
   ">
   {% unless post.room == 'filler' %}
-    <a href="{{ post.permalink }}" class="event-content">
-      {% if post.title %}
-        <h3 class="event-title">{{ post.title }}</h3>
-      {% endif %}
-      {% if post.difficulty %}
-        <span class="label" aria-label="Audience level:">{{ post.difficulty }}</span>
-      {% endif %}
-      {% if post.room %}
-        <p class="location">{{ post.room }}</p>
-      {% endif %}
-      {% if post.presenters %}
-        {% for presenter in post.presenters %}
-        <p class="event-byline">
-          {% if presenter.photo_url != blank %}
-          <img
-            class="avatar"
-            src="{{ presenter.photo_url }}"
-            alt="Photo of {{ presenter.presenters }}" />
-          {% endif %}
-          {{ presenter.name }}
-        </p>
-        {% endfor %}
-      {% endif %}
-    </a>
+    {% if post.permalink %}
+      <a href="{{ post.permalink }}" class="event-content">
+    {% else %}
+      <article class="event">
+    {% endif %}
+
+        {% if post.title %}
+          <h3 class="event-title">{{ post.title }}</h3>
+        {% endif %}
+        {% if post.difficulty %}
+          <span class="label" aria-label="Audience level:">{{ post.difficulty }}</span>
+        {% endif %}
+        {% if post.room %}
+          <p class="location">{{ post.room }}</p>
+        {% endif %}
+        {% if post.presenters %}
+          {% for presenter in post.presenters %}
+          <p class="event-byline">
+            {% if presenter.photo_url != blank %}
+            <img
+              class="avatar"
+              src="{{ presenter.photo_url }}"
+              alt="Photo of {{ presenter.presenters }}" />
+            {% endif %}
+            {{ presenter.name }}
+          </p>
+          {% endfor %}
+        {% endif %}
+
+    {% if post.permalink %}
+      </a>
+    {% else %}
+      </article>
+    {% endif %}
   {% endunless %}
 </li>

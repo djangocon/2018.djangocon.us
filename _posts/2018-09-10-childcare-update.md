@@ -1,9 +1,9 @@
 ---
 author: David Fischer
 category: General
-date: 2018-09-10 00:00:00
+date: 2018-09-10 06:00:00
 layout: post
-image: /static/img/blog/childcare.png
+image: /static/img/blog/childcare-info.png
 title: "Childcare updates"
 ---
 

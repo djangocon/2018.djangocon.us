@@ -15,4 +15,4 @@ The San Diego Marriott pointed us to [Destination Sitters](https://www.destinati
 * **Payment:** DjangoCon US will reimburse you for childcare (up to $100 for one child and 50% for 2 or more children per day) with a receipt. To request a reimbursement, please email [hello@defna.org](mailto:hello@defna.org). Destination Sitters' [rates are posted on their website](https://www.destinationsitters.com/about-us/#sdca).
 * **Other accommodations:** Destination Sitters is not exclusive to the Marriott. If you are staying at another hotel or at a private rental, they can still help.
 
-We look forward to seeing you in a few months in San Diego!
+We look forward to seeing you in San Diego!

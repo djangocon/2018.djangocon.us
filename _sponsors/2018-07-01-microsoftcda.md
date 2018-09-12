@@ -3,7 +3,7 @@ layout: base
 
 level: 'Silver'
 name: "Microsoft's Cloud Developer Advocates"
-logo: "/static/img/sponsors/microsoftcda.png"
+logo: "/static/img/sponsors/MS-Azure_logo_horiz_c-gray_rgb.png"
 logo_orientation: portrait
 url_target: "https://developer.microsoft.com/en-us/advocates/index.html"
 url_friendly: "developer.microsoft.com/en-us/advocates/"

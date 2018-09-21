@@ -37,7 +37,7 @@ Presenters, regardless of experience, sometimes want a little help. If you’d l
 * Use Keynote, PowerPoint, Open Office, or Google Presentations for your slides.
 * Minimal slides are best—avoid walls of text and long lists of bullets.
 * Aim for high contrast slides, avoiding colors that may be difficult to see for those with colorblindness. (You can [check your contrast online](http://webaim.org/resources/contrastchecker/); you just need the hex codes for your colors!)
-* Light background with dark text is easiest to read; be mindful that the projector is white.
+* Light background with dark text is easiest to read; be mindful that the projection screen is white.
 * Make text as large as possible, at least 68pt.
 * Choose fonts with adequate spacing between letters, and avoid thin or cursive fonts.
 * Leave the bottom ⅓ of your slides free of text to ensure nothing is obscured.

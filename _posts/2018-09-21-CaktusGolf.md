@@ -4,7 +4,7 @@ category: Sponsorship
 date: 2018-09-21 12:30:02
 layout: post
 image: /static/img/blog/caktusgolf.png
-title: "Are you Game? Play Mini Golf & Meet the Caktus Team"
+title: "Are You Game? Play Mini Golf & Meet the Caktus Team"
 ---
 
 <img src="/static/img/blog/caktusgolf.jpg" style="width:45%; display:block; float:center;" />

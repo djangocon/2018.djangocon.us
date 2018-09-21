@@ -7,7 +7,7 @@ image: /static/img/blog/caktusgolf.png
 title: "Are You Game? Play Mini Golf & Meet the Caktus Team"
 ---
 
-<img src="/static/img/blog/caktusgolf.jpg" style="width:45%; display:block; float:center;" />
+<img src="/static/img/blog/caktusgolf.jpg" />
 
 Play a free round of mini golf with the Caktus team! This is the ninth
 year [Caktus Group](https://www.caktusgroup.com/?utm_source=djangoconsite&utm_medium=blog01&utm_campaign=djangocon2018)

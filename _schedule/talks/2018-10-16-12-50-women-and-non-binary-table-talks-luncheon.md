@@ -12,5 +12,5 @@ presenters:
   photo_url: "/static/img/sponsors/microsoftcda-2.png"
 
 date: 2018-10-16 12:50:00 -0500
-room: Balboa 1-2
+room: Balboa I & II
 ---

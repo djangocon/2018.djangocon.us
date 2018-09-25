@@ -7,12 +7,12 @@ image: /static/img/blog/around-town.jpg
 title: "Around Town in San Diego"
 ---
 
-In addition to blue skies and sunny beaches (hopefully), San Diego has a number of other attractions, sights, and restaurants for all kinds of visitors to Djangocon US.
+In addition to blue skies and sunny beaches (hopefully), San Diego has a number of other attractions, sights, and restaurants for all kinds of visitors to DjangoCon US.
 
 
 ## Getting around
 
-In addition to major rideshare providers and taxis, San Diego features a light rail system locally referred to as the San Diego Trolley which has a station just across the street from the conference venue. The trolley services downtown San Diego, Old Town San Diego, and goes all the way to the Mexican border.
+In addition to major rideshare providers and taxis, San Diego features a light rail system locally referred to as the [San Diego Trolley](https://sdmts.com/) which has a station just across the street from the conference venue. The trolley services downtown San Diego, Old Town San Diego, and goes all the way to the Mexican border.
 
 
 ## Things to do

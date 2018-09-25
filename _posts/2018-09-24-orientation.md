@@ -3,7 +3,7 @@ author: Kojo Idrissa
 category: Program
 date: 2018-09-24 06:00:00
 layout: post
-image: 
+image: /static/img/blog/orientation.png
 title: "DjangoCon US 2018 Orientation Event"
 ---
 

@@ -8,7 +8,7 @@ abstract: 'In this talk, we''ll see how we make a language agnostic backend, to 
   third-party services.'
 accepted: true
 category: talk
-date: 2018-10-15 17:40:00 -0500
+date: 2018-10-15 17:30:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/becoming-a-multilingual-superhero-in/

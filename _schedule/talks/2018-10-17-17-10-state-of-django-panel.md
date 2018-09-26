@@ -39,7 +39,7 @@ and much more. It's been a long time since we gathered leaders of the Django com
 - Anna Makarudze
 - Frank Wiles
 - Jeff Triplett
+- Josue Balandrano Coronel
 - Katherine Michel
 - Kojo Idrissa
-- Josue Balandrano Coronel
 - Rachell Calhoun

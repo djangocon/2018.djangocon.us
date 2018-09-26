@@ -1,7 +1,7 @@
 ---
 author: David Fischer
 category: General
-date: 2018-10-01 06:00:00
+date: 2018-09-27 06:00:00
 layout: post
 image: /static/img/blog/around-town.jpg
 title: "Around Town in San Diego"

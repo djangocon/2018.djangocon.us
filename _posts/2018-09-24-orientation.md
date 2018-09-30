@@ -19,4 +19,4 @@ Orientation is something we do to help attendees get off to a great start. In th
 We'll have a brief but informative presentation by Kojo Idrissa, our Orientation Chair. We'll start with some basic housekeeping around maximizing your safety and comfort in a large crowd of strangers. We'll then get into helping you figure out how to get the most from DjangoCon US for YOU.
 
 ## When and Where?
-The Orientation will be Monday, October 14 at 9 am in Salon A-E. That will give you plenty of time to [register and eat breakfast](https://2018.djangocon.us/talks/). As an added bonus, the Opening and Keynote start at 9:30 am in the same place. So, you'll be registered, well-fed, oriented, and ready to start your DjangoCon US adventure!
+The Orientation will be Monday, October 15 at 9 am in Salon A-E. That will give you plenty of time to [register and eat breakfast](https://2018.djangocon.us/talks/). As an added bonus, the Opening and Keynote start at 9:30 am in the same place. So, you'll be registered, well-fed, oriented, and ready to start your DjangoCon US adventure!

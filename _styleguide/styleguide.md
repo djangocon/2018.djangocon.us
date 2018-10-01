@@ -62,7 +62,7 @@ years with minimal alterations.
     <img src="https://djangocon.github.io/resources/us-2018/logo/logo.svg" alt="DjangoCon US Logo">
     <ul class="download-links">
       <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo.svg" download>logo-color.svg</a></li>
-      <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo.png" download>logo-color.svg</a></li>
+      <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo.png" download>logo-color.png</a></li>
       <li><a href="https://djangocon.github.io/resources/us-2018/logo/logo.pdf" download>logo-color.pdf</a></li>
     </ul>
   </section>

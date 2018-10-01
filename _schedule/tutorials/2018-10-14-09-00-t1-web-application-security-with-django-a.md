@@ -23,7 +23,7 @@ presenters:
   twitter: jacindashelly
   website: https://github.com/jacinda
 published: true
-room: Balboa I & II
+room: Sierra 5
 sitemap: true
 slides_url: ''
 summary: ''

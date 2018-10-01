@@ -20,7 +20,7 @@ presenters:
   twitter: phildini
   website: http://phildini.net
 published: true
-room: Sierra 5
+room: Balboa I & II
 sitemap: true
 slides_url: ''
 summary: ''

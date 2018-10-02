@@ -22,7 +22,7 @@ Presenters, regardless of experience, sometimes want a little help. If you’d l
 * [Jacinda Shelly](mailto:jacinda.shelly@gmail.com). Jacinda nurtured an early love of sharing knowledge by recording books on cassette for her brothers to listen to as bedtime stories. She has spoken at multiple technical conferences, including PyCon and DjangoCon US. She works for Doctor On Demand and lives in San Francisco with her husband and daughter.
 * [Josue Balandrano Coronel](mailto:josuebc@defna.org), DEFNA board member and software engineer at the Texas Advanced Computing Center.
 * [Katia Lira](mailto:katialira@defna.org), Full-stack dev and DEFNA Board Member. I gave a tutorial last year overcoming my nerves and fear and you can too!
-* [Katie McLaughlin](mailto:katie@glasnt.com), PyCon AU and DjangoCon AU Organiser, DSF Director, PSF Contributing Member.
+* [Katie McLaughlin](mailto:katie@glasnt.com), PyCon AU Site Chair (2018/2019), DjangoCon AU Organiser (2017), PSF Fellow, PSF Director, DSF Director.
 * [Philip James](mailto:pjj@philipjohnjames.com), Core Contributor to the BeeWare project and Senior Software Engineer at Patreon. Philip has spoken at a number of DjangoCons and PyCons around the world.
 * [Portia Burton](mailto:plburton@gmail.com), Python programmer who really digs blockchain.
 * [Dr. Russell Keith-Magee](mailto:russell@keith-magee.com), 11 year veteran of the Django core team, former President of the Django Software Foundation, founder of the BeeWare project, developing GUI tools to support the development of Python software. When he’s not contributing to open source, he does freelance web development from his home in Perth, Western Australia.

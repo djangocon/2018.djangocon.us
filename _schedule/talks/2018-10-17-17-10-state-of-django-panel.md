@@ -42,4 +42,3 @@ and much more. It's been a long time since we gathered leaders of the Django com
 - Josue Balandrano Coronel
 - Katherine Michel
 - Kojo Idrissa
-- Rachell Calhoun

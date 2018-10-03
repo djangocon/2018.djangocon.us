@@ -1,7 +1,7 @@
 ---
 author: Peter Baumgartner
 category: General
-date: 2018-10-02 08:00:00
+date: 2018-10-03 08:00:00
 layout: post
 image: /static/img/blog/ll_logo_landscape_color.svg
 title: "Lincoln Loop: The Interesting and Underrated Part of Django"
@@ -36,7 +36,7 @@ Both Djangonauts and the wider Python community aim to be inclusive and welcomin
 
 #### Interested In: Python 3 Evolution
 
-With the big Python 2/3 schism behind us, I'm excited to see what comes of some of the Python 3 features like `asyncio`. Tom Christie's new API framework, [API Star](https://docs.apistar.com/) is reimagining Python on the web and Andrew Godwin's work towards an [asynchronous Django](https://www.aeracode.org/2018/06/04/django-async-roadmap/) should be interesting.
+With the big Python 2/3 schism behind us, I'm excited to see what comes of some of the Python 3 features like `asyncio`. Tom Christie's new API framework [API Star](https://docs.apistar.com/) is reimagining Python on the web and Andrew Godwin's work towards an [asynchronous Django](https://www.aeracode.org/2018/06/04/django-async-roadmap/) should be interesting.
 
 #### Underrated: Stability
 

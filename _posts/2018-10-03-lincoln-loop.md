@@ -4,7 +4,7 @@ category: General
 date: 2018-10-03 08:00:00
 layout: post
 image: /static/img/blog/ll_logo_landscape_color.svg
-title: "Lincoln Loop: The Interesting and Underrated Part of Django"
+title: "Lincoln Loop: The Interesting and Underrated Parts of Django"
 ---
 
 Hi everyone! This is Peter Baumgartner, founder at [Lincoln Loop](https://lincolnloop.com), with a sponsor guest post. This is our 9th year sponsoring the conference. A look back at [the talk schedule from 2009](https://web.archive.org/web/20091214145046/http://www.djangocon.org:80/2009/conference/schedule/) shows we were just starting to talk about using git and GitHub (at the time, subversion and Google Code were the norm) and Ian Bicking was introducing pip and virtualenv. Despite the technological sea change that has happened since then (mobile, PaaS, containers, etc.), Django is still as relevant as ever, powering some of the biggest sites and apps online.

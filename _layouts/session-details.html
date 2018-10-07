@@ -67,7 +67,12 @@ layout: base
             src="{{ presenter.photo_url }}"
             alt="Photo of {{ presenter.presenters }}" />
           {% endif %}
-          <h4>{{ presenter.name }}</h4>
+          <h4>
+            {{ presenter.name }}
+            {% if presenter.pronouns != blank %}
+              ({{ presenter.pronouns }})
+            {% endif %}
+          </h4>
           {% if presenter.bio != blank %}
             {{ presenter.bio | markdownify }}
           {% endif %}

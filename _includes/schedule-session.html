@@ -36,6 +36,9 @@
               alt="Photo of {{ presenter.presenters }}" />
             {% endif %}
             {{ presenter.name }}
+            {% if presenter.pronouns != blank %}
+              ({{ presenter.pronouns }})
+            {% endif %}
           </p>
           {% endfor %}
         {% endif %}

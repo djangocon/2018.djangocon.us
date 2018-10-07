@@ -6,6 +6,7 @@ abstract: Many of us have snippets of Python code we copy from project to projec
 accepted: true
 category: tutorial
 date: 2018-10-14 09:00:00 -0500
+end_date: 2018-10-14 12:30:00 -0500
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/python-packaging-without-the-pain/

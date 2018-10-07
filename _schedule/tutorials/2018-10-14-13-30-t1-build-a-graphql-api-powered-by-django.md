@@ -6,6 +6,7 @@ abstract: GraphQL is changing the way we develop APIs, and leading tech companie
 accepted: true
 category: tutorial
 date: 2018-10-14 13:30:00 -0500
+end_date: 2018-10-14 17:00:00 -0500
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/build-a-graphql-api-powered-by-django/

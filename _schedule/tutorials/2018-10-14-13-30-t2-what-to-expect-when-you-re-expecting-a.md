@@ -6,6 +6,7 @@ abstract: We all know we should be testing our applications, but testing is hard
 accepted: true
 category: tutorial
 date: 2018-10-14 13:30:00 -0500
+end_date: 2018-10-14 17:00:00 -0500
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/what-to-expect-when-you-re-expecting-a/

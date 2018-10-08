@@ -31,6 +31,6 @@ It's up to you. We don't know all the projects that are going to be having sprin
 -  I'm scared people will think I don't know what I'm doing.
     +  Most of us are. But people who attend sprints are very happy to help new contributors, no matter their skill level. Remember, you're volunteering to **help them**. So, they want you to succeed. And if you're still too uncomfortable, remember, you can also work on your own projects or tutorials. You can also observe the sprints during Day 1, then jump in on Day 2.
 
-This year, we're pleased to offer a Git help desk, to support new and aspiring contributors get started. We'll have more information on that, as well as advice for those who wan to organize a sprint, coming soon.
+This year, we're pleased to offer a Git help desk and FLOSS tutorial, to support new and aspiring contributors get started. We'll have more information on that, as well as advice for those who wan to organize a sprint, coming soon.
 
 No matter how you choose to participate, we hope to see you at the sprints this year or in the future.

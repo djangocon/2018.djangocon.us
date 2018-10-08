@@ -37,7 +37,7 @@ presenters:
     others find career options that fit the lifestyle they are looking for.'
   company: ''
   name: Rebekah Post
-  photo_url: '/static/img/speakers/rebekah-post.jpg'
+  photo_url: '/static/img/speakers/rebekah-post-2.jpg'
   twitter: Chocotiere
   website: ''
 published: true
@@ -58,8 +58,6 @@ Tech industry giants are acknowledging that diversity in employee backgrounds is
 (4) learn tools to demonstrate these skills in their resume and job interviews.
 
 Attendees who are looking for their next role will leave with actionable ideas for improving job application materials, conveying transferable skills from non-technology-related jobs in interviews, and generally rocking any job interview with basic tips that many people miss.
-
-Attendees involved in hiring will learn how pursuing non traditional candidates is one effective strategy to meet their diversity, inclusion, and equity metrics.
 
 The presenters, both of whom came to tech without a traditional CS background, will give a short introduction of their experience and expertise. They will discuss the aspects of their experience that they expected to be valuable from the start, and those (sometimes surprising!) skills whose value became apparent only after they got to technical positions. Both presenters have participated in hiring panels, one as a hiring manager.
 

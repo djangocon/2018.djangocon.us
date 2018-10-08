@@ -20,7 +20,7 @@ DjangoCon US 2018 is almost here. If you haven't already thought about organizin
 If you've answered "no" to any of the above points, now would be a good time to start working on them. The better prepared you are for new contributors, the more new contributors you'll find.
 
 
-We'd also like to put a little extra focus on the various types of beginners you'll encounter during the sprints. These include novice developers and more experienced developers who are novice open source contributors.
+We'd also like to put a little extra focus on the various types of beginners you'll encounter during the sprints. These include novice developers and more experienced developers who are novice open source contributors. This year, we’re pleased to offer a Git help desk, to support new and aspiring contributors get started, but we'd also like sprint organizers to keep this matter in mind.
 
 -  Sprint Leaders and Volunteers, be sure to take extra care and be kind to beginners of all types. Making your first open source contribution can be nerve wracking, even for experienced developers. Do your best to make their early experience as positive as possible.  The DjangoGirls [Coaching Guidelines, Tips & Tricks](https://coach.djangogirls.org/tips/) are an excellent practical reference for anyone organizing or assisting with sprints.
 -  Remember, onboarding beginners is the **best** way to grow the contributor base for your project.

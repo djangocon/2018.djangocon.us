@@ -30,7 +30,12 @@ description: Meet the people who made DjangoCon US 2018 possible.
                 src="{{ organizer.photo_url }}"
                 alt="Photo of {{ organizer.name }}" />
               <div class="profile-namecard">
-                <h3 class="profile-name">{{ organizer.name }}</h3>
+                <h3 class="profile-name">
+                  {{ organizer.name }}
+                  {% if organizer.pronouns != blank %}
+                    ({{ organizer.pronouns }})
+                  {% endif %}
+                </h3>
                 {{ organizer.role }}
               </div>
               <ul class="social-icons">

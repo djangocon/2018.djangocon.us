@@ -1,7 +1,7 @@
 ---
 author: Rebecca Conley/Kojo Idrissa
 category: Program
-date: 2017-10-09 00:00:01
+date: 2018-10-09 12:00:00
 layout: post
 image: /static/img/blog/sprints_organizers.png
 title: "Tips For Organizing A Successful Sprint"

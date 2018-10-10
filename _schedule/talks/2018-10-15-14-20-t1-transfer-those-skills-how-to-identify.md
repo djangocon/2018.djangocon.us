@@ -24,7 +24,7 @@ presenters:
   company: ''
   github: ''
   name: Caroline Taylor
-  photo_url: '/static/img/speakers/caroline-taylor.jpg'
+  photo_url: '/static/img/speakers/caroline-taylor-2.jpg'
   twitter: ''
   website: ''
 - bio: 'Rebekah has been working full time as a developer at the University of Texas at

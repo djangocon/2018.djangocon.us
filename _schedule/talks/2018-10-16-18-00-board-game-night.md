@@ -3,6 +3,7 @@ abstract: Bring your board games, card games, and/or a sense of whimsy to the an
 accepted: true
 category: talk
 date: 2018-10-16 18:00:00 -0500
+end_date: 2018-10-16 22:00:00 -0500
 difficulty:
 layout: session-details
 permalink: /board-game-night/

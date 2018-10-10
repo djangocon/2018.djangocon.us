@@ -8,6 +8,7 @@ abstract: 'Django comes with a robust templating system, but more and more web a
 accepted: true
 category: tutorial
 date: 2018-10-14 09:00:00 -0500
+end_date: 2018-10-14 12:30:00 -0500
 difficulty: Intermediate
 layout: session-details
 permalink: /tutorial/api-driven-django/

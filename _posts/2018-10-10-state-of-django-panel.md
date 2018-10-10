@@ -66,7 +66,7 @@ Revsys Developer
 
 DEFNA Board Member  
 Celery core member  
-Author of [rmcomplexity.com](rmcomplexity.com) 
+Author of [rmcomplexity.com](https://rmcomplexity.com/) 
 
 #### Kati Michel
 

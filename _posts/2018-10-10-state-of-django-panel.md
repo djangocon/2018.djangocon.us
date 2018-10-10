@@ -3,7 +3,7 @@ author: Nicholle James and Rebecca Kindschi
 category: General
 date: 2018-10-10 23:50:00
 layout: post
-image: /static/img/blog/
+image: /static/img/blog/state-of-django.png
 title: "Introducing the State of Django Panel!"
 ---
 
@@ -45,7 +45,7 @@ Django Girls Organizer
 
 #### Frank Wiles
 
-<img src="http://www.frankwiles.com/static/images/headshot-300.jpg" alt="Photo of Frank Wiles" style="width:45%;" />
+<img src="/static/img/blog/frank-wiles.jpg" alt="Photo of Frank Wiles" style="width:45%;" />
 
 DSF President  
 REVSYS President/Founder

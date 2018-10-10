@@ -1,6 +1,6 @@
 ---
 author: Peter Baumgartner
-category: General
+category: Sponsorship
 date: 2018-10-03 08:00:00
 layout: post
 image: /static/img/blog/ll_logo_landscape_color.svg
@@ -12,7 +12,7 @@ Hi everyone! This is Peter Baumgartner, founder at [Lincoln Loop](https://lincol
 Even though Django is no longer the shiny new up-and-comer, we still have the same joy of working with it on a daily basis. Most of our developers have been using Django for over a decade and can provide some unique perspective on the project. We thought it might be interesting to ask a few of them what they are most interested in right now and what part of Django they think is the most underrated.
 
 ### [Peter Baumgartner](https://lincolnloop.com/team/peter-baumgartner/)
-  
+
 #### Interested In: [`pyuwsgi`](https://pypi.org/project/pyuwsgi/)
 
 uWSGI is _the_ choice for people who want to get the most performance out of their Django sites. Unfortunately, the packaging of the project left a little to be desired. Recently, Lincoln Loop sponsored development to improve the Python packaging of uWSGI and publish pre-compiled wheels to PyPI. This means you can now install uWSGI quickly with no additional development tools and run it as a management command with [`django-pyuwsgi`](https://pypi.org/project/django-pyuwsgi/). That all unlocks some interesting new possibilities which I'll discuss in my presentation, [Containerless Django](https://2018.djangocon.us/talk/containerless-django-deploying-without/).

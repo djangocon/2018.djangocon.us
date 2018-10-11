@@ -9,7 +9,7 @@ permalink: /talk/your-web-framework-needs-you/
 presenters:
 - bio: |
     Husband and father of 4. I a Django Fellow, a maintainer Django REST
-    Framework, Django-Filter, Crispy Forms and more. When I'm not doing that, I
+    Framework, Django-Filter, Crispy Forms and more. When I'm not doing that,
     I like cooking and hats 🌮.
   company: null
   github: carltongibson
@@ -39,7 +39,7 @@ we've not been that good at encouraging new and diverse contributors. We're
 trying to change that, and we want to invite you to come and join-in.
 
 I'm going to tell you quickly how to get involved, how to get support in that,
-and to let us know if that's failing.
+and how to let us know if that's failing.
 
 You are qualified to contribute. More than that, your contribution is the
 future of Django. Come code.

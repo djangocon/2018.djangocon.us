@@ -36,6 +36,7 @@ description: |
 - Herb Garlic Roasted Chicken
   (vegan alternative available)
 - Chef's Selection of Desserts
+  (dairy-free option; gluten-free option)
 - Coffee, Decaffeinated Coffee, Hot Tea
 
 ----
@@ -111,6 +112,7 @@ Same menu as above.
 - Herb Garlic Roasted Chicken
   (vegan alternative available)
 - Chef's Selection of Desserts
+  (dairy-free option; gluten-free option)
 - Coffee, Decaffeinated Coffee, Hot Tea
 
 ----
@@ -133,6 +135,6 @@ Same menu as above.
 - Assorted Breads, Rolls, and Condiments
   (gluten-free option available)
 - Chefs Selection Desserts
-  (non-dairy and gluten-free available)
+  (dairy-free option; gluten-free option)
 - Iced Tea with Lemon Wedges
 - Coffee, Decaffeinated Coffee, Hot Tea

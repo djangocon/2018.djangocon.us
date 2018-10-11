@@ -1,37 +1,44 @@
-<li>
-  <article class="row hour-row">
-    <div class="column medium-1">
-      <time class="time">{{ post.date | date: "%l:%M%P" }}
-        {% if post.end_date %}
-          <span class="muted">{{ post.end_date | date: "%l:%M%P" }}</span>
-        {% endif %}
-      </time>
-    </div>
-    <div class="column medium-11">
-      <ul class="events">
-        <li class="event">
-          <span class="event-content">
-            <h3 class="event-title">{{ post.title }}</h3>
-            {{ post.content }}
-          </span>
-          {% if post.presenters %}
-            {% for presenter in post.presenters %}
-            <p class="event-byline">
-              {% if presenter.photo_url != blank %}
-              <img
-                class="avatar"
-                src="{{ presenter.photo_url }}"
-                alt="Photo of {{ presenter.presenters }}" />
-              {% endif %}
-              {{ presenter.name }}
-              {% if presenter.pronouns != blank %}
-                ({{ presenter.pronouns }})
-              {% endif %}
-            </p>
-            {% endfor %}
-          {% endif %}
-        </li>
-      </ul>
-    </div>
-  </article>
+<li class="event">
+  {% if post.link %}
+    <a href="{{ post.link }}" class="event-content">
+  {% else %}
+    {% if post.permalink %}
+      <a href="{{ post.permalink }}" class="event-content">
+    {% else %}
+      <span class="event-content">
+    {% endif %}
+  {% endif %}
+
+  {% if post.title %}
+    <h3 class="event-title">{{ post.title }}</h3>
+  {% endif %}
+
+  {{ post.content }}
+
+  {% if post.presenters %}
+    {% for presenter in post.presenters %}
+    <p class="event-byline">
+      {% if presenter.photo_url != blank %}
+      <img
+        class="avatar"
+        src="{{ presenter.photo_url }}"
+        alt="Photo of {{ presenter.presenters }}" />
+      {% endif %}
+      {{ presenter.name }}
+      {% if presenter.pronouns != blank %}
+        ({{ presenter.pronouns }})
+      {% endif %}
+    </p>
+    {% endfor %}
+  {% endif %}
+
+  {% if post.link %}
+    </a>
+  {% else %}
+    {% if post.permalink %}
+      </a>
+    {% else %}
+      </span>
+    {% endif %}
+  {% endif %}
 </li>

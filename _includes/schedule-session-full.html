@@ -1,8 +1,20 @@
 <li class="event">
-  <span class="event-content">
+  {% if post.link %}
+    <a href="{{ post.link }}" class="event-content">
+  {% else %}
+    {% if post.permalink %}
+      <a href="{{ post.permalink }}" class="event-content">
+    {% else %}
+      <span class="event-content">
+    {% endif %}
+  {% endif %}
+
+  {% if post.title %}
     <h3 class="event-title">{{ post.title }}</h3>
-    {{ post.content }}
-  </span>
+  {% endif %}
+
+  {{ post.content }}
+
   {% if post.presenters %}
     {% for presenter in post.presenters %}
     <p class="event-byline">
@@ -18,5 +30,15 @@
       {% endif %}
     </p>
     {% endfor %}
+  {% endif %}
+
+  {% if post.link %}
+    </a>
+  {% else %}
+    {% if post.permalink %}
+      </a>
+    {% else %}
+      </span>
+    {% endif %}
   {% endif %}
 </li>

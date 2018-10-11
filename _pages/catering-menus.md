@@ -117,7 +117,7 @@ Same menu as above.
 
 ----
 
-## Sprints: Thursday, October 18 and Friday, October 19 - Lunch
+## Sprints: Thursday, October 18 - Friday, October 19 - Lunch
 
 ### Deli Buffet
 

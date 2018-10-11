@@ -11,8 +11,8 @@ description: |
 
 - Chilled Orange, Apple & Cranberry Juices Seasonal Fresh Fruit
 - Freshly Baked Breakfast Breads, Pastries, Butter, & Fruit Preserves
-  (non-dairy spread option)
-  (Gluten Free Option)
+  (non-dairy spread option available)
+  (Gluten Free Option available)
 - Freshly Brewed Coffee, Decaffeinated Coffee, & Selection of Teas
 
 ----

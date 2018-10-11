@@ -8,7 +8,6 @@
   {% elsif post.room == "Cabrillo 1" %}loc-alt-2
   {% else %}loc-main
   {% endif %}
-
   ">
   {% unless post.room == 'filler' %}
     {% if post.permalink %}
@@ -16,7 +15,6 @@
     {% else %}
       <section class="event">
     {% endif %}
-
         {% if post.title %}
           <h3 class="event-title">{{ post.title }}</h3>
         {% endif %}
@@ -42,7 +40,6 @@
           </p>
           {% endfor %}
         {% endif %}
-
     {% if post.permalink %}
       </a>
     {% else %}

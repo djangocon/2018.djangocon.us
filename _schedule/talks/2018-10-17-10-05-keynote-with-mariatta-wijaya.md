@@ -2,7 +2,7 @@
 abstract: TBD
 accepted: true
 category: talk
-date: 2018-10-17 10:00:00 -0500
+date: 2018-10-17 10:05:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/keynote-with-mariatta-wijaya/

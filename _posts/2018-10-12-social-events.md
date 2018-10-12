@@ -28,7 +28,7 @@ DjangoCon US has a variety of opportunities to socialize with attendees, speaker
 **What**: If you identify as female or non-binary, please join Microsoft's Cloud Advocates, PyLadies, and DjangoGirls for good chats and good food. [RSVP here](https://www.eventbrite.com/e/women-non-binary-table-talks-luncheon-at-djangocon-tickets-49956231433). Please note: this event might reach capacity.
 
 ### DSF, PSF, DEFNA, and DjangoCon US Organizers Meet and Greet
-**When**: 5:30 PM, Tuesday, October 16  
+**When**: 6:00 PM, Tuesday, October 16  
 **Where**: Marriott Lobby  
 **What**: Join DSF board members, PSF members, DEFNA members, and DjangoCon US organizers for an informal chat after talks on Tuesday.
 

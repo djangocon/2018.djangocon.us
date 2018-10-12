@@ -2,7 +2,7 @@
 abstract: TBD
 accepted: true
 category: talk
-date: 2018-10-15 09:30:00 -0500
+date: 2018-10-15 09:40:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/opening-and-keynote-with-chloe-condon/
@@ -18,7 +18,7 @@ presenters:
 room: Salon A-E
 sitemap: true
 talk_slot: full
-title: Opening and Keynote with Chloe Condon
+title: Keynote with Chloe Condon
 video_url: null
 ---
 

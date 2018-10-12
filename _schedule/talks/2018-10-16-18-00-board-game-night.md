@@ -1,7 +1,7 @@
 ---
 abstract: Bring your board games, card games, and/or a sense of whimsy to the annual DjangoCon US Board Game Night!
 accepted: true
-category: talk
+category: social event
 date: 2018-10-16 18:00:00 -0500
 end_date: 2018-10-16 22:00:00 -0500
 difficulty:

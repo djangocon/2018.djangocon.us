@@ -2,7 +2,7 @@
 abstract: TBD
 accepted: true
 category: talk
-date: 2018-10-16 10:00:00 -0500
+date: 2018-10-16 10:05:00 -0500
 difficulty: All
 layout: session-details
 permalink: /talk/your-web-framework-needs-you/

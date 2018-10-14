@@ -13,4 +13,4 @@ date: 2018-10-14 8:00:00 -0500
 end_date: 2018-10-14 17:00:00 -0500
 room: full
 ---
-Rio Vista Pavilion
+In front of Salon A

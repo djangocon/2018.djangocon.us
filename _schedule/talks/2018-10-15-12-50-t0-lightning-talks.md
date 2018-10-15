@@ -1,7 +1,7 @@
 ---
 layout: session-details
 category: talk
-permalink:
+permalink: /talk/lightning-talk-1/
 accepted: true
 sitemap: false
 

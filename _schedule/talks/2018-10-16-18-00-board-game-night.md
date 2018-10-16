@@ -15,7 +15,7 @@ presenters:
   photo_url:
   twitter:
   website:
-room: Salon F-H
+room: Salon E
 sitemap: true
 talk_slot: full
 title: Board Game Night

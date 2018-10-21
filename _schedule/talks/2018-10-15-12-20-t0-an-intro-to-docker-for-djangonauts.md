@@ -20,7 +20,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/williln/an-intro-to-docker-for-djangonauts'
 summary: ''
 title: 'An Intro to Docker for Djangonauts '
 track: t0

@@ -24,7 +24,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/daneah/serverless-django-with-zappa'
 summary: ''
 title: Serverless Django with Zappa
 track: t0

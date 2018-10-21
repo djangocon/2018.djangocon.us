@@ -29,7 +29,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/curiouslearner/becoming-a-mutltilingual-superhero-in-django-v2-dot-0'
 summary: ''
 title: Becoming a Multilingual SuperHero in Django
 track: t1

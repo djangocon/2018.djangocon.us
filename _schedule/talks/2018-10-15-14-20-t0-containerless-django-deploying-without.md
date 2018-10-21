@@ -32,7 +32,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/ipmb/containerless-django'
 summary: ''
 title: 'Containerless Django: Deploying without Docker'
 track: t0

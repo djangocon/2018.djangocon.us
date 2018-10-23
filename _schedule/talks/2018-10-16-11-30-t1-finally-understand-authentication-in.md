@@ -24,7 +24,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://tinyurl.com/djangocon2018-rest-auth'
 summary: ''
 title: 'Finally Understand Authentication in Django REST Framework '
 track: t1

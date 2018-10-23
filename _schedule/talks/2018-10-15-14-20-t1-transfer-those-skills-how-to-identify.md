@@ -43,7 +43,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/rebekahpost/transfer-those-skills'
 summary: ''
 title: 'Transfer those Skills! How to Identify, Communicate, and Sell your Transferable
   Skills when Switching Careers '

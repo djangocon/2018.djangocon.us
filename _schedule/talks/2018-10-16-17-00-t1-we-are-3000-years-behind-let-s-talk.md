@@ -29,7 +29,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://drive.google.com/file/d/10CxD7-N_7ttGF8Z2zkaiS5eZ1uidSchx/view'
 summary: ''
 title: 'We Are 3000 Years Behind: Let''s Talk About Engineering Ethics'
 track: t1

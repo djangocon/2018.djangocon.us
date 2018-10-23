@@ -26,7 +26,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'http://www.katekligman.com/2018/10/elasticsearch-accelerating-the-django-admin-slides/'
 summary: ''
 title: 'Elasticsearch: Accelerating the Django Admin'
 track: t0

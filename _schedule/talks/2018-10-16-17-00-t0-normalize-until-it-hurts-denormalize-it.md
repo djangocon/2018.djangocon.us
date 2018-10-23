@@ -23,7 +23,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'http://bit.ly/django-norm'
 summary: ''
 title: '"Normalize until it hurts; denormalize until it works" in Django'
 track: t0

@@ -18,6 +18,7 @@ presenters:
   website: https://mariatta.ca/
 room: Salon A-E
 sitemap: true
+slides_url: 'https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot'
 talk_slot: full
 title: Keynote with Mariatta Wijaya
 video_url: null

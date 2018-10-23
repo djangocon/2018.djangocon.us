@@ -26,7 +26,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://www.slideshare.net/nateaune/anatomy-of-open-edx-at-djangocon-2018-san-diego'
 summary: ''
 title: Anatomy of Open edX - a modern online learning platform serving over 35 million
   users

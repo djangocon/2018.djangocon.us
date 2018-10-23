@@ -20,7 +20,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/nnja/code-review-skills-for-pythonistas-djangocon-2018'
 summary: ''
 title: Code Review Skills for Pythonistas
 track: t1

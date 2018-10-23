@@ -27,7 +27,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'https://docs.google.com/presentation/d/1muDz5nzOTbXTi8rQX4n7B-8bQOMPUry5nJK0xfY8jWM/edit'
 summary: ''
 title: Building Workflows With Celery
 track: t0

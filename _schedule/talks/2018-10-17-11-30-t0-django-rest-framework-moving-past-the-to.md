@@ -25,7 +25,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'https://docs.google.com/presentation/d/1DpngY037NZqq2aelnM4czjgWIUh20tF5Q4jp3yOOHuU/edit'
 summary: ''
 title: 'Django REST Framework: Moving Past the Tutorial to Production'
 track: t0

@@ -22,7 +22,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://drive.google.com/file/d/1QhA-Yuw_ZJZEYwZayCcXa-PUQFK4oRe8/view'
 summary: ''
 title: 'Real Life Accessibility: Have you HEARD your site?'
 track: t1

@@ -47,7 +47,7 @@ presenters:
 published: true
 room: 'Salon F-H'
 sitemap: true
-slides_url: ''
+slides_url: 'https://www.slideshare.net/saharabeara/herding-cats-with-django'
 summary: ''
 title: 'Herding Cats with Django: Technical and social tools to incentivize participation'
 track: t1

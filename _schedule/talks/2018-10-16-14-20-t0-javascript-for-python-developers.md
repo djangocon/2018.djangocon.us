@@ -23,7 +23,7 @@ presenters:
 published: true
 room: 'Salon A-E'
 sitemap: true
-slides_url: ''
+slides_url: 'https://speakerdeck.com/zanderle/javascript-for-python-developers'
 summary: ''
 title: JavaScript for Python Developers
 track: t0

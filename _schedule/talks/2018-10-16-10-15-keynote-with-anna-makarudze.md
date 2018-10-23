@@ -17,7 +17,7 @@ presenters:
   website: http://amakarudze.pythonanywhere.com/
 room: Salon A-E
 sitemap: true
-slides_url: null
+slides_url: 'https://speakerdeck.com/amakarudze/my-journey-with-code'
 talk_slot: full
 title: Keynote with Anna Makarudze
 video_url: null

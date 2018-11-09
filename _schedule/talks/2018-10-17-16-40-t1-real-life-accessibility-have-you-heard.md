@@ -26,7 +26,7 @@ slides_url: 'https://drive.google.com/file/d/1QhA-Yuw_ZJZEYwZayCcXa-PUQFK4oRe8/v
 summary: ''
 title: 'Real Life Accessibility: Have you HEARD your site?'
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/urY3sBXtcP0'
 ---
 
 In the past it was simpler and easier to think of building websites exclusively for desktop monitors capable of showing 1024x768 pixels, sitting on the desk of a non-impaired, English-speaking person. But today we need to embrace a much broader range of users. And one part of this is designing sites for the visually impaired.

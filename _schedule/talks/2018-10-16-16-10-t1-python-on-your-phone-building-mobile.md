@@ -32,7 +32,7 @@ slides_url: ''
 summary: ''
 title: 'Python on your phone: Building mobile apps with Kivy'
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/dLKcqtmbZnw'
 ---
 
 Many Django developers are familiar with building APIs, but what about when you need to build a mobile client consume them? Wouldn't it be great if you could build a mobile application using the same language as your backend?

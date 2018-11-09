@@ -33,7 +33,7 @@ slides_url: 'https://drive.google.com/file/d/10CxD7-N_7ttGF8Z2zkaiS5eZ1uidSchx/v
 summary: ''
 title: 'We Are 3000 Years Behind: Let''s Talk About Engineering Ethics'
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/Rg3v3dzqa2o'
 ---
 
 Your apartment building where you wake up.

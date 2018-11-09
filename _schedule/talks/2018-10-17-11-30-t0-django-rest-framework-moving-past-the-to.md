@@ -29,7 +29,7 @@ slides_url: 'https://docs.google.com/presentation/d/1DpngY037NZqq2aelnM4czjgWIUh
 summary: ''
 title: 'Django REST Framework: Moving Past the Tutorial to Production'
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/-9WniUBt0fo'
 ---
 
 So you've made your first attempt at creating a DRF API, but now you need to

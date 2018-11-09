@@ -33,7 +33,7 @@ slides_url: 'https://shorturl.at/prDV3'
 summary: ''
 title: What's in a Name? Your Guide to the Wacky World of DNS
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/0B8ZhkeGr_U'
 ---
 
 So, you built a Django application. That’s great! Now, how do you get the app connected to your fancy domain name for the world to see? During this talk, you’ll learn about the phone book of the internet, otherwise known as the Domain Name Systems (DNS). We’ll go over topics such as: why DNS was created, how it works, and why it’s important for developers have a good understanding of DNS.

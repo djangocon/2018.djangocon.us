@@ -26,7 +26,7 @@ slides_url: ''
 summary: ''
 title: Strategies for Zero Down Time, Frequent Deployments
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/hulRKdSPUOc'
 ---
 
 Deployments can be stressful, but should'nt be. We all hear about big companies deploying several, if not thousands of times a day. In order to acheive this, you have to be able to deploy without impacting performance at all; you need to feel confident and comfortable when you deploy. Even a couple miliseconds of downtime is unacceptable in these environments. Whether you have to provide SLA's to your customers or not, being able to deploy without any downtime, allows you to deploy more often, which leads to faster turnaround time on both bug fixes and features. Successfully deploying without and downtime, however, is non-trivial. Perhaps you have heard the term Blue/Green deployment, and wonder what that is.  Come learn about some of the strategies used for deployments, as well as all the changes to your code and your process you will have to make in order for it to truly work, and make you feel more confident on every deploy to production.

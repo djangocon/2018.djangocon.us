@@ -28,7 +28,7 @@ slides_url: 'https://tinyurl.com/djangocon2018-rest-auth'
 summary: ''
 title: 'Finally Understand Authentication in Django REST Framework '
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/pY-oje5b5Qk'
 ---
 
 Traditional Django handles user authentication for us. REST Framework? Not so much. The abundance of choice is overwhelming and typically THE biggest obstacle for newcomers.

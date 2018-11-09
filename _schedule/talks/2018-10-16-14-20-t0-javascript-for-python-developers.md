@@ -27,7 +27,7 @@ slides_url: 'https://speakerdeck.com/zanderle/javascript-for-python-developers'
 summary: ''
 title: JavaScript for Python Developers
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/2KrClg7UCVA'
 ---
 
 Having a hard time keeping track of where the modern JavaScript is going? Are you familiar only with jQuery and you want to know more? Or maybe you’re not familiar with JavaScript at all and want to learn it but you don’t know where to start? Then this talk is for you!

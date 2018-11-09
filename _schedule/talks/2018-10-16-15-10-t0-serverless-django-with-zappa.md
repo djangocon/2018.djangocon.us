@@ -28,7 +28,7 @@ slides_url: 'https://speakerdeck.com/daneah/serverless-django-with-zappa'
 summary: ''
 title: Serverless Django with Zappa
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/ZfynWM4-jFE'
 ---
 
 A common set of considerations when planning to release a new application are around hosting and resources:

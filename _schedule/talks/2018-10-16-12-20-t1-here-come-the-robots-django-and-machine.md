@@ -25,7 +25,7 @@ slides_url: ''
 summary: ''
 title: Here Come The Robots - Django and Machine Learning
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/E_4FM6BDggI'
 ---
 
 Machine Learning is probably the most important development in our industry (and possibly our civilisation!). Previously restricted to math geniuses with access to supercomputers and massive data centres, machine learning tools are increasingly available as web services which are easily consumed from more traditional web applications. Python has become the lingua franca of machine learning, so Django developers are well placed to take advantage of the next wave of application development.

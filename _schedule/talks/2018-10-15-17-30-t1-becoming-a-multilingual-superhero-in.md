@@ -33,7 +33,7 @@ slides_url: 'https://speakerdeck.com/curiouslearner/becoming-a-mutltilingual-sup
 summary: ''
 title: Becoming a Multilingual SuperHero in Django
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/aiZ_1gsS4F8'
 ---
 
 You have got this super awesome REST API served through Django/DRF based project and suddenly these requirements come in:

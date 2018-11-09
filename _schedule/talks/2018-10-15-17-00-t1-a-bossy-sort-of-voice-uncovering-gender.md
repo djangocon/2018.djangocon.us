@@ -33,7 +33,7 @@ slides_url: ''
 summary: ''
 title: 'A Bossy Sort of Voice: Uncovering gender bias in Harry Potter with Python'
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/2PL0GkBLJps'
 ---
 
 The Harry Potter series is an incredibly popular franchise that shaped a generation, but it's also been critiqued in the media and academics for its sometimes sexist portrayal of female characters.    This talk uses Natural Language Processing techniques and Python to do the first quantitative analysis of gender bias in the language used to describe women and girls in the series, with a focus on Hermione Granger, the unsung hero of the story.  Attendees will see techniques for reading and parsing large text files, leveraging grammatical rules to isolate the right words for the analysis, and data visualization techniques, using Python, the Natural Language Processing Toolkit (NLTK), and Matplotlib.  After the talk, the audience will be able to get started on using the "magic" of programming to isolate biased language in any piece of text.

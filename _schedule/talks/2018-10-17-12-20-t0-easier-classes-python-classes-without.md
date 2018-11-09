@@ -29,7 +29,7 @@ slides_url: ''
 summary: ''
 title: 'Easier Classes: Python Classes Without All The Cruft'
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/epKegvx_Jws'
 ---
 
 When bundling up data, sometimes tuples and dictionaries don't quite cut it. Python's classes are powerful tools for data storage and manipulation, but it can take quite a bit of boilerplate code to make a well-behaved Python class. In this talk we're going to discuss how a well-behaved class should work and take a look at a number of helper libraries for creating well-behaved classes.

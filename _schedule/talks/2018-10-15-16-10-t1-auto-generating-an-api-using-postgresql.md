@@ -34,7 +34,7 @@ slides_url: ''
 summary: ''
 title: Auto-generating an API using PostgreSQL, Django, and Django REST Framework
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/fNXpQ14LKfk'
 ---
 
 We have an API whose database schema changes constantly with no need for changes to our code that exposes the data. This is an extremely powerful (but quite possibly a bad) idea. See how we do it!

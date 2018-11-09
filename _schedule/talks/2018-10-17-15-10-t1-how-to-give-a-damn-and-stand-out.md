@@ -29,7 +29,7 @@ slides_url: ''
 summary: ''
 title: How to give a damn, and stand out
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/fMKx6coOPrY'
 ---
 
 This talk will give you some tips and techniques as well as some real (raw) examples of how I was able to start a company at 23 years old, lock in an investment, and beat out my competitors who were a lot older and more experienced than I.

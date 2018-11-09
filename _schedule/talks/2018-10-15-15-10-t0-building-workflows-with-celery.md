@@ -31,7 +31,7 @@ slides_url: 'https://docs.google.com/presentation/d/1muDz5nzOTbXTi8rQX4n7B-8bQOM
 summary: ''
 title: Building Workflows With Celery
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/8YLeWxLtVgo'
 ---
 
 Task Queues is a topic which most developers will eventually have to dive into, specially in today's web development world.

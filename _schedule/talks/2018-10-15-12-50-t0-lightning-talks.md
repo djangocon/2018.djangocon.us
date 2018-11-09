@@ -21,6 +21,7 @@ presenters:
   photo_url: "/static/img/organizers/kojo.jpg"
   twitter: Transition
   website: http://kojoidrissa.com/
+  video_url: 'https://youtu.be/3iFG9nTSyeo'
 difficulty:
 
 date: 2018-10-15 12:50:00 -0500

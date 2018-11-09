@@ -27,7 +27,7 @@ slides_url: 'http://bit.ly/django-norm'
 summary: ''
 title: '"Normalize until it hurts; denormalize until it works" in Django'
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/01Hm2-NAM3w'
 ---
 
 There's a good practice that says "a database is a representer of facts". If there's more than one way to extract a single fact from the database, then there's a redundancy in it. Every redundancy can cause different anomalies in the data, which in turn cause bugs in the application. To avoid that, there's a process called normalization, which involves following sets of rules to restructure the database to remove redundancies without losing the original facts. The traditional set of normalization rules are the so-called Normal Forms: First Normal Form, Second, Third, etc. Unfortunately, those are frequently overlooked by developers due to their excessive formalism. But in fact, even the Normal Forms aren't enough to avoid anomalies, since they're concerned about redundancies only in a single table*. Since cross-table dependencies are very common in modern applications, we must go beyond normal forms to prevent problems.

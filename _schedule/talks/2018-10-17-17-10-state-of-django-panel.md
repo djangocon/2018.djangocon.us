@@ -17,6 +17,7 @@ presenters:
   photo_url: "/static/img/speakers/simon-willison.jpg"
   twitter: simonw
   website: https://simonwillison.net/
+  video_url: 'https://youtu.be/TrAFQW7Wza0'
 date: 2018-10-17 17:10:00 -0500
 talk_slot: full
 room: 'Salon A-E'

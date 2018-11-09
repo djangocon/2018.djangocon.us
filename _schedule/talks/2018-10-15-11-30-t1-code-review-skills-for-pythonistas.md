@@ -24,7 +24,7 @@ slides_url: 'https://speakerdeck.com/nnja/code-review-skills-for-pythonistas-dja
 summary: ''
 title: Code Review Skills for Pythonistas
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/ZsT7nSRQ8S4'
 ---
 
 As teams and projects grow, code review becomes increasingly important to support the maintainability of complex codebases. In this talk, I'll cover guidelines for writing consistent python code beyond pep8, how to look out for common python gotchas, and what python tools are available to automate various parts of the review process. Most importantly, I'll cover the human aspect of code reviews - how we can be better at approaching reviews with empathy and understanding from the perspective of both a reviewer and a submitter. Following these successful code review practices will lead to happier teams and healthier code bases.

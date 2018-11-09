@@ -32,7 +32,7 @@ slides_url: 'https://www.slideshare.net/tilaknairmelpal/unique-waytohackintoapyt
 summary: ''
 title: Unique ways to Hack into a Python Web Service
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/UukayL3FzcA'
 ---
 
 Python covers a significant portion of the present day Web services landscape because of frameworks like Django, Flask, CherryPy etc. Many Highly Scalable services are built on one or more of these frameworks.

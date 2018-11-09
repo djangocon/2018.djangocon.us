@@ -24,7 +24,7 @@ slides_url: ''
 summary: ''
 title: Packaging Django Apps for Distribution on PyPI
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/EdD6Ifjlle4'
 ---
 
 One of the strengths of Django is that it allows you to use apps created by other developers, so you don't have to spend time rewriting something that

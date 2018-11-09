@@ -27,7 +27,7 @@ slides_url: ''
 summary: ''
 title: Data internationalization in Django
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/4WEMXydnQs8'
 ---
 
 There is a multitude of options to translate database data in Django, for example django-parler, django-modeltranslation, django-nece, django-hvad, and django-i18nfield (which is my own). The interesting thing is that these libraries are not multiple implementations of the same thing, but they are all radically different in their design and there are good reasons for every one of them. The sometimes subtle differences might not be obvious to a beginner in the Django world. This talk will help them navigate through different solutions and make an informed decision.

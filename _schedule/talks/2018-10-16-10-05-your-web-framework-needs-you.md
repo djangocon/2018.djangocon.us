@@ -22,7 +22,7 @@ sitemap: true
 slides_url: null
 talk_slot: full
 title: Your web framework needs you!
-video_url: null
+video_url: 'https://youtu.be/1BFjg9XtptM'
 ---
 
 Django looks like it's doing just fine: it's a popular framework in a popular

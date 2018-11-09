@@ -28,7 +28,7 @@ slides_url: ''
 summary: ''
 title: Wagtail CMS - Making Django More User (and Developer) Friendly
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/jVf4TesDI3U'
 ---
 
 Django is a robust framework that can handle a lot of complex problems. However, if your goal is to get a simple marketing website up and running, it can be a little too complicated - especially for beginners who are new to frameworks. The admin itself can also appear clunky and confusing to users, and the path to creating a new type of page is paved with views, urls, templates and more!

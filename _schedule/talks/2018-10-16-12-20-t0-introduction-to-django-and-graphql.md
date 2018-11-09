@@ -24,7 +24,7 @@ slides_url: ''
 summary: ''
 title: Introduction to Django and GraphQL
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/ruteI4aAd0o'
 ---
 
 GraphQL has grown a lot overtime, but it seems to still be a new "thing" in the Python and Django World.

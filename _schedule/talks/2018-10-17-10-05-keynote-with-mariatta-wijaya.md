@@ -21,7 +21,7 @@ sitemap: true
 slides_url: 'https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot'
 talk_slot: full
 title: Keynote with Mariatta Wijaya
-video_url: null
+video_url: 'https://youtu.be/uOLs3QeZy7M'
 ---
 
 Managing a large open source project like CPython is no easy task. Learn how the Python core team automated their GitHub workflow with bots, making it easier for maintainers and contributors to collaborate together. Even if you’re not managing a large project, you can still build your own bot! Hear some ideas on what you can automate on GitHub and personalize your bot based on your own workflow. All you need is Python. Don’t be a robot; build the bot.

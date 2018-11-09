@@ -30,7 +30,7 @@ slides_url: ''
 summary: ''
 title: Autonomous Vehicles, Intelligent Transportation Systems, and yes, Django!
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/ZSHDmC2KjDM'
 ---
 
 What are the components in an autonomous vehicle? How do they work with other vehicles and an intelligent infrastructure? In this talk I will cover all the components involved in intelligent infrastructures and how Django is being used in current research.

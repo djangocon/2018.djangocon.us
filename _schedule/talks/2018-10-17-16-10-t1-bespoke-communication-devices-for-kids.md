@@ -30,7 +30,7 @@ summary: ''
 title: Bespoke communication devices for kids with autism built with Django and Raspberry
   Pi
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/PYgEEH_J4l4'
 ---
 
 This talk will detail my experience building an Augmentative Alternative Communication (AAC) device for my son who has autism. I had to perform some troubleshooting to get Django to harmonize with the Raspbian OS and touchscreen drivers, but the result is easily replicable using the instructions I will cover from my project documentation on the Hackaday website bit.ly/TalkerHackaday

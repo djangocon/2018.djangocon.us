@@ -30,7 +30,7 @@ slides_url: 'http://www.katekligman.com/2018/10/elasticsearch-accelerating-the-d
 summary: ''
 title: 'Elasticsearch: Accelerating the Django Admin'
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/JjjpAYEnK7k'
 ---
 
 The Django Admin offers quick solutions and rapid feature development for new websites. But as your website expands, and datasets grow, it can become unwieldy and slow. Enter Elasticsearch: an easy way to quickly accelerate your Django administration tools and searches.

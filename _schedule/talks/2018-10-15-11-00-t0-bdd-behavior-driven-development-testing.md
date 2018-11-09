@@ -33,7 +33,7 @@ slides_url: ''
 summary: ''
 title: BDD (Behavior Driven Development) Testing for Django Apps
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/k-pQt9SwZec'
 ---
 
 Unit tests focus on classes and methods while integration tests focus on components and basic business logic. However, neither of these is executed against the full system environment nor take account of the system's behaviors as a whole. Therefore, our app will not be assured to work properly in production environments if we limit our testing approach to only two types of tests. Incorporating BDD testing into our app's testing plan addresses these limitations.

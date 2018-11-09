@@ -29,7 +29,7 @@ slides_url: ''
 summary: ''
 title: Pseu, Pseu, Pseudio. Pseudonymization in Django.
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/wRro4xv8n6k'
 ---
 
 The General Data Protection Regulation, better known as GDPR, is a regulation on data protection and privacy for all individuals within the European Union. GDPR went into effect on May 25, 2018 and was the cause of the “Great Privacy Policy Update” that occurred in the weeks prior.

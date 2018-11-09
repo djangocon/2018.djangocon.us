@@ -28,7 +28,7 @@ slides_url: ''
 summary: ''
 title: Building a Community for All People
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/sMpwCN4LMNw'
 ---
 
 Are you having trouble getting beginners to stick around in your user group? What’s the best way to help people who are just getting started with Django and Python? Are you finding it difficult to attract and keep a diverse audience? Since I started PyLadies Boston in 2013, I’ve learned a few lessons about the best way to help out beginners and cultivate a welcoming community for marginalized folks. In this talk, I will cover:

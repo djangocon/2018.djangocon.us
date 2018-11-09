@@ -32,7 +32,7 @@ slides_url: ''
 summary: ''
 title: A Python-Driven Web App Framework with Django, Channels, and React
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/eDUg1h3mxbA'
 ---
 
 At our company, we have faced a monumental task: designing a simple framework for data scientists to create powerful, dynamic web applications using only Python. In order to utilize the power of our machine-intelligence platform, we need to be able to quickly generate web applications to cater to different client solutions. We wanted to move standard data analysis workflows out of the command line, and into sleek, modern web apps that allow for dynamic construction of charts, tables, and other visualizations.

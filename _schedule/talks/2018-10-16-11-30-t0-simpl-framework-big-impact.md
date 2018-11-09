@@ -36,7 +36,7 @@ slides_url: ''
 summary: ''
 title: Simpl framework, big impact!
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/0GhCvBGfYfA'
 ---
 
 Drawing upon decades of simulation and higher education experience, the Alfred West Jr. Learning Lab at the Wharton School set out to create it's own in-house developed simulation platform to accelerate our simulation delivery capabilities.  However, what began as a white boarding session two years ago, morphed into the first of its kind open source simulation platform.  Simpl will not only fuel the next generation of simulations written at the Wharton School, but it is our hope it will serve the foundation for countless other simulations at other schools around the world.  Our open source platform puts tools in the hands of any developer who has the curiosity to create a simulation, tools that were previously unobtainable due to cost.  The Learning Lab partnered with RevSys, and relying upon Python/Django and a slew of other open source tools, we were able to deliver our first simulation written in Simpl in November of 2017.

@@ -51,7 +51,7 @@ slides_url: 'https://www.slideshare.net/saharabeara/herding-cats-with-django'
 summary: ''
 title: 'Herding Cats with Django: Technical and social tools to incentivize participation'
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/SrQHcKAi-ng'
 ---
 
 This talk will provide a practical look at how Outreachy used a combination of technical and social tools to motivate participants to complete our internship application process. Web developers who work on websites that encourage people to complete tasks will benefit from understanding the social incentive tools presented in this talk. Parts of the talk will be suitable for Django beginners who have completed one Django tutorial and are familiar with the basic concepts of models, objects, views, and templates. Everyone will appreciate the cat photos.

@@ -28,7 +28,7 @@ summary: ''
 title: When your wetware has too many threads - Tips from an ADHDer on how to improve
   your focus
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/kvpmfRX_VQY'
 ---
 
 Somewhere between 5% and 12% of adults have ADHD. Even if you do not have the disorder yourself you probably work, live or know someone who does. But the world is not designed for people with ADHD, so to be successful I've had to develop techniques to keep my concentration and procrastination in check.

@@ -28,7 +28,7 @@ slides_url: ''
 summary: ''
 title: Fundamentals of Kubernetes for Django developers
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/kbarwyun-c4'
 ---
 
 A hot topic in recent years is running applications in containers. Tools such as ``docker`` and ``rkt`` have made deployment of applications using Linux containers easier, but they do not alone provide everything that is needed to easily manage many applications, or run containers at scale across a cluster of machines.

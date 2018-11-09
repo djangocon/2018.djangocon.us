@@ -31,7 +31,7 @@ summary: ''
 title: Anatomy of Open edX - a modern online learning platform serving over 35 million
   users
 track: t2
-video_url: ''
+video_url: 'https://youtu.be/7BBvxn4o_uE'
 ---
 
 What does it take to build a web application that can serve millions of concurrent users? This talk will dissect Open edX, the open source online learning platform that powers edX.org and hundreds of other sites around the world.

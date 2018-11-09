@@ -24,7 +24,7 @@ slides_url: 'https://speakerdeck.com/williln/an-intro-to-docker-for-djangonauts'
 summary: ''
 title: 'An Intro to Docker for Djangonauts '
 track: t0
-video_url: ''
+video_url: 'https://youtu.be/qsEfVSTZO9Q'
 ---
 
 If you've never used it before, Docker can be a little overwhelming. There is new vocabulary to learn, new commands to memorize, and new files to add to each project. Most resources fall into one of two camps: they teach you the bare bones of Docker but still leave you with too many questions to comfortably try it on your own, or they throw you into the deep end by assuming you're more familiar with Docker than you are.

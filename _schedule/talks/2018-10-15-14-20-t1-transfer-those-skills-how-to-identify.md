@@ -48,7 +48,7 @@ summary: ''
 title: 'Transfer those Skills! How to Identify, Communicate, and Sell your Transferable
   Skills when Switching Careers '
 track: t1
-video_url: ''
+video_url: 'https://youtu.be/KlJE8pAk290'
 ---
 
 Tech industry giants are acknowledging that diversity in employee backgrounds is valuable for their organizations’ bottom lines. However, it’s still tough for job seekers to land a tech job without prior experience closely aligned with the job they’re applying for. This talk will focus on helping people who are looking for their next tech role:

@@ -19,7 +19,7 @@ room: Salon A-E
 sitemap: true
 talk_slot: full
 title: Keynote with Chloe Condon
-video_url: 'https://youtu.be/SUNLjbUQLrs'
+video_url: 'https://youtu.be/2D14UpKkPtI'
 ---
 
 Chloe's keynote will dive into why laughter, fun, and entertainment are valuable in the world of tech. Speaking from the experience of someone with a 4-year theatre degree who once played a talking crayon on stage (blue AND yellow -- she has a wide range), she'll dive into lessons learned from theatre applied to engineering.

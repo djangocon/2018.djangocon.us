@@ -19,7 +19,7 @@ presenters:
   github: ''
   name: Sara Heins
   photo_url: '/static/img/speakers/sara-heins.jpg'
-  twitter: Heins
+  twitter: saraheinstweets
   website: https://github.com/sheins
 published: true
 room: 'Salon F-H'

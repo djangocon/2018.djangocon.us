@@ -16,32 +16,43 @@ include:
 markdown: kramdown
 
 plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jemoji
+- jekyll-feed
+- jekyll-gist
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
 
 exclude:
-  - .editorconfig
-  - .gitignore
-  - .surgeignore
-  - bower_components
-  - CNAME
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - deploy_surge.sh
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - LICENSE
-  - node_modules
-  - NOTES.md
-  - package*.json
-  - Procfile
-  - Rakefile
-  - README.md
-  - vendor
+- "*.yaml"
+- "*.yml"
+- .cache
+- .editorconfig
+- .gitignore
+- .vendor
+- bin
+- bower_components
+- CNAME
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- docker-compose.yml
+- EDITORS_GUIDE.md
+- Gemfile
+- Gemfile.lock
+- justfile
+- LICENSE
+- Makefile
+- node_modules
+- NOTES.md
+- package*.json
+- Procfile
+- README.md
+- requirements.in
+- vendor
+- webpack.config.js
 
 # We need `future` to allow our schedule to work :/
 future: true
